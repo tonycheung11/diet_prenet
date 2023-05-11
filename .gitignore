@@ -1,0 +1,9 @@
+# Self-defined ignores
+*.pdf
+*.ipynb
+*.npy
+*.pth
+food/
+images/
+images2
+Pretrained_model/
