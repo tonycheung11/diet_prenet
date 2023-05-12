@@ -32,9 +32,9 @@ def parse_option():
     parser.add_argument('--batchsize', default=2, type=int, help="batch size for single GPU")
     parser.add_argument('--dataset', type=str, default='food2k', help='food2k, food101, food500')
     parser.add_argument('--model_name', type=str, default='resnet50', help='resnet101, resnet152, senet154,densenet161')
-    parser.add_argument('--image_path', type=str, default="./images/", help='path to dataset')
+    parser.add_argument('--image_path', type=str, default="./food/", help='path to dataset')
     parser.add_argument("--train_path", type=str, default="./meta_data/train_full.txt", help='path to training list')
-    parser.add_argument("--test_path", type=str, default="./meta_data/test_full.txt",
+    parser.add_argument("--test_path", type=str, default="./meta_data/test_full_f.txt",
                         help='path to testing list')
     parser.add_argument('--weight_path', default="./Pretrained_model/food2k_resnet50_0.0001.pth", help='path to the pretrained model')
     parser.add_argument('--use_checkpoint', action='store_true', default=False,
@@ -50,6 +50,8 @@ def parse_option():
     parser.add_argument("--test", action='store_true', default=True,
                         help="Testing model.")
     parser.add_argument("--label_name_file", type=str, default="./Supplementary-tables.csv", help='file which indicates the label-name pair')
+    parser.add_argument("--show_result", type=bool, default=False, help='whether show the classification result')
+    
     args, unparsed = parser.parse_known_args()
     return args
 
@@ -107,7 +109,8 @@ def test(net, criterion, batch_size, testloader, label_name_df):
             temp_list += [l, '{:.4f}'.format(p)]
         # print(temp_list)
         final_result.append(' '.join(temp_list)+'\n')
-    print(final_result)
+    
+    #print(final_result)
     test_acc = val_corrects1 / total
     test5_acc = val_corrects5 / total
 
@@ -146,8 +149,9 @@ def main():
 
     if args.test:
         val_acc, val5_acc, val_loss = test(net, nn.CrossEntropyLoss(), args.batchsize, test_loader, label_name_df)
-        print('Accuracy of the network on the val images: top1 = %.5f, top5 = %.5f, test_loss = %.6f\n' % (
-                val_acc, val5_acc, val_loss))
+        if args.show_result:
+            print('Accuracy of the network on the val images: top1 = %.5f, top5 = %.5f, test_loss = %.6f\n' % (
+                    val_acc, val5_acc, val_loss))
         return
 
 
