@@ -1,0 +1,1998 @@
+,Model,label,Top-1 test Acc,Top-5 test Acc
+0,densenet161,Grilled beef tongue,0.5,1.0
+1,densenet161,Flavored snail meat,0.8,1.0
+2,densenet161,Stir-fried lettuce,0.8,0.9
+3,densenet161,Crab stick nigiri sushi,0.7,1.0
+4,densenet161,Fris¨ı¿œe mixed with almonds,0.7,1.0
+5,densenet161,Fried lamb,0.6,1.0
+6,densenet161,Baked steamed bun slices,0.8,0.9
+7,densenet161,Pumpkin cream soup,0.5,1.0
+8,densenet161,Fried tofu,0.3,0.7
+9,densenet161,Fresh taro,0.4,0.9
+10,densenet161,Grilled rack of lamb,0.7,0.9
+11,densenet161,Tossed cellophane noodles,0.9,1.0
+12,densenet161,Scalded tripe,1.0,1.0
+13,densenet161,Cream puff sticks,0.9,1.0
+14,densenet161,Steamed pumpkin with red dates,1.0,1.0
+15,densenet161,Boiled Chinese kale,0.4,1.0
+16,densenet161,Steamed ribs,0.6,0.9
+17,densenet161,Sausage fried rice,0.5,0.5
+18,densenet161,Creamy corn soup,0.9,1.0
+19,densenet161,Creamy bacon pasta,1.0,1.0
+20,densenet161,Rice wine dumplings,1.0,1.0
+21,densenet161,Soba noodles,0.7,1.0
+22,densenet161,Yam steamed with osmanthus honey,0.8,1.0
+23,densenet161,Duck heart,1.0,1.0
+24,densenet161,Rice topped with shredded potato,0.8,1.0
+25,densenet161,Coconut jelly,1.0,1.0
+26,densenet161,Tofu pudding topped with crab guts,0.7,0.9
+27,densenet161,Fried shrimp cake,0.9,0.9
+28,densenet161,Roasted oysters,0.9,1.0
+29,densenet161,Fish ﬂavored shredded pork,0.6,1.0
+30,densenet161,Beef cubes fried with black pepper,0.6,0.8
+31,densenet161,Assorted boiled delicacies,0.7,0.9
+32,densenet161,Twice cooked pork with bell pepper,0.0,0.1
+33,densenet161,Salmon sushi,0.8,0.9
+34,densenet161,Marinated noodles,0.5,0.9
+35,densenet161,Spinach mixed with peanuts,0.6,0.9
+36,densenet161,Fried edamame with pickled vegetables,0.9,1.0
+37,densenet161,Garlic kelp shreds,0.6,1.0
+38,densenet161,Steamed pumpkin,0.2,0.8
+39,densenet161,Rice noodles fried with beef,0.8,0.9
+40,densenet161,Bean curd stir-fried with chives,1.0,1.0
+41,densenet161,Yakitori,0.4,1.0
+42,densenet161,Chee cheong fun,0.3,0.6
+43,densenet161,Fried noodle with shredded pork,0.2,0.7
+44,densenet161,Fried ﬁsh and shrimp,0.8,0.9
+45,densenet161,Glutinous rice,0.6,0.7
+46,densenet161,Fried pork with yuba,0.5,0.7
+47,densenet161,Braised pork on rice,0.6,0.8
+48,densenet161,Bacon pasta,0.5,0.9
+49,densenet161,Salt fried meat,0.7,1.0
+50,densenet161,Xiao long bao,0.6,1.0
+51,densenet161,Curry ﬁsh ball,0.7,0.8
+52,densenet161,Cuttleﬁsh,0.9,1.0
+53,densenet161,Fried prawns,0.0,0.3
+54,densenet161,Broad beans with scallion oil,0.9,1.0
+55,densenet161,Potato cake,0.2,0.6
+56,densenet161,Kung pao chicken,0.5,0.8
+57,densenet161,Onion rings,0.9,1.0
+58,densenet161,Braised chicken nuggets,0.0,0.1
+59,densenet161,Goose palm,0.5,1.0
+60,densenet161,Steamed carp,0.7,1.0
+61,densenet161,Meat dumplings,0.7,0.9
+62,densenet161,Spicy grilled ﬁsh,0.8,1.0
+63,densenet161,Hand peeling bamboo shoots,0.6,1.0
+64,densenet161,Mango milk,0.3,1.0
+65,densenet161,Steamed crab feet,0.7,0.9
+66,densenet161,Barbecued pork noodles,1.0,1.0
+67,densenet161,Sheep scorpion,0.7,0.8
+68,densenet161,Hanamaki,0.6,1.0
+69,densenet161,Preserved egg with hot pepper,0.4,0.8
+70,densenet161,Roasted enoki mushroom,0.8,0.9
+71,densenet161,Blueberry fried yogurt,0.8,1.0
+72,densenet161,Bullfrog claypot,0.5,0.9
+73,densenet161,Pork eggplant,0.2,0.7
+74,densenet161,Fried noodles with shredded pork,0.2,0.7
+75,densenet161,Cucumber dressing,0.8,0.9
+76,densenet161,Dried tofu with hot pepper,0.8,0.8
+77,densenet161,Salt and pepper chops,0.3,0.5
+78,densenet161,Fried chicken legs,0.9,1.0
+79,densenet161,Fried peanuts,0.0,1.0
+80,densenet161,Green tea cake,0.9,1.0
+81,densenet161,Griddle bullfrog,0.1,0.6
+82,densenet161,Salt and pepper nine belly ﬁsh,1.0,1.0
+83,densenet161,Cup cake,0.5,0.8
+84,densenet161,Abalone and ﬁn belly soup,0.9,1.0
+85,densenet161,Bean curd in sugar water,0.4,0.9
+86,densenet161,Braised hemp food,0.5,0.6
+87,densenet161,Duck intestines,0.5,0.9
+88,densenet161,Shredded radish stewed shrimp,0.8,1.0
+89,densenet161,Taro meat,0.4,0.8
+90,densenet161,Lamb chops hand pilaf,0.7,0.9
+91,densenet161,White rice,0.9,1.0
+92,densenet161,Sesame catsup sauce,0.6,1.0
+93,densenet161,Sauerkraut ﬁsh with green pepper,0.1,0.6
+94,densenet161,Fried small spring rolls,0.8,1.0
+95,densenet161,Clams steamed egg,0.6,1.0
+96,densenet161,Spaghetti with tomato meat sauce,0.1,0.6
+97,densenet161,Tofu stewed with cabbage,0.6,0.9
+98,densenet161,Chicken wing tip,0.9,1.0
+99,densenet161,Stir-fried fatty intestine with hot pepper,0.3,0.8
+100,densenet161,Fried squid,0.5,1.0
+101,densenet161,Eggplant with sauce,0.0,0.3
+102,densenet161,Pork liver noodle,0.7,1.0
+103,densenet161,Shrimp with ice powder,0.7,0.9
+104,densenet161,Hot squid,0.6,0.8
+105,densenet161,Meat ﬂoss egg pie,0.2,0.6
+106,densenet161,Hot pot ﬁsh,0.2,0.7
+107,densenet161,Prawn casserole,1.0,1.0
+108,densenet161,Seafood tofu soup,0.7,0.9
+109,densenet161,Garlic grilled ﬁsh,0.4,0.9
+110,densenet161,Fish vermicelli,0.6,0.7
+111,densenet161,California hand-rolled sushi,1.0,1.0
+112,densenet161,Eight treasure congee,1.0,1.0
+113,densenet161,Stir-fried clams with chili sauce,0.5,0.8
+114,densenet161,Spicy ﬁsh,0.7,0.9
+115,densenet161,Sesame beans,0.8,1.0
+116,densenet161,Fried shrimp balls with cheese,0.7,0.8
+117,densenet161,Spicy beef tendon,0.7,0.9
+118,densenet161,Mango pancake,0.5,0.9
+119,densenet161,Sauce spine,0.3,0.9
+120,densenet161,Sweet potato porridge,0.1,0.7
+121,densenet161,Dry pot frog,0.9,1.0
+122,densenet161,Braised pork intestines,0.0,0.4
+123,densenet161,Fried sweet potato,0.0,0.5
+124,densenet161,Lamei and claypot rice,0.0,0.7
+125,densenet161,Sauerkraut beef,0.0,0.6
+126,densenet161,Green bean porridge,1.0,1.0
+127,densenet161,Scallion chicken,0.3,0.5
+128,densenet161,Fried rice of yangzhou style,0.0,0.8
+129,densenet161,Green onion Chinese pancake,0.6,1.0
+130,densenet161,Steamed bread slices,0.9,1.0
+131,densenet161,Cucumber roll sushi,1.0,1.0
+132,densenet161,Stir fry,0.6,0.8
+133,densenet161,Tossed tripe,0.3,0.5
+134,densenet161,Boiled chicken rice,0.5,0.9
+135,densenet161,Cucumber and peanuts,0.9,0.9
+136,densenet161,Lotus pond side dishes,1.0,1.0
+137,densenet161,Spicy ramen,0.6,0.9
+138,densenet161,Fried clams with ginger and spring onion,0.9,1.0
+139,densenet161,Fruit salad,0.5,0.8
+140,densenet161,Shrimp porridge,0.8,0.8
+141,densenet161,Palace fried shrimp ball,1.0,1.0
+142,densenet161,Spanish mackerel,0.3,0.7
+143,densenet161,Radish sauce,0.7,0.9
+144,densenet161,Spicy slice pig ear,0.5,0.9
+145,densenet161,Curry chicken baked rice,0.7,0.9
+146,densenet161,Curry beef rice,0.4,0.9
+147,densenet161,Green pepper stir-fried dregs,0.8,1.0
+148,densenet161,Belt noodle,0.9,1.0
+149,densenet161,Durian melaleuca cake,0.5,0.9
+150,densenet161,Garlic spinach,0.9,0.9
+151,densenet161,Mahjong biscuits,0.3,0.5
+152,densenet161,Beef noodles in sour soup,0.7,0.8
+153,densenet161,Brown sugar buns,0.4,0.8
+154,densenet161,Crucian carp,0.0,0.3
+155,densenet161,Minced pork vermicelli,0.9,0.9
+156,densenet161,Crispy mung bean cake,0.6,1.0
+157,densenet161,Fried chicken wings tip,0.4,0.7
+158,densenet161,Fried bacon with bamboo shoots,0.2,0.5
+159,densenet161,Strawberry smoothie,0.6,0.8
+160,densenet161,Earth pot chicken,1.0,1.0
+161,densenet161,Boiled beef,0.3,0.5
+162,densenet161,Tomato beef stew,0.7,0.7
+163,densenet161,Fried dumplings,0.2,0.3
+164,densenet161,Salted duck,0.3,0.9
+165,densenet161,Krabby patty,0.5,0.7
+166,densenet161,New orleans pair of wings,0.4,0.7
+167,densenet161,Beef tenderloin,0.7,1.0
+168,densenet161,Steel pipe chicken,0.9,0.9
+169,densenet161,Grilled prawns,0.4,0.9
+170,densenet161,Fruit mufﬁns,0.8,1.0
+171,densenet161,Unagi sushi,0.7,1.0
+172,densenet161,Mufﬁn,0.5,1.0
+173,densenet161,Seafood pasta,0.7,0.8
+174,densenet161,Braised lobster,0.1,0.7
+175,densenet161,Mixed grain vermicelli,0.2,0.5
+176,densenet161,Som tam,1.0,1.0
+177,densenet161,Creamy wafﬂe,0.6,0.9
+178,densenet161,Cheese bread,0.8,0.9
+179,densenet161,Melaleuca,0.3,0.7
+180,densenet161,Grilled duck intestine skewers,1.0,1.0
+181,densenet161,Salmon fried rice,0.6,1.0
+182,densenet161,Egg fried rice,1.0,1.0
+183,densenet161,Tom yum kung,0.2,0.4
+184,densenet161,Beef bibimbap,0.7,0.9
+185,densenet161,Meringue,1.0,1.0
+186,densenet161,Carrotcake,0.7,1.0
+187,densenet161,Fried rice cake with swimming crab,1.0,1.0
+188,densenet161,Roast goose rice,0.3,0.9
+189,densenet161,Strawberry yoghurt,0.9,1.0
+190,densenet161,Assorted sauce,1.0,1.0
+191,densenet161,Stir-fried beef ﬁllet with tea mushroom,0.6,0.9
+192,densenet161,Small yellow croaker,0.7,1.0
+193,densenet161,Doraemon cake,1.0,1.0
+194,densenet161,Fried noodles with soy sauce,0.7,0.9
+195,densenet161,Roasted silkworm pupa skewers,0.9,0.9
+196,densenet161,Three silk fried noodles,0.6,0.9
+197,densenet161,Stir-fried cabbage,0.5,0.8
+198,densenet161,Blueberry yam,0.7,1.0
+199,densenet161,Boiled okra,0.9,1.0
+200,densenet161,Egg yolk meat dumpling,0.1,0.6
+201,densenet161,Taro pie,0.9,1.0
+202,densenet161,Scrambled noodles with tomato and egg,0.1,0.7
+203,densenet161,Longevity dishes,1.0,1.0
+204,densenet161,Delicious shrimp fort,0.9,1.0
+205,densenet161,Beef brisket with radish,0.4,0.8
+206,densenet161,Pickled cabbage soup,0.2,0.3
+207,densenet161,Crispy pigeon,0.8,0.9
+208,densenet161,Chicken rice noodle,0.1,0.4
+209,densenet161,Fried pork belly,0.4,0.5
+210,densenet161,Fried lettuce,0.6,1.0
+211,densenet161,Squirrel mandarin ﬁsh,1.0,1.0
+212,densenet161,Mustard shreds,0.8,1.0
+213,densenet161,Snowﬂake chicken ﬁllet,0.6,0.8
+214,densenet161,Love chicken chop,0.3,0.7
+215,densenet161,Naked cake,0.4,0.9
+216,densenet161,Laoganma fried rice,0.6,0.6
+217,densenet161,Pho,0.3,0.8
+218,densenet161,Mapo tofu donburi,0.6,0.8
+219,densenet161,Pork feet noodles,0.3,0.8
+220,densenet161,Stone pot ﬁsh,0.8,1.0
+221,densenet161,Ginger fried duck,0.7,0.8
+222,densenet161,Roti prata,0.8,0.9
+223,densenet161,Red bean barley congee,0.0,0.3
+224,densenet161,Brownie,0.9,1.0
+225,densenet161,Refreshing evergreen,1.0,1.0
+226,densenet161,Cookies,1.0,1.0
+227,densenet161,Poached pork slices,0.8,1.0
+228,densenet161,Fragrant egg yolk roll sushi,0.6,0.9
+229,densenet161,Braised pork trotters,0.1,0.4
+230,densenet161,Sauce fried squid,0.3,0.9
+231,densenet161,Dorayaki,0.8,0.9
+232,densenet161,Authentic intestine,0.9,0.9
+233,densenet161,White radish ribs simmering soup,0.2,0.6
+234,densenet161,Curry shrimp,0.5,0.7
+235,densenet161,Coconut bread,0.2,0.5
+236,densenet161,Fried chicken gizzards,0.5,0.7
+237,densenet161,Japanese pumpkin tart,0.9,1.0
+238,densenet161,Pig’s head meat,0.4,0.6
+239,densenet161,Mango roll sushi,0.8,1.0
+240,densenet161,Lentil braised noodles,1.0,1.0
+241,densenet161,Sheep roll,1.0,1.0
+242,densenet161,Tamago nigiri sushi,1.0,1.0
+243,densenet161,Freshly fried small crispy pork,0.3,0.9
+244,densenet161,Scrambled eggs with green peppers,0.4,0.6
+245,densenet161,Bacon bibimbap,0.4,1.0
+246,densenet161,Fried rice noodles,0.3,0.9
+247,densenet161,Scallion sea bass,0.2,0.6
+248,densenet161,Grilled baby Chinese cabbage skewers,1.0,1.0
+249,densenet161,Grilled chicken drumsticks,0.1,0.6
+250,densenet161,Fried poached egg with laba beans,0.9,1.0
+251,densenet161,Mochi bun,1.0,1.0
+252,densenet161,Nanning rice noodle,0.5,0.6
+253,densenet161,Coconut sago,0.9,1.0
+254,densenet161,Roasted leeks,0.9,0.9
+255,densenet161,Grilled string bean skewers,0.5,1.0
+256,densenet161,Whitebait scrambled eggs,0.6,0.9
+257,densenet161,Fish-ﬂavored eggplant pot,0.7,1.0
+258,densenet161,Red date and yam congee,0.2,0.5
+259,densenet161,Fried shrimp in typhoon shelter,0.7,0.9
+260,densenet161,Fried potato chips,0.2,0.4
+261,densenet161,Ham sausage,1.0,1.0
+262,densenet161,Stewed meat,0.6,0.9
+263,densenet161,Seaweed pork ﬂoss bread,0.7,1.0
+264,densenet161,Pounded chicken feet,0.9,0.9
+265,densenet161,Fresh meat soup dumplings,0.3,1.0
+266,densenet161,Iron squid,0.7,0.8
+267,densenet161,Egg and ham sandwich,0.6,0.9
+268,densenet161,Dongpo’s braised pork,0.5,0.9
+269,densenet161,Coarse grain porridge,0.0,0.7
+270,densenet161,Braised tofu,0.8,1.0
+271,densenet161,Rocky cheese,0.6,1.0
+272,densenet161,Fried pulp,0.8,1.0
+273,densenet161,Fruit jelly,0.3,0.8
+274,densenet161,Raw cooking cabbage,0.3,0.8
+275,densenet161,Liocarcinus,0.8,0.9
+276,densenet161,Black-bone chicken roll,1.0,1.0
+277,densenet161,Fried bun slices,0.4,0.5
+278,densenet161,Taro sago,0.5,1.0
+279,densenet161,Sizzling tofu,0.9,0.9
+280,densenet161,Stewed chicken nuggets,0.5,0.9
+281,densenet161,Beef noodles,0.4,0.5
+282,densenet161,Poplar twig nectar,0.6,0.9
+283,densenet161,Pickle chicken feet,0.7,0.9
+284,densenet161,Rice wine and egg drop soup,0.3,0.6
+285,densenet161,Red oil dumplings,0.7,1.0
+286,densenet161,Sour beans,0.7,1.0
+287,densenet161,Potato ﬂour casserole,0.9,0.9
+288,densenet161,Shrimp,1.0,1.0
+289,densenet161,Chicken chop,0.1,0.3
+290,densenet161,Fried sea oysters,0.8,1.0
+291,densenet161,Spicy pork,0.1,0.5
+292,densenet161,Stir-fried beef with green pepper,0.4,0.9
+293,densenet161,Tomato puree,0.5,1.0
+294,densenet161,Fried tempura,0.8,0.9
+295,densenet161,Green bean cake,0.9,1.0
+296,densenet161,Salty burning white,0.3,1.0
+297,densenet161,Three yellow chicken nuggets,0.8,1.0
+298,densenet161,Garlic shrimp,0.8,1.0
+299,densenet161,Fired pork in a scoop,0.7,0.9
+300,densenet161,Bread crab,0.9,0.9
+301,densenet161,Spicy sausage,0.1,0.9
+302,densenet161,Pickled mustard,0.8,0.9
+303,densenet161,Barbecued pork noodle,0.4,0.5
+304,densenet161,Beer duck,0.2,0.7
+305,densenet161,Fried yogurt with oreo cookies,0.8,0.9
+306,densenet161,Chinese hamburger,0.9,1.0
+307,densenet161,Princess lee roll sushi,0.9,0.9
+308,densenet161,Sea salt milk cake,0.8,0.9
+309,densenet161,Stir fried fungus with celery,0.9,1.0
+310,densenet161,Double cake,0.1,0.8
+311,densenet161,Taian Fish,0.5,0.8
+312,densenet161,Boiled bullfrog,0.7,1.0
+313,densenet161,Matcha mousse cake,0.7,1.0
+314,densenet161,Steamed sturgeon,1.0,1.0
+315,densenet161,Tuna sashimi,0.9,1.0
+316,densenet161,Stewed chicken soup,0.4,0.7
+317,densenet161,Shrimp fried rice,0.5,1.0
+318,densenet161,Corn warship sushi,0.8,0.9
+319,densenet161,Milk small party,0.8,1.0
+320,densenet161,Shrimp and crab pot,0.5,0.9
+321,densenet161,Chili noodles,0.9,1.0
+322,densenet161,Chicken skewers,1.0,1.0
+323,densenet161,Leek pie,0.7,1.0
+324,densenet161,Snowﬂake cowboy bones,0.9,0.9
+325,densenet161,Stir-fried pork with garlic shoots,0.5,1.0
+326,densenet161,Pop cake,0.7,0.9
+327,densenet161,Matcha ﬂavored daifuku,0.8,1.0
+328,densenet161,Black pepper chicken nuggets,0.9,1.0
+329,densenet161,Roasted chicken leg,0.1,0.2
+330,densenet161,Potato powder,1.0,1.0
+331,densenet161,Cart noodle,0.6,0.8
+332,densenet161,cheesecake,0.6,0.9
+333,densenet161,Fried snails,0.9,1.0
+334,densenet161,Stir fry,0.5,0.6
+335,densenet161,Duck feet,0.7,1.0
+336,densenet161,Fried ﬂower beetle,0.4,0.9
+337,densenet161,Balsamic peanuts,0.7,0.9
+338,densenet161,Rice casserole,0.7,0.9
+339,densenet161,Spicy chicken wing,0.1,0.4
+340,densenet161,Strawberry double skin milk,0.9,1.0
+341,densenet161,Roast duck cake,0.4,1.0
+342,densenet161,Grilled tofu,0.8,1.0
+343,densenet161,Matcha ice cream,0.9,0.9
+344,densenet161,Preserved egg porridge,0.0,0.4
+345,densenet161,Pork knuckle soup powder,0.5,0.8
+346,densenet161,Black pepper steak rice,0.1,0.5
+347,densenet161,Roast pork,0.5,0.9
+348,densenet161,Cold crucian carp,0.4,0.9
+349,densenet161,Braised bamboo shoots,0.8,1.0
+350,densenet161,Sweet and sour pork,0.4,0.9
+351,densenet161,Old bowl ﬁsh,0.5,1.0
+352,densenet161,Tofu with preserved eggs,0.9,1.0
+353,densenet161,Black pepper sausage,0.7,0.8
+354,densenet161,Roast suckling pig,0.8,0.9
+355,densenet161,Ciba ice powder,0.5,0.8
+356,densenet161,Braised chicken and rice,0.4,0.9
+357,densenet161,Sea Emperor fans clay pot,1.0,1.0
+358,densenet161,Flamingo cake,0.5,1.0
+359,densenet161,Orleans drumsticks,0.7,0.8
+360,densenet161,Salt and pepper ribs,0.4,0.7
+361,densenet161,Eel rice,0.8,0.9
+362,densenet161,Pork skewers,0.1,1.0
+363,densenet161,Cold jellyﬁsh,0.3,0.8
+364,densenet161,Boiled cabbage heart,0.8,0.9
+365,densenet161,Baked clams in tin foil,0.9,1.0
+366,densenet161,Hand holding fan bone,0.5,0.8
+367,densenet161,Casserole yam,0.9,1.0
+368,densenet161,Bak kut teh,0.5,1.0
+369,densenet161,Colorful face lift,0.7,1.0
+370,densenet161,Red velvet cake,1.0,1.0
+371,densenet161,Round taro with coconut milk,0.7,1.0
+372,densenet161,Stone pot bullfrog,0.7,0.7
+373,densenet161,Seafood steamed egg,0.6,0.9
+374,densenet161,Stir-fried potato shreds with green pepper,0.0,0.6
+375,densenet161,Yellow braised beef,0.2,0.3
+376,densenet161,Longan and red date congee,0.1,0.3
+377,densenet161,Stir fried diced noodles,0.4,0.7
+378,densenet161,Ice cream wafﬂes,0.4,1.0
+379,densenet161,Strawberry mille cake,0.7,1.0
+380,densenet161,Cool coconut milk,0.6,0.9
+381,densenet161,Corn salad,0.5,0.9
+382,densenet161,Lava rock sausage,0.6,0.9
+383,densenet161,Lettuce in oyster sauce,0.7,1.0
+384,densenet161,Casserole ﬁsh head pot,0.5,0.9
+385,densenet161,saozi noodles,0.3,0.6
+386,densenet161,Fried pork rice,0.5,1.0
+387,densenet161,Hot pepper twice cooked pork,0.1,0.7
+388,densenet161,Spicy Ginger Chicken Feet,0.7,0.9
+389,densenet161,Platycodon,1.0,1.0
+390,densenet161,Flavored eggplant,0.3,0.5
+391,densenet161,Tossed ﬁsh skin,0.7,0.9
+392,densenet161,Beef vermicelli soup,0.1,0.7
+393,densenet161,Ginger lotus root,0.8,1.0
+394,densenet161,Pork congee,0.1,0.4
+395,densenet161,Multi-ﬂavored ﬁsh skewers,0.9,1.0
+396,densenet161,Fried noodles,0.6,1.0
+397,densenet161,Shacha noodles,0.6,0.8
+398,densenet161,Beef pan noodle,0.2,0.4
+399,densenet161,Pork fried rice,0.1,0.2
+400,densenet161,Homemade ﬁsh,0.2,0.6
+401,densenet161,Lemon chicken feet,0.2,0.6
+402,densenet161,Sparerib noodles,0.5,0.6
+403,densenet161,Cheese stick,0.8,0.9
+404,densenet161,Pork beans,0.6,1.0
+405,densenet161,Soy sauce steamed pork ribs,0.5,1.0
+406,densenet161,Milk oatmeal,0.1,0.4
+407,densenet161,Rattan pepper ﬁsh ﬁllet,0.1,0.7
+408,densenet161,Peanut butter noodles,0.1,0.7
+409,densenet161,Spicy frog,0.3,0.6
+410,densenet161,Cranberry¨ı¿œbiscuit,0.8,0.9
+411,densenet161,Pot lamb chops,0.6,1.0
+412,densenet161,Tomato egg noodle,0.4,0.8
+413,densenet161,Boneless chicken feet,0.9,1.0
+414,densenet161,Di San Xian,0.7,0.9
+415,densenet161,Chocolate fruit cake,0.3,0.8
+416,densenet161,Grandma dishes,0.8,1.0
+417,densenet161,Yuxiang pork rice bowl,0.3,0.6
+418,densenet161,Roast chicken,0.6,0.9
+419,densenet161,Boneless chicken ﬁllet,0.3,0.7
+420,densenet161,Bacon fried rice,0.0,0.1
+421,densenet161,Urayaki eel,0.8,1.0
+422,densenet161,Braised spare ribs noodles,0.0,0.6
+423,densenet161,Mushroom stewed chicken noodle,0.6,0.9
+424,densenet161,Pork sauerkraut bun,0.1,0.6
+425,densenet161,Beijing sauce pork,0.7,1.0
+426,densenet161,Capelin,0.4,0.9
+427,densenet161,Garland chrysanthemum,0.9,0.9
+428,densenet161,Green pepper preserved egg,0.4,1.0
+429,densenet161,Fried noodles with ham,0.5,0.8
+430,densenet161,Grilled whole ﬁsh,0.8,0.9
+431,densenet161,Spicy cabbage bibimbap,0.2,1.0
+432,densenet161,Grilled eggplant,1.0,1.0
+433,densenet161,Black stinky tofu,0.8,0.8
+434,densenet161,Soy milk,0.6,1.0
+435,densenet161,Eggplant claypot,0.1,0.7
+436,densenet161,Griddle pork Intestines,0.2,0.3
+437,densenet161,Stir-fried ginger and green onion,0.3,1.0
+438,densenet161,Three yellow chicken,0.1,0.8
+439,densenet161,Cumin cartilage,0.4,0.7
+440,densenet161,Burrito,0.6,0.8
+441,densenet161,Cumin lamb,0.5,0.9
+442,densenet161,Beef burger,0.8,1.0
+443,densenet161,Sour soup with beef,0.6,0.9
+444,densenet161,Scallop lean pork congee,0.3,0.8
+445,densenet161,Hand cake,0.8,1.0
+446,densenet161,Beef brisket noodle,0.2,0.3
+447,densenet161,Potato beef,0.4,0.5
+448,densenet161,Steamed crab,0.7,0.9
+449,densenet161,French fries,0.9,1.0
+450,densenet161,Popping milk cake,0.1,0.8
+451,densenet161,Strange rice,0.5,0.8
+452,densenet161,Dried squid and shrimp,0.5,0.7
+453,densenet161,Stir-fried organic cauliﬂower,0.5,1.0
+454,densenet161,Griddle potato chips,0.7,1.0
+455,densenet161,Sliced toast with raisins,0.2,1.0
+456,densenet161,Loin roast,0.4,0.8
+457,densenet161,Five recipes of tender beef,0.8,1.0
+458,densenet161,Roast duck rice,0.3,0.9
+459,densenet161,Oil gluten,0.9,1.0
+460,densenet161,Supreme pizza,0.5,0.9
+461,densenet161,Egg seaweed soup,0.8,1.0
+462,densenet161,Spicy chicken feet,0.1,0.6
+463,densenet161,Fried crispy banana,0.6,0.9
+464,densenet161,Stir-fried dried tofu with hot pepper,0.9,1.0
+465,densenet161,Chilled lobster,0.9,1.0
+466,densenet161,Fish pan cake,0.7,1.0
+467,densenet161,Stewed goose in iron pan,0.5,0.9
+468,densenet161,Fried pork with pleurotus eryngii,0.1,0.8
+469,densenet161,Smoked duck,0.4,0.5
+470,densenet161,Fried pork with fungus,0.4,0.8
+471,densenet161,Grilled horse paciﬁer,0.9,1.0
+472,densenet161,Tedious,0.0,0.4
+473,densenet161,Tiger skin and chicken feet,0.0,0.6
+474,densenet161,Ground sanxian rice bowl,0.9,0.9
+475,densenet161,Yellow stinky tofu,0.0,0.5
+476,densenet161,Duck neck,0.8,0.9
+477,densenet161,Stone bowl chicken nuggets,0.4,0.6
+478,densenet161,Mango shrimp salad,0.8,1.0
+479,densenet161,Griddle chicken,0.0,0.5
+480,densenet161,Snowﬂakes,0.9,1.0
+481,densenet161,Fried jelly,0.6,0.7
+482,densenet161,Scallion black fungus,0.4,0.5
+483,densenet161,Spicy noodles,0.4,0.8
+484,densenet161,Eggplant garlic juice,0.2,0.6
+485,densenet161,Spicy spare ribs,0.2,0.3
+486,densenet161,Gourd chicken,0.5,0.7
+487,densenet161,Mango ice,1.0,1.0
+488,densenet161,Grilled pork neck,0.8,1.0
+489,densenet161,Flame steak,1.0,1.0
+490,densenet161,Red bean curd,0.8,1.0
+491,densenet161,Chicken neck,0.7,0.8
+492,densenet161,Margherita pizza,0.7,0.9
+493,densenet161,Casserole pork knuckle pot,0.4,0.9
+494,densenet161,Tomato rice noodles,0.3,0.6
+495,densenet161,Roasted peppers,0.8,0.9
+496,densenet161,Scrambled eggs with ham,0.9,1.0
+497,densenet161,Fried rice cake,0.1,0.3
+498,densenet161,Stewed ﬁsh in iron pan,0.5,0.8
+499,densenet161,Sweet shrimp sashimi,0.7,1.0
+500,densenet161,Spicy yuba,0.7,0.9
+501,densenet161,Custard bun,0.3,0.9
+502,densenet161,Baked shrimp roll with cheese,0.5,0.9
+503,densenet161,Beef pizza with black pepper,0.1,0.7
+504,densenet161,Pepper chicken,0.4,0.6
+505,densenet161,Sukiyaki goose,0.7,0.9
+506,densenet161,Roast chicken wing tip,0.3,0.6
+507,densenet161,Fried lotus root,0.2,0.9
+508,densenet161,Caramel pudding,0.3,0.6
+509,densenet161,Arctic bay,0.8,1.0
+510,densenet161,Shrimp rolls,0.6,0.8
+511,densenet161,Hot pot chicken giblets,0.8,0.8
+512,densenet161,Fried lotus white with oil residue,0.8,0.8
+513,densenet161,Homely stewed ﬁsh,0.5,0.9
+514,densenet161,Eggplant salad,0.3,0.8
+515,densenet161,Fried potato chips,0.3,0.8
+516,densenet161,Macadamia,0.3,1.0
+517,densenet161,Tremella lianzi geng,0.5,0.6
+518,densenet161,Gravy radish,0.9,1.0
+519,densenet161,Sweet heart pastry,0.1,0.9
+520,densenet161,Glutinous rice lotus root,0.8,0.9
+521,densenet161,Durian cheesecake,0.6,1.0
+522,densenet161,Steamed crab claws,0.3,0.9
+523,densenet161,Kimchi beef sushi,0.9,1.0
+524,densenet161,Sweet and sour ﬁllet,0.8,1.0
+525,densenet161,Braised pork ribs,0.6,1.0
+526,densenet161,Ribeye steak,0.3,1.0
+527,densenet161,Salted shrimp with pepper,0.4,1.0
+528,densenet161,Fried instant noodles,0.1,0.6
+529,densenet161,Fried rice noodles with chicken,0.1,0.3
+530,densenet161,Cheese baked rice,0.3,0.7
+531,densenet161,Roast chicken head,0.3,0.5
+532,densenet161,Salad barbecue bibimbap,0.0,0.3
+533,densenet161,Fried chicken chop,0.5,0.8
+534,densenet161,Red bean double skin milk,0.7,0.9
+535,densenet161,Marinated beef brisket in spiced sauce,0.5,0.8
+536,densenet161,Spicy potato chips,0.2,0.3
+537,densenet161,Fruit cup,0.7,0.9
+538,densenet161,Meatballs,0.9,1.0
+539,densenet161,Bowl chicken,0.7,0.9
+540,densenet161,Marinated trotters,0.3,0.6
+541,densenet161,Spicy lobster tail,0.1,1.0
+542,densenet161,Sesame biscuits,0.5,1.0
+543,densenet161,Fried bacon with dried radish,0.4,0.8
+544,densenet161,Red wine sydney,1.0,1.0
+545,densenet161,Mutton soup,0.8,1.0
+546,densenet161,Crab pot,0.9,1.0
+547,densenet161,Braised sausage,0.7,0.9
+548,densenet161,Braised chili in oil,0.4,0.9
+549,densenet161,Orleans chicken drumsticks,0.4,0.5
+550,densenet161,Sea urchin sashimi,1.0,1.0
+551,densenet161,Barrel ﬁsh,1.0,1.0
+552,densenet161,White cut chicken,0.5,1.0
+553,densenet161,Grilled tofu,0.6,0.8
+554,densenet161,Songhua egg with ginger sauce,0.1,0.8
+555,densenet161,Cold rice tofu,0.9,1.0
+556,densenet161,Durian pancake,0.4,0.7
+557,densenet161,Fire bun,0.5,0.9
+558,densenet161,Roast pork knuckle,0.9,0.9
+559,densenet161,Steamed shrimp with garlic vermicelli,1.0,1.0
+560,densenet161,Tuna warship sushi,0.7,0.8
+561,densenet161,Vegetable salad,0.9,1.0
+562,densenet161,Choy sum sting peel,0.6,0.8
+563,densenet161,Brushed cheese hot dog sticks,0.9,1.0
+564,densenet161,Chocolate mousse cake,0.7,1.0
+565,densenet161,Popcorn,0.9,1.0
+566,densenet161,Minced pork hand-rolled sushi,0.8,1.0
+567,densenet161,Grilled chicken feet skewers,0.6,1.0
+568,densenet161,Beef and rice noodle soup,0.5,0.9
+569,densenet161,Fruit steak,0.9,1.0
+570,densenet161,Fried noodle with egg,1.0,1.0
+571,densenet161,Crispy bone sausage,0.7,0.9
+572,densenet161,Chicken with chestnut,0.3,0.7
+573,densenet161,Scalded prawns,0.3,0.8
+574,densenet161,Fruit box,0.8,0.9
+575,densenet161,Hang Sanxian,0.8,1.0
+576,densenet161,Cut noodles in casserole,0.9,1.0
+577,densenet161,Burning noodles,0.4,0.9
+578,densenet161,Pineapple pie,0.8,0.9
+579,densenet161,Fried mushrooms,0.4,0.6
+580,densenet161,Enoki mushroom mixed with cucumber,1.0,1.0
+581,densenet161,Taro balls,0.1,0.8
+582,densenet161,Sauerkraut rice noodles,0.2,0.3
+583,densenet161,Cured fried rice,0.3,0.9
+584,densenet161,Yam polenta,0.8,1.0
+585,densenet161,Pickle,0.9,0.9
+586,densenet161,Hot and sour chicken mixed,0.6,0.9
+587,densenet161,Millet cake,0.6,0.9
+588,densenet161,Yam pork ribs soup,0.2,0.5
+589,densenet161,Fried biscuits,0.2,0.6
+590,densenet161,Stir-fried shredded pork with garlic moss,0.7,1.0
+591,densenet161,Fried chicken,0.4,0.9
+592,densenet161,Casserole white tofu,0.6,0.9
+593,densenet161,Milk ﬂavor bread slice,0.7,0.8
+594,densenet161,Saury,0.9,1.0
+595,densenet161,Black forest cake,0.4,0.8
+596,densenet161,Pumpkin porridge,0.6,0.8
+597,densenet161,Curry chicken rice,0.9,1.0
+598,densenet161,Fried duck,0.5,0.8
+599,densenet161,Griddle shredded chicken,0.4,0.7
+600,densenet161,Steamed dumpling,0.4,0.9
+601,densenet161,Smooth double skin milk,0.8,0.9
+602,densenet161,Red shrimp,0.8,1.0
+603,densenet161,Mushroom and vegetable porridge,0.5,0.6
+604,densenet161,Moon cake,0.8,1.0
+605,densenet161,Lettuce tip,1.0,1.0
+606,densenet161,Spaghetti black pepper beef,0.9,1.0
+607,densenet161,Johnnycake,0.7,0.8
+608,densenet161,Braised chicken with bamboo sticks in coconut,1.0,1.0
+609,densenet161,Borscht,0.7,1.0
+610,densenet161,Shrimp salad,0.1,0.6
+611,densenet161,Steamed bun fried bun,0.9,1.0
+612,densenet161,Soy bean curd,0.8,1.0
+613,densenet161,Mixed edamame,1.0,1.0
+614,densenet161,Beef rice,0.3,0.5
+615,densenet161,Griddle cooked tea tree mushrooms,0.5,0.9
+616,densenet161,Roast pork skin,0.5,0.7
+617,densenet161,Taste snake,0.9,1.0
+618,densenet161,Kelp green bean paste,0.5,0.9
+619,densenet161,Egg tart,0.8,1.0
+620,densenet161,Abalone rice,0.5,0.8
+621,densenet161,Chicken wing pot,0.4,0.8
+622,densenet161,Pineapple seafood fried rice,0.0,0.8
+623,densenet161,Beef claypot rice,0.2,0.6
+624,densenet161,Beef and egg fried rice,0.1,0.7
+625,densenet161,Whole wheat bread,0.5,0.7
+626,densenet161,Steamed rice noodles,0.5,0.7
+627,densenet161,Chicken roll,0.8,0.8
+628,densenet161,T-bone steak,0.6,1.0
+629,densenet161,Braised Japanese tofu,0.3,0.4
+630,densenet161,Fried ice cream,0.9,1.0
+631,densenet161,Sauerkraut beef noodle,0.0,0.1
+632,densenet161,Sesame octopus warship sushi,0.9,1.0
+633,densenet161,Grilled anhui,0.4,0.7
+634,densenet161,Fried chicken chop,0.9,1.0
+635,densenet161,Scones,0.8,0.9
+636,densenet161,Crab siu mai,0.7,1.0
+637,densenet161,Shin ramen,0.5,0.9
+638,densenet161,Rice with tomato and eggs,1.0,1.0
+639,densenet161,Fatty intestine,0.4,0.7
+640,densenet161,Hand roll noodle,0.9,1.0
+641,densenet161,Steamed ﬁsh,0.8,1.0
+642,densenet161,Pork liver and lean meat porridge,0.0,0.3
+643,densenet161,Harbin sausage,0.7,1.0
+644,densenet161,Bitter vegetable soup,1.0,1.0
+645,densenet161,Refreshing lotus root slices,0.9,1.0
+646,densenet161,Shredded bag,1.0,1.0
+647,densenet161,Fried yuba,0.9,1.0
+648,densenet161,Stir-fried pork with corn,0.8,1.0
+649,densenet161,Shrimp wanton noodles,0.8,1.0
+650,densenet161,Pea noodles,0.3,0.9
+651,densenet161,Flatbread,0.4,0.9
+652,densenet161,Roasted cauliﬂower,0.9,1.0
+653,densenet161,Red date and white fungus soup,0.4,0.8
+654,densenet161,Scallion noodles,0.3,0.9
+655,densenet161,Steamed abalone with garlic,0.8,1.0
+656,densenet161,Fried shredded pancake,0.6,0.8
+657,densenet161,Stir-fried vermicelli with cabbage,0.8,0.9
+658,densenet161,Mango melaleuca box cake,0.3,1.0
+659,densenet161,Cantonese sponge cake,0.7,0.8
+660,densenet161,Seaweed rice,0.1,0.8
+661,densenet161,Fried eggs with fungus,0.6,0.8
+662,densenet161,Stir-fried shredded lettuce,1.0,1.0
+663,densenet161,Fried crab with ginger and spring onion,0.4,1.0
+664,densenet161,Chicken porridge,0.0,0.2
+665,densenet161,Roasted peppers,0.9,1.0
+666,densenet161,Beef noodle,0.5,0.9
+667,densenet161,Griddle rabbit,0.9,1.0
+668,densenet161,Hot pot noodles,0.9,1.0
+669,densenet161,Bacon ham pizza,0.5,0.9
+670,densenet161,Pine nut ﬁsh,0.4,0.9
+671,densenet161,Kimchi ﬁsh,0.3,1.0
+672,densenet161,Umeboshi vegetable roast meat,0.7,0.9
+673,densenet161,Fried king pleurotus,0.2,0.7
+674,densenet161,Vegetable pancake,0.4,1.0
+675,densenet161,Glutinous rice,0.4,0.9
+676,densenet161,Miso soup,0.8,1.0
+677,densenet161,Curry omelet rice,0.2,0.6
+678,densenet161,Matcha melaleuca cake,0.7,0.9
+679,densenet161,Fried pork with chili,0.5,0.9
+680,densenet161,Lotus root pork ribs soup,0.2,0.2
+681,densenet161,Soy sauce fried rice,1.0,1.0
+682,densenet161,Pumpkin soup,0.5,1.0
+683,densenet161,Fan shabu,0.4,1.0
+684,densenet161,Cooked duck with lemon,0.5,0.8
+685,densenet161,Shrimp noodles,0.9,1.0
+686,densenet161,Spicy crab,0.3,0.6
+687,densenet161,Bitter gourd fried pork,0.7,1.0
+688,densenet161,Fried hot and sour potato shreds,0.9,0.9
+689,densenet161,Salt and pepper peanuts,1.0,1.0
+690,densenet161,Saute spicy chicken,0.5,0.9
+691,densenet161,Baked crab with egg yolk,1.0,1.0
+692,densenet161,Celery fried yuba,0.9,0.9
+693,densenet161,Beef offal,0.1,0.6
+694,densenet161,Kanto cooking,0.7,0.8
+695,densenet161,Nigiri sushi,0.5,1.0
+696,densenet161,Fish with bean curd,0.3,0.8
+697,densenet161,Sizzling frog,0.3,1.0
+698,densenet161,Lilies fat and sleek cows,0.3,0.6
+699,densenet161,Duck wings,0.6,0.9
+700,densenet161,Pickled pepper baby food,0.9,1.0
+701,densenet161,Pork with preserved vegetable rice,0.5,0.8
+702,densenet161,Hakka tofu,0.7,1.0
+703,densenet161,Saliva chicken,0.5,0.8
+704,densenet161,Bamboo shoot pork,0.8,0.8
+705,densenet161,Stir-fried vegetables with mushrooms,1.0,1.0
+706,densenet161,Crab congee,0.9,1.0
+707,densenet161,Baked spaghetti with cheese and meat sauce,0.6,0.9
+708,densenet161,Haagen-Dazs ice cream,0.8,1.0
+709,densenet161,Northeast chaos,0.1,0.5
+710,densenet161,Sauce elbow,0.5,0.8
+711,densenet161,Cheese baked shrimp,0.9,1.0
+712,densenet161,Tiramisu cake,0.6,0.9
+713,densenet161,Vetch,0.9,1.0
+714,densenet161,Spaghetti with tomato sauce and bacon,0.2,0.6
+715,densenet161,Egg beef porridge,0.2,0.4
+716,densenet161,Biangbiang,0.9,0.9
+717,densenet161,Pork rice noodles,0.1,0.5
+718,densenet161,Pig skin jelly,0.5,0.9
+719,densenet161,Crispy pork slices,0.6,0.9
+720,densenet161,Beautiful frog ﬁsh head,0.8,1.0
+721,densenet161,Seafood paella,0.6,0.8
+722,densenet161,Cruller,0.3,0.7
+723,densenet161,Soy sauce ﬁsh,1.0,1.0
+724,densenet161,Casserole ﬁsh head,0.7,0.8
+725,densenet161,Stir-fried shredded potatoes with celery,1.0,1.0
+726,densenet161,Potato stew chicken nuggets,0.4,0.8
+727,densenet161,Dregs biscuits,0.8,1.0
+728,densenet161,Kimchi hot pot,0.6,0.9
+729,densenet161,Fried dumpling,0.7,0.9
+730,densenet161,Crispy pork rice,0.3,0.8
+731,densenet161,Tribute dish,1.0,1.0
+732,densenet161,Peanut,0.6,0.8
+733,densenet161,Fried sausage,0.7,0.9
+734,densenet161,Baked potato chips,0.6,0.8
+735,densenet161,Hot and sour soup,0.6,0.8
+736,densenet161,Glutinous rice,0.7,0.8
+737,densenet161,Chicken soup rice noodles,0.0,0.2
+738,densenet161,Fried spicy chicken wing root,0.6,0.8
+739,densenet161,Dorayaki,0.0,0.3
+740,densenet161,Scrambled eggs with tomatoes,0.6,0.8
+741,densenet161,Nuomici,0.0,0.7
+742,densenet161,Fried lesser croaker,0.0,0.6
+743,densenet161,Shredded duck,0.3,0.7
+744,densenet161,Roast duck,0.9,1.0
+745,densenet161,Cream of mushroom soup,0.4,0.9
+746,densenet161,Spicy ﬁsh ball,0.2,0.8
+747,densenet161,Stir-fried pork with mustard,0.1,0.8
+748,densenet161,Steamed venetian bag,0.7,1.0
+749,densenet161,Double chicken hamburger,0.7,1.0
+750,densenet161,Abalone,1.0,1.0
+751,densenet161,Baked string beans,0.7,1.0
+752,densenet161,Tuna pizza,0.5,0.8
+753,densenet161,Roasted goose,0.2,0.7
+754,densenet161,Sauted sauerkraut sausage,0.5,1.0
+755,densenet161,White shellﬁsh,1.0,1.0
+756,densenet161,Baked fairy grass with Taro,0.3,1.0
+757,densenet161,Sauteed bean sprouts,0.6,0.9
+758,densenet161,Chicken rack,0.0,0.1
+759,densenet161,Stinky mandarin ﬁsh,0.5,0.7
+760,densenet161,Cold pot string,0.9,1.0
+761,densenet161,Cold papaya,0.9,1.0
+762,densenet161,Delicious fern powder,1.0,1.0
+763,densenet161,Lettuce fried meat,0.6,0.9
+764,densenet161,Stewed clams with Papaya,0.7,1.0
+765,densenet161,Roasted corn kebabs,1.0,1.0
+766,densenet161,Bandit duck,0.2,0.4
+767,densenet161,Baked corn with egg yolk,1.0,1.0
+768,densenet161,Chicken heart string,0.4,0.8
+769,densenet161,Phoenix tail prawns,0.8,1.0
+770,densenet161,Pickled sweet garlic,0.8,0.8
+771,densenet161,Fried chicken fork bone,0.5,0.9
+772,densenet161,Chicken burger,0.8,1.0
+773,densenet161,Fried pork chop,0.5,0.7
+774,densenet161,Skin shrimp,0.9,1.0
+775,densenet161,Fried pork with pepper,0.8,0.9
+776,densenet161,Pork lungs in chili sauce,0.2,0.5
+777,densenet161,Dried chiba bean curd,0.7,0.8
+778,densenet161,Steam pot chicken,0.8,1.0
+779,densenet161,Lean meat soup,0.5,0.8
+780,densenet161,Stir fried vegetables,0.1,1.0
+781,densenet161,Sauted beef with hot pepper,0.6,1.0
+782,densenet161,Coconut cake,0.9,1.0
+783,densenet161,Hot pot chicken,0.1,0.7
+784,densenet161,Braised ﬁsh in plain pot,0.7,1.0
+785,densenet161,Stir-fried chives with bean curd sheets,0.9,0.9
+786,densenet161,Fried preserved eggs with pepper,0.8,0.9
+787,densenet161,Cold mixed pig ear,0.8,0.9
+788,densenet161,Semi cooked cheese,0.5,0.9
+789,densenet161,Tomato and egg soup,1.0,1.0
+790,densenet161,Stewed mutton,0.5,0.9
+791,densenet161,Beef ribs with black pepper,0.1,0.7
+792,densenet161,Noodles with beef,0.5,0.8
+793,densenet161,Roast lamb leg,0.8,0.9
+794,densenet161,Prawn tail,0.4,0.9
+795,densenet161,Baked beans,0.3,0.9
+796,densenet161,Stewed goose,0.4,1.0
+797,densenet161,Boiled egg,1.0,1.0
+798,densenet161,Radish strips,0.7,0.9
+799,densenet161,Fish porridge,0.2,0.6
+800,densenet161,River noodles in pig soup,0.6,0.8
+801,densenet161,Chicken kebabs,0.8,0.8
+802,densenet161,Angry birds cake,0.8,1.0
+803,densenet161,Soybean,0.6,0.8
+804,densenet161,Snail powder with beef brisket,0.1,0.4
+805,densenet161,Egg cake,0.7,1.0
+806,densenet161,Fried shrimps with cashew nuts,0.7,1.0
+807,densenet161,Simi fruit ﬁshing,0.6,0.9
+808,densenet161,Bean curd with stone plate,0.7,1.0
+809,densenet161,Stewed chicken leg,0.0,0.4
+810,densenet161,Stewed noodles with mutton,0.3,0.6
+811,densenet161,Matcha yellow peach cake,1.0,1.0
+812,densenet161,Mutton noodles,0.5,0.9
+813,densenet161,Cylindrical bone meal,0.8,1.0
+814,densenet161,Sliced pork and potato,0.6,0.8
+815,densenet161,Seafood congee,0.0,0.6
+816,densenet161,Ice porridge,1.0,1.0
+817,densenet161,Toothpick meat,0.6,0.9
+818,densenet161,Chicken feet pot,0.0,0.6
+819,densenet161,Roll cold noodle,1.0,1.0
+820,densenet161,Papaya and tremella soup,0.7,0.9
+821,densenet161,Golden sweet potato stick,0.0,0.7
+822,densenet161,Fruit pizza,0.4,1.0
+823,densenet161,Pineapple fried rice,0.8,0.8
+824,densenet161,Stewed pork feet with ginger,0.7,0.9
+825,densenet161,Stir-fried celery with smoked bean curd,0.5,0.7
+826,densenet161,Steamed scallop with minced garlic and vermicelli,1.0,1.0
+827,densenet161,Dried tofu,0.6,1.0
+828,densenet161,Cranberry cookies,0.9,1.0
+829,densenet161,Boiled mutton,0.8,0.8
+830,densenet161,Boiled crayﬁsh,1.0,1.0
+831,densenet161,Salted white shrimp,0.8,1.0
+832,densenet161,Marinated goose,0.5,0.7
+833,densenet161,Sweet plum and sweet potato,0.9,1.0
+834,densenet161,Water-chestnut pudding,0.8,0.8
+835,densenet161,Preserved egg with chopped pepper,0.7,0.9
+836,densenet161,Tofu pudding,0.7,0.9
+837,densenet161,Deep-fried dough sticks,1.0,1.0
+838,densenet161,Fried squid ring,0.7,0.9
+839,densenet161,Grilled squid,0.5,0.7
+840,densenet161,Takoyaki,0.8,1.0
+841,densenet161,Popcorn chicken,0.5,0.9
+842,densenet161,Roasted ﬁsh with soy sauce,0.8,0.9
+843,densenet161,Steamed Wuchang Fish,0.1,0.9
+844,densenet161,Cucumber preserved egg soup,1.0,1.0
+845,densenet161,Kebabs with soy sauce,0.0,0.4
+846,densenet161,Eggplant with hot pepper,0.7,1.0
+847,densenet161,Fried bacon with lotus beans,0.2,1.0
+848,densenet161,Steamed green spotted ﬁsh,0.6,1.0
+849,densenet161,Steamed white guitar,0.3,0.8
+850,densenet161,Yu-Shiang eggplant,0.4,0.8
+851,densenet161,Eel roll sushi,0.7,1.0
+852,densenet161,Mango sorbet,0.5,0.9
+853,densenet161,Marinated beef,0.3,0.9
+854,densenet161,Fish and mutton,0.1,0.5
+855,densenet161,Scrambled egg with chopped chili pepper,1.0,1.0
+856,densenet161,Blueberry sundae,0.9,1.0
+857,densenet161,Mixed beans,0.1,0.9
+858,densenet161,Fried rice with bacon,0.8,1.0
+859,densenet161,Spicy wings,0.7,1.0
+860,densenet161,Hot and sour lotus root,0.8,0.9
+861,densenet161,Razor clam,1.0,1.0
+862,densenet161,Roast dried pork,0.6,0.8
+863,densenet161,Spicy carp,0.9,1.0
+864,densenet161,Cumin beef,0.4,0.8
+865,densenet161,Red dates and tremella soup,0.2,0.6
+866,densenet161,Pineapple cake,1.0,1.0
+867,densenet161,Strawberry ice cream,0.3,0.7
+868,densenet161,Crab seed sushi,1.0,1.0
+869,densenet161,Sea cucumber with millet,0.8,0.8
+870,densenet161,Braised steak ﬁllet,0.0,0.8
+871,densenet161,Braised chicken,0.0,0.4
+872,densenet161,Fried meatballs,0.8,1.0
+873,densenet161,Spicy palm,0.4,0.7
+874,densenet161,Black sesame glutinous rice balls,0.4,0.7
+875,densenet161,Grilled beef ribs,0.8,1.0
+876,densenet161,Steamed yellow croaker,0.7,1.0
+877,densenet161,Fried balls and radish,0.5,0.9
+878,densenet161,Flammulina velutipes roll with streaky pork,0.4,0.9
+879,densenet161,Grilled eggplant,0.9,1.0
+880,densenet161,Baby cabbage with garlic,0.5,0.8
+881,densenet161,Stir fried beef with mustard,1.0,1.0
+882,densenet161,Watermelon sago,0.7,0.9
+883,densenet161,Mango sausage,1.0,1.0
+884,densenet161,Boiled ﬁsh with pickled cabbage and chili,0.5,0.7
+885,densenet161,Spare ribs with garlic,0.4,0.6
+886,densenet161,Stewed meat noodles,0.5,0.9
+887,densenet161,Rice peel,0.3,0.6
+888,densenet161,Plate reinforcement,0.3,1.0
+889,densenet161,Steamed abalone with garlic and vermicelli,0.4,0.9
+890,densenet161,Steamed sausage noodles with lean meat,0.8,1.0
+891,densenet161,Grilled beef short rib,0.4,0.9
+892,densenet161,Cold mixed peanuts,0.5,0.7
+893,densenet161,Braised small yellow croaker,0.9,1.0
+894,densenet161,Steamedf Fish head with diced hot red peppers,0.7,1.0
+895,densenet161,Sugar fried chestnut,0.7,1.0
+896,densenet161,Coconut pudding,1.0,1.0
+897,densenet161,Caesar salad,0.5,0.9
+898,densenet161,Sichuan dandan noodles,0.8,0.9
+899,densenet161,Eggplant rice,0.3,0.6
+900,densenet161,Overlord chicken strips,0.4,0.8
+901,densenet161,Miso soup,0.2,0.6
+902,densenet161,Fried rice with beef,0.2,0.4
+903,densenet161,Golden pancake,1.0,1.0
+904,densenet161,Kalimeris with smoked bean curd,0.9,1.0
+905,densenet161,Chicken soup,0.7,0.9
+906,densenet161,Pine bass,0.8,1.0
+907,densenet161,Baked leek string,1.0,1.0
+908,densenet161,Taro round Sago,0.4,0.9
+909,densenet161,Cold bean sprouts,0.5,0.9
+910,densenet161,White cake,0.7,0.9
+911,densenet161,Braised chicken,1.0,1.0
+912,densenet161,Fried milk,0.7,0.9
+913,densenet161,Dried baby cabbage,0.7,0.9
+914,densenet161,Fried mater convolvulus,0.1,1.0
+915,densenet161,Fish and egg noodles,0.9,1.0
+916,densenet161,Boiled peanuts,1.0,1.0
+917,densenet161,Black pepper steak,0.5,0.9
+918,densenet161,Spicy salted duck,0.1,0.9
+919,densenet161,Shredded bean curd with cold sauce,0.6,0.8
+920,densenet161,Amaebi,0.3,0.9
+921,densenet161,Seafood noodle bumps,1.0,1.0
+922,densenet161,Three delicacies in casserole,0.4,0.7
+923,densenet161,Steamed chicken with rice in lotus leaf,0.8,1.0
+924,densenet161,Braised sea cucumber with scallion,0.7,0.9
+925,densenet161,Dry pot beef,0.0,0.5
+926,densenet161,Boiled broccoli,0.2,1.0
+927,densenet161,Mixed wonton,0.3,0.9
+928,densenet161,Glutinous rice cake with brown sugar,0.8,0.9
+929,densenet161,Squid body,0.2,0.9
+930,densenet161,Vegetable pot,0.9,1.0
+931,densenet161,Curry sirloin,0.9,0.9
+932,densenet161,Meat ﬂoss cake,1.0,1.0
+933,densenet161,Crispy corn cob,0.8,1.0
+934,densenet161,Fried rice with sausage,0.3,0.5
+935,densenet161,Baby cabbage in casserole,0.8,1.0
+936,densenet161,Fried shrimp,0.4,0.7
+937,densenet161,Mutton hot pot,0.7,0.9
+938,densenet161,Tea ﬂavored boiled eggs,0.5,0.7
+939,densenet161,Rice with vegetables,0.7,0.9
+940,densenet161,Sausages with cheese,0.7,0.9
+941,densenet161,Broccoli soup,0.9,1.0
+942,densenet161,Roast tripe,0.3,0.8
+943,densenet161,Minced beef congee,0.1,0.5
+944,densenet161,Steamed mandarin ﬁsh,0.8,1.0
+945,densenet161,Stewed beef offal,0.0,0.5
+946,densenet161,Scalded prawns,0.6,0.8
+947,densenet161,Ice cream egg puff,0.9,1.0
+948,densenet161,Honey toast,0.7,1.0
+949,densenet161,Rice with chicken leg,0.4,0.6
+950,densenet161,The brine cattle show,0.1,0.6
+951,densenet161,Bibimbap with pork belly,0.8,1.0
+952,densenet161,Shredded meat,0.7,1.0
+953,densenet161,Egg steamed meatloaf,0.8,0.9
+954,densenet161,Steamed side ﬁsh,0.6,0.9
+955,densenet161,Chinese salad,0.3,0.9
+956,densenet161,Deep-fried cakes,0.7,1.0
+957,densenet161,Roast chicken pizza,0.1,0.5
+958,densenet161,Sauce-ﬂavored beef tendon,0.1,0.9
+959,densenet161,Coca cola chicken wings,0.2,0.5
+960,densenet161,Fried river prawns with leek,0.8,0.9
+961,densenet161,Chicken hot pot,0.7,0.7
+962,densenet161,Stewed meatballs with brown sauce,0.8,0.9
+963,densenet161,Boiled lamb chops,0.2,0.9
+964,densenet161,Salt baked chicken,0.5,1.0
+965,densenet161,Spicy shrimp pot,0.7,0.9
+966,densenet161,Hotbed chives with pork,0.9,1.0
+967,densenet161,Papaya cool water,0.6,0.9
+968,densenet161,Garlic seasonal vegetables,0.7,1.0
+969,densenet161,Appetizer duck blood,0.7,1.0
+970,densenet161,Salted egg yolk baked pumpkin,0.8,0.9
+971,densenet161,Fried beef rice with bitter melon,0.8,0.9
+972,densenet161,Sauce big bone,0.0,0.8
+973,densenet161,Broiled river eel,0.8,0.9
+974,densenet161,Kung Pao chicken with rice,0.6,0.8
+975,densenet161,Caterpillar bread,0.9,0.9
+976,densenet161,Sliced pork soup,0.5,0.8
+977,densenet161,Clam tofu soup,0.7,1.0
+978,densenet161,Stone pot tofu,0.5,0.9
+979,densenet161,Stir-fried pork liver,0.5,0.6
+980,densenet161,Stir-Fried pork with smoked bean curd,0.0,0.2
+981,densenet161,Steamed twisted roll with scallions,0.5,0.9
+982,densenet161,Mixed mentai ﬁsh shreds,1.0,1.0
+983,densenet161,Slippery rice mushrooms chicken,0.9,1.0
+984,densenet161,Beef hotpot,0.2,0.7
+985,densenet161,Luncheon meat,0.8,1.0
+986,densenet161,Peru system sauce duck,0.9,1.0
+987,densenet161,Shredded rabbit meat,0.7,0.8
+988,densenet161,Tuna onigiri,0.5,0.7
+989,densenet161,Egg pancake,0.5,0.6
+990,densenet161,Three-cup chicken,0.8,1.0
+991,densenet161,Noodles with chicken leg soup,0.7,0.9
+992,densenet161,Fried stone egg,0.6,0.8
+993,densenet161,Honey concave cake,0.7,1.0
+994,densenet161,Chocolate egg wafﬂes,0.3,1.0
+995,densenet161,Lobster rice bowl,0.8,0.9
+996,densenet161,Scrambled eggs with Chinese chives,0.9,1.0
+997,densenet161,Pan-Fried calf chop,0.8,1.0
+998,densenet161,Black grass jelly,0.8,1.0
+999,densenet161,Tobiko warship sushi,1.0,1.0
+1000,densenet161,Beef ribs,0.6,0.7
+1001,densenet161,Green pepper shredded pork,0.9,1.0
+1002,densenet161,Sweet and sour pork ribs,0.4,0.7
+1003,densenet161,Original soup wonton,0.1,0.6
+1004,densenet161,Salt grilled salmon head,1.0,1.0
+1005,densenet161,Quicksand bun with egg custard,0.9,1.0
+1006,densenet161,Stir-fried shredded pork with celery,0.9,0.9
+1007,densenet161,Garlic chicken feet,0.0,0.2
+1008,densenet161,Black pearl with smoothie,0.8,1.0
+1009,densenet161,Roasted lamb loin,0.8,0.8
+1010,densenet161,Donuts,1.0,1.0
+1011,densenet161,Spicy cabbage sushi roll,0.0,0.6
+1012,densenet161,Cold rice noodles,0.2,0.8
+1013,densenet161,Black pepper chicken chop rice,0.0,0.2
+1014,densenet161,Fried thousand page tofu,0.7,0.9
+1015,densenet161,Corn cup,0.9,0.9
+1016,densenet161,Sauce bones,0.6,0.9
+1017,densenet161,Seafood udon,0.6,0.8
+1018,densenet161,Baked cheesy seafood baked rice,0.2,0.5
+1019,densenet161,Hot noodles with sesame paste,0.7,0.9
+1020,densenet161,Sizzling beef,0.4,0.8
+1021,densenet161,Corn pie,0.4,0.5
+1022,densenet161,Pickled mustard with shredded soup,0.7,1.0
+1023,densenet161,Fruit and vegetable salad,0.2,0.8
+1024,densenet161,Chicken wingette skewers,0.9,0.9
+1025,densenet161,Yuanbao shrimp,0.6,0.9
+1026,densenet161,Sliced roast duck,0.4,0.9
+1027,densenet161,Mao xuewang,0.8,1.0
+1028,densenet161,Leek box,0.3,0.8
+1029,densenet161,Beer ﬁsh,0.6,0.9
+1030,densenet161,Griddle squid,0.8,0.9
+1031,densenet161,Purple sweet potato bun,0.8,1.0
+1032,densenet161,Twice-cooked pork with rice,0.5,0.9
+1033,densenet161,Red oil dumplings,0.8,0.9
+1034,densenet161,Beef noodles,0.5,0.8
+1035,densenet161,Delicious daifuku,0.4,0.9
+1036,densenet161,Fried crab with ginger and green onion,0.8,1.0
+1037,densenet161,Flower cake,0.8,1.0
+1038,densenet161,Oreo snow mei niang,0.8,0.9
+1039,densenet161,Fried lotus root,0.9,1.0
+1040,densenet161,Chocolate donut,0.9,1.0
+1041,densenet161,Chocolate toast,1.0,1.0
+1042,densenet161,Roll dough,0.8,0.8
+1043,densenet161,Durian pulp ice cream,0.6,0.9
+1044,densenet161,Fried shrimp,1.0,1.0
+1045,densenet161,Fried ﬁsh,0.3,0.9
+1046,densenet161,Casserole balls,0.4,0.7
+1047,densenet161,Spinach egg drop soup,0.5,0.9
+1048,densenet161,Beef soup,1.0,1.0
+1049,densenet161,Spring pancake,0.8,1.0
+1050,densenet161,Stir-fried rougamo,0.2,0.8
+1051,densenet161,Spicy ribs and shrimp,0.5,0.9
+1052,densenet161,Spicy cucumber strips,1.0,1.0
+1053,densenet161,Shrimp wanton,0.9,0.9
+1054,densenet161,Pickled cabbage noodles,0.3,0.7
+1055,densenet161,Crispy radish skin,0.2,0.9
+1056,densenet161,Golden mantou,0.9,1.0
+1057,densenet161,Braised pork rice,0.7,0.9
+1058,densenet161,Sugar mixed tomatoes,0.8,1.0
+1059,densenet161,Shrimp pizza,0.2,0.5
+1060,densenet161,Yang chun noodles,0.5,1.0
+1061,densenet161,Stir-fried bitter gourd,0.9,1.0
+1062,densenet161,Spicy fried clams,0.6,1.0
+1063,densenet161,Soft tofu soup,0.8,1.0
+1064,densenet161,Marinated chicken gizzards,0.7,0.8
+1065,densenet161,Fried winter melon,0.7,0.9
+1066,densenet161,Fried tofu,0.1,0.3
+1067,densenet161,Cold noodles,0.8,0.9
+1068,densenet161,Fried egg,0.8,1.0
+1069,densenet161,Braised duck head,0.9,0.9
+1070,densenet161,Stir-fried chicken with pickled peppers,0.1,0.6
+1071,densenet161,Cold rice cake,0.7,1.0
+1072,densenet161,Shrimp tail,0.7,0.9
+1073,densenet161,Shredded lettuce salad,0.4,0.8
+1074,densenet161,Steamed chicken,0.2,0.5
+1075,densenet161,Tonkatsu,0.8,0.9
+1076,densenet161,Sam chicken soup,0.6,0.7
+1077,densenet161,Salted chicken,0.6,1.0
+1078,densenet161,Tomato sirloin,0.6,0.8
+1079,densenet161,Griddle cooked lettuce bacon,0.8,1.0
+1080,densenet161,Cold fungus,0.2,0.9
+1081,densenet161,Sizzling garlic shrimp,0.9,1.0
+1082,densenet161,Pork ears with chilli oil dressing,0.1,0.5
+1083,densenet161,Braised pork with potatoes,0.3,0.5
+1084,densenet161,Stir-fried pig ears,0.6,0.9
+1085,densenet161,Chilli oil liangpi,0.3,0.6
+1086,densenet161,Corn and vegetable porridge,0.6,0.9
+1087,densenet161,Spicy hot pot,0.5,0.5
+1088,densenet161,Baked pig brain with tin foil,0.6,0.8
+1089,densenet161,Lamb pot,0.5,1.0
+1090,densenet161,Crab and cheese soft pretzel,0.8,1.0
+1091,densenet161,Toasted bread,0.7,0.9
+1092,densenet161,Sea bream sashimi,0.9,1.0
+1093,densenet161,Lotus root slices,0.7,1.0
+1094,densenet161,Pork ﬂoss seaweed roll,0.0,0.9
+1095,densenet161,Bean curd beef,0.4,0.7
+1096,densenet161,Sixi roasted bran,0.7,0.9
+1097,densenet161,Griddle duck head,0.9,0.9
+1098,densenet161,Tofu soup rice cake,1.0,1.0
+1099,densenet161,Sour and spicy ﬁsh meal with grain,0.3,0.9
+1100,densenet161,Mushroom pot,0.5,0.7
+1101,densenet161,Orlean roasted wing,0.6,0.9
+1102,densenet161,Three products of sashimi,1.0,1.0
+1103,densenet161,Durian cake,0.8,0.8
+1104,densenet161,White cut lamb,0.8,1.0
+1105,densenet161,Trash ﬁsh,0.5,0.8
+1106,densenet161,Vanilla ice cream,0.2,0.6
+1107,densenet161,Mushu pork rice bowl,1.0,1.0
+1108,densenet161,Fried pork with beans,0.6,0.9
+1109,densenet161,Sauerkraut meat,0.9,1.0
+1110,densenet161,Napoleon cake,0.4,0.6
+1111,densenet161,Meringue puffs,0.0,0.7
+1112,densenet161,Enoki mushroom,0.3,0.6
+1113,densenet161,Chicken breast salad,0.2,0.6
+1114,densenet161,Lotus root box,0.2,0.6
+1115,densenet161,Simmered dry noodles,0.1,0.5
+1116,densenet161,Pigeon soup,0.4,0.8
+1117,densenet161,Duck belly,0.7,1.0
+1118,densenet161,Beef jerky,0.8,0.9
+1119,densenet161,Chestnut cream soup,0.9,1.0
+1120,densenet161,Plum kidney bean,0.6,0.8
+1121,densenet161,Red bean sago,0.3,0.8
+1122,densenet161,Lemon sauerkraut ﬁsh,0.3,0.9
+1123,densenet161,Fried pork with sauerkraut,0.7,0.9
+1124,densenet161,Sauce chili,0.1,0.5
+1125,densenet161,Squid crisp,0.9,0.9
+1126,densenet161,Spicy korean noodles,0.9,0.9
+1127,densenet161,Steamed rice with mei cai meatloaf,0.6,0.8
+1128,densenet161,King crab,1.0,1.0
+1129,densenet161,Beef noodle soup,0.5,0.9
+1130,densenet161,Fried frog,0.7,0.8
+1131,densenet161,Mustard duck feet,0.7,1.0
+1132,densenet161,Fried squid,0.8,0.9
+1133,densenet161,Cucumber with pork ears,0.9,0.9
+1134,densenet161,Potato salad,0.3,0.5
+1135,densenet161,Oily noodles,0.9,0.9
+1136,densenet161,Red oil yuba,0.7,1.0
+1137,densenet161,Soup noodles,0.8,0.9
+1138,densenet161,Braised lamb,0.5,0.9
+1139,densenet161,Fried noodles,0.6,0.9
+1140,densenet161,Grilled salmon sushi,0.5,0.8
+1141,densenet161,Lotus seed pork belly soup,0.5,0.9
+1142,densenet161,Pickled fresh,0.8,0.9
+1143,densenet161,Pepper rabbit,0.8,0.9
+1144,densenet161,Beef tendon noodles,0.6,1.0
+1145,densenet161,Onion mixed fungus,0.4,0.6
+1146,densenet161,Arctic bay sashimi,0.9,1.0
+1147,densenet161,Braised sheep’s hoof,0.6,0.9
+1148,densenet161,Cucumber dip,1.0,1.0
+1149,densenet161,Chicken rice,0.1,0.4
+1150,densenet161,Sweet potato balls with taro,0.6,0.9
+1151,densenet161,Egg pancakes,0.2,0.6
+1152,densenet161,Braised pork with chestnut,0.5,0.9
+1153,densenet161,Stewed foie gras,0.2,1.0
+1154,densenet161,Pork head meat mixed with cucumber,0.6,1.0
+1155,densenet161,Crepe,0.6,0.9
+1156,densenet161,Black rice porridge,0.1,0.8
+1157,densenet161,Griddle ribs,0.4,0.8
+1158,densenet161,Sauce beef,0.6,0.8
+1159,densenet161,Salt and pepper shrimp,0.2,0.8
+1160,densenet161,Stewed chicken soup with cordyceps ﬂower,0.4,0.5
+1161,densenet161,Sour soup pork,0.5,0.8
+1162,densenet161,Braised pigeon,0.3,0.9
+1163,densenet161,Sausage pizza,0.1,0.7
+1164,densenet161,Candied sweet potatoes,1.0,1.0
+1165,densenet161,Shrimp sushi,0.9,0.9
+1166,densenet161,Crispy chicken bibimbap,0.5,0.7
+1167,densenet161,Fried noodles with seafood,0.3,0.8
+1168,densenet161,Griddle of pleurotus eryngii,0.7,1.0
+1169,densenet161,Fried beans,0.0,0.6
+1170,densenet161,The ﬁve-star chicken nuggets,0.6,1.0
+1171,densenet161,Broth bottom,0.9,1.0
+1172,densenet161,Pilaf,0.8,0.9
+1173,densenet161,Griddle beef with skin,0.9,1.0
+1174,densenet161,Cold dried eggs,0.7,0.8
+1175,densenet161,Celery and peanuts,0.4,1.0
+1176,densenet161,Sauerkraut chicken,0.3,0.6
+1177,densenet161,Golden cake,0.7,1.0
+1178,densenet161,Pickled cucumber,1.0,1.0
+1179,densenet161,Potted cake,1.0,1.0
+1180,densenet161,Rice burger,0.8,1.0
+1181,densenet161,Mango fried yogurt,1.0,1.0
+1182,densenet161,Sawdust cup,1.0,1.0
+1183,densenet161,Fresh pot rabbit,0.8,0.9
+1184,densenet161,Mango sticky rice cake,0.8,0.8
+1185,densenet161,Honey roasted whole chicken,0.9,0.9
+1186,densenet161,Shredded cake,0.4,0.9
+1187,densenet161,Tenderloin skewers,0.1,0.5
+1188,densenet161,Bean sprouts in soup,0.8,0.9
+1189,densenet161,Salmon salad,0.4,0.7
+1190,densenet161,Dry roasted large yellow croaker,0.5,0.9
+1191,densenet161,Fish skin dumplings,0.9,1.0
+1192,densenet161,Signature chicken feet,0.9,0.9
+1193,densenet161,Pimple face,0.4,0.6
+1194,densenet161,Fried lamb chops,0.1,0.5
+1195,densenet161,Stir-fried squid whiskers,0.9,1.0
+1196,densenet161,Fried ﬁve spice roll,0.5,0.7
+1197,densenet161,Crock soup,0.6,0.9
+1198,densenet161,Tofu bubble,0.8,0.9
+1199,densenet161,Steamed ﬁsh head with double pepper,0.6,0.9
+1200,densenet161,Dried radish omelette,0.3,1.0
+1201,densenet161,Shredded potato burrito,0.1,0.7
+1202,densenet161,Scrambled eggs with green onion,0.7,1.0
+1203,densenet161,Mixed beef,0.1,0.7
+1204,densenet161,Garlic bread,0.8,1.0
+1205,densenet161,Sauteed pork with green beans,0.4,0.5
+1206,densenet161,Braised vermicelli with chicken and mushroom,0.5,0.9
+1207,densenet161,Oreo ice cream,0.8,0.9
+1208,densenet161,Braised ham sausage,0.2,0.6
+1209,densenet161,Stir-fried pork with green peppers,0.6,0.9
+1210,densenet161,Mung bean soup,0.1,0.5
+1211,densenet161,Sauerkraut vermicelli soup,0.8,1.0
+1212,densenet161,Organic ﬁsh,0.2,0.6
+1213,densenet161,Shredded squid,0.8,1.0
+1214,densenet161,Spicy fried escargot,0.3,0.9
+1215,densenet161,Honey chicken feet,0.6,0.9
+1216,densenet161,Cucumber mixed with garlic paste,0.9,1.0
+1217,densenet161,Watermelon smoothie,0.1,0.9
+1218,densenet161,Scallops and shrimp congee,0.0,0.3
+1219,densenet161,Multigrain bun,0.7,0.9
+1220,densenet161,Cold preserved egg,0.9,1.0
+1221,densenet161,Spicy chicken,0.1,0.3
+1222,densenet161,Good harvest of coarse grains,0.9,1.0
+1223,densenet161,Stir-fried lettuce with dace in black bean sauce,0.9,1.0
+1224,densenet161,Pickled cabbage powder,0.9,1.0
+1225,densenet161,Stone egg skewers,0.7,1.0
+1226,densenet161,Sauteed beef ﬁllet with hot green pepper,0.4,0.6
+1227,densenet161,Chocolate brown cake,0.0,0.9
+1228,densenet161,Cucumber fritters,1.0,1.0
+1229,densenet161,Steamed pork ribs,0.5,0.8
+1230,densenet161,Sea star,0.4,0.9
+1231,densenet161,Fried dried tofu,0.1,0.4
+1232,densenet161,Crab fried rice cake,0.4,1.0
+1233,densenet161,Fried sweet potato balls,0.4,1.0
+1234,densenet161,Guiling paste,0.9,1.0
+1235,densenet161,Green vegetable tofu soup,0.8,1.0
+1236,densenet161,Mapo tofu,0.9,1.0
+1237,densenet161,Grilled fatty intestine skewers,0.1,0.5
+1238,densenet161,Pan-fried pork bun,0.8,1.0
+1239,densenet161,Braised turtle,0.9,1.0
+1240,densenet161,Cilantro tofu soup,0.9,1.0
+1241,densenet161,Fried rice with sauerkraut and egg,0.2,0.8
+1242,densenet161,Mustard pork noodles,0.6,0.9
+1243,densenet161,Chicken casserole,0.1,0.9
+1244,densenet161,Polenta,0.8,1.0
+1245,densenet161,Pork noodles,0.4,0.6
+1246,densenet161,Spicy squid,0.1,0.4
+1247,densenet161,Ketchup surface,0.3,0.6
+1248,densenet161,Grilled cod,0.5,0.8
+1249,densenet161,Ice cream cone,1.0,1.0
+1250,densenet161,Large rows of rice,0.4,0.6
+1251,densenet161,Chestnut shortbread,0.9,0.9
+1252,densenet161,Marinated goose wings,0.8,1.0
+1253,densenet161,Vegetarian abalone,0.6,0.9
+1254,densenet161,Pan-fried three stuffed treasures,0.9,1.0
+1255,densenet161,Ice cream ball,0.8,0.9
+1256,densenet161,Fried ham with cucumber,1.0,1.0
+1257,densenet161,Piggy paige cake,0.7,0.8
+1258,densenet161,Chicken sandwich,0.8,1.0
+1259,densenet161,Mango black jelly,0.9,1.0
+1260,densenet161,Roast chicken,0.2,0.7
+1261,densenet161,Walnut buns,0.8,1.0
+1262,densenet161,Braised tofu in abalone sauce,0.8,0.9
+1263,densenet161,The oil meat,0.7,0.7
+1264,densenet161,Cheese ribs,0.8,1.0
+1265,densenet161,Firewood chicken,1.0,1.0
+1266,densenet161,Fried dumplings,0.8,1.0
+1267,densenet161,Sushi of ﬂoss,0.8,1.0
+1268,densenet161,Yongzhou blood duck,0.7,0.9
+1269,densenet161,Braised beef brisket en casserole,0.3,0.7
+1270,densenet161,Preserved rice,0.5,1.0
+1271,densenet161,Guokui,0.9,1.0
+1272,densenet161,Fried rice cake with chinese cabbage,0.0,0.6
+1273,densenet161,Stewed bean curd soup with crucian carp,0.7,1.0
+1274,densenet161,Smoothies,0.1,0.5
+1275,densenet161,Elbow,0.2,0.7
+1276,densenet161,Golden cod,0.1,0.5
+1277,densenet161,Cheese baked scallops,0.9,1.0
+1278,densenet161,Sauerkraut bass,0.0,0.4
+1279,densenet161,Bean buns,0.4,0.7
+1280,densenet161,Durian pizza,0.9,1.0
+1281,densenet161,Boiled dried shreds,0.6,0.8
+1282,densenet161,Steamed chicken feet with black bean sauce,0.3,0.9
+1283,densenet161,Blueberry mousse,0.9,1.0
+1284,densenet161,Fried rice noodles with eggs,0.3,0.6
+1285,densenet161,Rice with duck legs,0.3,0.7
+1286,densenet161,Tofu with shallots,0.4,0.7
+1287,densenet161,Waxiang chicken,0.1,0.9
+1288,densenet161,Tomahaw,0.8,1.0
+1289,densenet161,Bacon sandwich,0.4,0.8
+1290,densenet161,Braised eggplant with bean curd,0.9,1.0
+1291,densenet161,Donkey burger,1.0,1.0
+1292,densenet161,Braised ﬁsh with soy sauce,0.0,0.3
+1293,densenet161,Rice covered with black pepper steak,0.3,0.7
+1294,densenet161,Italian noodle with meat sauce,1.0,1.0
+1295,densenet161,Rice with teriyaki drumstick,0.1,0.3
+1296,densenet161,Duck blood and bean-starchy vermicelli soup,0.6,0.8
+1297,densenet161,Sauteed lettuce,0.3,1.0
+1298,densenet161,Corn with pine nuts,0.9,1.0
+1299,densenet161,Ice powder,0.9,1.0
+1300,densenet161,Egg wrapped sausage,0.8,1.0
+1301,densenet161,Rainbow cake,0.9,1.0
+1302,densenet161,Blueberry smoothie,0.5,0.8
+1303,densenet161,Lava cake,0.9,1.0
+1304,densenet161,Stir fried vermicelli,0.9,1.0
+1305,densenet161,Fried shrimp,0.5,0.7
+1306,densenet161,Fried squid ﬂower,0.5,1.0
+1307,densenet161,Stewed croaker in brown sauce,0.4,0.8
+1308,densenet161,Quick-fried liver with distilled grains sauce,0.6,1.0
+1309,densenet161,Secret jujube,1.0,1.0
+1310,densenet161,Pita bread so awked in beef soup,0.2,0.9
+1311,densenet161,Vinegar turnip,0.6,1.0
+1312,densenet161,Wonton,1.0,1.0
+1313,densenet161,Beef soup,0.7,0.9
+1314,densenet161,Muxu pork,0.6,1.0
+1315,densenet161,Seaweed sushi,0.3,0.9
+1316,densenet161,Steamed turbot,0.8,1.0
+1317,densenet161,Larimichthys,0.4,0.7
+1318,densenet161,Fried chicken,0.6,0.7
+1319,densenet161,Salted pork in jelly crystal trotter,0.7,1.0
+1320,densenet161,Pork with preserved vegetable,0.4,0.8
+1321,densenet161,Flower cake,0.8,1.0
+1322,densenet161,Barbecued pork noodle rolls,0.8,0.9
+1323,densenet161,Potato chips on sizzling iron plate,0.6,0.8
+1324,densenet161,Fried bean sprouts with leek,1.0,1.0
+1325,densenet161,Sesame octopus,0.6,0.9
+1326,densenet161,Fried razor clam,0.8,1.0
+1327,densenet161,Cheese pizza,0.9,1.0
+1328,densenet161,Pork with garlic sauce,0.5,0.8
+1329,densenet161,Scalded beef,0.9,1.0
+1330,densenet161,Sugar oil cake,0.7,1.0
+1331,densenet161,Noodles with pork chop,0.3,0.8
+1332,densenet161,Fried hairtail,0.5,1.0
+1333,densenet161,Braised pork with vermicelli,0.6,0.8
+1334,densenet161,Marinated quail eggs,0.7,1.0
+1335,densenet161,Chinese chestnut,0.5,0.9
+1336,densenet161,Spicy beef soup,0.5,0.9
+1337,densenet161,Boiled egg,0.2,0.8
+1338,densenet161,Noodles soup,0.8,1.0
+1339,densenet161,Braised pork,1.0,1.0
+1340,densenet161,Rice with curry chicken chop,0.8,0.8
+1341,densenet161,Balsam pear scrambled eggs,1.0,1.0
+1342,densenet161,Roast chicken wings,0.5,0.9
+1343,densenet161,Yogurt purple rice,0.3,0.9
+1344,densenet161,Pork rice,0.4,0.6
+1345,densenet161,Fried bacon with lettuce,0.6,1.0
+1346,densenet161,Fried eggs with pepper,0.4,0.8
+1347,densenet161,Pork stomach,0.0,0.7
+1348,densenet161,Australian skewers,0.2,0.4
+1349,densenet161,Steamed rice with barbecued pork,0.6,0.8
+1350,densenet161,Bread soaked in ﬁsh head soup,0.7,0.9
+1351,densenet161,Shredded pork skin,0.8,1.0
+1352,densenet161,Soy sauce chicken,0.6,0.7
+1353,densenet161,Tea ﬂavored shrimp,1.0,1.0
+1354,densenet161,Home-style bean curd,0.2,0.8
+1355,densenet161,Pita bread so awked in lamp soup,0.4,0.8
+1356,densenet161,Scramble egg,0.5,1.0
+1357,densenet161,Stewed chicken with mushroom,0.3,0.9
+1358,densenet161,Grilled chicken breast,0.1,0.5
+1359,densenet161,Oyster sauce beef,0.6,0.7
+1360,densenet161,Stewed spareribs with potatoes,0.1,0.5
+1361,densenet161,Marinated beef tripe,1.0,1.0
+1362,densenet161,Sesame paste,0.6,1.0
+1363,densenet161,Coconut rice,0.9,1.0
+1364,densenet161,Mother’s hoof soup,0.2,0.5
+1365,densenet161,Double chicken drumsticks,0.2,0.8
+1366,densenet161,Roasted fresh catﬁsh,0.6,1.0
+1367,densenet161,Fried pork with dried meat,0.5,0.9
+1368,densenet161,Coconut chicken,0.6,0.8
+1369,densenet161,Steamed luffa with minced garlic,1.0,1.0
+1370,densenet161,Spareribs with taro,0.4,0.8
+1371,densenet161,Fried soybeans with luffa,1.0,1.0
+1372,densenet161,Cod ﬁsh steak,0.4,0.8
+1373,densenet161,Rice bag,0.8,1.0
+1374,densenet161,Pickle soup,0.5,0.7
+1375,densenet161,Braised pork with braised pork,0.3,0.8
+1376,densenet161,Fried crab with curry,0.6,0.9
+1377,densenet161,Fried shrimp,0.7,0.9
+1378,densenet161,Salt and pepper duck chin,0.8,0.9
+1379,densenet161,Tofu pot,0.2,0.4
+1380,densenet161,Fried noodles with beef,1.0,1.0
+1381,densenet161,Baked prawns with salt,0.7,0.9
+1382,densenet161,Spicy hot pot,0.6,0.8
+1383,densenet161,Pork chop soup with radish,0.5,0.9
+1384,densenet161,Powder soup,0.6,0.9
+1385,densenet161,Spicy ﬁsh,0.5,1.0
+1386,densenet161,Whitebait soup,0.9,0.9
+1387,densenet161,Fried cantonese sausage,0.8,0.8
+1388,densenet161,Mixed agaric with coriander,1.0,1.0
+1389,densenet161,Bamboo rice,0.9,1.0
+1390,densenet161,Fried noodles with beef,0.3,0.6
+1391,densenet161,Braised eggplant with meat,0.7,0.8
+1392,densenet161,Sugar pie,0.1,0.3
+1393,densenet161,Steamed bun with vegetables,0.5,0.8
+1394,densenet161,Crystal chicken,0.5,0.9
+1395,densenet161,Buddha jumps over the wall,0.4,0.8
+1396,densenet161,Spareribs with brown sauce,0.7,0.8
+1397,densenet161,Silky chicken roll,0.6,1.0
+1398,densenet161,Roasted eggplant with garlic,0.9,1.0
+1399,densenet161,Fried rice with eel,0.2,0.4
+1400,densenet161,Grilled cold noodles,0.9,0.9
+1401,densenet161,Cabbage tofu soup,0.7,1.0
+1402,densenet161,Northeast big lift,0.3,0.7
+1403,densenet161,Grilled chiba tofu,0.1,0.9
+1404,densenet161,Fried konjac balls,1.0,1.0
+1405,densenet161,Spike potatoes,0.4,0.8
+1406,densenet161,Hot and sour chicken feet,0.1,0.3
+1407,densenet161,Stir fried lily with celery,1.0,1.0
+1408,densenet161,Mango cake,0.5,0.8
+1409,densenet161,Shrimp skewers,1.0,1.0
+1410,densenet161,Japanese tofu with tin foil,0.9,1.0
+1411,densenet161,Corn pudding crispy,0.5,0.9
+1412,densenet161,Cold taro powder,0.8,1.0
+1413,densenet161,Three fresh rice noodles,0.0,0.4
+1414,densenet161,Rice cake,0.9,1.0
+1415,densenet161,Sauce cake,0.6,0.9
+1416,densenet161,Duck soup,0.3,0.7
+1417,densenet161,Duomang small meatballs,1.0,1.0
+1418,densenet161,Fish ball soup,0.8,0.9
+1419,densenet161,Flour cake,0.0,0.8
+1420,densenet161,Wonton noodles,0.3,0.7
+1421,densenet161,Walnut shortbread,0.8,1.0
+1422,densenet161,Corn pumpkin porridge,0.7,0.9
+1423,densenet161,Shrimp and crab porridge,0.1,0.8
+1424,densenet161,Hot and sour cabbage,0.7,1.0
+1425,densenet161,Brown sugar ice powder,0.4,0.9
+1426,densenet161,Egg rice roll,0.4,0.9
+1427,densenet161,Smoked sauce meat platter,0.2,0.4
+1428,densenet161,Pepper chicken,0.4,0.6
+1429,densenet161,Scrambled eggs with loofah,0.9,1.0
+1430,densenet161,Stir fried pork and bone with chili,0.7,0.8
+1431,densenet161,Fried kidney ﬂower with pig liver,1.0,1.0
+1432,densenet161,Corn grilled ribs,0.9,1.0
+1433,densenet161,Roasted yellow throat,0.2,0.5
+1434,densenet161,Barbecued pork,0.5,0.9
+1435,densenet161,Seaweed soup,0.9,1.0
+1436,densenet161,Steamed pork,0.7,1.0
+1437,densenet161,Pineapple sweet and sour pork,0.4,0.9
+1438,densenet161,Egg wafﬂes,0.9,1.0
+1439,densenet161,Camphor tea duck,0.1,0.6
+1440,densenet161,Sausage rice,0.8,0.9
+1441,densenet161,Mongolian roasted whole lamb,0.9,1.0
+1442,densenet161,Stir-fried pork with capers,1.0,1.0
+1443,densenet161,Vinegar cabbage,0.5,0.9
+1444,densenet161,Kelp salad,0.8,0.9
+1445,densenet161,Twice cooked beef,0.5,0.8
+1446,densenet161,Fried loofah,0.9,1.0
+1447,densenet161,Fried liangpi,0.6,0.8
+1448,densenet161,Fried bean curd,0.9,1.0
+1449,densenet161,Sweet corn pie,0.8,0.9
+1450,densenet161,Beef rice roll,0.2,0.7
+1451,densenet161,Sausage,0.9,1.0
+1452,densenet161,Chicken bibimbap,0.3,1.0
+1453,densenet161,Beef offal pot,0.9,0.9
+1454,densenet161,Crab roe salad,0.7,0.9
+1455,densenet161,Fillet steak,0.1,0.6
+1456,densenet161,Banana pancake,1.0,1.0
+1457,densenet161,Plum dried vegetable meat bun,0.3,1.0
+1458,densenet161,Smoked chicken skeleton,0.4,1.0
+1459,densenet161,Eight treasure rice,0.3,0.6
+1460,densenet161,Fish pot,0.5,0.9
+1461,densenet161,Yam pork ribs congee,0.1,0.3
+1462,densenet161,Arctic shellﬁsh sushi,0.9,1.0
+1463,densenet161,Liwan boat porridge specialty,0.6,0.9
+1464,densenet161,Salami pizza,0.9,1.0
+1465,densenet161,Fried eggplant,0.7,0.9
+1466,densenet161,Lotus leaf rice,0.7,0.8
+1467,densenet161,Salted ﬁsh and eggplant claypot,0.0,0.2
+1468,densenet161,Mutton string,0.8,1.0
+1469,densenet161,Fried beef with bitter melon,0.9,1.0
+1470,densenet161,Stir-fried cauliﬂower,0.7,1.0
+1471,densenet161,Beef hot and sour noodle,0.4,0.6
+1472,densenet161,Cold bitter chrysanthemum,0.8,1.0
+1473,densenet161,Yellow throat,0.9,0.9
+1474,densenet161,Fried chicken with hot peppers,0.2,0.6
+1475,densenet161,Tiger cake,0.4,0.8
+1476,densenet161,Four red porridge,0.1,0.5
+1477,densenet161,Steamed egg dumplings,0.8,0.9
+1478,densenet161,Shredded cucumber,0.5,0.9
+1479,densenet161,Spicy noodles,0.5,0.7
+1480,densenet161,Grandma’s scrambled eggs,0.3,0.6
+1481,densenet161,Stir-fried chicken with rice pepper,0.2,0.9
+1482,densenet161,Smoked hairtail,0.3,0.8
+1483,densenet161,Sesame soy sauce lettuce,0.9,1.0
+1484,densenet161,Braised beef,0.7,0.8
+1485,densenet161,Haggis soup,0.1,0.5
+1486,densenet161,Braised pork ribs,0.6,1.0
+1487,densenet161,Boiled ﬁsh,0.2,0.8
+1488,densenet161,Cake box,0.5,0.8
+1489,densenet161,Taro chicken,0.3,0.7
+1490,densenet161,Tiger green peppers,0.7,0.9
+1491,densenet161,Spicy fried sea screw,0.9,1.0
+1492,densenet161,Called naan package meat,0.8,0.9
+1493,densenet161,Dried marinated orchid,0.7,0.9
+1494,densenet161,Sauteed bacon with peas,0.7,1.0
+1495,densenet161,Chicken skin skewers,0.3,0.4
+1496,densenet161,Baked scallops,0.4,0.9
+1497,densenet161,Scrambled eggs with chives,0.7,0.8
+1498,densenet161,Grilled chicken feet,0.8,1.0
+1499,densenet161,Wooden barrel rice,0.7,0.9
+1500,densenet161,Noisette three kinds of meat,0.7,0.9
+1501,densenet161,Tofu rice noodles,0.8,1.0
+1502,densenet161,Chicken rack,0.6,0.8
+1503,densenet161,Cold gluten,0.7,1.0
+1504,densenet161,Carbon baking bullfrog,0.8,1.0
+1505,densenet161,Spicy bullfrog,0.1,0.5
+1506,densenet161,Boiled edamame,0.9,1.0
+1507,densenet161,Yam spring rolls,0.9,0.9
+1508,densenet161,Fragrant fried sierra,0.3,0.6
+1509,densenet161,Roast eggplants,0.2,0.8
+1510,densenet161,Hot rice,0.4,0.5
+1511,densenet161,Shredded cold papaya,1.0,1.0
+1512,densenet161,Golden fried chicken feet,0.6,1.0
+1513,densenet161,Winter melon pork ribs soup,0.5,0.6
+1514,densenet161,Salted pleurotus eryngii,0.0,0.7
+1515,densenet161,Grilled rice cake,0.2,0.6
+1516,densenet161,Eggplant rice with ﬁsh aroma,0.8,1.0
+1517,densenet161,Panda chocolate sundae,0.2,0.7
+1518,densenet161,Steamed noodles,0.5,0.8
+1519,densenet161,Millet mung bean porridge,0.4,0.9
+1520,densenet161,Kidney beans,0.5,1.0
+1521,densenet161,Purple potato porridge,0.6,0.9
+1522,densenet161,Duck liver,0.0,0.6
+1523,densenet161,Steamed pork ribs with glutinous rice,0.9,1.0
+1524,densenet161,Longjing shrimp,0.8,1.0
+1525,densenet161,Cauliﬂower,0.4,0.8
+1526,densenet161,Pipa duck,0.7,1.0
+1527,densenet161,Braised beef noodles,0.1,0.2
+1528,densenet161,Chicken feet in vinegar,0.5,0.8
+1529,densenet161,Tempura,1.0,1.0
+1530,densenet161,Shar pei mousse cake,0.9,1.0
+1531,densenet161,Straw hat cake,0.8,1.0
+1532,densenet161,Crispy rice potatoes,0.6,0.8
+1533,densenet161,Steamed spare ribs with taro,0.7,0.9
+1534,densenet161,Goat tripe,1.0,1.0
+1535,densenet161,Red bean porridge,0.4,0.7
+1536,densenet161,Egg noodles,0.3,1.0
+1537,densenet161,Braised pork roll,0.1,0.9
+1538,densenet161,Mango mousse cake,0.8,1.0
+1539,densenet161,Three shreds fried rice noodles,0.3,0.9
+1540,densenet161,Spiced boiled ﬁre,0.6,0.7
+1541,densenet161,Fried rice with bacon and egg,0.0,0.5
+1542,densenet161,Meicai bamboo shoots,0.6,0.9
+1543,densenet161,Griddle yellowbone ﬁsh,0.6,0.8
+1544,densenet161,Candied date zongzi,0.8,0.9
+1545,densenet161,Celery,0.9,0.9
+1546,densenet161,Mushroom chicken claypot rice,0.2,0.8
+1547,densenet161,Steamed pumpkin with lily,0.8,0.9
+1548,densenet161,Tomato beef noodle,0.1,0.6
+1549,densenet161,Champion and porridge,0.6,0.8
+1550,densenet161,Crystal shrimp,0.7,1.0
+1551,densenet161,Spicy shrimp,0.5,0.7
+1552,densenet161,Egg yolk crisp,0.9,0.9
+1553,densenet161,Bang bang chicken,0.8,1.0
+1554,densenet161,Cold pork cold head,0.1,0.4
+1555,densenet161,Guoqiao tofu,0.8,0.9
+1556,densenet161,Beggar’s chicken,0.4,0.8
+1557,densenet161,Fried beef with hot pepper,0.7,0.8
+1558,densenet161,Vegetable and lean pork porridge,0.1,0.4
+1559,densenet161,Boiled white meat,0.5,0.9
+1560,densenet161,Adzuki bean fermented rice,0.5,1.0
+1561,densenet161,Braised eggplant,0.4,1.0
+1562,densenet161,Mushroom with garlic paste,0.3,0.7
+1563,densenet161,Fat rice roll,0.3,0.4
+1564,densenet161,Blueberry mashed potatoes,0.6,0.9
+1565,densenet161,Braised duck gizzards,0.3,0.5
+1566,densenet161,Spinach with gluten,0.9,1.0
+1567,densenet161,Soup baby dishes,0.6,0.8
+1568,densenet161,Salmon ﬂank sinew,1.0,1.0
+1569,densenet161,Seafood pancake,0.8,0.9
+1570,densenet161,Fried rice cake,0.8,0.9
+1571,densenet161,Braised chicken with ginseng,0.6,0.9
+1572,densenet161,Millet porridge,0.5,1.0
+1573,densenet161,Silver carp,0.5,0.8
+1574,densenet161,Fried carrot cake,0.5,0.9
+1575,densenet161,Dried bamboo shoots and duck pot,0.5,1.0
+1576,densenet161,Wasabi octopus,0.5,0.8
+1577,densenet161,Garlic broccoli,0.9,1.0
+1578,densenet161,Pumpkin pie,0.7,0.9
+1579,densenet161,Potato wedges,0.9,1.0
+1580,densenet161,Donkey meat soup,0.2,0.3
+1581,densenet161,Miba,0.6,0.9
+1582,densenet161,Duck intestine fried rice,0.6,0.7
+1583,densenet161,Roasted bean skewers,0.3,1.0
+1584,densenet161,Tuna salad,0.3,0.7
+1585,densenet161,Sliced noodles,0.9,1.0
+1586,densenet161,Smoked ﬁsh noodle,0.8,0.9
+1587,densenet161,Cheese baked sweet potatoes,0.1,0.3
+1588,densenet161,Pineapple buns,0.8,0.9
+1589,densenet161,Ramen fried rice cake,0.9,1.0
+1590,densenet161,Three fresh powder,0.0,0.1
+1591,densenet161,Crispy sausage,0.9,1.0
+1592,densenet161,Quicksand bag,0.6,0.9
+1593,densenet161,Cranberry toast slices,0.7,1.0
+1594,densenet161,Ballast congee,0.0,0.7
+1595,densenet161,Baked bun,0.3,0.8
+1596,densenet161,Drunk crab claws,0.7,1.0
+1597,densenet161,Honey chicken wings,0.0,0.3
+1598,densenet161,Fried twist,1.0,1.0
+1599,densenet161,Braised ﬁsh head,0.7,0.9
+1600,densenet161,Mango milk ice,0.2,0.9
+1601,densenet161,Lychee meat,0.3,0.6
+1602,densenet161,Pork feet rice,0.3,0.9
+1603,densenet161,Banana pizza,0.2,0.8
+1604,densenet161,Fried tofu,0.8,0.9
+1605,densenet161,Roasted pork with dried beans,1.0,1.0
+1606,densenet161,Fried vermicelli,0.9,1.0
+1607,densenet161,Mango sago,0.4,0.8
+1608,densenet161,Garlic clove skewers,0.6,0.9
+1609,densenet161,Dumplings,1.0,1.0
+1610,densenet161,Pig vegetable,0.2,0.5
+1611,densenet161,Duck leg,0.7,0.9
+1612,densenet161,Roll egg,0.2,0.6
+1613,densenet161,Three fresh ice powder,0.2,0.5
+1614,densenet161,Yellow clam,0.7,1.0
+1615,densenet161,Crispy potato grid,0.8,0.9
+1616,densenet161,Horseradish fungus,0.7,1.0
+1617,densenet161,Fried bacon with bamboo shoots,0.3,0.8
+1618,densenet161,Stir-fried green peppers,0.3,0.9
+1619,densenet161,Braised pork,0.2,0.8
+1620,densenet161,Tomato pasta,0.3,1.0
+1621,densenet161,Marinated bullwhip,0.6,0.9
+1622,densenet161,Tripe soup powder,0.3,0.8
+1623,densenet161,Spicy cucumber,0.7,1.0
+1624,densenet161,Kimchi cake,0.8,0.9
+1625,densenet161,Fat intestine noodle,0.8,0.9
+1626,densenet161,Duck clavicle,0.3,0.6
+1627,densenet161,Cauliﬂower fried pork,0.7,1.0
+1628,densenet161,Fried tenderloin,0.5,0.8
+1629,densenet161,Steamed sea bass,0.2,0.4
+1630,densenet161,Salty bone soup,0.3,0.7
+1631,densenet161,Dried carob,0.9,1.0
+1632,densenet161,Chestnut roast chicken,0.5,0.8
+1633,densenet161,Roasted dried tofu rolls,0.6,0.9
+1634,densenet161,Tiger egg,0.4,0.7
+1635,densenet161,Hand-shredded chicken,0.5,0.6
+1636,densenet161,Egg pudding,0.7,1.0
+1637,densenet161,Flower love sushi,0.8,0.9
+1638,densenet161,Roast duck noodle sauce,0.4,0.8
+1639,densenet161,Sauteed beef with wild pepper,0.4,0.7
+1640,densenet161,Sesame sauce liangpi,0.1,0.7
+1641,densenet161,Bacteria soup,0.4,0.8
+1642,densenet161,Toffee cake,0.9,0.9
+1643,densenet161,Grilled pork bone skewers,0.3,0.7
+1644,densenet161,Pork noodles with pickled vegetables,0.1,0.4
+1645,densenet161,Delicious crispy rice,0.9,1.0
+1646,densenet161,Egg yolk pork ﬂoss seaweed rice,1.0,1.0
+1647,densenet161,Shrimp shaomai,0.7,1.0
+1648,densenet161,Fried chicken,0.1,0.4
+1649,densenet161,Corn grated with cheese,0.8,0.9
+1650,densenet161,Sour plum soup,0.8,1.0
+1651,densenet161,Hand catch seafood,0.8,0.9
+1652,densenet161,Small noodles,0.6,0.9
+1653,densenet161,Crab yellow tofu,0.8,0.9
+1654,densenet161,Fried wanton,0.7,0.8
+1655,densenet161,Mushrooms and cabbage,0.9,1.0
+1656,densenet161,Mushroom chicken congee,0.1,0.6
+1657,densenet161,Sour soup dumplings,0.3,0.6
+1658,densenet161,Braised konjac,0.8,0.9
+1659,densenet161,Hot pot ice cream,0.8,1.0
+1660,densenet161,Mango salmon roll sushi,0.6,1.0
+1661,densenet161,Egg yolk lobster,0.7,0.9
+1662,densenet161,Plum dried vegetable biscuits,0.4,0.8
+1663,densenet161,Yogurt,1.0,1.0
+1664,densenet161,Hibiscus crab stick,0.8,0.9
+1665,densenet161,Barbecue ribs,0.2,1.0
+1666,densenet161,Curry pork chop rice,0.4,0.8
+1667,densenet161,Crispy bamboo shoots in chicken sauce,0.6,0.7
+1668,densenet161,Fried rice with ham,0.2,0.6
+1669,densenet161,Braised pork,0.4,0.9
+1670,densenet161,Fried cucumber with basil,1.0,1.0
+1671,densenet161,Tiger vegetables,0.7,1.0
+1672,densenet161,Tofu skin sushi,0.7,0.9
+1673,densenet161,Chinese yam lean meat porridge,0.2,0.4
+1674,densenet161,French lamb chops,0.3,0.6
+1675,densenet161,Garden chicken,0.0,0.4
+1676,densenet161,Strawberry sundae,0.5,0.8
+1677,densenet161,Tea tree mushroom ribs soup,0.0,0.5
+1678,densenet161,Fried kidney,1.0,1.0
+1679,densenet161,Pork ﬂoss,1.0,1.0
+1680,densenet161,Jade burned,0.1,0.3
+1681,densenet161,Pickled pepper ﬁsh skin,0.2,0.8
+1682,densenet161,Cold chicken feet,0.1,0.6
+1683,densenet161,Coriander with beef,0.7,0.8
+1684,densenet161,Fried fungus with yam,0.9,1.0
+1685,densenet161,Taste shrimp,0.1,0.8
+1686,densenet161,Fruit ﬁshing,0.9,0.9
+1687,densenet161,Pineapple rice,0.9,1.0
+1688,densenet161,Fried cuttleﬁsh ball,0.5,0.8
+1689,densenet161,White porridge,0.0,0.6
+1690,densenet161,Cucumber mixed jellyﬁsh,1.0,1.0
+1691,densenet161,Baked enoki mushrooms in tin foil,0.9,0.9
+1692,densenet161,Salt and pepper lobster,0.3,0.8
+1693,densenet161,Frozen tofu,0.7,1.0
+1694,densenet161,Seafood pimple soup,1.0,1.0
+1695,densenet161,Mixed sauce hot and sour noodles,0.9,1.0
+1696,densenet161,Honey yellow peach,0.8,0.9
+1697,densenet161,Rose ice powder,0.1,1.0
+1698,densenet161,Tin foil potatoes,1.0,1.0
+1699,densenet161,Roasted shiitake mushrooms,0.2,0.5
+1700,densenet161,Spicy shrimp,0.7,0.8
+1701,densenet161,Diving ﬁsh,0.6,0.8
+1702,densenet161,Sugar fried hawthorn,1.0,1.0
+1703,densenet161,Mushroom crispy bamboo shoots,0.3,0.8
+1704,densenet161,Family portrait sushi,0.6,0.9
+1705,densenet161,Durian cheese pizza,0.1,1.0
+1706,densenet161,Whose mariko,0.4,0.7
+1707,densenet161,Soft-boiled egg,0.6,0.9
+1708,densenet161,Pan-fried long lee ﬁsh,0.4,0.8
+1709,densenet161,Stir-fried pork with rice white,0.7,1.0
+1710,densenet161,Grilled ﬁsh on paper,0.7,1.0
+1711,densenet161,Curry rice,0.3,0.7
+1712,densenet161,Hot and sour tripe soup,0.9,1.0
+1713,densenet161,Butyl ﬁve ren sauce,0.6,0.8
+1714,densenet161,Mango layer cake,0.9,1.0
+1715,densenet161,Egg ham fried rice,0.3,0.5
+1716,densenet161,Peony shrimp sashimi,1.0,1.0
+1717,densenet161,Radish beef,0.3,0.8
+1718,densenet161,Dry fans,0.7,0.8
+1719,densenet161,White cut saltwater duck,0.7,0.9
+1720,densenet161,Black pepper pork chop rice,0.3,0.5
+1721,densenet161,Matcha smoothie,0.5,1.0
+1722,densenet161,Sour radish duck soup,0.4,1.0
+1723,densenet161,Pork with pickled vegetables,0.4,0.8
+1724,densenet161,Grilled mackerel,0.8,0.9
+1725,densenet161,Swiss roll cake,0.5,0.8
+1726,densenet161,Strawberry milk pudding,0.9,1.0
+1727,densenet161,Cold kelp root,1.0,1.0
+1728,densenet161,Sea oyster,1.0,1.0
+1729,densenet161,Grilled ﬁsh with sauerkraut,0.7,1.0
+1730,densenet161,Mutton freeing,0.6,0.9
+1731,densenet161,Ribs rice,0.6,0.9
+1732,densenet161,Spicy duck jane,0.6,1.0
+1733,densenet161,Argentine red shrimp,0.9,1.0
+1734,densenet161,Tofu soup,0.5,0.9
+1735,densenet161,One shrimp for two,0.8,1.0
+1736,densenet161,Wild vegetable dumpling,0.7,0.8
+1737,densenet161,Kelp rib soup,0.4,0.6
+1738,densenet161,Fried pork chops,0.7,1.0
+1739,densenet161,Halogen duck tongue,0.9,1.0
+1740,densenet161,Lame claypot rice,0.7,1.0
+1741,densenet161,Floss sushi,0.8,0.9
+1742,densenet161,Braised noodles with ribs,0.7,0.9
+1743,densenet161,Stir fried fungus with cabbage,0.6,0.9
+1744,densenet161,Durian cake,0.6,0.8
+1745,densenet161,Seaweed warship sushi,0.9,1.0
+1746,densenet161,Avocado salad,0.2,0.7
+1747,densenet161,Pure sausage,0.7,1.0
+1748,densenet161,Stir-fried fat intestine,0.7,1.0
+1749,densenet161,Purple rice porridge,0.7,1.0
+1750,densenet161,Brine geese,0.4,0.9
+1751,densenet161,Foil ﬂower beetle powder,0.9,1.0
+1752,densenet161,Scrambled eggs with sauce,0.6,0.9
+1753,densenet161,Spicy shrimp,0.7,1.0
+1754,densenet161,Cornmeal buns,0.9,1.0
+1755,densenet161,Rice porridge,0.9,1.0
+1756,densenet161,Stir-fried long beans,0.8,1.0
+1757,densenet161,Pan-seared foie gras,0.7,0.9
+1758,densenet161,Steamed buns,0.8,0.9
+1759,densenet161,Black rice cake,0.9,1.0
+1760,densenet161,Fried eggplant box,0.8,1.0
+1761,densenet161,Chinese seaweed salad,1.0,1.0
+1762,densenet161,Roasted garlic naan,0.2,0.6
+1763,densenet161,Zongzi,1.0,1.0
+1764,densenet161,Choy sum with garlic sauce,0.6,1.0
+1765,densenet161,Halogen rabbit head,0.7,0.8
+1766,densenet161,Green pepper shredded pork rice bowl,0.7,1.0
+1767,densenet161,Spiced rabbit head,0.9,1.0
+1768,densenet161,Snow white juice with mango and black sticky rice,0.9,1.0
+1769,densenet161,Preserved egg and lean meat porridge,0.7,1.0
+1770,densenet161,Braised old goose,0.2,0.6
+1771,densenet161,Sesame sauce noodles,0.0,0.7
+1772,densenet161,Orleans roasted whole leg,0.9,1.0
+1773,densenet161,Nougat,0.9,1.0
+1774,densenet161,The ring oil eel,0.8,1.0
+1775,densenet161,Tomato and egg ﬂour pimple soup,0.6,0.9
+1776,densenet161,Steamed chicken in lotus leaves,0.8,0.9
+1777,densenet161,Oily baby cabbage,0.9,1.0
+1778,densenet161,Chicken chop rice,0.4,0.6
+1779,densenet161,Fried cheese chicken chop,0.2,0.7
+1780,densenet161,Braised pork ribs,0.2,0.5
+1781,densenet161,Griddle ribs and shrimp,0.2,0.6
+1782,densenet161,Spinach in soup,0.9,1.0
+1783,densenet161,Fried chicken with mushroom,0.4,0.7
+1784,densenet161,Old duck soup with tea tree mushrooms,0.5,0.6
+1785,densenet161,Mushroom rape,0.1,0.9
+1786,densenet161,Hot and sour fern root powder,0.9,1.0
+1787,densenet161,Spicy cabbage fried rice,0.8,0.9
+1788,densenet161,Stuffed gluten balls,0.5,0.8
+1789,densenet161,Sweet corn on the cob,1.0,1.0
+1790,densenet161,Spare ribs pot,0.6,1.0
+1791,densenet161,Finding nemo pizza,0.3,0.8
+1792,densenet161,Shao powder,0.4,0.8
+1793,densenet161,Griddle shrimp,0.0,0.2
+1794,densenet161,Minced pork nigiri sushi,0.9,1.0
+1795,densenet161,Cooked tripe of sheep or swine,0.7,0.9
+1796,densenet161,Preserved egg with cucumber,0.7,0.9
+1797,densenet161,Durian black glutinous rice,0.8,0.9
+1798,densenet161,Pineapple fritters shrimp,0.5,1.0
+1799,densenet161,Yam and vegetable porridge,0.5,1.0
+1800,densenet161,Meatball soup,0.1,0.7
+1801,densenet161,Pork belly chicken,0.5,0.9
+1802,densenet161,Pan-fried chicken chop,0.5,0.6
+1803,densenet161,Salt and pepper pork,0.5,0.8
+1804,densenet161,Clam and winter melon soup,1.0,1.0
+1805,densenet161,Chocolate poppy cake,0.6,0.9
+1806,densenet161,Fruit cream cake,0.9,0.9
+1807,densenet161,Spicy fried rice cake,0.9,0.9
+1808,densenet161,Rose cake,0.6,1.0
+1809,densenet161,Spicy shao pointed,0.4,0.9
+1810,densenet161,California roll sushi,0.5,1.0
+1811,densenet161,Hemp group,0.7,0.8
+1812,densenet161,Tonkotsu ramen,0.3,0.3
+1813,densenet161,Barbecued pork crisp,0.9,0.9
+1814,densenet161,Beef noodle soup,0.1,0.4
+1815,densenet161,Pancake,1.0,1.0
+1816,densenet161,Mutton vermicelli,0.6,1.0
+1817,densenet161,New orleans pizza,0.0,0.1
+1818,densenet161,Chicken bone skewers,0.1,0.6
+1819,densenet161,Eel congee,0.9,1.0
+1820,densenet161,Scallion lamb,0.3,0.7
+1821,densenet161,Stew,0.4,0.9
+1822,densenet161,Diced carrot,0.6,0.8
+1823,densenet161,Fried cake,0.9,1.0
+1824,densenet161,Crystal shrimp dumpling,0.6,0.8
+1825,densenet161,Fried sliced pork with mushrooms,0.4,0.8
+1826,densenet161,Geoduck sashimi,0.9,1.0
+1827,densenet161,Red oil belly silk,0.4,0.6
+1828,densenet161,Eggplant claypot,0.6,0.9
+1829,densenet161,Spicy grilled meat mixed with rice,0.3,0.4
+1830,densenet161,Old vinegar sting,0.7,0.9
+1831,densenet161,Bazhen tofu,0.4,0.9
+1832,densenet161,The spicy cold eating rabbit meat,1.0,1.0
+1833,densenet161,Fried yellow beef,0.5,0.8
+1834,densenet161,Oxtail soup,0.6,0.8
+1835,densenet161,Steamed egg,0.8,1.0
+1836,densenet161,Spicy bullfrog,0.2,0.3
+1837,densenet161,Toon seedlings mixed with tofu shreds,1.0,1.0
+1838,densenet161,White snow black glutinous rice,0.7,0.9
+1839,densenet161,Stir-fried pork belly with chili,0.3,0.8
+1840,densenet161,Brown sugar hair cake,0.5,0.7
+1841,densenet161,Fried taro roll,0.8,0.9
+1842,densenet161,Donkey meat,0.4,0.9
+1843,densenet161,Red bean ice,0.7,1.0
+1844,densenet161,Sansho black fungus,0.7,1.0
+1845,densenet161,Fried pork with beans,0.0,0.6
+1846,densenet161,Pan-fried ﬁsh,0.4,0.8
+1847,densenet161,Fresh pepper ﬁsh,0.5,0.9
+1848,densenet161,Scrambled eggs with onions,0.8,1.0
+1849,densenet161,Scrambled eggs with cucumber,0.9,1.0
+1850,densenet161,Bean curd stick,1.0,1.0
+1851,densenet161,Dip in pickles,0.4,0.9
+1852,densenet161,Macaron,0.9,1.0
+1853,densenet161,Fried egg roll,0.3,0.6
+1854,densenet161,Chicken noodles,0.7,1.0
+1855,densenet161,Braised ﬁsh pot,1.0,1.0
+1856,densenet161,Chopped pepper and taro,0.7,1.0
+1857,densenet161,Push cake,0.7,1.0
+1858,densenet161,Spicy chicken rice,0.4,1.0
+1859,densenet161,Fennel fried dough sticks,0.7,0.9
+1860,densenet161,Lemon ﬁsh,0.9,1.0
+1861,densenet161,Sizzling shrimp,0.6,0.9
+1862,densenet161,Green beans in garlic sauce,0.8,0.9
+1863,densenet161,Honey cake,0.5,1.0
+1864,densenet161,Gourd head bread in the soup,0.8,0.9
+1865,densenet161,Grilled chicken skewers,0.0,0.9
+1866,densenet161,Dried intestines,0.6,0.8
+1867,densenet161,Spiced marinated eggs,0.1,0.6
+1868,densenet161,Dried vegetable with fried egg,0.2,1.0
+1869,densenet161,Steamed egg with shrimp,0.4,0.9
+1870,densenet161,Crispy rice cake,0.5,0.8
+1871,densenet161,Thick honey toast,0.7,1.0
+1872,densenet161,Salt baked chicken feet,0.1,0.7
+1873,densenet161,Tin foil baby cabbage,0.7,1.0
+1874,densenet161,Cheese bacon pizza,0.5,1.0
+1875,densenet161,Fish head tofu soup,0.5,0.9
+1876,densenet161,Black rice and red bean porridge,0.0,0.5
+1877,densenet161,Grilled small yellow croaker,0.4,0.9
+1878,densenet161,Scrambled eggs with local vegetables,0.9,1.0
+1879,densenet161,Fried chili,0.6,0.9
+1880,densenet161,Fish with tomato,0.5,0.7
+1881,densenet161,Stir-fried bacon with garlic moss,0.8,0.9
+1882,densenet161,Drunken ﬁsh,1.0,1.0
+1883,densenet161,Spiced corned egg,0.9,1.0
+1884,densenet161,Fried tofu,0.1,0.6
+1885,densenet161,Tapioca pudding,0.9,1.0
+1886,densenet161,Grilled ribs,0.1,0.4
+1887,densenet161,Fried spring rolls with three pieces of silk,0.9,1.0
+1888,densenet161,Sweet and spicy fried chicken,0.9,0.9
+1889,densenet161,Puffs,0.9,1.0
+1890,densenet161,Fried vermicelli with bean sprouts,0.4,0.6
+1891,densenet161,Saut¨ı¿œed ﬁsh in chili sauce,0.4,0.7
+1892,densenet161,Saut¨ı¿œed bullfrog in chili sauce,0.0,0.1
+1893,densenet161,Cold noodles with sesame sauce,0.7,0.9
+1894,densenet161,Sea food noodles,0.5,0.7
+1895,densenet161,Spicy chicken,0.3,0.6
+1896,densenet161,Braised Tofu,0.0,0.7
+1897,densenet161,Tuna and seaweed rolled rice,0.6,1.0
+1898,densenet161,Braised beef brisket on rice,0.7,1.0
+1899,densenet161,Haggis noodle soup,0.2,0.6
+1900,densenet161,Chicken salad noodles,0.1,0.7
+1901,densenet161,Salted egg yolk with crispy crust,0.6,1.0
+1902,densenet161,Fried ﬁsh cake,0.2,0.4
+1903,densenet161,Red bean pie,0.7,1.0
+1904,densenet161,Cumin chicken ﬁllet,0.2,0.6
+1905,densenet161,Durian pizza,0.6,1.0
+1906,densenet161,Fried noodles with beef,0.5,0.9
+1907,densenet161,Pork chop bun,0.8,0.8
+1908,densenet161,Big bone soup,0.5,0.9
+1909,densenet161,Smoked ﬁsh,0.4,0.5
+1910,densenet161,Chocolate covered croissant,0.9,0.9
+1911,densenet161,Roasted garlic,0.7,0.8
+1912,densenet161,Custard piglet bun,0.6,0.8
+1913,densenet161,Fried milk melon with garlic slices,1.0,1.0
+1914,densenet161,Scrambled eggs with shrimp,0.9,1.0
+1915,densenet161,Grilled vegetarian chicken skewers,0.9,1.0
+1916,densenet161,Potato ﬂour with seafood,0.1,0.7
+1917,densenet161,Shrimp dumpling king,0.7,0.9
+1918,densenet161,Cow ribs,0.4,0.7
+1919,densenet161,Griddle cabbage,1.0,1.0
+1920,densenet161,Fried rice noodles with eggs,0.6,1.0
+1921,densenet161,Double beef fort,0.5,1.0
+1922,densenet161,Seafood noodles,0.0,0.1
+1923,densenet161,Fried udon,0.2,0.5
+1924,densenet161,Duck foot pot with snail,0.9,1.0
+1925,densenet161,Delicious jelly,0.9,1.0
+1926,densenet161,Fried chicken with edamame,1.0,1.0
+1927,densenet161,Mashed potatoes with cheese,1.0,1.0
+1928,densenet161,Sauce burst screws,1.0,1.0
+1929,densenet161,Crab Dumplings in Soup,0.9,1.0
+1930,densenet161,Pearl balls,0.9,1.0
+1931,densenet161,Corn ribs soup,0.7,1.0
+1932,densenet161,Oreo sawdust cup,0.7,0.9
+1933,densenet161,Cucumber with beef,1.0,1.0
+1934,densenet161,Spicy beef noodle,0.1,0.3
+1935,densenet161,Sashimi platter,0.3,1.0
+1936,densenet161,Braised winter melon,0.9,0.9
+1937,densenet161,Teriyaki chicken chop rice,0.1,0.2
+1938,densenet161,Roast chicken butt,0.6,0.8
+1939,densenet161,Peanut edamame,0.8,1.0
+1940,densenet161,Foie gras sushi,0.6,0.8
+1941,densenet161,Whirlwind potato tower,0.9,0.9
+1942,densenet161,Rib skewers,0.7,0.9
+1943,densenet161,Angel cake,0.8,0.9
+1944,densenet161,Fruit spell,1.0,1.0
+1945,densenet161,Boiled quail eggs,0.6,1.0
+1946,densenet161,Steamed chicken feet with sauce,0.8,0.9
+1947,densenet161,Chocolate sundae,0.8,1.0
+1948,densenet161,Old kitchen cabbage,0.7,0.7
+1949,densenet161,Spicy rice noodles,0.4,0.9
+1950,densenet161,Steamed Fish Head with sauce,0.7,0.8
+1951,densenet161,Fried sheep miscellaneous,0.5,0.8
+1952,densenet161,Chestnut,0.5,0.9
+1953,densenet161,Fried shao mai,0.4,1.0
+1954,densenet161,Salt and pepper prawns,0.8,1.0
+1955,densenet161,Burning smell platter,0.6,0.7
+1956,densenet161,Milk and peach gum,0.7,0.9
+1957,densenet161,Skewer shrimp,0.1,1.0
+1958,densenet161,Foil grilled ﬁsh,0.9,1.0
+1959,densenet161,Chopped green onion Fried eggs,0.1,0.7
+1960,densenet161,Ramen with beef,0.3,1.0
+1961,densenet161,Braised hairtail,0.7,0.9
+1962,densenet161,Mix powder,0.1,0.4
+1963,densenet161,River snail,1.0,1.0
+1964,densenet161,Shredded potatoes with salad,0.7,1.0
+1965,densenet161,Chicken pot,0.6,0.7
+1966,densenet161,Chicken wing rice,0.6,0.8
+1967,densenet161,Geoduck sashimi,1.0,1.0
+1968,densenet161,Chocolate,1.0,1.0
+1969,densenet161,Croissant,0.5,0.8
+1970,densenet161,Spiced beef,0.6,1.0
+1971,densenet161,Cheese pizza,0.8,1.0
+1972,densenet161,Braised lamb,0.4,0.5
+1973,densenet161,Fried yam,0.5,0.9
+1974,densenet161,Steamed multiple preserved hams,0.2,0.7
+1975,densenet161,Glutinous rice balls with peanuts and sesame seed,0.6,0.8
+1976,densenet161,Mussels screw,0.7,0.9
+1977,densenet161,Salted duck egg,0.5,0.8
+1978,densenet161,Black sesame quicksand bun,0.9,0.9
+1979,densenet161,Glutinous rice cake,0.7,1.0
+1980,densenet161,Salad crispy chicken rice,0.9,1.0
+1981,densenet161,Rattan pepper chicken,0.5,0.9
+1982,densenet161,Braised chicken in casserole,0.2,0.6
+1983,densenet161,Garlic crayﬁsh,1.0,1.0
+1984,densenet161,Sakura roll,1.0,1.0
+1985,densenet161,Fried octopus,0.0,0.5
+1986,densenet161,Fried potato chips with spicy cabbage,0.9,0.9
+1987,densenet161,Cheese back ribs,0.4,0.9
+1988,densenet161,Sauerkraut fried rice,0.1,0.2
+1989,densenet161,Griddle duck,0.5,0.9
+1990,densenet161,Fried pork slices,0.4,0.7
+1991,densenet161,Red date cake,0.9,0.9
+1992,densenet161,Cold cut foie gras,0.7,0.9
+1993,densenet161,Red bean taro balls,0.2,0.7
+1994,densenet161,Fried intestines,0.6,0.8
+1995,densenet161,Stir-fried pork belly with spicy cabbage,0.5,0.8
+1996,densenet161,Instant noodles,1.0,1.0

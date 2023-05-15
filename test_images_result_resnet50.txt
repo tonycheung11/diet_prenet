@@ -1,0 +1,1001 @@
+0/160.jpg Grilled beef tongue 0.1397 Crepe 0.1287 Salmon ﬂank sinew 0.1127 Bacon bibimbap 0.0361 Tuna sashimi 0.0233
+1/10002.jpg Sesame octopus 0.3772 Sesame octopus warship sushi 0.1694 Flavored snail meat 0.0672 Diced carrot 0.0159 Black stinky tofu 0.0116
+10/100001.jpg Stir-fried lettuce 0.1416 Roasted leeks 0.1269 Boiled okra 0.1201 Boiled cabbage heart 0.1115 Lettuce tip 0.0981
+100/1000002.jpg Crab stick nigiri sushi 0.7544 Mango salmon roll sushi 0.1587 Grilled salmon sushi 0.0053 Shrimp sushi 0.0045 Sea bream sashimi 0.0040
+1000/10000013.jpg Chinese salad 0.6876 Fris¨ı¿œe mixed with almonds 0.1254 Garland chrysanthemum 0.0216 Cilantro tofu soup 0.0195 Vegetable salad 0.0117
+1001/10010000.jpg Cumin lamb 0.0634 Cumin beef 0.0278 Braised pork 0.0271 Fried yellow beef 0.0217 Fried lamb 0.0181
+1002/10020001.jpg Baked steamed bun slices 0.1346 Scones 0.1207 Grilled rice cake 0.1086 Cranberry¨ı¿œbiscuit 0.0742 Cruller 0.0709
+1003/10030001.jpg Polenta 0.4804 Millet porridge 0.1714 Pumpkin soup 0.1652 Pumpkin cream soup 0.1160 Pumpkin porridge 0.0155
+1004/10040006.jpg Fried tofu 0.6253 Meat dumplings 0.1039 Dried tofu 0.0278 Fried dried tofu 0.0257 Glutinous rice cake 0.0193
+1005/10050000.jpg Baked fairy grass with Taro 0.2479 Red bean taro balls 0.1646 Fresh taro 0.1595 Round taro with coconut milk 0.0491 Kanto cooking 0.0461
+1006/10060002.jpg Grilled pork bone skewers 0.4250 French lamb chops 0.1011 Grilled rack of lamb 0.0851 Smoked chicken skeleton 0.0724 Roast lamb leg 0.0337
+1007/10070001.jpg Shao powder 0.9780 Shredded cold papaya 0.0071 Tossed cellophane noodles 0.0033 Potato powder 0.0016 Lettuce tip 0.0015
+1008/10080002.jpg Broth bottom 0.7252 Scalded tripe 0.0395 Guiling paste 0.0221 Fish pot 0.0172 Cold pot string 0.0141
+1009/10090001.jpg Bang bang chicken 0.8497 Hibiscus crab stick 0.0476 Cream puff sticks 0.0069 Sukiyaki goose 0.0058 Shredded meat 0.0041
+101/1010001.jpg Steam pot chicken 0.8753 Steamed pumpkin with lily 0.0114 Steamed pumpkin with red dates 0.0082 Steamed pumpkin 0.0067 Sugar fried chestnut 0.0047
+1010/10100000.jpg Boiled Chinese kale 0.7032 Raw cooking cabbage 0.0611 Boiled cabbage heart 0.0210 Bitter vegetable soup 0.0198 Garlic seasonal vegetables 0.0124
+1011/10110002.jpg Soy sauce steamed pork ribs 0.4526 Pan-Fried calf chop 0.3622 Pigeon soup 0.0211 Steamed ribs 0.0081 Steamed dumpling 0.0081
+1012/10120002.jpg Preserved rice 0.4779 Eight treasure rice 0.0574 Sausage fried rice 0.0322 Fried rice with bacon 0.0291 Cured fried rice 0.0289
+1013/10130005.jpg Chestnut cream soup 0.9682 Broth bottom 0.0042 Rice porridge 0.0022 Creamy corn soup 0.0019 Rice wine dumplings 0.0019
+1014/10140000.jpg Marinated bullwhip 0.9579 Creamy bacon pasta 0.0030 Egg yolk lobster 0.0021 Cheese bacon pizza 0.0018 Shacha noodles 0.0016
+1015/10150005.jpg Broth bottom 0.9856 Seafood pimple soup 0.0080 Duomang small meatballs 0.0018 Whose mariko 0.0004 Rice wine dumplings 0.0002
+1016/10160001.jpg Soba noodles 0.7999 Scallion noodles 0.0265 Dried carob 0.0093 Hand roll noodle 0.0064 Shredded bean curd with cold sauce 0.0061
+1017/10170004.jpg Cold rice cake 0.3073 Yam steamed with osmanthus honey 0.2330 Mango milk 0.0689 Sea salt milk cake 0.0674 Popping milk cake 0.0455
+1018/10180001.jpg Duck heart 0.4011 Roasted chicken leg 0.2735 Stewed chicken leg 0.0335 Baked bun 0.0276 Lava rock sausage 0.0261
+1019/10190002.jpg Fried vermicelli with bean sprouts 0.7557 Stir-fried potato shreds with green pepper 0.1937 Fried hot and sour potato shreds 0.0235 Rice topped with shredded potato 0.0152 Stir-fried shredded potatoes with celery 0.0019
+102/1020000.jpg Coconut jelly 0.8130 Steamed buns 0.1108 Geoduck sashimi 0.0038 Tofu pudding 0.0031 Soy milk 0.0030
+1020/10200001.jpg Seafood pimple soup 0.9853 Tofu pudding topped with crab guts 0.0058 Fried rice of yangzhou style 0.0034 Crab yellow tofu 0.0008 Shrimp pizza 0.0008
+1021/10210003.jpg Salt and pepper prawns 0.9771 Salt and pepper shrimp 0.0064 Egg yolk lobster 0.0039 Fried shrimp cake 0.0027 Fried chicken fork bone 0.0015
+1022/10220004.jpg Baked scallops 0.9782 Roasted oysters 0.0046 Spicy cabbage sushi roll 0.0044 Floss sushi 0.0012 Clams steamed egg 0.0010
+1023/10230000.jpg Eggplant rice with ﬁsh aroma 0.9193 Braised eggplant with meat 0.0112 Fish ﬂavored shredded pork 0.0063 Fish-ﬂavored eggplant pot 0.0061 Yuxiang pork rice bowl 0.0041
+1024/10240000.jpg Grilled cod 0.4126 Braised eggplant 0.0700 Beef cubes fried with black pepper 0.0589 Salt and pepper ribs 0.0254 Beef ribs with black pepper 0.0244
+1025/10250000.jpg Hand catch seafood 0.0914 Snowﬂakes 0.0636 Three delicacies in casserole 0.0354 Assorted boiled delicacies 0.0307 Seafood congee 0.0289
+1026/10260005.jpg Twice cooked pork with bell pepper 0.2417 Stir-fried pork with garlic shoots 0.2148 Hot pepper twice cooked pork 0.1535 Stir-fried pork belly with chili 0.1482 Salt fried meat 0.1004
+1027/10270002.jpg Salmon ﬂank sinew 0.8055 Mango salmon roll sushi 0.0080 Tofu skin sushi 0.0063 Grilled salmon sushi 0.0056 Salmon sushi 0.0049
+1028/10280010.jpg Stewed chicken with mushroom 0.2749 Hot and sour tripe soup 0.1897 Mutton noodles 0.1005 Stewed chicken nuggets 0.0827 Sliced pork soup 0.0239
+1029/10290000.jpg Stir-fried long beans 0.9962 Raw cooking cabbage 0.0008 Cold mixed peanuts 0.0002 Spicy shao pointed 0.0002 Spinach mixed with peanuts 0.0002
+103/1030000.jpg Refreshing evergreen 0.9213 Pork with pickled vegetables 0.0484 Fried edamame with pickled vegetables 0.0021 Mushrooms and cabbage 0.0019 Spinach in soup 0.0015
+1030/10300000.jpg Chinese salad 0.8956 Kelp salad 0.0496 Seaweed warship sushi 0.0170 Garlic kelp shreds 0.0029 Chinese seaweed salad 0.0019
+1031/10310000.jpg Salmon ﬂank sinew 0.1274 Crispy bone sausage 0.0793 Cold papaya 0.0554 Sour plum soup 0.0504 Roast duck 0.0438
+1032/10320011.jpg Mushroom rape 0.8625 Rice noodles fried with beef 0.0578 Raw cooking cabbage 0.0050 Fried kidney ﬂower with pig liver 0.0044 Stir fried beef with mustard 0.0035
+1033/10330004.jpg Raw cooking cabbage 0.7829 Stir-fried pork with garlic shoots 0.0864 Spinach in soup 0.0143 Bean curd stir-fried with chives 0.0118 Stir fried beef with mustard 0.0037
+1034/10340002.jpg Grilled fatty intestine skewers 0.2204 Yakitori 0.0789 Braised sheep’s hoof 0.0276 Cream puff sticks 0.0236 Roast lamb leg 0.0226
+1035/10350000.jpg River noodles in pig soup 0.4376 Steamed sausage noodles with lean meat 0.4075 Sauteed lettuce 0.0123 Egg rice roll 0.0067 Chee cheong fun 0.0050
+1036/10360000.jpg Fried noodle with shredded pork 0.3756 Steamed rice noodles 0.3506 Fried rice noodles with eggs 0.0701 Stir fried vermicelli 0.0317 Fried rice noodles 0.0227
+1037/10370004.jpg Fried shrimp 0.9965 Stir-fried chicken with rice pepper 0.0012 Organic ﬁsh 0.0002 Stir fried pork and bone with chili 0.0002 Fried ﬁsh and shrimp 0.0002
+1038/10380000.jpg Fried hairtail 0.7513 Glutinous rice 0.1323 Taian Fish 0.0243 Beer ﬁsh 0.0185 Smoked hairtail 0.0132
+1039/10390003.jpg Fried mushrooms 0.9741 Braised Tofu 0.0015 Boiled peanuts 0.0011 Hot and sour cabbage 0.0011 Fried pork with yuba 0.0008
+104/1040002.jpg Braised pork on rice 0.3396 Preserved rice 0.0287 Eel rice 0.0142 Sea cucumber with millet 0.0140 Lamb chops hand pilaf 0.0109
+1040/10400000.jpg Tomato pasta 0.5036 Bacon pasta 0.2141 Spaghetti with tomato meat sauce 0.0727 Seafood pasta 0.0683 Spaghetti with tomato sauce and bacon 0.0583
+1041/10410003.jpg Fried pork with pleurotus eryngii 0.3181 Fried pork with dried meat 0.1998 Noisette three kinds of meat 0.1170 Stir-fried pork belly with chili 0.0649 Salt fried meat 0.0581
+1042/10420000.jpg Pork sauerkraut bun 0.5175 Crab Dumplings in Soup 0.2411 Xiao long bao 0.2248 Fresh meat soup dumplings 0.0041 Glutinous rice 0.0018
+1043/10430000.jpg Wild vegetable dumpling 0.9676 Spicy ﬁsh ball 0.0133 Spiced corned egg 0.0105 Chestnut 0.0021 Curry ﬁsh ball 0.0007
+1044/10440005.jpg Geoduck sashimi 0.9510 Cuttleﬁsh 0.0055 Sea oyster 0.0022 Tossed cellophane noodles 0.0021 White shellﬁsh 0.0017
+1045/10450002.jpg Salmon ﬂank sinew 0.1517 Pure sausage 0.1087 Scalded prawns 0.0537 Amaebi 0.0372 Argentine red shrimp 0.0276
+1046/10460000.jpg Secret jujube 0.0669 Duck heart 0.0468 Beef cubes fried with black pepper 0.0420 Broad beans with scallion oil 0.0394 Braised beef 0.0194
+1047/10470000.jpg Fried rice cake 0.8540 Fried ice cream 0.0556 Crispy rice cake 0.0267 Glutinous rice cake 0.0126 Potato cake 0.0068
+1048/10480003.jpg Palace fried shrimp ball 0.1513 Pickled sweet garlic 0.0635 Cold mixed peanuts 0.0578 Puffs 0.0538 Braised Japanese tofu 0.0501
+1049/10490000.jpg Crispy mung bean cake 0.9718 Fried squid ring 0.0014 Whirlwind potato tower 0.0012 Onion rings 0.0011 Donuts 0.0007
+105/1050001.jpg Stewed chicken nuggets 0.0661 Braised beef 0.0329 Red bean porridge 0.0289 Braised pork 0.0233 Black stinky tofu 0.0197
+1050/10500001.jpg Goose palm 0.3408 Braised duck head 0.1822 Duck feet 0.1011 Braised sheep’s hoof 0.0968 Duck neck 0.0621
+1051/10510001.jpg Scallion sea bass 0.3839 Steamed carp 0.0764 Steamed green spotted ﬁsh 0.0604 Steamed yellow croaker 0.0542 Steamed side ﬁsh 0.0470
+1052/10520000.jpg Meat dumplings 0.8608 Egg yolk meat dumpling 0.0160 Steamed chicken with rice in lotus leaf 0.0049 Candied date zongzi 0.0043 Pig skin jelly 0.0033
+1053/10530000.jpg Roasted fresh catﬁsh 0.1494 Grilled ﬁsh with sauerkraut 0.1427 Saut¨ı¿œed ﬁsh in chili sauce 0.1277 Spicy grilled ﬁsh 0.1020 Braised ﬁsh in plain pot 0.0896
+1054/10540003.jpg Rice cake 0.3093 Hand peeling bamboo shoots 0.0398 Pancake 0.0360 Bean curd stick 0.0223 Tossed tripe 0.0220
+1055/10550000.jpg Matcha smoothie 0.2323 Soy milk 0.1074 Yogurt 0.0904 Mango milk 0.0828 Coconut sago 0.0227
+1056/10560001.jpg Steamed crab feet 0.8582 Bread crab 0.1268 Chinese hamburger 0.0025 Capelin 0.0007 Steamed crab claws 0.0007
+1057/10570000.jpg Soy sauce ﬁsh 0.0849 Tripe soup powder 0.0586 Duck foot pot with snail 0.0556 Shacha noodles 0.0229 Braised small yellow croaker 0.0193
+1058/10580005.jpg Ribs rice 0.8007 Cow ribs 0.0326 Sheep scorpion 0.0262 Boiled mutton 0.0168 Sauce bones 0.0128
+1059/10590002.jpg Steamed buns 0.8778 Geoduck sashimi 0.1131 Ice cream cone 0.0011 Hanamaki 0.0004 Steamed twisted roll with scallions 0.0004
+106/1060001.jpg Bamboo rice 0.4521 Sauce burst screws 0.2470 Boiled cabbage heart 0.0171 Fried preserved eggs with pepper 0.0108 Preserved egg with chopped pepper 0.0099
+1060/10600001.jpg Roasted enoki mushroom 0.9253 Roasted leeks 0.0159 Grilled prawns 0.0102 Baked enoki mushrooms in tin foil 0.0083 Melaleuca 0.0047
+1061/10610000.jpg Yam spring rolls 0.5836 Blueberry yam 0.0219 Taro sago 0.0182 Shar pei mousse cake 0.0167 Blueberry fried yogurt 0.0164
+1062/10620000.jpg Fried frog 0.3211 Bullfrog claypot 0.2493 Prawn casserole 0.1572 Stone pot ﬁsh 0.0506 Spicy frog 0.0236
+1063/10630002.jpg Fried eggplant 0.4451 Roast eggplants 0.1349 Braised eggplant 0.1086 Eggplant with sauce 0.0840 Yu-Shiang eggplant 0.0423
+1064/10640000.jpg Fried noodles with beef 0.3054 Fried noodle with shredded pork 0.2567 Fried noodles with shredded pork 0.1458 Fried noodles 0.0841 Fried noodles with ham 0.0565
+1065/10650001.jpg Sesame soy sauce lettuce 0.2418 Coriander with beef 0.2135 Seaweed warship sushi 0.0463 Cucumber dressing 0.0327 Multi-ﬂavored ﬁsh skewers 0.0184
+1066/10660001.jpg Dried tofu with hot pepper 0.9876 Stir-fried dried tofu with hot pepper 0.0093 Steamed venetian bag 0.0008 Stir-fried chives with bean curd sheets 0.0007 Soy bean curd 0.0006
+1067/10670003.jpg Spicy shrimp 0.2562 Chicken neck 0.0479 Fried taro roll 0.0462 Cumin chicken ﬁllet 0.0217 Salt and pepper chops 0.0200
+1068/10680000.jpg Bang bang chicken 0.3307 Fried chicken legs 0.1357 Boneless chicken ﬁllet 0.0338 Fried yuba 0.0236 Spicy wings 0.0162
+1069/10690001.jpg Secret jujube 0.5649 Sausages with cheese 0.3135 Fried peanuts 0.0118 Salt and pepper peanuts 0.0088 Sugar fried chestnut 0.0051
+107/1070003.jpg Rainbow cake 0.9808 Green tea cake 0.0051 Rose cake 0.0009 Instant noodles 0.0004 Double cake 0.0003
+1070/10700000.jpg Fried frog 0.8130 Bullfrog claypot 0.1317 Griddle bullfrog 0.0288 Stone pot bullfrog 0.0126 Spicy frog 0.0020
+1071/10710000.jpg Fried shrimp 0.6012 Yam spring rolls 0.0228 Fried cake 0.0187 Salted chicken 0.0181 Salt and pepper nine belly ﬁsh 0.0178
+1072/10720000.jpg Strawberry yoghurt 0.0656 Fruit cup 0.0488 Eel roll sushi 0.0287 Mango fried yogurt 0.0245 Mango milk ice 0.0233
+1073/10730000.jpg Pickled mustard with shredded soup 0.3880 Chestnut cream soup 0.1184 Green bean porridge 0.0944 Abalone and ﬁn belly soup 0.0290 Boiled egg 0.0189
+1074/10740002.jpg Bean curd in sugar water 0.9235 Yogurt 0.0210 Milk small party 0.0067 Boiled egg 0.0061 Durian pulp ice cream 0.0057
+1075/10750000.jpg Hot pot noodles 0.2063 Buddha jumps over the wall 0.1041 Braised hemp food 0.0932 Seafood noodle bumps 0.0619 Tofu soup rice cake 0.0602
+1076/10760001.jpg Duck belly 0.9150 Goat tripe 0.0219 Braised konjac 0.0067 Duck intestines 0.0045 Pork stomach 0.0043
+1077/10770001.jpg Sesame soy sauce lettuce 0.7020 Stone pot ﬁsh 0.0283 Crab congee 0.0168 Shredded radish stewed shrimp 0.0059 Stewed ﬁsh in iron pan 0.0057
+1078/10780000.jpg Braised pork 0.3420 Mushroom rape 0.1721 Taro meat 0.0876 Raw cooking cabbage 0.0249 Mushrooms and cabbage 0.0230
+1079/10790003.jpg Corn ribs soup 0.7196 Pita bread so awked in lamp soup 0.0136 Rice with curry chicken chop 0.0078 Blueberry fried yogurt 0.0074 Lamb chops hand pilaf 0.0068
+108/1080004.jpg Ribs rice 0.9030 White rice 0.0123 Yogurt 0.0097 Rice porridge 0.0080 Coconut sago 0.0033
+1080/10800001.jpg Sauce chili 0.9220 Sesame catsup sauce 0.0423 Salted duck egg 0.0319 Tomato puree 0.0009 Borscht 0.0002
+1081/10810001.jpg Rattan pepper ﬁsh ﬁllet 0.7713 Boiled ﬁsh with pickled cabbage and chili 0.1763 Organic ﬁsh 0.0096 Sauerkraut ﬁsh with green pepper 0.0062 Barrel ﬁsh 0.0054
+1082/10820007.jpg Fried small spring rolls 0.6715 Dried tofu 0.0840 Egg pancakes 0.0607 Burrito 0.0305 Vegetable pancake 0.0221
+1083/10830002.jpg Cold preserved egg 0.9603 Banana pancake 0.0217 Clams steamed egg 0.0025 Seafood tofu soup 0.0013 Seafood steamed egg 0.0012
+1084/10840001.jpg Sesame sauce noodles 0.1498 Spaghetti with tomato meat sauce 0.1426 Rice topped with shredded potato 0.0918 Seafood pasta 0.0564 Spaghetti with tomato sauce and bacon 0.0543
+1085/10850007.jpg Chestnut cream soup 0.5271 Cabbage tofu soup 0.0461 Taro sago 0.0229 Pickled fresh 0.0141 Tofu stewed with cabbage 0.0105
+1086/10860002.jpg Grilled chicken skewers 0.0764 Chicken wing tip 0.0608 Honey roasted whole chicken 0.0607 Roast chicken wings 0.0296 Orleans roasted whole leg 0.0270
+1087/10870003.jpg Fried intestines 0.3144 Stir-fried fatty intestine with hot pepper 0.2691 Braised pork intestines 0.1632 Spicy sausage 0.1068 Braised sausage 0.0477
+1088/10880003.jpg Fried squid 0.4309 Fried squid 0.2438 Fried squid ring 0.0236 Snowﬂake chicken ﬁllet 0.0152 Squid crisp 0.0137
+1089/10890000.jpg Fried eggplant 0.2461 Roast eggplants 0.1001 Braised eggplant 0.0953 Flavored eggplant 0.0483 Black stinky tofu 0.0460
+109/1090002.jpg Fried kidney ﬂower with pig liver 0.8357 Pork liver noodle 0.0698 Quick-fried liver with distilled grains sauce 0.0426 Fried kidney 0.0185 Stir-fried pork liver 0.0142
+1090/10900001.jpg Fried twist 0.8904 Shrimp with ice powder 0.0770 Pickled sweet garlic 0.0079 Plum kidney bean 0.0064 Boiled edamame 0.0016
+1091/10910000.jpg Fried frog 0.0276 Grandma dishes 0.0247 Burning noodles 0.0231 Meicai bamboo shoots 0.0202 Fish ﬂavored shredded pork 0.0144
+1092/10920001.jpg Meat ﬂoss egg pie 0.3423 Egg cake 0.2879 Egg pancake 0.2198 Egg pancakes 0.0509 Fried egg 0.0156
+1093/10930000.jpg Griddle rabbit 0.2796 Dry pot frog 0.0756 Taian Fish 0.0722 Spicy frog 0.0712 Old bowl ﬁsh 0.0529
+1094/10940001.jpg Prawn casserole 0.4612 Curry shrimp 0.1824 Spicy shrimp 0.1339 Sizzling shrimp 0.0731 Fried prawns 0.0307
+1095/10950003.jpg Clam tofu soup 0.5448 Tofu pudding 0.1137 Stewed bean curd soup with crucian carp 0.0307 Seafood tofu soup 0.0242 Casserole white tofu 0.0210
+1096/10960001.jpg Griddle yellowbone ﬁsh 0.2555 Grilled ﬁsh with sauerkraut 0.0798 Crucian carp 0.0580 Grandma dishes 0.0558 Sauerkraut meat 0.0279
+1097/10970000.jpg Cold taro powder 0.0853 Yogurt 0.0555 Fish vermicelli 0.0425 Coconut sago 0.0379 Roll cold noodle 0.0371
+1098/10980002.jpg California hand-rolled sushi 0.7141 Tuna warship sushi 0.0332 Minced pork hand-rolled sushi 0.0154 Cucumber roll sushi 0.0125 Kalimeris with smoked bean curd 0.0104
+1099/10990001.jpg Coarse grain porridge 0.8619 Black rice porridge 0.0146 Black rice and red bean porridge 0.0127 Red bean porridge 0.0115 Eight treasure congee 0.0097
+11/110000.jpg Geoduck sashimi 0.4229 Abalone 0.1735 Boiled peanuts 0.0515 Cold preserved egg 0.0441 White shellﬁsh 0.0315
+110/1100000.jpg Spicy ﬁsh 0.4740 Steamedf Fish head with diced hot red peppers 0.0541 Braised ﬁsh pot 0.0537 Saut¨ı¿œed ﬁsh in chili sauce 0.0411 Three yellow chicken nuggets 0.0300
+1100/11000000.jpg Fried beans 1.0000 Sesame soy sauce lettuce 0.0000 Green beans in garlic sauce 0.0000 Sesame beans 0.0000 Mixed beans 0.0000
+1101/11010001.jpg Matcha ﬂavored daifuku 0.1115 Cheese stick 0.0937 Deep-fried cakes 0.0299 Fried konjac balls 0.0288 Whirlwind potato tower 0.0255
+1102/11020000.jpg Plate reinforcement 0.7332 Spicy beef tendon 0.0404 Grilled baby Chinese cabbage skewers 0.0095 Fried potato chips with spicy cabbage 0.0074 Multi-ﬂavored ﬁsh skewers 0.0059
+1103/11030000.jpg Quicksand bag 0.7622 Durian pancake 0.1699 Banana pancake 0.0578 Mango pancake 0.0035 Durian melaleuca cake 0.0006
+1104/11040000.jpg Spareribs with brown sauce 0.3417 Sauce spine 0.2751 Sauce bones 0.0759 Braised lamb 0.0394 Chicken rack 0.0285
+1105/11050000.jpg Mung bean soup 0.7290 White porridge 0.1007 Rice porridge 0.0345 Sweet potato porridge 0.0300 Milk oatmeal 0.0181
+1106/11060005.jpg Dry pot frog 0.4175 Sizzling frog 0.2334 Spicy fried sea screw 0.1792 Braised ﬁsh pot 0.0722 Boiled bullfrog 0.0187
+1107/11070002.jpg Fried intestines 0.6272 Stir-fried fatty intestine with hot pepper 0.2035 Braised pork intestines 0.0962 Spicy sausage 0.0322 Braised sausage 0.0069
+1108/11080000.jpg Honey yellow peach 0.5914 Cornmeal buns 0.0351 Fried eggplant box 0.0286 Fried sweet potato 0.0247 Corn pudding crispy 0.0225
+1109/11090000.jpg Sausage rice 0.2604 Lame claypot rice 0.2312 Crispy pork rice 0.0748 Lamei and claypot rice 0.0721 Rice casserole 0.0326
+111/1110003.jpg Fried spring rolls with three pieces of silk 0.0415 Braised sheep’s hoof 0.0364 Smoked hairtail 0.0291 Eel congee 0.0276 Eggplant with hot pepper 0.0246
+1110/11100002.jpg Green bean porridge 0.9994 Mung bean soup 0.0005 Millet mung bean porridge 0.0001 Sour beans 0.0000 Kelp green bean paste 0.0000
+1111/11110001.jpg Boiled chicken rice 0.1880 Steamed venetian bag 0.0556 Tofu with shallots 0.0477 Egg rice roll 0.0259 Scallion chicken 0.0243
+1112/11120002.jpg Fried rice with sauerkraut and egg 0.9562 Tofu pudding topped with crab guts 0.0338 Fried rice of yangzhou style 0.0016 Egg fried rice 0.0006 Corn pie 0.0006
+1113/11130000.jpg Guokui 0.9145 Green onion Chinese pancake 0.0239 Leek pie 0.0089 Fried dumpling 0.0087 Leek box 0.0080
+1114/11140000.jpg Baked potato chips 0.7388 Baked steamed bun slices 0.1123 Steamed bread slices 0.0945 Scones 0.0185 Grilled tofu 0.0114
+1115/11150005.jpg Tuna warship sushi 0.9958 Seaweed sushi 0.0027 Floss sushi 0.0008 Cucumber roll sushi 0.0001 Seaweed rice 0.0001
+1116/11160004.jpg Fried noodle with shredded pork 0.9601 Tossed ﬁsh skin 0.0101 Stir fried vermicelli 0.0021 Preserved egg porridge 0.0020 Stir fried vegetables 0.0014
+1117/11170003.jpg Taste snake 0.3607 Stir-fried bacon with garlic moss 0.0764 Tossed tripe 0.0555 Fried duck 0.0476 Stir-fried pork liver 0.0330
+1118/11180002.jpg Rice with duck legs 0.4291 Boiled chicken rice 0.0316 Roast duck rice 0.0247 Roast goose rice 0.0140 Three yellow chicken 0.0132
+1119/11190000.jpg Cucumber fritters 0.5983 Preserved egg with cucumber 0.0746 Scrambled eggs with cucumber 0.0652 Cucumber mixed with garlic paste 0.0426 Cucumber and peanuts 0.0296
+112/1120004.jpg Lotus pond side dishes 0.7669 Matcha mousse cake 0.0051 Belt noodle 0.0050 Matcha ice cream 0.0044 Cucumber roll sushi 0.0043
+1120/11200001.jpg Coconut jelly 0.0664 Fillet steak 0.0523 Spicy ramen 0.0206 Abalone 0.0198 Bibimbap with pork belly 0.0188
+1121/11210004.jpg Fried ﬂower beetle 0.9251 Yellow clam 0.0197 Spicy fried clams 0.0186 Fried clams with ginger and spring onion 0.0049 White shellﬁsh 0.0049
+1122/11220005.jpg Lotus pond side dishes 0.1882 Fruit salad 0.0584 Fruit mufﬁns 0.0296 Fruit cup 0.0290 Fruit and vegetable salad 0.0287
+1123/11230002.jpg Shrimp and crab porridge 0.8813 Scallops and shrimp congee 0.0673 Vegetable and lean pork porridge 0.0083 Shrimp porridge 0.0075 Seafood congee 0.0027
+1124/11240003.jpg Palace fried shrimp ball 0.2586 Sweet and sour pork 0.1348 Salted chicken 0.0512 Chicken roll 0.0358 Three-cup chicken 0.0291
+1125/11250002.jpg Guoqiao tofu 0.0540 Drunken ﬁsh 0.0305 Cold dried eggs 0.0301 Vinegar turnip 0.0267 Fried jelly 0.0246
+1126/11260003.jpg Duck intestines 0.7888 Radish sauce 0.0194 Cookies 0.0087 Shredded bag 0.0084 Stewed meat 0.0081
+1127/11270002.jpg Stir-fried pig ears 0.1789 Cucumber with pork ears 0.1704 Halogen duck tongue 0.0427 Spicy slice pig ear 0.0331 Shredded rabbit meat 0.0306
+1128/11280003.jpg Mashed potatoes with cheese 0.9714 Curry chicken baked rice 0.0071 Cheese baked rice 0.0058 Margherita pizza 0.0034 Dregs biscuits 0.0028
+1129/11290001.jpg Fried beef rice with bitter melon 0.4147 Rice with curry chicken chop 0.0756 Curry rice 0.0323 Curry beef rice 0.0146 Tomato beef stew 0.0129
+113/1130000.jpg Stir-fried lettuce with dace in black bean sauce 0.5822 Fried beef with hot pepper 0.1555 Spiced rabbit head 0.0317 Raw cooking cabbage 0.0282 Stir fried beef with mustard 0.0225
+1130/11300000.jpg Braised konjac 0.5296 Shao powder 0.2841 Belt noodle 0.0733 Tofu pudding 0.0243 Yellow throat 0.0162
+1131/11310000.jpg Spring pancake 0.9545 Durian pancake 0.0108 Durian melaleuca cake 0.0039 Strawberry mille cake 0.0038 Matcha melaleuca cake 0.0025
+1132/11320001.jpg Garlic spinach 0.7412 Fried mater convolvulus 0.0910 Choy sum with garlic sauce 0.0822 Spicy shao pointed 0.0290 Garlic seasonal vegetables 0.0168
+1133/11330000.jpg Dorayaki 0.6472 Chestnut shortbread 0.1241 Flour cake 0.0721 Mahjong biscuits 0.0167 Sesame biscuits 0.0141
+1134/11340001.jpg Hot pot noodles 0.1062 Mutton vermicelli 0.0524 Potato ﬂour with seafood 0.0515 Beef noodles in sour soup 0.0455 Mushroom pot 0.0290
+1135/11350000.jpg Swiss roll cake 0.8527 Golden mantou 0.0177 Cranberry toast slices 0.0123 Brown sugar buns 0.0100 Cranberry¨ı¿œbiscuit 0.0063
+1136/11360006.jpg Crucian carp 0.5594 Fried ﬁsh 0.3008 Chicken rack 0.0295 Spanish mackerel 0.0194 Trash ﬁsh 0.0149
+1137/11370001.jpg Fried noodle with shredded pork 0.6313 Tossed ﬁsh skin 0.1279 Pickled cabbage powder 0.0221 Stir fried vermicelli 0.0214 Minced pork vermicelli 0.0094
+1138/11380000.jpg Crispy mung bean cake 0.9193 Matcha ﬂavored daifuku 0.0187 Moon cake 0.0099 Pan-fried pork bun 0.0043 Chestnut shortbread 0.0038
+1139/11390002.jpg Fried hairtail 0.5949 Fried ﬁsh 0.1376 Larimichthys 0.1034 Fried chicken wings tip 0.0874 Fried lesser croaker 0.0115
+114/1140001.jpg Fried bacon with bamboo shoots 0.6504 Fried bacon with dried radish 0.0464 Bamboo shoot pork 0.0262 Stir-fried bacon with garlic moss 0.0161 Fried lamb 0.0155
+1140/11400000.jpg Watermelon smoothie 0.6021 Strawberry smoothie 0.0328 Fruit cup 0.0194 Strawberry sundae 0.0178 Blueberry smoothie 0.0121
+1141/11410002.jpg Chicken casserole 0.6043 Braised chicken 0.0768 Fried chicken with mushroom 0.0221 Braised sheep’s hoof 0.0194 Chicken hot pot 0.0166
+1142/11420006.jpg Spicy ﬁsh 0.0619 Haggis soup 0.0386 Taian Fish 0.0287 Braised old goose 0.0242 Saut¨ı¿œed ﬁsh in chili sauce 0.0206
+1143/11430001.jpg Pork knuckle soup powder 0.9265 Casserole pork knuckle pot 0.0075 Mutton freeing 0.0048 Tomato beef stew 0.0045 Borscht 0.0025
+1144/11440000.jpg Fried wanton 0.2290 Fried dumplings 0.1991 Deep-fried cakes 0.0852 Fried dried tofu 0.0512 Cruller 0.0427
+1145/11450000.jpg Boiled mutton 0.1642 White cut saltwater duck 0.1091 Brine geese 0.1067 Salted duck 0.0225 Marinated goose 0.0194
+1146/11460000.jpg Double beef fort 0.2720 Krabby patty 0.1665 Chicken burger 0.0955 Delicious shrimp fort 0.0636 Beef burger 0.0483
+1147/11470006.jpg Honey roasted whole chicken 0.5380 Roast chicken wings 0.0447 Orleans roasted whole leg 0.0355 New orleans pair of wings 0.0329 Orlean roasted wing 0.0194
+1148/11480000.jpg Braised chicken 0.9543 Beef tenderloin 0.0092 Signature chicken feet 0.0072 Fish-ﬂavored eggplant pot 0.0061 Beer duck 0.0015
+1149/11490001.jpg Sour plum soup 0.3151 Steel pipe chicken 0.0682 Roast duck 0.0629 Roast lamb leg 0.0175 Grilled squid 0.0106
+115/1150002.jpg Baked prawns with salt 0.4961 Amaebi 0.0823 Shrimp skewers 0.0516 Grilled prawns 0.0479 Argentine red shrimp 0.0204
+1150/11500003.jpg Fruit mufﬁns 0.0595 Ice cream cone 0.0499 Tapioca pudding 0.0334 Fruit spell 0.0280 Arctic bay 0.0252
+1151/11510001.jpg Sesame octopus warship sushi 0.2646 Takoyaki 0.1192 Kimchi beef sushi 0.1037 Unagi sushi 0.0330 Black stinky tofu 0.0280
+1152/11520001.jpg Fruit mufﬁns 0.4899 Mufﬁn 0.2491 Ice cream wafﬂes 0.0856 Chocolate 0.0348 Creamy wafﬂe 0.0085
+1153/11530005.jpg Italian noodle with meat sauce 0.0820 Curry shrimp 0.0654 Fried squid ring 0.0256 Seafood pasta 0.0166 Fried noodle with egg 0.0116
+1154/11540000.jpg Taste shrimp 0.5621 Salt and pepper lobster 0.2058 Braised lobster 0.1809 Spicy lobster tail 0.0054 Boiled crayﬁsh 0.0042
+1155/11550001.jpg Beef rice roll 0.0509 Yam spring rolls 0.0402 Nougat 0.0332 Fish pot 0.0326 Spanish mackerel 0.0281
+1156/11560004.jpg Shredded squid 0.9563 Som tam 0.0051 Cold bean sprouts 0.0029 Shredded potatoes with salad 0.0023 Shredded cold papaya 0.0020
+1157/11570000.jpg Mango mousse cake 0.9631 Fruit mufﬁns 0.0070 Ice cream wafﬂes 0.0029 Creamy wafﬂe 0.0025 Pop cake 0.0024
+1158/11580002.jpg White rice 0.4611 Steamed buns 0.1460 Cheese bread 0.0579 Tofu pudding 0.0394 Biangbiang 0.0382
+1159/11590000.jpg Roti prata 0.3366 Green onion Chinese pancake 0.3110 Melaleuca 0.2753 Flatbread 0.0312 Cruller 0.0089
+116/1160001.jpg Grilled duck intestine skewers 0.8659 Bowl chicken 0.0369 Roast dried pork 0.0208 Shrimp skewers 0.0188 Cold pot string 0.0180
+1160/11600005.jpg Salmon fried rice 0.8995 Seafood paella 0.0367 Spicy cabbage fried rice 0.0335 Egg fried rice 0.0069 Shrimp fried rice 0.0050
+1161/11610000.jpg Scrambled eggs with green onion 0.9506 Fried rice with sauerkraut and egg 0.0154 Fried rice of yangzhou style 0.0031 Pineapple fried rice 0.0020 Egg fried rice 0.0018
+1162/11620001.jpg Hot rice 0.0266 Spicy ramen 0.0225 T-bone steak 0.0191 Shin ramen 0.0146 Curry omelet rice 0.0089
+1163/11630001.jpg Bullfrog claypot 0.1116 Fried snails 0.1001 Tossed ﬁsh skin 0.0347 Eel congee 0.0334 Fried sea oysters 0.0302
+1164/11640011.jpg Napoleon cake 0.8521 Brownie 0.0110 Home-style bean curd 0.0088 Marinated beef tripe 0.0081 Meringue 0.0079
+1165/11650003.jpg Fried carrot cake 0.1120 Fried shrimp cake 0.0631 Carrotcake 0.0363 Fried chicken chop 0.0313 Fried egg 0.0208
+1166/11660001.jpg Fried rice cake with swimming crab 0.5518 Bread crab 0.0367 Baked crab with egg yolk 0.0315 Fried crab with ginger and green onion 0.0291 Liocarcinus 0.0194
+1167/11670003.jpg Fillet steak 0.0430 Braised pork 0.0210 Brine geese 0.0123 Stewed meat 0.0113 Dongpo’s braised pork 0.0087
+1168/11680003.jpg Ice cream ball 0.2432 Strawberry yoghurt 0.2129 Haagen-Dazs ice cream 0.0575 Ice porridge 0.0416 Mango fried yogurt 0.0246
+1169/11690004.jpg Shao powder 0.1371 Som tam 0.0482 Shredded cold papaya 0.0339 Assorted sauce 0.0330 Delicious fern powder 0.0283
+117/1170003.jpg Roasted pork with dried beans 0.5039 Longevity dishes 0.0655 Fried kidney ﬂower with pig liver 0.0386 Stir-fried beef ﬁllet with tea mushroom 0.0253 Stir fried beef with mustard 0.0173
+1170/11700005.jpg Horseradish fungus 0.0968 Pork with pickled vegetables 0.0626 Small yellow croaker 0.0431 Grandma dishes 0.0368 Fried edamame with pickled vegetables 0.0331
+1171/11710011.jpg Rainbow cake 0.8698 Rose cake 0.0255 Doraemon cake 0.0185 Double cake 0.0173 Angry birds cake 0.0110
+1172/11720001.jpg Fried noodles with soy sauce 0.4697 Fried instant noodles 0.1987 Fried rice noodles with eggs 0.1320 Fried noodles with beef 0.0254 Three shreds fried rice noodles 0.0204
+1173/11730004.jpg Chicken heart string 0.9465 Roasted silkworm pupa skewers 0.0120 Fried sausage 0.0060 Boiled crayﬁsh 0.0033 Chicken wingette skewers 0.0030
+1174/11740004.jpg Fried noodles with beef 0.2637 Three silk fried noodles 0.1292 Fried noodles with ham 0.0904 Cold noodles with sesame sauce 0.0620 Shredded bean curd with cold sauce 0.0598
+1175/11750002.jpg Pork with pickled vegetables 0.0805 Steamed venetian bag 0.0439 Boneless chicken feet 0.0299 Duck liver 0.0297 Sea oyster 0.0263
+1176/11760001.jpg Red bean curd 0.7669 Blueberry yam 0.0281 Blueberry sundae 0.0165 Blueberry mashed potatoes 0.0128 Strawberry double skin milk 0.0106
+1177/11770001.jpg Matcha mousse cake 0.8818 Cucumber dip 0.0324 Hand peeling bamboo shoots 0.0034 Boiled okra 0.0033 Baked string beans 0.0024
+1178/11780000.jpg Meat dumplings 0.2220 Egg yolk meat dumpling 0.0330 Sauce elbow 0.0215 Marinated trotters 0.0203 Cruller 0.0154
+1179/11790000.jpg Steamed egg dumplings 0.1247 Fried small spring rolls 0.1024 Fried ice cream 0.0923 Baked bun 0.0421 Taro pie 0.0311
+118/1180000.jpg Lotus pond side dishes 0.1015 Scrambled eggs with onions 0.0793 Fried noodles with beef 0.0690 Fried intestines 0.0619 Hot squid 0.0558
+1180/11800000.jpg Refreshing evergreen 0.8953 Longevity dishes 0.0291 Garland chrysanthemum 0.0156 Umeboshi vegetable roast meat 0.0038 Kalimeris with smoked bean curd 0.0022
+1181/11810001.jpg Crepe 0.3515 Rainbow cake 0.0572 Krabby patty 0.0195 Double chicken drumsticks 0.0177 Delicious shrimp fort 0.0132
+1182/11820003.jpg Seaweed soup 0.0778 Braised pork ribs 0.0491 Braised chicken with ginseng 0.0473 Black stinky tofu 0.0274 Sixi roasted bran 0.0242
+1183/11830003.jpg Pickled mustard with shredded soup 0.3220 Duck soup 0.1617 Hot and sour tripe soup 0.0852 Beef soup 0.0655 Seaweed soup 0.0434
+1184/11840000.jpg Braised pigeon 0.3946 Crispy pigeon 0.1307 Roast chicken 0.0674 Duck wings 0.0435 Duck leg 0.0249
+1185/11850004.jpg Beef offal 0.3450 Beef noodles 0.2404 Powder soup 0.1132 Fish vermicelli 0.0708 Pho 0.0669
+1186/11860001.jpg Fried pork belly 0.3940 Princess lee roll sushi 0.2201 Grilled pork neck 0.1015 Crispy pork rice 0.0191 Roast pork 0.0190
+1187/11870000.jpg Stir fried lily with celery 0.9167 Stir fried fungus with celery 0.0334 Lettuce fried meat 0.0074 Fried bacon with lettuce 0.0043 Fried lettuce 0.0042
+1188/11880003.jpg Lychee meat 0.5925 Palace fried shrimp ball 0.0546 Squirrel mandarin ﬁsh 0.0456 Sweet and sour pork 0.0244 Pine bass 0.0135
+1189/11890003.jpg Braised ham sausage 0.9309 Fried potato chips 0.0196 Stir-fried celery with smoked bean curd 0.0068 Pickled mustard 0.0062 Mustard shreds 0.0017
+119/1190000.jpg Fried chicken legs 0.8838 Fried squid 0.0550 Snowﬂake chicken ﬁllet 0.0075 Overlord chicken strips 0.0042 Spicy wings 0.0040
+1190/11900001.jpg Bang bang chicken 0.3003 Delicious crispy rice 0.0641 Love chicken chop 0.0609 Tofu pudding 0.0291 Rice porridge 0.0279
+1191/11910004.jpg Matcha mousse cake 0.3726 Chocolate mousse cake 0.1854 Rose cake 0.0701 Macaron 0.0200 Flower cake 0.0126
+1192/11920001.jpg Steamed pork ribs with glutinous rice 0.2119 Beef and egg fried rice 0.0358 Pineapple fried rice 0.0249 Double chicken drumsticks 0.0236 Sushi of ﬂoss 0.0197
+1193/11930003.jpg Lean meat soup 0.5402 Powder soup 0.1559 Meatball soup 0.0544 Pho 0.0532 Sliced pork soup 0.0410
+1194/11940001.jpg Braised Tofu 0.7037 Mapo tofu donburi 0.0974 Stone pot tofu 0.0526 Mapo tofu 0.0311 Bean curd with stone plate 0.0125
+1195/11950003.jpg Pork knuckle soup powder 0.1052 Smoked ﬁsh noodle 0.0828 Pork feet noodles 0.0564 Sea Emperor fans clay pot 0.0458 Shrimp noodles 0.0413
+1196/11960000.jpg Roasted oysters 0.3784 Stone pot ﬁsh 0.3335 Kimchi ﬁsh 0.1276 Fish vermicelli 0.0132 Barrel ﬁsh 0.0078
+1197/11970002.jpg Fried chicken 0.9495 Stir-fried chicken with rice pepper 0.0189 Fried chicken with mushroom 0.0044 Ginger fried duck 0.0038 Bandit duck 0.0028
+1198/11980004.jpg Roti prata 0.7018 Melaleuca 0.1049 Leek pie 0.0518 Flatbread 0.0397 Cruller 0.0312
+1199/11990003.jpg Coarse grain porridge 0.2913 Black rice and red bean porridge 0.1597 Red bean porridge 0.1082 Eight treasure congee 0.1041 Red bean barley congee 0.0798
+12/120000.jpg Brownie 0.5403 Chocolate mousse cake 0.0422 Tapioca pudding 0.0395 Tossed cellophane noodles 0.0272 Biangbiang 0.0179
+120/1200003.jpg Refreshing evergreen 0.9201 Garlic broccoli 0.0221 Fried edamame with pickled vegetables 0.0076 Spinach mixed with peanuts 0.0060 Kalimeris with smoked bean curd 0.0043
+1200/12000001.jpg Walnut shortbread 0.9890 Cookies 0.0033 Puffs 0.0015 Cranberry¨ı¿œbiscuit 0.0007 Meat ﬂoss cake 0.0006
+1201/12010004.jpg Baked pig brain with tin foil 0.3015 Boiled beef 0.1582 Fatty intestine 0.1024 Poached pork slices 0.0538 Boiled bullfrog 0.0263
+1202/12020000.jpg Mango sticky rice cake 0.3472 Fragrant egg yolk roll sushi 0.2032 Tuna onigiri 0.0901 Seaweed sushi 0.0407 Floss sushi 0.0224
+1203/12030001.jpg Braised chicken nuggets 0.8768 Braised lamb 0.0174 Braised pork trotters 0.0101 Marinated trotters 0.0100 Three-cup chicken 0.0073
+1204/12040000.jpg Spicy squid 0.5584 Sauce fried squid 0.1474 Avocado salad 0.0174 Hot squid 0.0139 Iron squid 0.0108
+1205/12050003.jpg Pork chop bun 0.9288 Macaron 0.0054 Dorayaki 0.0039 cheesecake 0.0035 Johnnycake 0.0032
+1206/12060001.jpg Pure sausage 0.1258 Authentic intestine 0.1178 Five recipes of tender beef 0.0550 Black rice cake 0.0494 Chili noodles 0.0332
+1207/12070000.jpg Crock soup 0.4470 Pork chop soup with radish 0.3038 Braised chicken with bamboo sticks in coconut 0.0498 Braised chicken with ginseng 0.0121 White radish ribs simmering soup 0.0106
+1208/12080009.jpg Fried crab with curry 0.3009 Seafood pimple soup 0.2151 Curry shrimp 0.0414 Supreme pizza 0.0262 Curry chicken rice 0.0238
+1209/12090001.jpg Croissant 0.8001 Guokui 0.0491 Coconut bread 0.0269 Stewed meat 0.0124 Cruller 0.0090
+121/1210001.jpg Oyster sauce beef 0.6659 Fried sheep miscellaneous 0.0555 Fried chicken gizzards 0.0305 Noisette three kinds of meat 0.0252 Stir fried beef with mustard 0.0146
+1210/12100010.jpg Crab stick nigiri sushi 0.5555 California roll sushi 0.0129 Japanese pumpkin tart 0.0122 Caterpillar bread 0.0105 Tamago nigiri sushi 0.0103
+1211/12110001.jpg Chicken rack 0.5443 Braised pork 0.1110 Pig’s head meat 0.0892 Marinated trotters 0.0581 Fried chicken fork bone 0.0280
+1212/12120001.jpg Mango salmon roll sushi 0.7651 Wild vegetable dumpling 0.0275 Mango roll sushi 0.0233 Banana pancake 0.0133 Tamago nigiri sushi 0.0076
+1213/12130000.jpg Fried noodles with soy sauce 0.5406 Scallion noodles 0.3778 Fried noodles with beef 0.0080 Lentil braised noodles 0.0045 Peanut butter noodles 0.0039
+1214/12140003.jpg Nougat 0.9627 Sheep roll 0.0184 Black-bone chicken roll 0.0085 Crispy sausage 0.0010 Push cake 0.0009
+1215/12150000.jpg Mango black jelly 0.9478 Mango roll sushi 0.0146 Corn warship sushi 0.0030 Banana pancake 0.0030 Tamago nigiri sushi 0.0028
+1216/12160002.jpg Freshly fried small crispy pork 0.3387 Double chicken drumsticks 0.2132 Fried tenderloin 0.0935 Salt and pepper chops 0.0564 Fired pork in a scoop 0.0365
+1217/12170000.jpg The oil meat 0.2361 Fried loofah 0.1171 Scrambled eggs with sauce 0.0945 Fried pork slices 0.0854 Mushu pork rice bowl 0.0659
+1218/12180004.jpg Preserved rice 0.0302 Fried beef rice with bitter melon 0.0295 Preserved egg porridge 0.0263 Fried preserved eggs with pepper 0.0201 Eggplant with hot pepper 0.0145
+1219/12190001.jpg Scalded tripe 0.2450 Grilled beef ribs 0.0985 Pancake 0.0737 Melaleuca 0.0721 Vegetable pancake 0.0481
+122/1220000.jpg Roasted oysters 0.0674 Steamed mandarin ﬁsh 0.0614 Steamed carp 0.0432 Steamed green spotted ﬁsh 0.0364 Sea bream sashimi 0.0363
+1220/12200007.jpg Roasted bean skewers 0.6689 Grilled baby Chinese cabbage skewers 0.1207 Roasted cauliﬂower 0.0573 Grilled string bean skewers 0.0159 Baked string beans 0.0115
+1221/12210006.jpg Double beef fort 0.1402 Chicken burger 0.0406 Delicious shrimp fort 0.0394 Grilled chicken drumsticks 0.0350 Beef burger 0.0331
+1222/12220002.jpg Stir fried fungus with cabbage 0.1164 Fried poached egg with laba beans 0.0750 Sliced pork and potato 0.0633 Salt fried meat 0.0500 Fried sea oysters 0.0346
+1223/12230003.jpg Toffee cake 0.9914 Pineapple buns 0.0023 Cornmeal buns 0.0007 Crispy mung bean cake 0.0004 Mochi bun 0.0004
+1224/12240005.jpg Pig vegetable 0.2749 Nanning rice noodle 0.1017 Sour soup with beef 0.0155 Pepper chicken 0.0118 Fried pork with yuba 0.0117
+1225/12250003.jpg Soy milk 0.9321 Yogurt 0.0380 Rice porridge 0.0122 Tapioca pudding 0.0101 Coconut sago 0.0017
+1226/12260001.jpg Roasted leeks 0.9836 Roasted peppers 0.0058 Baked leek string 0.0010 Baked string beans 0.0008 Baked beans 0.0007
+1227/12270002.jpg Roasted bean skewers 0.5633 Roasted peppers 0.0792 Baked leek string 0.0453 Grilled string bean skewers 0.0094 Mixed beans 0.0094
+1228/12280000.jpg Scrambled eggs with local vegetables 0.9038 Whitebait scrambled eggs 0.0655 Scramble egg 0.0049 Scrambled eggs with green peppers 0.0012 Fried noodle with egg 0.0012
+1229/12290000.jpg Braised chicken 0.8558 Casserole yam 0.0395 Hakka tofu 0.0170 Fish-ﬂavored eggplant pot 0.0148 Three-cup chicken 0.0098
+123/1230010.jpg Yam pork ribs congee 0.5435 Longan and red date congee 0.0508 Tremella lianzi geng 0.0453 Yam pork ribs soup 0.0352 Red date and yam congee 0.0280
+1230/12300001.jpg Salt and pepper prawns 0.3181 Fried shrimp in typhoon shelter 0.1055 Skin shrimp 0.1008 Fried chicken chop 0.0789 Shredded meat 0.0250
+1231/12310000.jpg Stir-fried pork with garlic shoots 0.3545 Lettuce fried meat 0.0444 Fried bacon with lettuce 0.0300 Fried potato chips 0.0177 Fried winter melon 0.0162
+1232/12320000.jpg Miba 0.9460 Ham sausage 0.0344 Crispy sausage 0.0053 Strawberry milk pudding 0.0019 Luncheon meat 0.0017
+1233/12330000.jpg Tiger green peppers 0.3673 Eggplant garlic juice 0.2258 Barbecued pork noodle rolls 0.1773 Braised pork 0.0501 Stewed meat 0.0246
+1234/12340004.jpg Napoleon cake 0.9943 Pork ﬂoss 0.0017 Seaweed pork ﬂoss bread 0.0007 Sushi of ﬂoss 0.0004 Floss sushi 0.0003
+1235/12350004.jpg Marinated bullwhip 0.2118 Tuna salad 0.0422 Hand-shredded chicken 0.0178 Pounded chicken feet 0.0116 Stewed pork feet with ginger 0.0104
+1236/12360004.jpg Bean buns 0.7277 Plum dried vegetable meat bun 0.2517 Crab Dumplings in Soup 0.0136 Fresh meat soup dumplings 0.0030 Shrimp dumpling king 0.0013
+1237/12370000.jpg Spicy squid 0.3553 Sauce fried squid 0.1865 Hot squid 0.1126 Iron squid 0.0287 Griddle squid 0.0130
+1238/12380004.jpg Napoleon cake 0.2225 Krabby patty 0.2212 Egg and ham sandwich 0.0261 Roast pork 0.0239 Delicious shrimp fort 0.0234
+1239/12390000.jpg Brownie 0.3480 Roast duck noodle sauce 0.0933 Red date cake 0.0693 Chocolate mousse cake 0.0597 Dongpo’s braised pork 0.0443
+124/1240000.jpg Coarse grain porridge 0.4019 Black rice porridge 0.2046 Purple rice porridge 0.1346 Black rice and red bean porridge 0.0974 Eight treasure congee 0.0854
+1240/12400000.jpg Braised chicken 0.1138 Vinegar turnip 0.0306 Tapioca pudding 0.0230 Rice casserole 0.0205 Casserole white tofu 0.0174
+1241/12410000.jpg Cheese pizza 0.9993 Toasted bread 0.0002 Rocky cheese 0.0001 cheesecake 0.0001 Semi cooked cheese 0.0000
+1242/12420002.jpg Fried hairtail 0.5352 Fried dumplings 0.1806 Fried pulp 0.0376 Fried shrimp cake 0.0278 Spare ribs with garlic 0.0247
+1243/12430004.jpg Hot pot ice cream 0.2519 Fruit ﬁshing 0.0328 Sugar fried hawthorn 0.0275 Clam and winter melon soup 0.0264 Strawberry double skin milk 0.0248
+1244/12440002.jpg Garlic spinach 0.4386 Raw cooking cabbage 0.1538 Choy sum with garlic sauce 0.1138 Boiled cabbage heart 0.0808 Garlic seasonal vegetables 0.0415
+1245/12450010.jpg Fried crab with curry 0.9844 Fried crab with ginger and spring onion 0.0128 Spicy crab 0.0007 Fried crab with ginger and green onion 0.0006 Liocarcinus 0.0002
+1246/12460001.jpg Black-bone chicken roll 0.9519 Silky chicken roll 0.0115 Duck liver 0.0079 Braised pork 0.0024 Pig’s head meat 0.0022
+1247/12470001.jpg Milk ﬂavor bread slice 0.7146 Deep-fried cakes 0.0883 Honey cake 0.0799 Glutinous rice cake 0.0225 Fried bun slices 0.0155
+1248/12480000.jpg Taro sago 0.1515 Yam pork ribs soup 0.0438 Cream of mushroom soup 0.0234 Noodles soup 0.0212 Tapioca pudding 0.0198
+1249/12490000.jpg Stone egg skewers 0.0681 Preserved rice 0.0274 Braised tofu in abalone sauce 0.0245 Black stinky tofu 0.0226 Abalone rice 0.0205
+125/1250004.jpg Braised chicken 0.4600 Stewed chicken with mushroom 0.3032 Stewed chicken nuggets 0.1466 Beer duck 0.0164 Fried duck 0.0138
+1250/12500003.jpg Ramen with beef 0.1574 Beef pan noodle 0.0819 Sauerkraut rice noodles 0.0797 Mutton noodles 0.0654 Pork liver noodle 0.0457
+1251/12510000.jpg Millet porridge 0.1402 Mango sago 0.0833 Strawberry smoothie 0.0750 Poplar twig nectar 0.0695 Mango sorbet 0.0466
+1252/12520002.jpg Geoduck sashimi 0.9583 Pickle chicken feet 0.0072 Boneless chicken feet 0.0039 Cold chicken feet 0.0027 Lemon chicken feet 0.0021
+1253/12530005.jpg Ice powder 0.2012 Tofu pudding 0.1327 Vanilla ice cream 0.0761 Rose ice powder 0.0697 Rice wine and egg drop soup 0.0566
+1254/12540000.jpg Gourd head bread in the soup 0.4117 Wonton 0.1247 Red oil dumplings 0.0941 Mixed wonton 0.0187 Red oil dumplings 0.0126
+1255/12550006.jpg Pickled cucumber 0.6054 Sesame beans 0.0955 Mixed edamame 0.0491 Pickled mustard 0.0254 Sour beans 0.0166
+1256/12560006.jpg Mutton vermicelli 0.4071 Potato ﬂour with seafood 0.3624 Fried udon 0.0553 Shrimp with ice powder 0.0251 Potato ﬂour casserole 0.0236
+1257/12570001.jpg Fried chicken legs 0.4311 Hibiscus crab stick 0.1539 Signature chicken feet 0.0861 Shrimp 0.0318 Fried crispy banana 0.0208
+1258/12580008.jpg Chicken chop 0.1793 Chicken burger 0.1010 Pineapple fried rice 0.0800 Double chicken drumsticks 0.0152 Double chicken hamburger 0.0141
+1259/12590000.jpg Pineapple rice 0.9997 Three delicacies in casserole 0.0000 Steamed Fish Head with sauce 0.0000 Fried sea oysters 0.0000 Leek pie 0.0000
+126/1260008.jpg Spicy pork 0.7788 Green pepper shredded pork 0.0361 Shredded pork skin 0.0252 Tiger vegetables 0.0231 Iron squid 0.0093
+1260/12600000.jpg Stir-fried beef with green pepper 0.4765 Green pepper shredded pork 0.1903 Fried pork with chili 0.1651 Stir-fried pork with green peppers 0.0621 Green pepper shredded pork rice bowl 0.0122
+1261/12610004.jpg Sesame catsup sauce 0.1170 Pumpkin soup 0.0939 Pumpkin cream soup 0.0855 Tomato puree 0.0588 Borscht 0.0430
+1262/12620000.jpg Candied sweet potatoes 0.8738 Fried tempura 0.0073 Chicken neck 0.0058 Fried ﬁve spice roll 0.0050 Toothpick meat 0.0046
+1263/12630000.jpg Egg pudding 0.9884 Moon cake 0.0026 Puffs 0.0025 Green bean cake 0.0011 Durian pulp ice cream 0.0007
+1264/12640010.jpg Braised pork 0.8259 Salty burning white 0.0936 Pork with preserved vegetable 0.0074 Smoked hairtail 0.0052 Stewed meat 0.0034
+1265/12650001.jpg Spare ribs pot 0.6134 Chicken pot 0.1095 Chicken wing pot 0.0378 Braised ﬁsh pot 0.0361 Three yellow chicken nuggets 0.0139
+1266/12660000.jpg Garlic shrimp 0.9946 Seafood paella 0.0008 Sizzling shrimp 0.0005 Garlic crayﬁsh 0.0004 Steamed shrimp with garlic vermicelli 0.0004
+1267/12670000.jpg Roast eggplants 0.8150 Braised eggplant 0.1507 Sweet and sour pork 0.0083 Fried pork slices 0.0034 Fired pork in a scoop 0.0032
+1268/12680002.jpg Geoduck sashimi 0.7257 Black-bone chicken roll 0.0287 Bread crab 0.0099 Steamed crab claws 0.0067 Roll cold noodle 0.0065
+1269/12690003.jpg Sauted sauerkraut sausage 0.5658 Fried ham with cucumber 0.0553 Stir-fried fatty intestine with hot pepper 0.0507 Spicy sausage 0.0468 Fried shrimps with cashew nuts 0.0279
+127/1270005.jpg Fried mushrooms 0.8801 Cauliﬂower fried pork 0.0136 Cold jellyﬁsh 0.0052 Pickled sweet garlic 0.0042 Pickled mustard 0.0040
+1270/12700000.jpg Rainbow cake 0.5332 Mutton vermicelli 0.0105 Barbecued pork noodle 0.0076 Tea ﬂavored boiled eggs 0.0063 Old duck soup with tea tree mushrooms 0.0055
+1271/12710000.jpg Braised chicken 0.1689 Braised chicken with ginseng 0.1041 Sea oyster 0.0978 Black stinky tofu 0.0695 Three-cup chicken 0.0577
+1272/12720007.jpg Oreo sawdust cup 0.5986 Fried yogurt with oreo cookies 0.0988 Yogurt purple rice 0.0381 Oreo ice cream 0.0176 Yogurt 0.0140
+1273/12730002.jpg Steamed white guitar 0.9918 Steamed bun with vegetables 0.0047 Chinese hamburger 0.0007 White cake 0.0005 Stir-fried rougamo 0.0003
+1274/12740002.jpg Princess lee roll sushi 0.5176 Egg rice roll 0.0231 Fish vermicelli 0.0190 Pounded chicken feet 0.0161 Barrel ﬁsh 0.0155
+1275/12750004.jpg Yogurt 0.1915 Coconut sago 0.0915 Sea salt milk cake 0.0476 Popping milk cake 0.0416 Durian pulp ice cream 0.0405
+1276/12760000.jpg Cucumber preserved egg soup 0.7997 Raw cooking cabbage 0.0310 Stir fried fungus with celery 0.0206 Crispy bone sausage 0.0110 Fried ham with cucumber 0.0086
+1277/12770000.jpg Broth bottom 0.6842 Rainbow cake 0.0602 Chocolate 0.0559 Doraemon cake 0.0359 Double cake 0.0267
+1278/12780015.jpg Boiled ﬁsh 0.3645 Spicy ﬁsh 0.2109 Taian Fish 0.0798 Fatty intestine 0.0793 Organic ﬁsh 0.0351
+1279/12790007.jpg Dry pot frog 0.9489 Chicken wing pot 0.0434 Braised ﬁsh pot 0.0019 Boiled bullfrog 0.0009 Three-cup chicken 0.0009
+128/1280001.jpg Matcha mousse cake 0.7193 Geoduck sashimi 0.0227 Bamboo rice 0.0152 Matcha melaleuca cake 0.0152 Delicious daifuku 0.0116
+1280/12800002.jpg Steamed turbot 0.9860 Steamed sturgeon 0.0054 Steamed mandarin ﬁsh 0.0019 Steamed carp 0.0009 Steamed green spotted ﬁsh 0.0005
+1281/12810004.jpg Arctic bay sashimi 0.1831 Authentic intestine 0.0681 Sour plum soup 0.0294 Strawberry milk pudding 0.0217 Tuna sashimi 0.0215
+1282/12820001.jpg Green bean porridge 0.8433 Matcha ﬂavored daifuku 0.1101 Deep-fried cakes 0.0057 Millet mung bean porridge 0.0035 Rice porridge 0.0027
+1283/12830005.jpg Preserved rice 0.1046 Garlic broccoli 0.0507 Fried rice with bacon 0.0247 Pearl balls 0.0208 Shrimp fried rice 0.0146
+1284/12840001.jpg Seaweed warship sushi 0.2325 Corn warship sushi 0.0628 Tuna warship sushi 0.0494 Sushi of ﬂoss 0.0245 Black rice cake 0.0227
+1285/12850003.jpg Smooth double skin milk 0.8379 Rainbow cake 0.0121 Coconut sago 0.0101 Milk small party 0.0075 Coconut cake 0.0066
+1286/12860000.jpg Hand catch seafood 0.2907 Shrimp and crab pot 0.1481 Abalone 0.0537 Stir-fried clams with chili sauce 0.0351 Spanish mackerel 0.0329
+1287/12870002.jpg Tobiko warship sushi 0.8837 Beef jerky 0.0110 Kimchi cake 0.0058 Black rice cake 0.0055 Chili noodles 0.0038
+1288/12880009.jpg Grilled chicken skewers 0.4807 Chicken skewers 0.1488 Braised sheep’s hoof 0.0327 Roast chicken wings 0.0214 Roast lamb leg 0.0147
+1289/12890000.jpg Scones 0.6702 Dorayaki 0.1150 Green onion Chinese pancake 0.0449 Melaleuca 0.0414 Leek pie 0.0149
+129/1290000.jpg Grilled beef tongue 0.9905 Scalded beef 0.0030 Snowﬂake cowboy bones 0.0005 Tuna sashimi 0.0004 Sea bream sashimi 0.0002
+1290/12900003.jpg Raw cooking cabbage 0.7808 Stir-fried pork with garlic shoots 0.0562 Hot pepper twice cooked pork 0.0178 Soy sauce ﬁsh 0.0110 Salt fried meat 0.0101
+1291/12910002.jpg Brownie 0.5369 Swiss roll cake 0.3168 Nougat 0.0240 Braised pork 0.0051 Pop cake 0.0044
+1292/12920006.jpg Garlic broccoli 0.8272 Matcha ﬂavored daifuku 0.0498 Nuomici 0.0155 Black rice cake 0.0052 Delicious daifuku 0.0040
+1293/12930003.jpg Fried squid ﬂower 0.0838 Sweet corn pie 0.0380 Black pepper chicken nuggets 0.0237 Whole wheat bread 0.0199 Popcorn chicken 0.0163
+1294/12940000.jpg Meat dumplings 0.2098 Roasted chicken leg 0.0809 Beggar’s chicken 0.0653 Baked bun 0.0495 Chicken wing rice 0.0388
+1295/12950005.jpg Rice cake 0.9996 Fried udon 0.0001 Boneless chicken feet 0.0000 Beef tendon noodles 0.0000 Potato powder 0.0000
+1296/12960005.jpg Tomato pasta 0.3584 Fried udon 0.0303 Soba noodles 0.0270 Cart noodle 0.0155 Spaghetti black pepper beef 0.0138
+1297/12970004.jpg Matcha mousse cake 0.4079 Polenta 0.1734 Sesame catsup sauce 0.1351 Matcha ice cream 0.0360 cheesecake 0.0213
+1298/12980007.jpg Braised turtle 0.3405 Fried snails 0.2364 Tossed ﬁsh skin 0.1179 River snail 0.0531 Braised sea cucumber with scallion 0.0367
+1299/12990007.jpg Scrambled noodles with tomato and egg 0.7814 Fried shredded pancake 0.0421 Fried noodles with beef 0.0386 Fried intestines 0.0249 Stir fry 0.0206
+13/130002.jpg Goose palm 0.8943 Spicy chicken feet 0.0645 Duck feet 0.0158 Braised sheep’s hoof 0.0111 Signature chicken feet 0.0024
+130/1300011.jpg Fried ﬂower beetle 0.2148 Abalone 0.1141 Stir-fried clams with chili sauce 0.0955 Sea oyster 0.0950 Fried clams with ginger and spring onion 0.0552
+1300/13000000.jpg Peanut 0.6369 Spicy ﬁsh ball 0.0343 Soybean 0.0324 Cold mixed peanuts 0.0197 Marinated quail eggs 0.0133
+1301/13010000.jpg Wooden barrel rice 0.9797 Lame claypot rice 0.0021 Braised beef brisket en casserole 0.0017 Lamei and claypot rice 0.0010 Rice casserole 0.0008
+1302/13020004.jpg Chicken wing tip 0.7787 Spicy chicken wing 0.2027 Roast chicken wing tip 0.0076 Duck wings 0.0025 Orlean roasted wing 0.0018
+1303/13030005.jpg Watermelon sago 0.9194 Strawberry sundae 0.0196 Yogurt 0.0082 Strawberry milk pudding 0.0075 Strawberry double skin milk 0.0055
+1304/13040000.jpg White rice 0.6509 Coconut rice 0.3348 Roast duck cake 0.0032 Spring pancake 0.0027 Rice porridge 0.0013
+1305/13050000.jpg Grilled chiba tofu 0.9508 Scones 0.0476 Dried tofu 0.0003 Fried tofu 0.0002 Grilled tofu 0.0002
+1306/13060001.jpg Crispy corn cob 0.0989 Matcha ice cream 0.0411 Haagen-Dazs ice cream 0.0266 Ice cream cone 0.0234 Biangbiang 0.0233
+1307/13070005.jpg Tofu soup 0.7170 Preserved egg and lean meat porridge 0.0709 Preserved egg porridge 0.0109 Chicken porridge 0.0070 Minced beef congee 0.0063
+1308/13080001.jpg Mutton vermicelli 0.2644 Pork knuckle soup powder 0.1789 Stewed goose 0.0740 Tripe soup powder 0.0739 Pork feet noodles 0.0339
+1309/13090000.jpg Curry sirloin 0.0145 Curry beef rice 0.0111 Abalone rice 0.0087 Eggplant rice 0.0085 Durian cake 0.0079
+131/1310001.jpg Chinese chestnut 0.3195 Golden fried chicken feet 0.0530 Fried pork belly 0.0415 Roast pork 0.0284 Silver carp 0.0219
+1310/13100001.jpg Cold crucian carp 0.5009 Stir-fried pork with capers 0.1048 Sour beans 0.1013 Vegetable pot 0.0517 Sauerkraut meat 0.0127
+1311/13110003.jpg Duck belly 0.7784 Mustard duck feet 0.0598 Hand-shredded chicken 0.0285 Braised bamboo shoots 0.0051 Fried lotus root 0.0043
+1312/13120002.jpg Candied sweet potatoes 0.7802 Lychee meat 0.0687 Sweet and sour pork 0.0545 Pineapple sweet and sour pork 0.0081 Sizzling tofu 0.0069
+1313/13130000.jpg Spicy ﬁsh 0.2594 Kimchi ﬁsh 0.2262 Fish pot 0.1808 Old bowl ﬁsh 0.1320 Trash ﬁsh 0.0893
+1314/13140004.jpg Preserved egg with hot pepper 0.2625 Tofu with preserved eggs 0.0480 Sauce burst screws 0.0299 Braised hemp food 0.0265 Black stinky tofu 0.0246
+1315/13150002.jpg Braised ham sausage 0.3801 Pure sausage 0.0232 Duck heart 0.0130 Braised pork 0.0103 Black pepper sausage 0.0101
+1316/13160002.jpg Fried pork belly 0.1585 Roast suckling pig 0.1464 Dried tofu 0.0898 Roast pork 0.0660 Stewed meat 0.0435
+1317/13170000.jpg Red bean taro balls 0.8047 Green bean porridge 0.0518 Fried yogurt with oreo cookies 0.0105 Fruit jelly 0.0055 Ciba ice powder 0.0053
+1318/13180000.jpg Braised chicken 0.7744 Braised chicken in casserole 0.1574 Braised chicken and rice 0.0338 Braised chicken 0.0194 Three-cup chicken 0.0026
+1319/13190001.jpg Crock soup 0.0404 Marinated bullwhip 0.0301 Minced pork vermicelli 0.0208 Sea Emperor fans clay pot 0.0140 Eggplant with hot pepper 0.0135
+132/1320000.jpg Flamingo cake 0.5053 Angel cake 0.1870 Strawberry milk pudding 0.0551 Rose cake 0.0147 Flower cake 0.0144
+1320/13200002.jpg Tiger egg 0.1547 Orleans drumsticks 0.1523 Stewed chicken leg 0.1482 Rice with chicken leg 0.0333 Orleans roasted whole leg 0.0256
+1321/13210003.jpg Cauliﬂower fried pork 0.2452 Stir-fried beef with green pepper 0.0402 Cumin beef 0.0371 Stir-fried pork with green peppers 0.0301 Fried lamb 0.0262
+1322/13220001.jpg Chicken bibimbap 0.6722 Eggplant rice with ﬁsh aroma 0.0842 Eel rice 0.0232 Bibimbap with pork belly 0.0140 Rice with teriyaki drumstick 0.0092
+1323/13230003.jpg Barbecue ribs 0.3122 Mutton string 0.3009 Grilled ribs 0.1531 Tenderloin skewers 0.0488 Pork skewers 0.0226
+1324/13240001.jpg Shao powder 0.0636 Cold jellyﬁsh 0.0475 Old vinegar sting 0.0446 Tossed cellophane noodles 0.0283 Pig skin jelly 0.0254
+1325/13250001.jpg Boiled Chinese kale 0.7045 Boiled okra 0.1538 Boiled cabbage heart 0.0080 Bitter vegetable soup 0.0067 Garlic seasonal vegetables 0.0049
+1326/13260000.jpg Fried ﬂower beetle 0.2676 Roasted oysters 0.1787 Baked clams in tin foil 0.1751 Fried razor clam 0.1187 Fried clams with ginger and spring onion 0.0354
+1327/13270006.jpg Grilled rack of lamb 0.8697 Salt and pepper duck chin 0.0584 Mongolian roasted whole lamb 0.0220 Hand holding fan bone 0.0162 Roast lamb leg 0.0094
+1328/13280000.jpg Braised winter melon 0.1951 Casserole yam 0.1364 Smoked hairtail 0.0649 Gravy radish 0.0519 Fried winter melon 0.0500
+1329/13290000.jpg Lotus seed pork belly soup 0.2439 Crock soup 0.0797 Stewed chicken soup 0.0420 Buddha jumps over the wall 0.0315 Bak kut teh 0.0292
+133/1330000.jpg Dip in pickles 0.6064 Radish strips 0.2993 Colorful face lift 0.0174 Vinegar turnip 0.0122 Northeast big lift 0.0097
+1330/13300002.jpg Rainbow cake 0.3802 Red velvet cake 0.0214 Ice cream cone 0.0145 Rose cake 0.0108 Strawberry mille cake 0.0105
+1331/13310010.jpg Taro sago 0.8158 Simi fruit ﬁshing 0.0609 Fruit ﬁshing 0.0110 Strawberry double skin milk 0.0086 Round taro with coconut milk 0.0085
+1332/13320003.jpg Braised chicken in casserole 0.5859 Bullfrog claypot 0.1598 Stone pot bullfrog 0.0573 Stone bowl chicken nuggets 0.0446 Three-cup chicken 0.0311
+1333/13330002.jpg Steamed egg with shrimp 0.2141 Clams steamed egg 0.1596 Seafood steamed egg 0.0496 Chicken porridge 0.0403 Boiled egg 0.0314
+1334/13340000.jpg Stir-fried potato shreds with green pepper 0.4298 Fried hot and sour potato shreds 0.0511 Tiger vegetables 0.0462 Rice topped with shredded potato 0.0430 Mustard shreds 0.0163
+1335/13350001.jpg Hot pot chicken 0.2649 Braised lamb 0.2331 Braised beef 0.0884 Taro chicken 0.0880 Braised lamb 0.0343
+1336/13360006.jpg Preserved egg and lean meat porridge 0.2585 White porridge 0.1088 Rice porridge 0.0883 Preserved egg porridge 0.0319 Minced beef congee 0.0284
+1337/13370003.jpg Scrambled eggs with green onion 0.1473 Pita bread so awked in lamp soup 0.1242 Tofu pudding topped with crab guts 0.0394 Stir-fried pork with corn 0.0361 Stir fried diced noodles 0.0290
+1338/13380001.jpg Ice cream wafﬂes 0.7040 Vanilla ice cream 0.0307 Creamy wafﬂe 0.0276 Pop cake 0.0248 Honey toast 0.0094
+1339/13390001.jpg Mango layer cake 0.9165 Sheep roll 0.0139 Vinegar turnip 0.0067 Strawberry mille cake 0.0046 Red wine sydney 0.0026
+134/1340004.jpg Cool coconut milk 0.0513 Simi fruit ﬁshing 0.0501 Pickled fresh 0.0230 Fresh taro 0.0207 Black pearl with smoothie 0.0163
+1340/13400004.jpg Corn warship sushi 0.8995 Corn salad 0.0204 Corn with pine nuts 0.0068 Popcorn 0.0058 Corn pie 0.0049
+1341/13410008.jpg Pure sausage 0.8867 Duck heart 0.0694 Authentic intestine 0.0355 Black pepper sausage 0.0022 Lava rock sausage 0.0010
+1342/13420000.jpg Stir-fried lettuce 0.4902 Lettuce in oyster sauce 0.1117 Sauteed lettuce 0.0382 Chinese seaweed salad 0.0379 Stir-fried bitter gourd 0.0214
+1343/13430000.jpg Chicken casserole 0.1207 Fried chicken with mushroom 0.0626 Duck foot pot with snail 0.0518 Bak kut teh 0.0414 Casserole ﬁsh head pot 0.0388
+1344/13440005.jpg Braised chicken 0.3859 Sliced noodles 0.0564 Three yellow chicken nuggets 0.0504 Cut noodles in casserole 0.0300 Spicy hot pot 0.0293
+1345/13450001.jpg Fried frog 0.8305 Spicy chicken rice 0.0351 Fried pork with chili 0.0116 Fried pork rice 0.0093 Twice-cooked pork with rice 0.0061
+1346/13460003.jpg Hot pepper twice cooked pork 0.0721 Green pepper stir-fried dregs 0.0602 Stir fried pork and bone with chili 0.0380 Stir-fried pork belly with chili 0.0238 Salt fried meat 0.0236
+1347/13470003.jpg Pepper chicken 0.2710 Fried intestines 0.0843 Spicy sausage 0.0723 Spicy Ginger Chicken Feet 0.0723 Marinated goose 0.0341
+1348/13480000.jpg Spicy fried rice cake 0.4215 Platycodon 0.0273 Enoki mushroom mixed with cucumber 0.0229 Halogen duck tongue 0.0202 Grilled squid 0.0153
+1349/13490007.jpg Fried eggplant 0.3267 Braised eggplant 0.1638 Pork eggplant 0.1214 Eggplant with sauce 0.0435 Yu-Shiang eggplant 0.0378
+135/1350000.jpg Fragrant egg yolk roll sushi 0.3285 Fried ﬁsh 0.0858 Tossed ﬁsh skin 0.0307 Floss sushi 0.0246 Trash ﬁsh 0.0205
+1350/13500000.jpg Beef vermicelli soup 0.6010 Beef noodle soup 0.3186 Beef soup 0.0120 Vermicelli soup 0.0094 Spicy hot pot 0.0092
+1351/13510000.jpg Lotus pond side dishes 0.4378 Refreshing lotus root slices 0.1311 Custard piglet bun 0.0207 Lotus root slices 0.0102 Ginger lotus root 0.0073
+1352/13520013.jpg Preserved egg and lean meat porridge 0.3914 Cream of mushroom soup 0.1276 Preserved egg porridge 0.0335 Pork liver and lean meat porridge 0.0303 Minced beef congee 0.0204
+1353/13530001.jpg Geoduck sashimi 0.7605 Bread crab 0.0310 Braised duck gizzards 0.0200 Multi-ﬂavored ﬁsh skewers 0.0152 Roll cold noodle 0.0126
+1354/13540000.jpg Marinated noodles 0.1415 Fried noodles 0.0399 Scallion noodles 0.0354 Steamed rice with mei cai meatloaf 0.0348 Peanut butter noodles 0.0232
+1355/13550001.jpg Duck blood and bean-starchy vermicelli soup 0.1833 Fat rice roll 0.0895 Beef offal 0.0875 Shacha noodles 0.0629 Seafood noodle bumps 0.0589
+1356/13560000.jpg Marinated noodles 0.8213 Beef pan noodle 0.0451 Fried noodles with beef 0.0323 Mixed grain vermicelli 0.0300 Cut noodles in casserole 0.0100
+1357/13570002.jpg Delicious crispy rice 0.5056 Sausage fried rice 0.1505 Fried rice with sausage 0.0443 Duck intestine fried rice 0.0282 Soy sauce fried rice 0.0275
+1358/13580000.jpg Roasted fresh catﬁsh 0.1732 Diving ﬁsh 0.1150 Spicy fried sea screw 0.0756 Saut¨ı¿œed ﬁsh in chili sauce 0.0627 Spicy carp 0.0373
+1359/13590002.jpg Fried frog 0.2137 Geoduck sashimi 0.1323 Pickle chicken feet 0.0762 Cold chicken feet 0.0632 Lemon chicken feet 0.0589
+136/1360001.jpg Noodles with pork chop 0.1957 Sparerib noodles 0.1388 Mutton noodles 0.0442 Beef noodles 0.0362 Pork noodles 0.0341
+1360/13600001.jpg Cheese stick 0.5853 Hibiscus crab stick 0.0207 Cream puff sticks 0.0194 Brushed cheese hot dog sticks 0.0184 Shredded meat 0.0157
+1361/13610000.jpg Fried beans 0.4734 Stir-fried long beans 0.4585 Spiced rabbit head 0.0146 Sour beans 0.0057 Pork beans 0.0018
+1362/13620000.jpg Spareribs with taro 0.4250 Soy sauce steamed pork ribs 0.2092 Lean meat soup 0.0757 Shrimp wanton 0.0269 Steamed ribs 0.0131
+1363/13630001.jpg Mung bean soup 0.9113 Noodles soup 0.0379 Rice porridge 0.0134 Tapioca pudding 0.0079 Milk oatmeal 0.0057
+1364/13640000.jpg Tofu pudding topped with crab guts 0.7930 Rattan pepper ﬁsh ﬁllet 0.0651 Boiled ﬁsh with pickled cabbage and chili 0.0184 Fish vermicelli 0.0180 Barrel ﬁsh 0.0163
+1365/13650000.jpg Hot pot noodles 0.3041 Sliced noodles 0.1658 Marinated noodles 0.1653 Tripe soup powder 0.0584 Peanut butter noodles 0.0547
+1366/13660005.jpg Spicy bullfrog 0.1942 Bullfrog claypot 0.1588 Griddle bullfrog 0.0915 Stone pot bullfrog 0.0757 Taro chicken 0.0280
+1367/13670000.jpg Brown sugar hair cake 0.3311 Cantonese sponge cake 0.1296 Brown sugar buns 0.1221 Cranberry¨ı¿œbiscuit 0.1045 Millet cake 0.1045
+1368/13680011.jpg Sheep scorpion 0.4571 Pot lamb chops 0.3135 Mutton soup 0.0790 Mutton freeing 0.0584 Mutton hot pot 0.0322
+1369/13690001.jpg Marinated noodles 0.2076 Curry shrimp 0.0879 saozi noodles 0.0693 Tomato egg noodle 0.0220 Scrambled eggs with tomatoes 0.0186
+137/1370000.jpg Cuttleﬁsh 0.9372 Boneless chicken feet 0.0228 Signature chicken feet 0.0039 Yellow throat 0.0037 Fried yuba 0.0021
+1370/13700005.jpg Roast eggplants 0.6753 Candied sweet potatoes 0.2036 Braised eggplant 0.0410 Di San Xian 0.0196 Flavored eggplant 0.0144
+1371/13710004.jpg Matcha mousse cake 0.1050 Cup cake 0.0688 Matcha ice cream 0.0627 Chocolate mousse cake 0.0560 Macaron 0.0546
+1372/13720001.jpg Fried frog 0.3262 Scrambled eggs with local vegetables 0.1934 Grandma dishes 0.0938 Grandma’s scrambled eggs 0.0630 Sauerkraut meat 0.0615
+1373/13730001.jpg Pork with preserved vegetable rice 0.7789 Yuxiang pork rice bowl 0.0412 Eggplant rice 0.0266 Twice-cooked pork with rice 0.0227 Mushu pork rice bowl 0.0215
+1374/13740006.jpg Stewed croaker in brown sauce 0.2107 Chicken skewers 0.0740 Chicken neck 0.0529 Chicken wing rice 0.0477 Braised small yellow croaker 0.0359
+1375/13750000.jpg Cod ﬁsh steak 0.5912 Fried milk 0.0853 Golden cod 0.0837 Overlord chicken strips 0.0266 Boneless chicken ﬁllet 0.0236
+1376/13760002.jpg Bacon fried rice 0.3376 Fried rice with bacon 0.1434 Fried rice with bacon and egg 0.0486 Egg fried rice 0.0400 Shrimp fried rice 0.0294
+1377/13770003.jpg Eel rice 0.7885 Flammulina velutipes roll with streaky pork 0.0786 Broiled river eel 0.0403 Unagi sushi 0.0047 Urayaki eel 0.0035
+1378/13780000.jpg Noodles with pork chop 0.2030 Sparerib noodles 0.0696 Tonkotsu ramen 0.0371 Braised spare ribs noodles 0.0291 Mutton noodles 0.0211
+1379/13790000.jpg Stewed chicken soup 0.0533 Stewed chicken leg 0.0357 Tea ﬂavored boiled eggs 0.0217 Noodles with chicken leg soup 0.0191 Mushroom stewed chicken noodle 0.0173
+138/1380002.jpg Pork sauerkraut bun 0.6614 Crab Dumplings in Soup 0.1416 Xiao long bao 0.0693 Fresh meat soup dumplings 0.0656 Moon cake 0.0335
+1380/13800001.jpg The oil meat 0.7846 Lychee meat 0.0637 Sweet and sour pork 0.0580 Beijing sauce pork 0.0095 Sweet and sour ﬁllet 0.0085
+1381/13810003.jpg Crepe 0.0358 Matcha yellow peach cake 0.0339 Grilled mackerel 0.0324 Capelin 0.0241 Salt grilled salmon head 0.0235
+1382/13820000.jpg Sesame soy sauce lettuce 0.4101 Fris¨ı¿œe mixed with almonds 0.0988 Garland chrysanthemum 0.0507 Bean sprouts in soup 0.0350 Cilantro tofu soup 0.0333
+1383/13830000.jpg Pickled cucumber 0.8061 Songhua egg with ginger sauce 0.0976 Cold preserved egg 0.0284 Green pepper preserved egg 0.0164 Fried preserved eggs with pepper 0.0043
+1384/13840003.jpg Fried noodles with beef 0.1388 Fried noodle with shredded pork 0.1365 Fried noodles with shredded pork 0.1339 Fried noodles with ham 0.1324 Fried noodles with beef 0.0566
+1385/13850000.jpg Small yellow croaker 0.4226 Fried pork with sauerkraut 0.0808 Dry roasted large yellow croaker 0.0474 Saut¨ı¿œed ﬁsh in chili sauce 0.0441 Grilled whole ﬁsh 0.0200
+1386/13860005.jpg Beef claypot rice 0.2988 Beef tenderloin 0.0767 Bacon bibimbap 0.0325 Bibimbap with pork belly 0.0145 Pan-Fried calf chop 0.0136
+1387/13870005.jpg Garlic grilled ﬁsh 0.6124 Rice bag 0.0474 Bamboo rice 0.0223 Grilled eggplant 0.0222 Dregs biscuits 0.0218
+1388/13880001.jpg Pickled mustard with shredded soup 0.1588 Marinated noodles 0.1063 Yang chun noodles 0.0678 Pork noodles with pickled vegetables 0.0667 Pickled cabbage noodles 0.0577
+1389/13890009.jpg Seaweed warship sushi 0.1109 Tofu pudding 0.0599 Miso soup 0.0591 Black stinky tofu 0.0470 Vegetable pot 0.0256
+139/1390009.jpg Cold taro powder 0.3752 Soy milk 0.1558 Beef tendon noodles 0.1541 Yogurt 0.0762 Coconut sago 0.0736
+1390/13900006.jpg Beef claypot rice 0.2184 Eggplant claypot 0.0576 Bamboo rice 0.0481 Mushroom chicken claypot rice 0.0321 Lamei and claypot rice 0.0218
+1391/13910005.jpg Spicy bullfrog 0.1050 Griddle bullfrog 0.0522 Spicy chicken 0.0504 Griddle pork Intestines 0.0428 Trash ﬁsh 0.0424
+1392/13920000.jpg Fried ﬂower beetle 0.3530 Stir-fried ginger and green onion 0.2639 Fried crab with ginger and green onion 0.0704 Clam and winter melon soup 0.0307 Fried clams with ginger and spring onion 0.0271
+1393/13930000.jpg Soy sauce chicken 0.3552 Roast chicken 0.0872 Beggar’s chicken 0.0593 Three yellow chicken 0.0241 Steamed chicken 0.0208
+1394/13940002.jpg Fried pork belly 0.4255 Cumin cartilage 0.1230 Cumin lamb 0.1038 Cumin beef 0.0628 Salt and pepper ribs 0.0435
+1395/13950003.jpg Fried small spring rolls 0.5382 Egg pancakes 0.4092 Shredded potato burrito 0.0173 Braised pork roll 0.0122 Burrito 0.0080
+1396/13960008.jpg Fried pork chops 0.1711 Fried pork belly 0.1393 Cumin cartilage 0.1068 Cumin lamb 0.0908 Cumin beef 0.0183
+1397/13970001.jpg Krabby patty 0.1840 Chicken chop 0.0895 Chicken burger 0.0570 Grilled chicken drumsticks 0.0405 Beef burger 0.0194
+1398/13980000.jpg Seafood pimple soup 0.2952 Spicy bullfrog 0.0710 Sour soup with beef 0.0336 Crab yellow tofu 0.0320 Boiled bullfrog 0.0252
+1399/13990004.jpg River noodles in pig soup 0.0872 Champion and porridge 0.0382 Lean meat soup 0.0315 Scallop lean pork congee 0.0193 Fish porridge 0.0160
+14/140000.jpg Hand cake 0.9264 Fried bean curd 0.0061 Soy bean curd 0.0056 Mango ice 0.0045 Fried yuba 0.0033
+140/1400001.jpg Pimple face 0.5161 Beef noodles 0.1504 Shrimp wanton 0.0268 Powder soup 0.0242 Pho 0.0228
+1400/14000000.jpg Beef brisket with radish 0.1010 Potato beef 0.0781 Braised beef brisket en casserole 0.0727 Braised pork trotters 0.0531 Yellow braised beef 0.0463
+1401/14010002.jpg King crab 0.7466 Fried rice cake with swimming crab 0.0738 Bread crab 0.0153 Steamed crab 0.0149 Steamed crab claws 0.0067
+1402/14020003.jpg French fries 0.6110 Sweet plum and sweet potato 0.0873 Fennel fried dough sticks 0.0233 Whirlwind potato tower 0.0154 Deep-fried dough sticks 0.0115
+1403/14030000.jpg Bread crab 0.1676 Braised duck gizzards 0.1211 Mutton soup 0.1207 Stewed foie gras 0.0620 Cold cut foie gras 0.0477
+1404/14040006.jpg Spicy grilled meat mixed with rice 0.1732 Cumin lamb 0.1693 Strange rice 0.0759 Spicy fried sea screw 0.0673 Three yellow chicken nuggets 0.0571
+1405/14050001.jpg Spicy beef tendon 0.0925 Grilled baby Chinese cabbage skewers 0.0799 Skin shrimp 0.0324 Smoked chicken skeleton 0.0266 Dried squid and shrimp 0.0225
+1406/14060011.jpg Fried lotus white with oil residue 0.9258 Stir-fried cauliﬂower 0.0556 Cauliﬂower fried pork 0.0026 Stir-fried organic cauliﬂower 0.0023 Roasted cauliﬂower 0.0015
+1407/14070000.jpg Crispy rice potatoes 0.5828 Fried thousand page tofu 0.0160 Dried chiba bean curd 0.0155 Griddle potato chips 0.0103 Dried baby cabbage 0.0102
+1408/14080000.jpg Cheese bread 0.7594 Sliced toast with raisins 0.0999 Oreo ice cream 0.0164 Cranberry toast slices 0.0066 Whole wheat bread 0.0053
+1409/14090001.jpg Pickle soup 0.1734 Kimchi cake 0.1053 Loin roast 0.0480 Orleans chicken drumsticks 0.0439 Orlean roasted wing 0.0389
+141/1410001.jpg Hand cake 0.1191 Egg cake 0.0844 Five recipes of tender beef 0.0665 Burrito 0.0287 Vegetable pancake 0.0267
+1410/14100004.jpg Rice with duck legs 0.3255 Roast duck rice 0.1877 Crispy pork rice 0.0485 Steamed rice with barbecued pork 0.0464 Roast goose rice 0.0180
+1411/14110005.jpg Wild vegetable dumpling 0.6441 Spicy ﬁsh ball 0.0375 Deep-fried cakes 0.0320 Tofu bubble 0.0222 Oil gluten 0.0168
+1412/14120002.jpg Braised chicken 0.5643 Sliced noodles 0.3730 Supreme pizza 0.0081 Bacon ham pizza 0.0046 Cheese bacon pizza 0.0040
+1413/14130004.jpg Hot and sour soup 0.9837 Spinach egg drop soup 0.0077 Whitebait soup 0.0010 Seaweed soup 0.0007 Egg seaweed soup 0.0004
+1414/14140002.jpg Golden fried chicken feet 0.3449 Spicy chicken feet 0.2149 Tiger skin and chicken feet 0.1191 Signature chicken feet 0.1012 Grilled chicken feet skewers 0.0557
+1415/14150000.jpg Crispy corn cob 0.5077 Sweet potato balls with taro 0.0875 Fried milk 0.0694 Fried taro roll 0.0324 Fried crispy banana 0.0296
+1416/14160005.jpg Dried tofu with hot pepper 0.3140 Belt noodle 0.1982 Stir-fried dried tofu with hot pepper 0.1110 Dumplings 0.0845 Yellow throat 0.0469
+1417/14170009.jpg Soy sauce chicken 0.6234 Crispy pigeon 0.2029 Roasted silkworm pupa skewers 0.0170 Chilled lobster 0.0122 Boiled crayﬁsh 0.0065
+1418/14180000.jpg Braised turtle 0.7170 Fish pan cake 0.1154 Beer ﬁsh 0.0170 Braised small yellow croaker 0.0156 Trash ﬁsh 0.0150
+1419/14190002.jpg Braised chicken 0.1315 Spare ribs pot 0.1084 Potato stew chicken nuggets 0.0859 Stewed chicken nuggets 0.0727 Stewed goose in iron pan 0.0544
+142/1420008.jpg Fried pork with pleurotus eryngii 0.0516 Italian noodle with meat sauce 0.0463 Bacon ham pizza 0.0333 Salted white shrimp 0.0300 Signature chicken feet 0.0263
+1420/14200001.jpg Grilled beef tongue 0.3960 Sakura roll 0.0672 Smoked duck 0.0531 Grilled salmon sushi 0.0346 Grilled chicken breast 0.0312
+1421/14210004.jpg Tea tree mushroom ribs soup 0.1866 Stir-fried pork with green peppers 0.0370 Pork stomach 0.0364 Fried pork with fungus 0.0326 Stir-fried pork with mustard 0.0149
+1422/14220001.jpg Grilled horse paciﬁer 0.9645 Grilled small yellow croaker 0.0254 Spanish mackerel 0.0045 Multi-ﬂavored ﬁsh skewers 0.0009 Capelin 0.0007
+1423/14230001.jpg Chicken pot 0.4833 Stone bowl chicken nuggets 0.1583 Mutton soup 0.0505 Stewed goose in iron pan 0.0336 Stewed ﬁsh in iron pan 0.0299
+1424/14240000.jpg Honey chicken feet 0.9212 Spicy chicken feet 0.0547 Tiger skin and chicken feet 0.0070 Signature chicken feet 0.0067 Cold chicken feet 0.0021
+1425/14250001.jpg Braised pork on rice 0.8990 Eggplant rice with ﬁsh aroma 0.0188 Fried beef rice with bitter melon 0.0163 Braised eggplant with meat 0.0031 Ground sanxian rice bowl 0.0030
+1426/14260005.jpg Brownie 0.0525 Nougat 0.0356 Tofu pudding 0.0309 Green bean cake 0.0253 Black stinky tofu 0.0214
+1427/14270000.jpg Spicy duck jane 0.8577 Chicken heart string 0.0521 Braised duck head 0.0103 Braised sheep’s hoof 0.0065 Duck neck 0.0054
+1428/14280003.jpg Stone bowl chicken nuggets 0.1619 Braised chicken nuggets 0.0745 Braised beef brisket en casserole 0.0432 Braised pork trotters 0.0301 Braised pork ribs 0.0300
+1429/14290003.jpg Fruit cup 0.1117 Fruit ﬁshing 0.0913 Family portrait sushi 0.0312 Push cake 0.0202 Mango shrimp salad 0.0197
+143/1430003.jpg Griddle beef with skin 0.1146 Griddle duck 0.0951 Griddle shredded chicken 0.0767 Dry pot beef 0.0707 Griddle chicken 0.0661
+1430/14300003.jpg Wasabi octopus 0.5877 Pineapple cake 0.0206 Snowﬂakes 0.0202 Fried taro roll 0.0139 Black stinky tofu 0.0115
+1431/14310002.jpg Braised winter melon 0.9899 Eggplant claypot 0.0018 Eggplant claypot 0.0011 Fried jelly 0.0009 Roast pork skin 0.0008
+1432/14320001.jpg Garlic spinach 0.1726 Raw cooking cabbage 0.0851 Stir fried fungus with celery 0.0819 Spicy shao pointed 0.0690 Spinach in soup 0.0231
+1433/14330006.jpg Yang chun noodles 0.0918 Ketchup surface 0.0351 Small noodles 0.0202 Mixed grain vermicelli 0.0186 Spicy noodles 0.0172
+1434/14340002.jpg Eggplant garlic juice 0.5433 Tossed ﬁsh skin 0.1300 Green pepper preserved egg 0.0334 Black stinky tofu 0.0226 Fried preserved eggs with pepper 0.0215
+1435/14350001.jpg Griddle rabbit 0.0590 Hand catch seafood 0.0536 Griddle duck 0.0343 Black stinky tofu 0.0324 Spicy spare ribs 0.0214
+1436/14360006.jpg Love chicken chop 0.2171 Gourd chicken 0.0545 Fried chicken 0.0492 Golden pancake 0.0368 Beef jerky 0.0321
+1437/14370000.jpg Ice cream ball 0.3130 Mango layer cake 0.1942 Duomang small meatballs 0.0767 Fruit ﬁshing 0.0590 Mango ice 0.0252
+1438/14380000.jpg Barbecued pork 0.3727 Fried pork belly 0.1345 Grilled pork neck 0.1324 Roast pork 0.0559 Marinated goose 0.0305
+1439/14390003.jpg Mango layer cake 0.9435 Supreme pizza 0.0040 Fruit cup 0.0027 Duomang small meatballs 0.0024 Flame steak 0.0021
+144/1440000.jpg Red bean curd 0.2791 Matcha smoothie 0.2310 Soy milk 0.0600 Yogurt 0.0473 Coconut sago 0.0432
+1440/14400004.jpg Pure sausage 0.9119 Griddle duck 0.0306 Chicken neck 0.0069 Harbin sausage 0.0045 Lava rock sausage 0.0029
+1441/14410003.jpg Supreme pizza 0.4073 Kimchi ﬁsh 0.1309 Egg wrapped sausage 0.0538 Margherita pizza 0.0384 Shrimp pizza 0.0265
+1442/14420011.jpg Chicken casserole 0.6357 Waxiang chicken 0.1143 Chicken pot 0.0307 Casserole pork knuckle pot 0.0284 Mutton freeing 0.0183
+1443/14430000.jpg Fish with tomato 0.7432 Spicy rice noodles 0.0547 Tomato sirloin 0.0277 Tomato puree 0.0218 Tomato rice noodles 0.0195
+1444/14440013.jpg Seaweed warship sushi 0.9079 Roasted peppers 0.0654 Roasted peppers 0.0038 Baked string beans 0.0035 Baked beans 0.0026
+1445/14450005.jpg Sausage rice 0.9181 Pig vegetable 0.0153 Cauliﬂower fried pork 0.0090 Three delicacies in casserole 0.0053 Scrambled eggs with ham 0.0032
+1446/14460023.jpg Crispy corn cob 0.1301 Meat dumplings 0.0400 Crispy rice cake 0.0287 Stewed meat 0.0262 Spicy wings 0.0195
+1447/14470003.jpg Beer ﬁsh 0.1416 Organic ﬁsh 0.0445 Saut¨ı¿œed ﬁsh in chili sauce 0.0307 Casserole ﬁsh head pot 0.0225 Stewed ﬁsh in iron pan 0.0195
+1448/14480001.jpg Sweet shrimp sashimi 0.1714 Red shrimp 0.0565 Amaebi 0.0551 Three products of sashimi 0.0496 Argentine red shrimp 0.0311
+1449/14490000.jpg Duck belly 0.9923 Fried pork with yuba 0.0017 Spicy yuba 0.0015 Celery fried yuba 0.0015 Fried lotus root 0.0007
+145/1450000.jpg Quicksand bun with egg custard 0.3471 Custard bun 0.1135 Salted duck egg 0.1045 Coconut sago 0.1018 Black sesame glutinous rice balls 0.0267
+1450/14500001.jpg Flower cake 0.1051 Baked prawns with salt 0.0349 Baked shrimp roll with cheese 0.0201 Shrimp skewers 0.0199 Spicy shrimp 0.0130
+1451/14510001.jpg Cheese pizza 0.9104 Supreme pizza 0.0495 Finding nemo pizza 0.0205 Beef pizza with black pepper 0.0047 Roast chicken pizza 0.0021
+1452/14520005.jpg Crystal chicken 0.2207 Duck soup 0.0401 Sour radish duck soup 0.0347 Salted duck 0.0290 Saliva chicken 0.0203
+1453/14530007.jpg Meringue 0.8824 Shar pei mousse cake 0.0220 Cranberry toast slices 0.0137 Cream puff sticks 0.0049 Sukiyaki goose 0.0039
+1454/14540009.jpg Roast chicken wing tip 0.1835 Duck wings 0.0557 Grilled ribs 0.0332 Grilled chicken feet 0.0298 Loin roast 0.0195
+1455/14550002.jpg Refreshing lotus root slices 0.2078 Lotus root slices 0.1750 Ginger lotus root 0.1148 Popping milk cake 0.0887 Fried lotus root 0.0723
+1456/14560006.jpg Polenta 0.8824 Caramel pudding 0.0160 Pumpkin soup 0.0090 Pumpkin cream soup 0.0054 Creamy corn soup 0.0053
+1457/14570000.jpg Geoduck sashimi 0.2527 Nigiri sushi 0.1462 Three products of sashimi 0.0642 Arctic shellﬁsh sushi 0.0341 Arctic bay 0.0313
+1458/14580004.jpg Shrimp rolls 0.9773 Steamed sausage noodles with lean meat 0.0082 Cream puff sticks 0.0069 Chee cheong fun 0.0020 Roll cold noodle 0.0010
+1459/14590001.jpg Duck intestines 0.4085 Griddle cooked tea tree mushrooms 0.1688 Stewed beef offal 0.1441 Griddle pork Intestines 0.0609 Hot pot chicken giblets 0.0343
+146/1460009.jpg Vinegar cabbage 0.2458 Fried lotus white with oil residue 0.2168 Stir fried fungus with cabbage 0.0922 Egg rice roll 0.0815 Pickled pepper baby food 0.0701
+1460/14600008.jpg Stewed croaker in brown sauce 0.4385 Bread soaked in ﬁsh head soup 0.2084 Homely stewed ﬁsh 0.1303 Roasted ﬁsh with soy sauce 0.0183 Silver carp 0.0164
+1461/14610005.jpg Eggplant garlic juice 0.2413 Braised chicken with ginseng 0.2086 Black stinky tofu 0.0878 Eggplant salad 0.0342 Saury 0.0311
+1462/14620000.jpg Fried beans 0.4617 Braised eggplant with bean curd 0.2698 Fried potato chips 0.1097 Stir-fried shredded pork with garlic moss 0.0725 Stir-fried bacon with garlic moss 0.0556
+1463/14630001.jpg Chicken neck 0.2066 Yuanbao shrimp 0.1625 Argentine red shrimp 0.1326 Macadamia 0.0513 Salted shrimp with pepper 0.0416
+1464/14640002.jpg Stewed chicken soup with cordyceps ﬂower 0.6065 Ice powder 0.0707 Hot and sour tripe soup 0.0289 Spicy beef soup 0.0199 Red bean porridge 0.0108
+1465/14650000.jpg Beef brisket with radish 0.9620 Braised tofu in abalone sauce 0.0068 Sugar oil cake 0.0030 Steamed pumpkin 0.0024 Gravy radish 0.0022
+1466/14660008.jpg Sweet heart pastry 0.7510 Dorayaki 0.1140 Chestnut shortbread 0.0714 Durian cake 0.0107 Meat ﬂoss cake 0.0057
+1467/14670002.jpg Crab stick nigiri sushi 0.8517 Refreshing lotus root slices 0.0045 Sakura roll 0.0026 Chocolate mousse cake 0.0023 Glutinous rice lotus root 0.0022
+1468/14680001.jpg Japanese pumpkin tart 0.0798 Durian cheesecake 0.0750 Pan-fried pork bun 0.0671 Barbecued pork crisp 0.0529 Fried dumpling 0.0341
+1469/14690000.jpg Steamed crab feet 0.6703 Bread crab 0.2265 Fried razor clam 0.0245 Steamed crab claws 0.0161 Fried dumpling 0.0118
+147/1470004.jpg Sesame octopus warship sushi 0.8856 Kimchi beef sushi 0.0548 Spicy cabbage sushi roll 0.0114 Egg yolk pork ﬂoss seaweed rice 0.0088 Black stinky tofu 0.0074
+1470/14700008.jpg Honey chicken feet 0.1140 Oyster sauce beef 0.0443 Sweet and sour ﬁllet 0.0286 Braised eggplant with meat 0.0259 Sweet and sour pork ribs 0.0225
+1471/14710003.jpg Braised chicken and rice 0.1460 Stone pot bullfrog 0.1154 Stone pot tofu 0.1121 Braised pork trotters 0.0646 Braised pork ribs 0.0458
+1472/14720000.jpg Tomahaw 0.0730 Fillet steak 0.0469 Ribeye steak 0.0324 Pan-Fried calf chop 0.0259 Braised pork ribs 0.0252
+1473/14730003.jpg Yuanbao shrimp 0.5388 Tea ﬂavored shrimp 0.0785 Sizzling shrimp 0.0412 Macadamia 0.0398 Salted shrimp with pepper 0.0308
+1474/14740005.jpg Fried noodles with beef 0.3230 Steamed noodles 0.3107 Three silk fried noodles 0.2178 Fried instant noodles 0.0430 Fried noodle with egg 0.0371
+1475/14750002.jpg Sauce fried squid 0.2367 Spicy frog 0.1958 Hot squid 0.0958 Iron squid 0.0704 Stir fry 0.0619
+1476/14760000.jpg Cheese pizza 0.2439 Mashed potatoes with cheese 0.1697 Supreme pizza 0.0690 Bacon ham pizza 0.0645 Cheese baked sweet potatoes 0.0204
+1477/14770002.jpg Roasted shiitake mushrooms 0.6980 Fried ﬁsh 0.1660 Beef jerky 0.0317 Chicken rack 0.0260 Roast chicken head 0.0038
+1478/14780002.jpg Chocolate covered croissant 0.9709 Salad crispy chicken rice 0.0045 Sakura roll 0.0032 Floss sushi 0.0024 Creamy wafﬂe 0.0013
+1479/14790002.jpg Fried squid 0.1161 Fried bean curd 0.0593 Beef jerky 0.0271 Mongolian roasted whole lamb 0.0261 Fried chicken chop 0.0216
+148/1480001.jpg Red bean double skin milk 0.2090 Angel cake 0.1285 Matcha ice cream 0.0378 Fan shabu 0.0336 Flower cake 0.0246
+1480/14800003.jpg Fried mushrooms 0.3727 Marinated beef brisket in spiced sauce 0.2354 Boiled mutton 0.0993 Fried ﬁsh 0.0297 Beef jerky 0.0214
+1481/14810004.jpg Potato chips on sizzling iron plate 0.2945 Fried potato chips 0.1729 Cranberry¨ı¿œbiscuit 0.0754 Griddle potato chips 0.0501 Spicy potato chips 0.0387
+1482/14820000.jpg Ice cream ball 0.7260 Fruit cup 0.0315 Simi fruit ﬁshing 0.0268 Ice porridge 0.0164 Tapioca pudding 0.0144
+1483/14830000.jpg Steamed pork ribs with glutinous rice 0.2499 Fried noodles 0.1683 Cumin lamb 0.0620 Meatballs 0.0513 Beef soup 0.0426
+1484/14840001.jpg Spicy ﬁsh 0.2164 Grilled duck intestine skewers 0.0743 Pepper rabbit 0.0555 Bowl chicken 0.0473 Baked leek string 0.0443
+1485/14850002.jpg Chocolate covered croissant 0.2158 Roast suckling pig 0.0819 Braised pork 0.0721 Pig’s head meat 0.0640 Marinated trotters 0.0584
+1486/14860004.jpg Chinese chestnut 0.4041 Spicy lobster tail 0.4010 Prawn tail 0.1201 Chestnut 0.0432 Shrimp tail 0.0091
+1487/14870002.jpg Green bean porridge 0.1938 Green tea cake 0.1339 Adzuki bean fermented rice 0.1027 Hemp group 0.0259 Mahjong biscuits 0.0258
+1488/14880004.jpg Stir-fried pork with garlic shoots 0.3796 Taste snake 0.0606 Twice cooked beef 0.0332 Salt fried meat 0.0284 Eggplant with hot pepper 0.0252
+1489/14890000.jpg Braised pork 0.1273 Sesame catsup sauce 0.0440 Ham sausage 0.0291 Marinated beef 0.0213 Red wine sydney 0.0162
+149/1490003.jpg Haggis soup 0.2298 Taro sago 0.1415 Mutton soup 0.1217 Big bone soup 0.0766 Coconut sago 0.0438
+1490/14900004.jpg Bread crab 0.2139 Crab pot 0.0633 Spicy crab 0.0597 Fried crab with ginger and green onion 0.0577 Steamed crab claws 0.0380
+1491/14910001.jpg Stewed chicken with mushroom 0.7046 Fried wanton 0.0566 Fried dumplings 0.0343 Sea oyster 0.0147 Braised sausage 0.0087
+1492/14920010.jpg Braised chili in oil 0.2317 Roasted peppers 0.0852 Pan-fried three stuffed treasures 0.0577 Fried beef with bitter melon 0.0570 Fried lettuce 0.0497
+1493/14930003.jpg Red bean pie 0.0461 Pan-Fried calf chop 0.0377 Barbecued pork crisp 0.0294 Crispy rice cake 0.0238 Chicken wing rice 0.0219
+1494/14940002.jpg Coconut jelly 0.1970 Angel cake 0.0358 Matcha ice cream 0.0220 Sea urchin sashimi 0.0191 Doraemon cake 0.0179
+1495/14950000.jpg Stone pot ﬁsh 0.9564 Braised chicken with bamboo sticks in coconut 0.0047 Beer ﬁsh 0.0039 Barrel ﬁsh 0.0017 Steamed dumpling 0.0014
+1496/14960001.jpg Crystal chicken 0.6645 White cut chicken 0.1189 Scallion chicken 0.0504 Salted duck 0.0333 Three yellow chicken 0.0054
+1497/14970002.jpg Tofu skin sushi 0.4986 Dried tofu 0.0566 Barbecued pork crisp 0.0539 Grilled tofu 0.0454 Fish with bean curd 0.0449
+1498/14980003.jpg Tofu with preserved eggs 0.3168 Songhua egg with ginger sauce 0.1432 Cold preserved egg 0.1137 Black stinky tofu 0.0778 Egg seaweed soup 0.0587
+1499/14990002.jpg Delicious jelly 0.4305 Caramel pudding 0.1541 Water-chestnut pudding 0.0969 Cold rice cake 0.0708 Cold rice tofu 0.0491
+15/150000.jpg Cheese bread 0.9734 Durian pancake 0.0105 Banana pancake 0.0047 Mango pancake 0.0019 Durian melaleuca cake 0.0012
+150/1500006.jpg Roast duck cake 0.6167 Sliced toast with raisins 0.1321 Spring pancake 0.1232 Guokui 0.0244 Durian melaleuca cake 0.0118
+1500/15000000.jpg Halogen rabbit head 0.5200 Roast pork knuckle 0.0916 Smoked chicken skeleton 0.0166 Cream puff sticks 0.0134 Salt grilled salmon head 0.0133
+1501/15010008.jpg Champion and porridge 0.2526 Peony shrimp sashimi 0.0497 Shrimp rolls 0.0211 Pounded chicken feet 0.0198 Steamed shrimp with garlic vermicelli 0.0182
+1502/15020003.jpg Hand cake 0.0390 Tofu skin sushi 0.0309 Stuffed gluten balls 0.0255 Tuna warship sushi 0.0239 Duck leg 0.0170
+1503/15030002.jpg Ice cream ball 0.6153 Preserved egg with cucumber 0.0527 Vegetable salad 0.0441 Lettuce tip 0.0252 Donuts 0.0161
+1504/15040000.jpg Whitebait scrambled eggs 0.7628 Cold jellyﬁsh 0.0671 Choy sum sting peel 0.0133 Stir-fried vermicelli with cabbage 0.0113 Pickled mustard 0.0096
+1505/15050000.jpg Crepe 0.9274 Crispy corn cob 0.0098 Red bean pie 0.0091 Love chicken chop 0.0047 Brushed cheese hot dog sticks 0.0028
+1506/15060004.jpg Brownie 0.4929 Matcha mousse cake 0.1743 Red velvet cake 0.0142 Chocolate mousse cake 0.0094 Chocolate brown cake 0.0088
+1507/15070002.jpg Sawdust cup 0.1009 Cake box 0.0480 Nougat 0.0340 Geoduck sashimi 0.0278 Popcorn 0.0196
+1508/15080001.jpg Minced pork nigiri sushi 0.6856 California hand-rolled sushi 0.1556 Minced pork hand-rolled sushi 0.0311 Floss sushi 0.0140 Vegetable pancake 0.0093
+1509/15090008.jpg Grilled chicken feet 0.3121 Braised sheep’s hoof 0.2867 Roast chicken wings 0.1428 Grilled chicken feet skewers 0.0930 Roast lamb leg 0.0250
+151/1510001.jpg Fried loofah 0.0770 Matcha ice cream 0.0624 Noodles soup 0.0598 Winter melon pork ribs soup 0.0552 Pho 0.0473
+1510/15100005.jpg Chocolate mousse cake 0.0570 Chocolate brown cake 0.0525 Black rice cake 0.0475 Saury 0.0388 Sugar fried chestnut 0.0362
+1511/15110000.jpg Spicy noodles 0.8569 Stir fry 0.0549 Steamed rice noodles 0.0162 Stir fried vermicelli 0.0084 Fried noodle with egg 0.0077
+1512/15120000.jpg Authentic intestine 0.4546 Crispy bone sausage 0.0566 Soy milk 0.0443 Cream puff sticks 0.0406 Coconut sago 0.0269
+1513/15130001.jpg Chestnut roast chicken 0.3775 Fried chicken with mushroom 0.3003 Potato stew chicken nuggets 0.0329 Bazhen tofu 0.0183 Chicken with chestnut 0.0178
+1514/15140011.jpg Scalded prawns 0.9574 Salted white shrimp 0.0144 Fried prawns 0.0048 Macadamia 0.0015 Scalded prawns 0.0012
+1515/15150001.jpg Chocolate covered croissant 0.2293 Geoduck sashimi 0.0872 Tofu pudding 0.0459 Vinegar turnip 0.0361 Flower cake 0.0315
+1516/15160000.jpg Fish ball soup 0.2916 Hang Sanxian 0.0874 Powder soup 0.0234 Three fresh rice noodles 0.0224 Meatball soup 0.0180
+1517/15170004.jpg Sliced noodles 0.2730 Beef noodle soup 0.1776 Beef noodle soup 0.1657 Mutton freeing 0.0374 Cut noodles in casserole 0.0305
+1518/15180000.jpg Marinated noodles 0.0825 Burning noodles 0.0763 Rice bag 0.0607 Rice casserole 0.0365 Fried noodle with egg 0.0335
+1519/15190005.jpg Steamed egg dumplings 0.7609 Red bean pie 0.0079 Pineapple pie 0.0074 Cruller 0.0063 Mango sorbet 0.0050
+152/1520000.jpg Fried mushrooms 0.6803 Golden fried chicken feet 0.0702 Scalded tripe 0.0444 Fried shrimp 0.0240 Fried ﬁsh 0.0143
+1520/15200000.jpg Sesame soy sauce lettuce 0.5622 Enoki mushroom mixed with cucumber 0.1185 Cucumber with pork ears 0.0421 Stir fried vegetables 0.0354 Spicy hot pot 0.0186
+1521/15210002.jpg Sweet potato balls with taro 0.6078 Fried sweet potato balls 0.2515 Fried konjac balls 0.1188 Pumpkin pie 0.0093 Taro balls 0.0064
+1522/15220006.jpg Stewed chicken with mushroom 0.2454 Stew 0.1760 Mutton noodles 0.1383 Beef offal pot 0.0757 Vermicelli soup 0.0435
+1523/15230000.jpg Sausage fried rice 0.2037 Beef and egg fried rice 0.1230 Pineapple fried rice 0.0761 Lamb chops hand pilaf 0.0394 Cured fried rice 0.0286
+1524/15240000.jpg Chestnut cream soup 0.4588 Yam and vegetable porridge 0.0243 Yam polenta 0.0184 Yogurt 0.0129 Rice porridge 0.0126
+1525/15250002.jpg King crab 0.6869 Fried pork belly 0.0296 Braised pork 0.0169 Pig’s head meat 0.0129 Pickle 0.0124
+1526/15260000.jpg Pickled cucumber 0.2022 Broad beans with scallion oil 0.0442 Hot and sour chicken mixed 0.0400 Marinated chicken gizzards 0.0383 Fried lamb 0.0266
+1527/15270004.jpg Swiss roll cake 0.1988 Fried rice cake 0.0943 Bamboo rice 0.0663 Cranberry¨ı¿œbiscuit 0.0628 Millet cake 0.0319
+1528/15280006.jpg Duck soup 0.5551 Tea tree mushroom ribs soup 0.0645 Stewed chicken nuggets 0.0467 Pigeon soup 0.0362 Braised chicken with ginseng 0.0315
+1529/15290000.jpg Crepe 0.0665 Dried tofu 0.0348 Chestnut 0.0305 Chili noodles 0.0220 Sugar fried chestnut 0.0192
+153/1530000.jpg Fried potato chips 0.7864 Stir-fried celery with smoked bean curd 0.2074 Fried river prawns with leek 0.0011 Stir-fried shredded pork with garlic moss 0.0008 Stir-fried bacon with garlic moss 0.0003
+1530/15300005.jpg Fried bean curd 0.7331 Fried chicken legs 0.1424 Love chicken chop 0.0213 Fried chicken 0.0174 Spicy wings 0.0128
+1531/15310004.jpg Green vegetable tofu soup 0.5145 Miso soup 0.1203 Noodles soup 0.0811 Casserole white tofu 0.0601 Sliced pork soup 0.0416
+1532/15320001.jpg Garlic bread 0.8798 Geoduck sashimi 0.0267 Milk ﬂavor bread slice 0.0061 Cream of mushroom soup 0.0041 Pop cake 0.0036
+1533/15330000.jpg Grilled cod 0.5960 Bamboo rice 0.0731 Grilled eggplant 0.0676 Saury 0.0205 Grilled squid 0.0135
+1534/15340004.jpg Matcha mousse cake 0.4982 Minced pork nigiri sushi 0.2235 Matcha ice cream 0.0971 Green tea cake 0.0096 Matcha melaleuca cake 0.0088
+1535/15350002.jpg Polenta 0.4160 Millet porridge 0.1296 Ballast congee 0.0979 Sweet potato porridge 0.0684 Pumpkin porridge 0.0090
+1536/15360003.jpg Braised chicken 0.1585 Dry pot frog 0.1207 Curry chicken rice 0.0520 Curry beef rice 0.0233 Three yellow chicken nuggets 0.0178
+1537/15370001.jpg Marinated beef brisket in spiced sauce 0.1738 Braised beef brisket en casserole 0.1440 Braised beef 0.0944 Yellow braised beef 0.0446 Fried duck 0.0439
+1538/15380001.jpg Griddle rabbit 0.1921 Fried frog 0.1304 Griddle duck 0.1208 Spicy frog 0.0670 Griddle ribs 0.0517
+1539/15390001.jpg Pork sauerkraut bun 0.5127 Fresh meat soup dumplings 0.0613 Taro sago 0.0260 Roast duck cake 0.0246 Durian pancake 0.0243
+154/1540000.jpg Smooth double skin milk 0.4286 Millet porridge 0.2994 Noodles soup 0.1349 White porridge 0.0887 Rice porridge 0.0120
+1540/15400000.jpg Hand cake 0.9483 Red shrimp 0.0150 Salted white shrimp 0.0098 Boneless chicken feet 0.0030 Donuts 0.0023
+1541/15410006.jpg Preserved egg and lean meat porridge 0.5095 Vegetable and lean pork porridge 0.3396 Rice porridge 0.0613 Preserved egg porridge 0.0480 Mushroom and vegetable porridge 0.0237
+1542/15420011.jpg Walnut shortbread 0.9956 Moon cake 0.0008 Green bean cake 0.0005 Steamed crab 0.0003 Chocolate toast 0.0003
+1543/15430002.jpg Matcha mousse cake 0.9733 Cucumber dip 0.0078 Sesame soy sauce lettuce 0.0034 Sichuan dandan noodles 0.0012 Lettuce tip 0.0010
+1544/15440000.jpg Italian noodle with meat sauce 0.9225 Bacon pasta 0.0727 Beef tenderloin 0.0003 Spaghetti black pepper beef 0.0003 Sichuan dandan noodles 0.0003
+1545/15450005.jpg Milk ﬂavor bread slice 0.9978 Cantonese sponge cake 0.0007 Honey cake 0.0005 Dorayaki 0.0003 Johnnycake 0.0002
+1546/15460002.jpg Lava cake 0.9575 Bread crab 0.0071 Braised chicken with bamboo sticks in coconut 0.0026 Braised chicken with ginseng 0.0025 Eggplant with hot pepper 0.0019
+1547/15470000.jpg Chestnut cream soup 0.9800 Abalone and ﬁn belly soup 0.0052 Tomato puree 0.0035 Borscht 0.0011 Boiled egg 0.0007
+1548/15480004.jpg Lotus pond side dishes 0.1440 Shrimp salad 0.1083 Fruit and vegetable salad 0.1079 Avocado salad 0.0860 Vegetable salad 0.0460
+1549/15490001.jpg Cornmeal buns 0.0586 Coconut pudding 0.0499 Cream puff sticks 0.0421 Steamed bun fried bun 0.0396 Semi cooked cheese 0.0306
+155/1550000.jpg Fried spring rolls with three pieces of silk 0.1701 Soy bean curd 0.0449 Banana pancake 0.0430 Oil gluten 0.0374 Donuts 0.0305
+1550/15500000.jpg Tiger green peppers 0.2708 Roasted peppers 0.2551 Mixed edamame 0.1856 Boiled edamame 0.0635 Boiled okra 0.0541
+1551/15510002.jpg Kebabs with soy sauce 0.0313 Chee cheong fun 0.0211 Curry beef rice 0.0210 Mango ice 0.0199 Beef rice 0.0198
+1552/15520000.jpg Fried bacon with bamboo shoots 0.2840 Griddle duck 0.1113 Griddle cooked tea tree mushrooms 0.0458 Bamboo shoot pork 0.0454 Fried kidney 0.0359
+1553/15530000.jpg Baked potato chips 0.6565 Stewed meat 0.0717 Black pepper sausage 0.0283 Roast pork skin 0.0255 Fried sausage 0.0184
+1554/15540005.jpg Braised ﬁsh head 0.3266 Beer ﬁsh 0.1091 Organic ﬁsh 0.0996 Casserole ﬁsh head pot 0.0808 Black stinky tofu 0.0807
+1555/15550006.jpg Green bean porridge 0.7011 Steamed rice with mei cai meatloaf 0.2103 Millet mung bean porridge 0.0555 Rice porridge 0.0115 Kelp green bean paste 0.0063
+1556/15560001.jpg Egg tart 0.2797 Cheese baked sweet potatoes 0.0566 Durian cake 0.0412 Durian melaleuca cake 0.0355 Mango sorbet 0.0304
+1557/15570002.jpg White rice 0.3759 Pork with preserved vegetable rice 0.0694 Fried pork rice 0.0518 Abalone rice 0.0242 Glutinous rice 0.0223
+1558/15580003.jpg Chicken pot 0.2081 Chicken wing pot 0.1377 Roast chicken 0.1192 Braised ﬁsh pot 0.0854 Stewed goose in iron pan 0.0595
+1559/15590011.jpg Pineapple rice 0.4130 Minced pork nigiri sushi 0.0983 Seafood paella 0.0699 Tuna onigiri 0.0199 Pineapple seafood fried rice 0.0196
+156/1560006.jpg Ribs rice 0.1267 Beef claypot rice 0.0451 Beef vermicelli soup 0.0316 Mushroom chicken claypot rice 0.0284 Mutton freeing 0.0236
+1560/15600002.jpg Beef and egg fried rice 0.1811 Stir fried pork and bone with chili 0.0445 Fried rice with bacon and egg 0.0346 Lamb chops hand pilaf 0.0340 Egg fried rice 0.0182
+1561/15610002.jpg Japanese pumpkin tart 0.0666 Egg cake 0.0508 Chestnut shortbread 0.0427 Geoduck sashimi 0.0247 Deep-fried dough sticks 0.0235
+1562/15620001.jpg Fried vermicelli with bean sprouts 0.1421 Steamed rice noodles 0.1363 Cold rice noodles 0.0700 Fried rice noodles 0.0674 Fried noodle with egg 0.0635
+1563/15630000.jpg Five recipes of tender beef 0.9642 Braised pork roll 0.0096 Burrito 0.0022 Chicken roll 0.0019 Roll cold noodle 0.0010
+1564/15640003.jpg Cow ribs 0.1042 T-bone steak 0.0891 Beef bibimbap 0.0457 Black stinky tofu 0.0350 Flame steak 0.0227
+1565/15650001.jpg Home-style bean curd 0.4095 Braised Tofu 0.1704 Fried tofu 0.0422 Sizzling tofu 0.0314 Braised Japanese tofu 0.0214
+1566/15660005.jpg Croissant 0.7611 Fried ice cream 0.0389 Golden mantou 0.0142 Oil gluten 0.0127 Meat ﬂoss cake 0.0068
+1567/15670000.jpg Stewed meat noodles 0.2480 Beef noodle soup 0.2095 Pork noodles with pickled vegetables 0.0758 Sauerkraut beef noodle 0.0546 Pickled cabbage noodles 0.0361
+1568/15680001.jpg Seaweed warship sushi 0.3489 Tuna warship sushi 0.0386 Sesame octopus warship sushi 0.0256 Black rice cake 0.0139 Black stinky tofu 0.0104
+1569/15690000.jpg Roasted fresh catﬁsh 0.4381 Grilled ﬁsh with sauerkraut 0.2390 Saut¨ı¿œed ﬁsh in chili sauce 0.1711 Spicy grilled ﬁsh 0.0698 Grilled anhui 0.0175
+157/1570001.jpg Hand cake 0.7609 Dried radish omelette 0.0214 Fried bean curd 0.0177 Fried chicken chop 0.0120 Fried chicken chop 0.0074
+1570/15700000.jpg Roasted garlic naan 0.1028 Scones 0.0701 Sesame biscuits 0.0336 Dregs biscuits 0.0295 Meat ﬂoss cake 0.0221
+1571/15710001.jpg Wooden barrel rice 0.2628 Barrel ﬁsh 0.0528 Steamed dumpling 0.0344 Crab siu mai 0.0263 Eggplant with hot pepper 0.0195
+1572/15720002.jpg Mix powder 0.2644 Marinated noodles 0.0645 Shin ramen 0.0557 Yang chun noodles 0.0418 Shrimp wanton noodles 0.0287
+1573/15730001.jpg Curry chicken rice 0.1497 Chicken rice 0.1313 Mango ice 0.0216 Chicken roll 0.0143 Rice with tomato and eggs 0.0122
+1574/15740002.jpg Spicy ﬁsh 0.5489 Taian Fish 0.1565 Fatty intestine 0.0899 Beer ﬁsh 0.0474 Hot pot ﬁsh 0.0352
+1575/15750002.jpg Egg noodles 0.8506 Shao powder 0.0920 Beef tendon noodles 0.0192 Potato powder 0.0086 Hand roll noodle 0.0046
+1576/15760000.jpg Steamed ﬁsh 0.3084 Whitebait soup 0.1785 Tossed cellophane noodles 0.0214 Steamed yellow croaker 0.0157 Steamed side ﬁsh 0.0136
+1577/15770000.jpg Cool coconut milk 0.0616 Purple potato porridge 0.0470 Preserved egg and lean meat porridge 0.0322 Red bean porridge 0.0255 Minced beef congee 0.0247
+1578/15780003.jpg Braised ham sausage 0.4677 Pure sausage 0.2972 Harbin sausage 0.0815 Black pepper sausage 0.0687 Lava rock sausage 0.0115
+1579/15790001.jpg Soup noodles 0.9904 Broth bottom 0.0028 Green vegetable tofu soup 0.0011 Lettuce tip 0.0010 Bitter vegetable soup 0.0005
+158/1580002.jpg Refreshing lotus root slices 0.9990 Lotus root pork ribs soup 0.0001 Creamy wafﬂe 0.0001 Cranberry¨ı¿œbiscuit 0.0001 Glutinous rice lotus root 0.0000
+1580/15800004.jpg Straw hat cake 0.6481 Geoduck sashimi 0.0312 Shredded bag 0.0154 Stewed meat 0.0111 Cruller 0.0102
+1581/15810013.jpg Fried bean curd 0.4897 Tempura 0.4305 Fried chicken chop 0.0083 Instant noodles 0.0039 Fried yuba 0.0029
+1582/15820001.jpg Pepper rabbit 0.6728 Stir-fried pork with corn 0.0993 Cold mixed peanuts 0.0163 Scallop lean pork congee 0.0130 Fried shrimps with cashew nuts 0.0119
+1583/15830001.jpg Wonton noodles 0.9428 Shrimp shaomai 0.0332 Marinated noodles 0.0044 Shrimp wanton 0.0023 Shrimp wanton noodles 0.0022
+1584/15840001.jpg Spicy rice noodles 0.2313 Pea noodles 0.1650 Sichuan dandan noodles 0.1199 Spicy noodles 0.0749 Spicy hot pot 0.0557
+1585/15850001.jpg Coconut rice 0.2512 Pancake 0.1703 Millet cake 0.0971 Flatbread 0.0871 Cruller 0.0686
+1586/15860002.jpg Minced pork nigiri sushi 0.9587 Scalded tripe 0.0049 Roasted cauliﬂower 0.0025 Roast tripe 0.0020 Baked beans 0.0015
+1587/15870002.jpg Tremella lianzi geng 0.3584 Papaya cool water 0.1629 Whose mariko 0.1111 Red date and white fungus soup 0.0330 Red dates and tremella soup 0.0311
+1588/15880000.jpg Wonton noodles 0.1174 Boiled dried shreds 0.0300 Chicken noodles 0.0200 Scallion noodles 0.0180 Fried rice noodles with eggs 0.0167
+1589/15890000.jpg Steamed abalone with garlic and vermicelli 0.8735 Mussels screw 0.0688 Roasted oysters 0.0194 Sushi of ﬂoss 0.0028 Steamed abalone with garlic 0.0021
+159/1590003.jpg Scrambled noodles with tomato and egg 0.5586 Fried shredded pancake 0.3025 Pickled cabbage powder 0.0812 Fried noodles with beef 0.0140 Fried noodle with egg 0.0106
+1590/15900010.jpg Fried vermicelli with bean sprouts 0.9940 Fried noodle with shredded pork 0.0013 Stir-fried vermicelli with cabbage 0.0008 Stir fried vermicelli 0.0005 Fried vermicelli 0.0004
+1591/15910001.jpg Crab yellow tofu 0.6056 Mango fried yogurt 0.0616 Mango milk ice 0.0524 Mango ice 0.0398 Mango sorbet 0.0373
+1592/15920001.jpg Golden cake 0.3816 Brown sugar hair cake 0.0236 Red date cake 0.0228 Cantonese sponge cake 0.0223 cheesecake 0.0199
+1593/15930000.jpg Spicy cabbage sushi roll 0.7732 Floss sushi 0.1543 Tuna and seaweed rolled rice 0.0364 Cucumber roll sushi 0.0221 Seaweed rice 0.0014
+1594/15940000.jpg Mango black jelly 0.9283 Stir fried fungus with cabbage 0.0546 Corn warship sushi 0.0035 Fried eggs with fungus 0.0024 Tamago nigiri sushi 0.0015
+1595/15950013.jpg Shredded lettuce salad 0.4993 Beef tendon noodles 0.4939 Fried lettuce 0.0005 Bitter vegetable soup 0.0005 Stir-fried shredded lettuce 0.0004
+1596/15960002.jpg Steamed crab feet 0.6654 Crab pot 0.2993 Fried crab with ginger and spring onion 0.0085 Crab congee 0.0040 Fried crab with ginger and green onion 0.0025
+1597/15970004.jpg Fried sweet potato balls 0.0252 Millet porridge 0.0245 Deep-fried cakes 0.0228 Fried ﬁsh cake 0.0210 Taro balls 0.0195
+1598/15980001.jpg Sesame soy sauce lettuce 0.4989 Roasted bean skewers 0.1215 Roasted peppers 0.0747 Lentil braised noodles 0.0212 Grilled string bean skewers 0.0113
+1599/15990003.jpg Sesame sauce noodles 0.5101 Noodles with beef 0.0919 Colorful face lift 0.0379 Cold noodles with sesame sauce 0.0167 Beef noodle 0.0146
+16/160002.jpg Fried frog 0.5239 Braised chicken in casserole 0.3162 Braised chicken 0.0213 Braised chicken nuggets 0.0189 Taro chicken 0.0118
+160/1600004.jpg Hot pot noodles 0.5162 Sliced noodles 0.0456 Marinated noodles 0.0187 Braised hemp food 0.0158 Shacha noodles 0.0148
+1600/16000001.jpg Supreme pizza 0.9209 Bacon ham pizza 0.0139 Sausage pizza 0.0072 Margherita pizza 0.0048 Stewed clams with Papaya 0.0031
+1601/16010000.jpg Organic ﬁsh 0.8673 Crispy potato grid 0.0141 Whirlwind potato tower 0.0131 Pine nut ﬁsh 0.0037 Pine bass 0.0028
+1602/16020000.jpg Duck soup 0.1367 Stewed chicken nuggets 0.0994 Mother’s hoof soup 0.0757 Silver carp 0.0675 Sour radish duck soup 0.0463
+1603/16030003.jpg Stir fried fungus with celery 0.9416 Pork with preserved vegetable rice 0.0220 Spanish mackerel 0.0115 Black stinky tofu 0.0016 Umeboshi vegetable roast meat 0.0014
+1604/16040002.jpg Salted pleurotus eryngii 0.1518 Fried eggplant box 0.0503 Fried king pleurotus 0.0351 Takoyaki 0.0217 Sushi of ﬂoss 0.0188
+1605/16050004.jpg Plum dried vegetable biscuits 0.5494 Roti prata 0.1129 Melaleuca 0.0524 Leek pie 0.0398 Vegetable pancake 0.0294
+1606/16060006.jpg Plum dried vegetable meat bun 0.6312 Angel cake 0.0771 Cup cake 0.0272 Glutinous rice 0.0244 Panda chocolate sundae 0.0180
+1607/16070002.jpg Spicy beef soup 0.8348 Tomato rice noodles 0.0257 Casserole white tofu 0.0160 Miso soup 0.0137 Sliced pork soup 0.0107
+1608/16080002.jpg Mashed potatoes with cheese 0.0769 Curry shrimp 0.0466 Curry omelet rice 0.0410 Egg cake 0.0376 Curry sirloin 0.0288
+1609/16090007.jpg Pineapple rice 0.5224 Matcha mousse cake 0.3478 Pineapple sweet and sour pork 0.0103 Pop cake 0.0102 Matcha melaleuca cake 0.0061
+161/1610003.jpg Lean meat soup 0.1793 Fried pork with chili 0.0965 Stir-fried pork with green peppers 0.0278 Boiled edamame 0.0196 Fried preserved eggs with pepper 0.0195
+1610/16100001.jpg Green bean porridge 0.1790 Mutton soup 0.0861 Big bone soup 0.0475 Kelp green bean paste 0.0310 Beef soup 0.0246
+1611/16110002.jpg Sausage fried rice 0.9868 Laoganma fried rice 0.0028 Fried rice with sausage 0.0020 Duck intestine fried rice 0.0019 Soy sauce fried rice 0.0014
+1612/16120005.jpg Polenta 0.7635 Millet porridge 0.1058 Pumpkin soup 0.0838 Pumpkin cream soup 0.0048 Creamy corn soup 0.0042
+1613/16130000.jpg Beef tendon noodles 0.9993 Powder soup 0.0002 Shredded cold papaya 0.0001 Tossed cellophane noodles 0.0001 Fan shabu 0.0001
+1614/16140005.jpg Stir-fried pork with garlic shoots 0.0859 Salt fried meat 0.0453 Chicken rack 0.0324 Braised small yellow croaker 0.0305 Steamed side ﬁsh 0.0242
+1615/16150003.jpg Abalone and ﬁn belly soup 0.0980 Sea Emperor fans clay pot 0.0363 Shacha noodles 0.0294 Shrimp noodles 0.0283 Boiled egg 0.0271
+1616/16160001.jpg Papaya cool water 0.0903 Beer ﬁsh 0.0446 Tomato beef stew 0.0437 Stewed ﬁsh in iron pan 0.0417 Barrel ﬁsh 0.0365
+1617/16170001.jpg Lettuce fried meat 0.7075 Fried beef with bitter melon 0.1914 Fried lettuce 0.0185 Bitter gourd fried pork 0.0089 Sliced pork soup 0.0088
+1618/16180001.jpg Stir-fried potato shreds with green pepper 0.7484 Fried potato chips 0.0640 Fried hot and sour potato shreds 0.0502 Shredded potatoes with salad 0.0203 Beef tendon noodles 0.0187
+1619/16190003.jpg Crispy bone sausage 0.6763 Crispy sausage 0.1143 Fried peanuts 0.0602 Salt and pepper peanuts 0.0141 Fried sausage 0.0090
+162/1620000.jpg Saute spicy chicken 0.7547 Pepper chicken 0.0572 Braised chicken nuggets 0.0354 Fried chicken 0.0164 Northeast chaos 0.0108
+1620/16200000.jpg Fried crab with curry 0.9883 Fried rice cake with swimming crab 0.0019 Baked crab with egg yolk 0.0012 Larimichthys 0.0011 Liocarcinus 0.0007
+1621/16210001.jpg Bang bang chicken 0.3157 Sesame soy sauce lettuce 0.1195 Sauteed lettuce 0.0429 Celery fried yuba 0.0408 Tribute dish 0.0231
+1622/16220002.jpg Beef noodles 0.2231 Beef pan noodle 0.0954 Beef offal 0.0674 Mutton noodles 0.0624 Pork liver noodle 0.0542
+1623/16230001.jpg Brownie 0.0748 Guiling paste 0.0591 Zongzi 0.0417 Macaron 0.0313 Kanto cooking 0.0305
+1624/16240007.jpg Geoduck sashimi 0.5346 Sweet shrimp sashimi 0.0538 Nigiri sushi 0.0160 Shrimp sushi 0.0145 Arctic shellﬁsh sushi 0.0129
+1625/16250003.jpg Grilled fatty intestine skewers 0.4726 Glutinous rice 0.0988 Grilled tofu 0.0972 Grilled tofu 0.0347 Chicken wingette skewers 0.0324
+1626/16260008.jpg Waxiang chicken 0.1275 Marinated bullwhip 0.0781 Chicken pot 0.0660 Casserole pork knuckle pot 0.0517 Roast pork knuckle 0.0330
+1627/16270002.jpg Lean meat soup 0.2487 Powder soup 0.1162 Three fresh rice noodles 0.0887 Meatball soup 0.0670 Pho 0.0583
+1628/16280000.jpg Fried pork chops 0.4709 Chicken neck 0.1537 Duck wings 0.0659 Grilled ribs 0.0289 Duck clavicle 0.0159
+1629/16290000.jpg Oily baby cabbage 0.6764 Strawberry mille cake 0.0310 Pickled pepper baby food 0.0238 Baby cabbage in casserole 0.0182 Sam chicken soup 0.0149
+163/1630005.jpg Steamed pork 0.4018 Pork with preserved vegetable rice 0.0290 Pork feet rice 0.0209 Braised pork 0.0139 Umeboshi vegetable roast meat 0.0130
+1630/16300001.jpg Home-style bean curd 0.9839 Tofu pot 0.0076 Braised Tofu 0.0046 Hakka tofu 0.0015 Fried tofu 0.0004
+1631/16310004.jpg Home-style bean curd 0.3269 White cut chicken 0.2410 Spicy chicken 0.0272 Scallion chicken 0.0162 Saliva chicken 0.0152
+1632/16320003.jpg Bamboo shoot pork 0.7194 Beef offal pot 0.0536 Braised beef 0.0340 Mutton freeing 0.0177 Fried pork with yuba 0.0150
+1633/16330000.jpg Mushroom rape 0.8626 Mushrooms and cabbage 0.0290 Stir-fried vegetables with mushrooms 0.0273 Braised sea cucumber with scallion 0.0094 Garlic seasonal vegetables 0.0036
+1634/16340000.jpg Champion and porridge 0.8079 Salt and pepper pork 0.0542 Crab congee 0.0272 Fried crab with ginger and green onion 0.0143 Salty bone soup 0.0107
+1635/16350000.jpg Italian noodle with meat sauce 0.5372 Mashed potatoes with cheese 0.1042 Ribeye steak 0.0327 Flame steak 0.0196 Baked spaghetti with cheese and meat sauce 0.0147
+1636/16360002.jpg Ice cream ball 0.4002 Haagen-Dazs ice cream 0.1244 Tofu pudding 0.0386 Vanilla ice cream 0.0317 Yogurt 0.0273
+1637/16370001.jpg Spare ribs pot 0.3132 Stew 0.1076 Stone pot tofu 0.0919 Casserole white tofu 0.0856 Casserole balls 0.0580
+1638/16380002.jpg Sauce elbow 0.0350 Peru system sauce duck 0.0296 Pipa duck 0.0249 Pig’s head meat 0.0139 Marinated trotters 0.0116
+1639/16390000.jpg Baked prawns with salt 0.7086 Bread crab 0.0292 Baked shrimp roll with cheese 0.0277 Cheese baked shrimp 0.0166 Grilled squid 0.0101
+164/1640010.jpg Tiramisu cake 0.6144 Oreo sawdust cup 0.0597 Chocolate mousse cake 0.0445 Matcha yellow peach cake 0.0155 Chocolate brown cake 0.0092
+1640/16400002.jpg Cold taro powder 0.1829 Vetch 0.1703 Yogurt 0.1083 Coconut sago 0.0903 Coconut cake 0.0475
+1641/16410002.jpg Fried noodles with beef 0.3269 Bacon pasta 0.2026 Spaghetti black pepper beef 0.1002 Seafood pasta 0.0298 Stir fry 0.0267
+1642/16420008.jpg Preserved egg and lean meat porridge 0.1281 Oxtail soup 0.0255 Vegetable and lean pork porridge 0.0219 White porridge 0.0170 Chicken porridge 0.0163
+1643/16430010.jpg Cucumber dip 0.9848 Rice cake 0.0021 Shao powder 0.0018 Tossed cellophane noodles 0.0011 Biangbiang 0.0008
+1644/16440002.jpg Three fresh powder 0.7945 Sauerkraut rice noodles 0.0196 Pork rice noodles 0.0144 Powder soup 0.0112 Chicken rice noodle 0.0095
+1645/16450001.jpg Braised konjac 0.3232 Water-chestnut pudding 0.0685 Salted pork in jelly crystal trotter 0.0354 Fan shabu 0.0299 Pig skin jelly 0.0180
+1646/16460016.jpg Crispy pork slices 0.4546 Lettuce fried meat 0.0806 Sliced pork and potato 0.0502 Fried bacon with lettuce 0.0448 Mushu pork rice bowl 0.0265
+1647/16470003.jpg Boiled ﬁsh 0.4420 Fresh pepper ﬁsh 0.1513 Fish pot 0.1368 Old bowl ﬁsh 0.0972 Beautiful frog ﬁsh head 0.0318
+1648/16480000.jpg Salmon fried rice 0.9576 Seafood paella 0.0055 Tuna and seaweed rolled rice 0.0042 Seafood tofu soup 0.0014 Seafood udon 0.0010
+1649/16490002.jpg Fried squid 0.3051 Sauce beef 0.0585 Walnut shortbread 0.0396 Beef jerky 0.0359 Cruller 0.0304
+165/1650001.jpg Soy sauce ﬁsh 0.2847 Spanish mackerel 0.2827 Fried duck 0.0908 Braised small yellow croaker 0.0245 Trash ﬁsh 0.0223
+1650/16500000.jpg Homely stewed ﬁsh 0.8661 Casserole ﬁsh head 0.0256 Fried ﬁsh 0.0162 Fish pot 0.0109 Casserole ﬁsh head pot 0.0087
+1651/16510000.jpg Stir-fried potato shreds with green pepper 0.9710 Enoki mushroom mixed with cucumber 0.0131 Shredded potatoes with salad 0.0088 Stir-fried shredded potatoes with celery 0.0022 Shredded bean curd with cold sauce 0.0007
+1652/16520000.jpg Potato beef 0.0968 Potato stew chicken nuggets 0.0934 Sauce bones 0.0306 Flavored snail meat 0.0261 Braised lamb 0.0225
+1653/16530001.jpg Plum dried vegetable biscuits 0.1558 Milk ﬂavor bread slice 0.0257 Tuna pizza 0.0159 Bamboo rice 0.0156 Dregs biscuits 0.0139
+1654/16540000.jpg Wonton 0.5219 Stewed chicken soup 0.0703 Kimchi hot pot 0.0537 Fried potato chips with spicy cabbage 0.0346 Borscht 0.0210
+1655/16550000.jpg Coconut rice 0.4335 Pan-fried pork bun 0.2303 Steamed dumpling 0.1065 Fried dumpling 0.0124 Roll cold noodle 0.0098
+1656/16560003.jpg Chicken neck 0.0613 Crispy pork rice 0.0343 Steamed rice with barbecued pork 0.0267 Pork feet rice 0.0200 Braised pork 0.0144
+1657/16570000.jpg Sesame soy sauce lettuce 0.5093 Boiled Chinese kale 0.1639 Lettuce tip 0.0599 Bitter vegetable soup 0.0193 Tribute dish 0.0159
+1658/16580000.jpg Duck heart 0.0625 Broad beans with scallion oil 0.0608 Peanut 0.0475 Boiled peanuts 0.0374 Marinated quail eggs 0.0199
+1659/16590002.jpg Love chicken chop 0.1907 Mongolian roasted whole lamb 0.0771 Boneless chicken ﬁllet 0.0635 Fried chicken chop 0.0557 Roast lamb leg 0.0362
+166/1660003.jpg Baked potato chips 0.2436 Grilled chiba tofu 0.0814 Baked steamed bun slices 0.0692 Grilled rice cake 0.0341 Grilled tofu 0.0314
+1660/16600002.jpg Hot and sour tripe soup 0.9294 Tofu soup 0.0544 Hot and sour soup 0.0062 Spicy beef soup 0.0008 Beef soup 0.0008
+1661/16610003.jpg Pork rice 0.5216 Sausage rice 0.0487 Mix powder 0.0436 Fried pork rice 0.0212 Glutinous rice 0.0143
+1662/16620010.jpg Marinated noodles 0.1538 Fried noodles 0.0845 Beef tendon noodles 0.0446 Powder soup 0.0347 Potato powder 0.0290
+1663/16630002.jpg Fried chicken legs 0.7200 Sauce spine 0.0234 Fried chicken chop 0.0223 Fried spicy chicken wing root 0.0180 Spicy wings 0.0173
+1664/16640001.jpg Sugar pie 0.5120 Sweet heart pastry 0.0480 Dorayaki 0.0435 Mung bean soup 0.0365 Durian cake 0.0257
+1665/16650000.jpg Scrambled egg with chopped chili pepper 0.1507 Scrambled eggs with onions 0.0392 Scrambled eggs with ham 0.0231 Chicken roll 0.0196 Scrambled eggs with tomatoes 0.0196
+1666/16660000.jpg Mango sticky rice cake 0.1603 Quicksand bag 0.0956 Quicksand bun with egg custard 0.0573 Marinated quail eggs 0.0512 Delicious daifuku 0.0251
+1667/16670000.jpg Fried mushrooms 0.6455 Fried ﬁsh 0.3034 Larimichthys 0.0238 Salt and pepper nine belly ﬁsh 0.0123 Fried lesser croaker 0.0035
+1668/16680000.jpg Griddle duck 0.4459 Roast chicken 0.1461 Shredded duck 0.0487 Spicy salted duck 0.0308 Peru system sauce duck 0.0307
+1669/16690000.jpg Mongolian roasted whole lamb 0.6703 Orleans roasted whole leg 0.2018 Steel pipe chicken 0.0456 Roast duck 0.0163 Roasted goose 0.0137
+167/1670003.jpg Chestnut cream soup 0.9162 Broth bottom 0.0570 Cream of mushroom soup 0.0078 Noodles soup 0.0075 Creamy corn soup 0.0040
+1670/16700003.jpg Pumpkin soup 0.2944 Spicy ﬁsh ball 0.2474 Brine geese 0.0638 Creamy corn soup 0.0105 Curry ﬁsh ball 0.0076
+1671/16710002.jpg Scallion lamb 0.5802 Fried squid 0.0257 Cumin lamb 0.0154 Pickled mustard 0.0123 Stir-fried pork with mustard 0.0095
+1672/16720001.jpg Roast duck cake 0.6641 Steamed venetian bag 0.1248 Durian pancake 0.0428 Banana pancake 0.0414 Mango pancake 0.0281
+1673/16730003.jpg Krabby patty 0.5664 Chicken burger 0.2018 Double chicken drumsticks 0.0281 Chicken roll 0.0069 Double chicken hamburger 0.0067
+1674/16740001.jpg Steamed abalone with garlic and vermicelli 0.9643 Geoduck sashimi 0.0042 Abalone 0.0041 Abalone rice 0.0021 Steamed abalone with garlic 0.0012
+1675/16750001.jpg Roasted peppers 0.5066 Roasted dried tofu rolls 0.4781 Grilled string bean skewers 0.0035 Baked string beans 0.0017 Baked beans 0.0008
+1676/16760009.jpg Salad crispy chicken rice 0.1462 Whitebait scrambled eggs 0.1094 Tuna pizza 0.0698 Seafood pancake 0.0443 Vegetable pancake 0.0351
+1677/16770000.jpg Smoked ﬁsh 0.2744 Stewed goose 0.0226 Peru system sauce duck 0.0182 Roast goose rice 0.0167 Roasted goose 0.0163
+1678/16780001.jpg Scrambled eggs with green onion 0.2321 Fried eggs with pepper 0.0561 Sauted sauerkraut sausage 0.0306 Dumplings 0.0248 Fried razor clam 0.0203
+1679/16790007.jpg Yellow clam 0.8723 Geoduck sashimi 0.0791 Boiled peanuts 0.0064 Fan shabu 0.0029 White shellﬁsh 0.0026
+168/1680000.jpg Red bean taro balls 0.4923 Fruit ﬁshing 0.0974 Chestnut 0.0225 Cream puff sticks 0.0135 Round taro with coconut milk 0.0097
+1680/16800004.jpg Fried vermicelli with bean sprouts 0.6437 Sauteed bean sprouts 0.3358 Cold bean sprouts 0.0077 Fried bean sprouts with leek 0.0009 Potato powder 0.0006
+1681/16810002.jpg Braised ﬁsh head 0.5848 Stewed goose 0.1397 Organic ﬁsh 0.0188 Mongolian roasted whole lamb 0.0164 Fish and mutton 0.0158
+1682/16820003.jpg Stinky mandarin ﬁsh 0.2506 Steamedf Fish head with diced hot red peppers 0.0869 Steamed Fish Head with sauce 0.0675 Flavored eggplant 0.0488 Braised small yellow croaker 0.0397
+1683/16830003.jpg Hand catch seafood 0.4972 Grilled rack of lamb 0.1008 Bowl chicken 0.0450 Cold pot string 0.0383 Grilled squid 0.0283
+1684/16840002.jpg French fries 0.2383 Cold papaya 0.0757 Sea cucumber with millet 0.0261 Yam steamed with osmanthus honey 0.0203 Mango sausage 0.0196
+1685/16850002.jpg Kelp salad 0.8336 Soba noodles 0.0268 Longevity dishes 0.0198 The ring oil eel 0.0092 Delicious fern powder 0.0086
+1686/16860002.jpg Fried beef with hot pepper 0.9757 Lettuce fried meat 0.0048 Fried bacon with lettuce 0.0033 Fried beef with bitter melon 0.0026 Fried lettuce 0.0011
+1687/16870001.jpg Watermelon smoothie 0.0737 Sheep roll 0.0721 Sugar mixed tomatoes 0.0479 Vinegar turnip 0.0478 Tuna sashimi 0.0354
+1688/16880001.jpg Roasted corn kebabs 0.5536 Caterpillar bread 0.2117 Roasted dried tofu rolls 0.0235 Whirlwind potato tower 0.0084 Fried sausage 0.0080
+1689/16890003.jpg Chicken casserole 0.2807 Braised chicken 0.1391 Beer duck 0.0762 Stewed goose in iron pan 0.0417 Three-cup chicken 0.0363
+169/1690001.jpg Salt and pepper prawns 0.8089 Stir-fried pork with corn 0.0188 Spicy palm 0.0147 Baked corn with egg yolk 0.0142 Salt and pepper peanuts 0.0100
+1690/16900003.jpg Grilled pork bone skewers 0.0417 Roast dried pork 0.0415 Cheese ribs 0.0364 Adzuki bean fermented rice 0.0297 Chocolate 0.0257
+1691/16910004.jpg Yogurt 0.1558 Cream puff sticks 0.0422 Fried spicy chicken wing root 0.0322 Phoenix tail prawns 0.0238 Shredded meat 0.0179
+1692/16920001.jpg Fried shrimp 0.9911 Pickled sweet garlic 0.0024 Vinegar turnip 0.0007 Shrimp dumpling king 0.0005 Fan shabu 0.0004
+1693/16930001.jpg Sauce bones 0.3735 Smoked chicken skeleton 0.2492 Chicken rack 0.1371 Fried chicken fork bone 0.0464 Sauce big bone 0.0199
+1694/16940002.jpg Chicken burger 0.6538 Grilled chicken drumsticks 0.0792 Beef burger 0.0655 Double chicken hamburger 0.0185 Donuts 0.0130
+1695/16950000.jpg Fried chicken chop 0.0489 Lotus root box 0.0390 Potato cake 0.0179 Fried bun slices 0.0174 Fried pork chop 0.0165
+1696/16960009.jpg Baked prawns with salt 0.9891 Black-bone chicken roll 0.0064 Homely stewed ﬁsh 0.0004 Skin shrimp 0.0002 Argentine red shrimp 0.0002
+1697/16970003.jpg Fried beans 0.3444 Fried pork with beans 0.1255 Stir-fried pork belly with chili 0.1156 Fried pork with pepper 0.0661 Stir-fried shredded pork with celery 0.0262
+1698/16980001.jpg Sauce beef 0.4509 Stinky mandarin ﬁsh 0.1357 Pork lungs in chili sauce 0.0569 Sauted beef with hot pepper 0.0369 Braised beef 0.0366
+1699/16990000.jpg Tea tree mushroom ribs soup 0.6884 Beef offal 0.0644 Powder soup 0.0501 Seaweed soup 0.0359 Vermicelli soup 0.0204
+17/170000.jpg Braised Tofu 0.3898 Stone pot tofu 0.1487 Fried thousand page tofu 0.0352 Dried chiba bean curd 0.0221 Griddle pork Intestines 0.0168
+170/1700002.jpg Steam pot chicken 0.6284 Crock soup 0.1048 Braised chicken with bamboo sticks in coconut 0.0552 Braised chicken with ginseng 0.0284 Eggplant with hot pepper 0.0284
+1700/17000002.jpg River noodles in pig soup 0.1822 Wonton 0.0992 Haggis soup 0.0925 Mushroom pot 0.0855 Seafood noodle bumps 0.0855
+1701/17010003.jpg Fried noodle with shredded pork 0.7957 Stir fry 0.1328 Stir fried vermicelli 0.0242 Spicy slice pig ear 0.0119 Stir fried vegetables 0.0040
+1702/17020000.jpg Sauce beef 0.0648 Marinated beef brisket in spiced sauce 0.0561 Sauted beef with hot pepper 0.0325 Pan-Fried calf chop 0.0297 The brine cattle show 0.0180
+1703/17030001.jpg Rainbow cake 0.3413 Rice cake 0.2179 Coconut sago 0.1018 Milk small party 0.0737 Coconut cake 0.0477
+1704/17040001.jpg Braised chicken 0.1490 Chicken pot 0.1211 Stone bowl chicken nuggets 0.0922 Griddle ribs 0.0750 Taro chicken 0.0556
+1705/17050000.jpg Braised ﬁsh head 0.3134 Beer ﬁsh 0.2764 Organic ﬁsh 0.1119 Smoked hairtail 0.0850 Braised ﬁsh in plain pot 0.0540
+1706/17060010.jpg Lotus pond side dishes 0.6986 Dried tofu with hot pepper 0.1972 Belt noodle 0.0089 Stir-fried dried tofu with hot pepper 0.0069 Stir-fried chives with bean curd sheets 0.0041
+1707/17070012.jpg Crock soup 0.9091 Braised chicken with bamboo sticks in coconut 0.0247 Kelp rib soup 0.0207 Fried preserved eggs with pepper 0.0196 Eggplant with hot pepper 0.0042
+1708/17080005.jpg Pepper chicken 0.7323 Cold mixed pig ear 0.0439 Pork ears with chilli oil dressing 0.0294 Halogen duck tongue 0.0225 Spicy slice pig ear 0.0167
+1709/17090000.jpg Fire bun 0.9066 Crispy mung bean cake 0.0098 Yogurt 0.0047 cheesecake 0.0040 Semi cooked cheese 0.0033
+171/1710001.jpg Tomato and egg ﬂour pimple soup 0.9389 Seafood pimple soup 0.0246 Tofu pudding topped with crab guts 0.0183 Tomato and egg soup 0.0039 Boiled egg 0.0029
+1710/17100003.jpg Haggis soup 0.4062 Pork congee 0.1545 Stewed mutton 0.0711 Fish head tofu soup 0.0705 Mutton soup 0.0288
+1711/17110003.jpg Fried eggplant 0.1195 Wasabi octopus 0.0468 Eggplant garlic juice 0.0450 Tossed ﬁsh skin 0.0306 Bamboo rice 0.0235
+1712/17120001.jpg Simmered dry noodles 0.4013 Fried noodles with beef 0.1272 Noodles with beef 0.1061 Sauerkraut beef noodle 0.0697 Beef noodle 0.0592
+1713/17130000.jpg Grilled rack of lamb 0.8528 Roast suckling pig 0.1280 Mongolian roasted whole lamb 0.0090 Smoked chicken skeleton 0.0030 Roast lamb leg 0.0005
+1714/17140001.jpg Spicy lobster tail 0.8536 Prawn tail 0.0810 Spicy shrimp 0.0238 Tomato beef stew 0.0025 Shrimp tail 0.0015
+1715/17150000.jpg Roasted bean skewers 0.6901 Roasted leeks 0.1699 Kidney beans 0.0644 Baked string beans 0.0092 Baked beans 0.0033
+1716/17160002.jpg Marinated goose wings 0.8771 Chicken wing tip 0.0435 Duck wings 0.0266 Stewed goose 0.0210 Fried kidney ﬂower with pig liver 0.0014
+1717/17170000.jpg Chestnut cream soup 0.8229 Egg pudding 0.0171 Soy milk 0.0150 Yogurt 0.0137 Boiled egg 0.0109
+1718/17180000.jpg Rice cake 0.5260 Steamed buns 0.4128 Fried rice cake 0.0179 Radish strips 0.0098 Vinegar turnip 0.0064
+1719/17190001.jpg Scallops and shrimp congee 0.7081 White porridge 0.0911 Rice porridge 0.0270 Shrimp porridge 0.0253 Fish porridge 0.0215
+172/1720000.jpg River noodles in pig soup 0.5591 Champion and porridge 0.0875 Mutton soup 0.0281 Big bone soup 0.0254 Cylindrical bone meal 0.0242
+1720/17200000.jpg Yakitori 0.6127 Chicken heart string 0.0380 Chicken kebabs 0.0149 Braised sheep’s hoof 0.0106 Roast chicken wings 0.0095
+1721/17210003.jpg Rainbow cake 0.1445 White snow black glutinous rice 0.1327 Rose cake 0.0339 Chocolate 0.0310 Angry birds cake 0.0306
+1722/17220000.jpg Fried shrimp 0.9839 Spare ribs pot 0.0084 Green bean porridge 0.0019 Peanut 0.0009 Soybean 0.0005
+1723/17230005.jpg Gourd head bread in the soup 0.1776 Hot pot noodles 0.1627 Barbecued pork noodles 0.0561 Shacha noodles 0.0404 Snail powder with beef brisket 0.0294
+1724/17240002.jpg Hand cake 0.2161 Egg cake 0.1014 Egg pancake 0.0916 Shredded potato burrito 0.0773 Burrito 0.0616
+1725/17250000.jpg Steamed pumpkin with lily 0.7582 Sauted sauerkraut sausage 0.0307 Bazhen tofu 0.0120 Mango shrimp salad 0.0074 Fried shrimps with cashew nuts 0.0070
+1726/17260002.jpg Mango sago 0.3008 Milk and peach gum 0.2349 Tapioca pudding 0.2324 Creamy corn soup 0.0497 Stewed clams with Papaya 0.0398
+1727/17270000.jpg Stone pot bullfrog 0.5048 Stone pot tofu 0.1190 Sizzling tofu 0.0525 Grilled eggplant 0.0209 Bean curd with stone plate 0.0196
+1728/17280002.jpg Orleans drumsticks 0.3600 Stewed chicken leg 0.2245 Duck leg 0.1524 Chicken wing rice 0.0653 Roast duck 0.0340
+1729/17290007.jpg Cuttleﬁsh 0.2939 Belt noodle 0.0357 Tofu pudding 0.0270 Boneless chicken feet 0.0215 Stewed noodles with mutton 0.0208
+173/1730005.jpg Sesame soy sauce lettuce 0.9577 Matcha smoothie 0.0039 Matcha ﬂavored daifuku 0.0036 Matcha yellow peach cake 0.0034 Cream puff sticks 0.0024
+1730/17300002.jpg Mutton vermicelli 0.8016 Ramen with beef 0.0697 Mutton noodles 0.0473 Beef noodles 0.0277 Mixed grain vermicelli 0.0139
+1731/17310003.jpg Wonton noodles 0.4252 River noodles in pig soup 0.0444 Sauerkraut vermicelli soup 0.0315 Noodles with chicken leg soup 0.0225 Cylindrical bone meal 0.0193
+1732/17320000.jpg Oyster sauce beef 0.2011 Fried chicken with mushroom 0.1759 Lettuce fried meat 0.0264 Sliced pork and potato 0.0263 Stir-fried pork belly with chili 0.0202
+1733/17330000.jpg Shrimp and crab porridge 0.5413 Preserved egg and lean meat porridge 0.0729 Scallops and shrimp congee 0.0172 Shrimp porridge 0.0141 Preserved egg porridge 0.0135
+1734/17340012.jpg Secret jujube 0.4898 Cool coconut milk 0.0838 Ice powder 0.0320 Ice porridge 0.0187 River snail 0.0151
+1735/17350001.jpg Spicy palm 0.9920 Fried squid ﬂower 0.0021 Fried shrimp balls with cheese 0.0006 Toothpick meat 0.0004 Chicken wingette skewers 0.0003
+1736/17360000.jpg Bullfrog claypot 0.8861 Prawn casserole 0.0850 Crab pot 0.0140 Chicken feet pot 0.0009 Fried prawns 0.0009
+1737/17370003.jpg Seaweed warship sushi 0.7356 Eggplant garlic juice 0.0129 Rice bag 0.0126 Vegetable pancake 0.0121 Roll cold noodle 0.0090
+1738/17380003.jpg Pumpkin soup 0.1971 Papaya and tremella soup 0.1403 Rice porridge 0.1284 Pumpkin porridge 0.1196 Stewed clams with Papaya 0.0634
+1739/17390001.jpg Candied sweet potatoes 0.5654 Spicy chicken wing 0.3599 Milk ﬂavor bread slice 0.0325 Sweet plum and sweet potato 0.0075 Golden sweet potato stick 0.0040
+174/1740008.jpg Fruit pizza 0.6952 Cheese pizza 0.0570 Bacon ham pizza 0.0135 Creamy wafﬂe 0.0087 Pop cake 0.0056
+1740/17400003.jpg Marinated bullwhip 0.1957 Pineapple fried rice 0.0600 Squid crisp 0.0262 Tuna salad 0.0233 Geoduck sashimi 0.0231
+1741/17410001.jpg Marinated bullwhip 0.9058 Salt and pepper pork 0.0638 Scrambled eggs with onions 0.0031 Pounded chicken feet 0.0022 Stewed pork feet with ginger 0.0013
+1742/17420002.jpg Fried potato chips 0.8720 Stir-fried celery with smoked bean curd 0.0141 Stir-fried shredded pork with garlic moss 0.0126 Stir-fried bacon with garlic moss 0.0086 Bean curd stir-fried with chives 0.0059
+1743/17430002.jpg Cheese baked scallops 0.9839 Baked scallops 0.0050 Roasted oysters 0.0030 Salted duck egg 0.0020 Steamed scallop with minced garlic and vermicelli 0.0005
+1744/17440006.jpg Ham sausage 0.5320 Dried tofu 0.3468 Braised pork 0.0105 Pancake 0.0058 Biangbiang 0.0046
+1745/17450000.jpg Flower cake 0.9727 Crispy mung bean cake 0.0160 Cranberry toast slices 0.0049 Cranberry¨ı¿œbiscuit 0.0013 Cranberry cookies 0.0005
+1746/17460004.jpg Donkey meat 0.8484 Mutton noodles 0.0757 Boiled mutton 0.0178 Mutton freeing 0.0065 Boiled lamb chops 0.0056
+1747/17470000.jpg Taste shrimp 0.9905 Salt and pepper lobster 0.0036 Braised lobster 0.0022 Stewed goose 0.0011 Boiled crayﬁsh 0.0005
+1748/17480000.jpg Scalded prawns 0.9817 Red shrimp 0.0033 Salted white shrimp 0.0023 Shredded radish stewed shrimp 0.0014 Scalded prawns 0.0009
+1749/17490000.jpg Goat tripe 0.3861 Boiled mutton 0.2165 Brine geese 0.0361 Salted duck 0.0300 Marinated goose 0.0276
+175/1750002.jpg Potato wedges 0.3037 French fries 0.0348 Sweet plum and sweet potato 0.0176 Fennel fried dough sticks 0.0075 Mixed beans 0.0072
+1750/17500000.jpg Pineapple cake 0.9209 Red date cake 0.0098 Moon cake 0.0082 Water-chestnut pudding 0.0035 Pineapple pie 0.0032
+1751/17510004.jpg Preserved egg with hot pepper 0.6785 Spicy lobster tail 0.0283 Beer ﬁsh 0.0220 Preserved egg with chopped pepper 0.0213 Shrimp tail 0.0141
+1752/17520005.jpg Smooth double skin milk 0.2420 Guiling paste 0.0939 Sesame paste 0.0774 Yogurt 0.0510 Tapioca pudding 0.0482
+1753/17530000.jpg Toffee cake 0.6134 Tofu skin sushi 0.0879 Toasted bread 0.0118 Chestnut 0.0098 Deep-fried dough sticks 0.0080
+1754/17540000.jpg Freshly fried small crispy pork 0.2461 Fried squid ring 0.1096 Signature chicken feet 0.0962 Bitter gourd fried pork 0.0467 Donuts 0.0401
+1755/17550002.jpg Grilled cod 0.2005 Scones 0.0377 Broiled river eel 0.0353 Grilled rice cake 0.0347 Grilled squid 0.0326
+1756/17560000.jpg King crab 0.6273 Shredded squid 0.0799 Fried udon 0.0078 Takoyaki 0.0045 Broiled river eel 0.0040
+1757/17570000.jpg Salted pleurotus eryngii 0.4598 Fried king pleurotus 0.0725 Fried balls and radish 0.0531 Fried squid ﬂower 0.0193 Popcorn chicken 0.0185
+1758/17580000.jpg Garlic grilled ﬁsh 0.1279 Roasted ﬁsh with soy sauce 0.0901 Bamboo rice 0.0652 Carbon baking bullfrog 0.0464 Grilled eggplant 0.0373
+1759/17590000.jpg Steamed turbot 0.1907 Steamed sturgeon 0.1000 Steamed carp 0.0808 Steamed green spotted ﬁsh 0.0386 Steamed side ﬁsh 0.0306
+176/1760001.jpg Cucumber preserved egg soup 0.9854 Pickled mustard with shredded soup 0.0049 Cabbage tofu soup 0.0043 Fried lettuce 0.0005 Bitter vegetable soup 0.0003
+1760/17600003.jpg Barbecue ribs 0.4787 Mutton string 0.2274 Chicken heart string 0.1040 Kebabs with soy sauce 0.0872 Pork skewers 0.0197
+1761/17610001.jpg Chinese salad 0.0737 Cold taro powder 0.0573 Cilantro tofu soup 0.0361 Yogurt 0.0201 Eggplant with hot pepper 0.0125
+1762/17620001.jpg Sauteed bacon with peas 0.5897 Fried beef with hot pepper 0.2824 Fried bacon with lotus beans 0.0561 Stir-fried pork belly with chili 0.0085 Stir fried beef with mustard 0.0066
+1763/17630000.jpg Scallion sea bass 0.4886 Steamed sturgeon 0.0795 Boiled cabbage heart 0.0660 Steamed green spotted ﬁsh 0.0558 Steamed side ﬁsh 0.0230
+1764/17640005.jpg Scones 0.5063 Steamed white guitar 0.3738 Guokui 0.0455 Chinese hamburger 0.0315 White cake 0.0050
+1765/17650002.jpg Fried eggplant 0.2252 Roast eggplants 0.2229 Braised eggplant 0.1584 Pork eggplant 0.1237 Yu-Shiang eggplant 0.1095
+1766/17660000.jpg Seaweed warship sushi 0.7212 Minced pork nigiri sushi 0.0506 California hand-rolled sushi 0.0426 Eel roll sushi 0.0186 Unagi sushi 0.0173
+1767/17670001.jpg Fruit cup 0.3753 Pumpkin soup 0.2915 Soy bean curd 0.0315 Mango ice 0.0216 Mango sorbet 0.0141
+1768/17680000.jpg Chicken soup 0.1785 Beef soup 0.0757 Braised beef 0.0387 Smoked ﬁsh noodle 0.0330 Black stinky tofu 0.0270
+1769/17690011.jpg Stone pot ﬁsh 0.4231 Fatty intestine 0.0452 Organic ﬁsh 0.0439 Hot pot ﬁsh 0.0423 Fish and mutton 0.0380
+177/1770004.jpg Scrambled eggs with green onion 0.4825 Fried eggs with pepper 0.1886 Scrambled egg with chopped chili pepper 0.0828 Scramble egg 0.0821 Scrambled eggs with sauce 0.0253
+1770/17700001.jpg Matcha smoothie 0.2460 Blueberry sundae 0.0403 Strawberry sundae 0.0242 Oreo ice cream 0.0233 Sour plum soup 0.0216
+1771/17710000.jpg Stir-fried long beans 0.5998 Spiced rabbit head 0.0851 Green beans in garlic sauce 0.0849 Choy sum with garlic sauce 0.0765 Scrambled eggs with Chinese chives 0.0325
+1772/17720000.jpg Scrambled eggs with green onion 0.5396 Fried eggs with pepper 0.0665 Yam and vegetable porridge 0.0502 Fried rice with bacon 0.0266 Rice with vegetables 0.0235
+1773/17730003.jpg Bang bang chicken 0.4865 Fried chicken legs 0.1968 Boneless chicken ﬁllet 0.1222 Chicken roll 0.0775 Spicy wings 0.0114
+1774/17740002.jpg Blueberry yam 0.9622 Hot and sour lotus root 0.0083 Diced carrot 0.0069 Yam steamed with osmanthus honey 0.0028 Fried lotus root 0.0019
+1775/17750001.jpg Mussels screw 0.9973 Sizzling frog 0.0011 Iron squid 0.0004 Steamed Wuchang Fish 0.0002 Razor clam 0.0001
+1776/17760000.jpg Barbecue ribs 0.9396 Mutton string 0.0523 Kebabs with soy sauce 0.0028 Roast dried pork 0.0019 Pork skewers 0.0007
+1777/17770003.jpg Steamed ﬁsh head with double pepper 0.2893 Saut¨ı¿œed ﬁsh in chili sauce 0.0385 Rattan pepper chicken 0.0225 Spicy grilled ﬁsh 0.0195 Spicy carp 0.0153
+1778/17780004.jpg Fried pork chops 0.1208 Fried pork belly 0.0870 Cumin lamb 0.0522 Sauted beef with hot pepper 0.0429 Cumin beef 0.0278
+1779/17790000.jpg Adzuki bean fermented rice 0.3218 Spiced corned egg 0.0749 Red date and white fungus soup 0.0720 Red dates and tremella soup 0.0439 Black sesame glutinous rice balls 0.0391
+178/1780004.jpg Pineapple cake 0.2829 Cantonese sponge cake 0.1960 Honey cake 0.1649 cheesecake 0.1101 Honey toast 0.0830
+1780/17800006.jpg Ice cream ball 0.8371 Sesame catsup sauce 0.0326 Strawberry ice cream 0.0301 Vanilla ice cream 0.0165 Tapioca pudding 0.0073
+1781/17810010.jpg Large rows of rice 0.4903 Seaweed warship sushi 0.1892 Minced pork nigiri sushi 0.0269 Love chicken chop 0.0134 Crab seed sushi 0.0099
+1782/17820002.jpg Chestnut cream soup 0.3592 Green bean porridge 0.0238 Sea cucumber with millet 0.0233 Rice porridge 0.0131 Abalone and ﬁn belly soup 0.0122
+1783/17830000.jpg Braised eggplant 0.4991 Green pepper shredded pork 0.3303 Fried pork with chili 0.0447 Stir-fried pork with green peppers 0.0137 Fried pork rice 0.0069
+1784/17840000.jpg Braised chicken 0.2911 Braised chicken in casserole 0.2277 Bullfrog claypot 0.0890 Braised pork trotters 0.0460 Braised pork ribs 0.0434
+1785/17850002.jpg Fried sweet potato balls 0.3021 Tiger egg 0.0303 Yuanbao shrimp 0.0163 Meatballs 0.0153 Fried meatballs 0.0148
+1786/17860003.jpg Roast chicken butt 0.3603 Spicy palm 0.1161 Rib skewers 0.1052 Roast pork skin 0.0537 Grilled squid 0.0414
+1787/17870003.jpg White rice 0.4398 Yogurt 0.2614 Rice porridge 0.0915 Coconut sago 0.0446 Black sesame glutinous rice balls 0.0123
+1788/17880004.jpg Grilled chiba tofu 0.3343 Roll egg 0.2402 Grilled beef ribs 0.0831 Roasted dried tofu rolls 0.0435 Grilled tofu 0.0392
+1789/17890003.jpg Steamed ﬁsh 0.1879 Grilled mackerel 0.0440 Saury 0.0321 Steamed yellow croaker 0.0171 Steamed side ﬁsh 0.0166
+179/1790001.jpg Stone egg skewers 0.4361 Takoyaki 0.0898 Fried balls and radish 0.0330 Fried squid ﬂower 0.0259 Fried shrimp cake 0.0225
+1790/17900000.jpg Pita bread so awked in lamp soup 0.1792 Big bone soup 0.0740 Lamb chops hand pilaf 0.0455 Cylindrical bone meal 0.0431 Roll cold noodle 0.0319
+1791/17910001.jpg Fried eggplant 0.3624 Braised eggplant 0.1625 Eggplant claypot 0.1010 Eggplant with sauce 0.0676 Grilled eggplant 0.0560
+1792/17920006.jpg Tin foil baby cabbage 0.7577 Eggplant garlic juice 0.0460 Baby cabbage with garlic 0.0280 Hot and sour cabbage 0.0279 Garlic seasonal vegetables 0.0167
+1793/17930005.jpg Stir-fried lettuce with dace in black bean sauce 0.5938 Rice noodles fried with beef 0.3217 Raw cooking cabbage 0.0159 Fried mater convolvulus 0.0100 Stir fried beef with mustard 0.0050
+1794/17940002.jpg Watermelon sago 0.7450 Stewed meatballs with brown sauce 0.0293 Tobiko warship sushi 0.0281 Strawberry milk pudding 0.0153 Chili noodles 0.0128
+1795/17950002.jpg Chestnut cream soup 0.7687 Mango roll sushi 0.0178 Cold papaya 0.0160 Cream puff sticks 0.0132 Mango sausage 0.0128
+1796/17960001.jpg Wonton 0.0412 Stewed chicken soup 0.0327 Rattan pepper ﬁsh ﬁllet 0.0293 Blueberry fried yogurt 0.0209 Barrel ﬁsh 0.0207
+1797/17970005.jpg Braised eggplant 0.0488 Marinated noodles 0.0436 Pan-fried three stuffed treasures 0.0316 Black stinky tofu 0.0252 Braised small yellow croaker 0.0245
+1798/17980006.jpg Potato ﬂour casserole 0.1192 Beef offal 0.0718 Beef noodles 0.0593 Beef tendon noodles 0.0420 Powder soup 0.0337
+1799/17990006.jpg Enoki mushroom 0.0954 Stir fry 0.0859 Pepper chicken 0.0486 Cold rice noodles 0.0351 Rice peel 0.0260
+18/180002.jpg Spicy beef tendon 0.2256 Marinated beef 0.0482 Mixed beef 0.0452 Spicy yuba 0.0446 The brine cattle show 0.0271
+180/1800000.jpg Steamed abalone with garlic and vermicelli 0.8299 Mussels screw 0.1239 Roasted oysters 0.0084 Abalone 0.0070 Steamed abalone with garlic 0.0055
+1800/18000005.jpg Beef rice roll 0.3734 Steamed sausage noodles with lean meat 0.1902 Barbecued pork noodle rolls 0.1221 Chee cheong fun 0.0880 Roll cold noodle 0.0689
+1801/18010010.jpg Beef tenderloin 0.3807 Pan-Fried calf chop 0.2853 Sizzling beef 0.1958 Grilled beef short rib 0.0290 Black pepper steak 0.0283
+1802/18020002.jpg Celery and peanuts 0.8465 Duck heart 0.0349 Peanut 0.0291 Soybean 0.0125 Cold mixed peanuts 0.0119
+1803/18030002.jpg Small yellow croaker 0.8310 Homemade ﬁsh 0.0400 Organic ﬁsh 0.0279 Beer duck 0.0116 Braised small yellow croaker 0.0098
+1804/18040003.jpg Diving ﬁsh 0.3689 Grilled ﬁsh with sauerkraut 0.2683 Dry pot frog 0.0941 Steamedf Fish head with diced hot red peppers 0.0193 Fried sea oysters 0.0142
+1805/18050003.jpg Chinese chestnut 0.4549 Prawn tail 0.2399 Sausages with cheese 0.2317 Chestnut 0.0318 Sugar fried chestnut 0.0209
+1806/18060002.jpg Rainbow cake 0.2298 Coconut pudding 0.1165 Yogurt 0.0493 Doraemon cake 0.0258 Coconut sago 0.0201
+1807/18070002.jpg Chicken breast salad 0.2388 Cucumber fritters 0.0994 Fried tofu 0.0932 Avocado salad 0.0231 Caesar salad 0.0192
+1808/18080000.jpg Sliced noodles 0.6312 Beef tenderloin 0.1222 Sichuan dandan noodles 0.0567 Beef noodles 0.0163 Powder soup 0.0124
+1809/18090000.jpg Fried eggplant 0.0706 Kung pao chicken 0.0674 Butyl ﬁve ren sauce 0.0631 Black stinky tofu 0.0589 Sauerkraut meat 0.0456
+181/1810001.jpg Cheese stick 0.5596 Hibiscus crab stick 0.0544 Sweet plum and sweet potato 0.0450 Overlord chicken strips 0.0371 Fried squid ﬂower 0.0319
+1810/18100000.jpg Green bean porridge 0.2185 Miso soup 0.0933 Mung bean soup 0.0532 Noodles soup 0.0271 Zongzi 0.0181
+1811/18110000.jpg White rice 0.2706 Salmon fried rice 0.0811 Whitebait scrambled eggs 0.0762 Egg fried rice 0.0532 Rice with vegetables 0.0358
+1812/18120000.jpg Grilled rack of lamb 0.8865 Golden pancake 0.0265 Chicken chop rice 0.0096 Cold cut foie gras 0.0068 Fried chicken chop 0.0058
+1813/18130000.jpg Refreshing evergreen 0.9434 Garlic broccoli 0.0462 Choy sum with garlic sauce 0.0034 Kalimeris with smoked bean curd 0.0029 Scrambled eggs with Chinese chives 0.0005
+1814/18140003.jpg Crock soup 0.4774 Braised chicken with bamboo sticks in coconut 0.1317 Chicken soup 0.0431 Braised chicken with ginseng 0.0345 Kelp green bean paste 0.0299
+1815/18150004.jpg Balsamic peanuts 0.3882 Dry roasted large yellow croaker 0.2793 Braised tofu in abalone sauce 0.0309 Pine nut ﬁsh 0.0260 Pine bass 0.0169
+1816/18160000.jpg Cucumber dip 0.7635 Roasted leeks 0.2154 Baked leek string 0.0022 Lettuce tip 0.0018 Mixed beans 0.0013
+1817/18170004.jpg Cool coconut milk 0.3098 Mango sago 0.1875 Simi fruit ﬁshing 0.1571 Poplar twig nectar 0.0263 Taro round Sago 0.0257
+1818/18180000.jpg Som tam 0.6690 Sauteed bean sprouts 0.1125 Cold bean sprouts 0.0230 Shredded potatoes with salad 0.0139 Fried bean sprouts with leek 0.0071
+1819/18190005.jpg Scones 0.6818 Steamed white guitar 0.1695 Steamed bun with vegetables 0.0966 Flour cake 0.0396 White cake 0.0018
+182/1820007.jpg Braised chicken 0.6939 Crock soup 0.1381 Braised chicken and rice 0.0255 Braised pork ribs 0.0194 Three-cup chicken 0.0160
+1820/18200005.jpg Fried rice cake 0.6057 Fried milk 0.1880 Crispy rice cake 0.0740 Boneless chicken ﬁllet 0.0448 Glutinous rice cake with brown sugar 0.0152
+1821/18210000.jpg Griddle beef with skin 0.8328 Stewed beef offal 0.0119 Braised beef brisket en casserole 0.0108 Beef offal pot 0.0105 Dried baby cabbage 0.0098
+1822/18220003.jpg Fried mater convolvulus 0.3332 Sauteed lettuce 0.1438 Stir-fried shredded potatoes with celery 0.0493 Garlic seasonal vegetables 0.0314 Scrambled eggs with Chinese chives 0.0298
+1823/18230007.jpg Soba noodles 0.1866 Moon cake 0.0361 Shar pei mousse cake 0.0253 Fish and egg noodles 0.0234 Hot noodles with sesame paste 0.0196
+1824/18240003.jpg Geoduck sashimi 0.7693 Fried tempura 0.0106 Peanut 0.0105 Boiled peanuts 0.0089 Dried carob 0.0079
+1825/18250005.jpg Brownie 0.0903 Fillet steak 0.0577 Flame steak 0.0535 Black pepper steak 0.0331 Boiled lamb chops 0.0277
+1826/18260000.jpg Duck wings 0.6318 Shredded duck 0.2028 Spicy salted duck 0.0299 Beef jerky 0.0199 Duck neck 0.0107
+1827/18270001.jpg Shredded squid 0.3182 Chicken noodles 0.1970 Toon seedlings mixed with tofu shreds 0.0474 Shredded bean curd with cold sauce 0.0191 Shredded rabbit meat 0.0148
+1828/18280008.jpg Geoduck sashimi 0.2756 Cuttleﬁsh 0.0759 Red shrimp 0.0251 Amaebi 0.0176 Sea bream sashimi 0.0173
+1829/18290001.jpg Cucumber preserved egg soup 0.5677 Mussels screw 0.0535 Clam and winter melon soup 0.0415 Eel congee 0.0271 Seafood noodle bumps 0.0164
+183/1830010.jpg Braised chicken in casserole 0.5514 Hang Sanxian 0.0304 Three delicacies in casserole 0.0195 Casserole white tofu 0.0125 Spicy hot pot 0.0121
+1830/18300003.jpg Meat dumplings 0.9415 Eggplant garlic juice 0.0107 Steamed chicken with rice in lotus leaf 0.0076 Beggar’s chicken 0.0036 Floss sushi 0.0029
+1831/18310003.jpg Lotus pond side dishes 0.9708 Stir-fried pork with green peppers 0.0014 Stir fried vermicelli 0.0014 Stir-fried vegetables with mushrooms 0.0011 Braised sea cucumber with scallion 0.0010
+1832/18320001.jpg Sauce beef 0.2504 Griddle beef with skin 0.0539 Stir-fried beef with green pepper 0.0536 Dry pot beef 0.0508 Braised beef 0.0367
+1833/18330006.jpg Garlic broccoli 0.7378 Cauliﬂower fried pork 0.1695 Sauteed lettuce 0.0697 Boiled broccoli 0.0066 Broccoli soup 0.0013
+1834/18340000.jpg River noodles in pig soup 0.2247 Pepper rabbit 0.1186 Fried rice with bacon 0.0442 Fried pork with beans 0.0381 Eel congee 0.0366
+1835/18350010.jpg Fried rice cake 0.6833 Roast pork 0.0131 Pan-fried long lee ﬁsh 0.0123 Glutinous rice cake 0.0120 Glutinous rice cake with brown sugar 0.0115
+1836/18360000.jpg Taste snake 0.0958 Sauted beef with hot pepper 0.0916 Roast tripe 0.0843 Griddle duck head 0.0637 Tossed tripe 0.0452
+1837/18370000.jpg Beef offal pot 0.9392 Rice casserole 0.0069 Preserved egg porridge 0.0031 Fried preserved eggs with pepper 0.0030 Vegetable pot 0.0023
+1838/18380009.jpg Duck soup 0.9024 Spare ribs pot 0.0049 Hot pot chicken 0.0043 Curry sirloin 0.0027 Sour radish duck soup 0.0027
+1839/18390007.jpg Flower cake 0.9906 Crispy mung bean cake 0.0043 Moon cake 0.0012 Dorayaki 0.0010 Meat ﬂoss cake 0.0004
+184/1840000.jpg Crispy corn cob 0.9653 Love chicken chop 0.0034 Fried milk 0.0019 Beef tendon noodles 0.0013 Potato cake 0.0013
+1840/18400008.jpg Eight treasure rice 0.3803 Fried rice with ham 0.2128 Pilaf 0.1113 Egg ham fried rice 0.1038 Glutinous rice 0.0341
+1841/18410004.jpg Coconut chicken 0.4823 Pineapple fried rice 0.0141 Sushi of ﬂoss 0.0128 Razor clam 0.0109 Baby cabbage in casserole 0.0090
+1842/18420000.jpg Spicy shrimp 0.5249 Salt and pepper prawns 0.1336 Fried shrimp 0.0288 Yuanbao shrimp 0.0135 Salted shrimp with pepper 0.0127
+1843/18430004.jpg Sheep scorpion 0.4768 Pot lamb chops 0.2979 Braised lamb 0.0590 Mutton freeing 0.0440 Mutton hot pot 0.0167
+1844/18440000.jpg Spiced marinated eggs 0.6755 Tea ﬂavored boiled eggs 0.0979 Adzuki bean fermented rice 0.0775 Sour plum soup 0.0409 Spiced corned egg 0.0387
+1845/18450000.jpg Fried rice with bacon 0.8405 Tofu with shallots 0.0305 Pearl balls 0.0163 Cucumber roll sushi 0.0078 Rice with vegetables 0.0040
+1846/18460000.jpg Mango salmon roll sushi 0.1593 Tofu skin sushi 0.0251 Sausages with cheese 0.0173 Grilled salmon sushi 0.0168 Family portrait sushi 0.0165
+1847/18470000.jpg Garlic broccoli 0.9711 Bean sprouts in soup 0.0077 Stewed bean curd soup with crucian carp 0.0048 Spinach in soup 0.0016 Broccoli soup 0.0014
+1848/18480007.jpg Grilled cod 0.0737 Roast tripe 0.0518 Roasted lamb loin 0.0464 Roast chicken head 0.0316 Roast pork skin 0.0272
+1849/18490002.jpg Barbecued pork 0.3627 Pork congee 0.3047 Preserved egg porridge 0.1427 Pork liver and lean meat porridge 0.0212 Minced beef congee 0.0157
+185/1850003.jpg Scallion sea bass 0.4620 Steamed mandarin ﬁsh 0.2098 Steamed carp 0.1504 Steamed yellow croaker 0.0385 Steamed side ﬁsh 0.0213
+1850/18500000.jpg Griddle rabbit 0.1646 Griddle duck 0.1259 Dry pot beef 0.0879 Stewed beef offal 0.0649 Griddle ribs 0.0486
+1851/18510001.jpg Scalded prawns 0.2214 Red shrimp 0.1771 Salted white shrimp 0.0725 Shrimp skewers 0.0290 Scalded prawns 0.0220
+1852/18520001.jpg Crepe 0.8514 Egg wafﬂes 0.0709 Ice cream egg puff 0.0385 Cream puff sticks 0.0040 Chocolate egg wafﬂes 0.0029
+1853/18530000.jpg Thick honey toast 0.9121 Quicksand bun with egg custard 0.0079 Tofu bubble 0.0050 Cranberry toast slices 0.0039 Honey toast 0.0037
+1854/18540003.jpg Meat dumplings 0.3164 Egg yolk meat dumpling 0.1993 Curry omelet rice 0.1867 Curry rice 0.0688 Abalone rice 0.0238
+1855/18550000.jpg Marinated beef 0.2046 Sauce-ﬂavored beef tendon 0.1893 Beef soup 0.1357 Spiced beef 0.1274 The brine cattle show 0.0436
+1856/18560000.jpg Pickle soup 0.5645 Stir-fried pork belly with spicy cabbage 0.1046 Bibimbap with pork belly 0.0229 Stone pot tofu 0.0142 Rice casserole 0.0136
+1857/18570001.jpg Napoleon cake 0.8085 Pork ﬂoss 0.1723 Fried chicken chop 0.0077 Cream puff sticks 0.0020 Shredded meat 0.0008
+1858/18580002.jpg Bean curd in sugar water 0.8497 Boiled ﬁsh with pickled cabbage and chili 0.1188 Egg steamed meatloaf 0.0057 Boiled egg 0.0027 Fried egg 0.0022
+1859/18590000.jpg Grilled ﬁsh with sauerkraut 0.2241 Foil grilled ﬁsh 0.0438 Small yellow croaker 0.0436 Saut¨ı¿œed ﬁsh in chili sauce 0.0301 Braised ﬁsh in plain pot 0.0256
+186/1860000.jpg Chinese salad 0.0511 Garlic kelp shreds 0.0475 Kelp green bean paste 0.0359 Bitter vegetable soup 0.0190 Fried preserved eggs with pepper 0.0185
+1860/18600002.jpg Mango sticky rice cake 0.2161 Pork ﬂoss 0.1035 Deep-fried cakes 0.0754 Hemp group 0.0469 Sesame biscuits 0.0438
+1861/18610001.jpg Finding nemo pizza 0.2353 Cheese bacon pizza 0.0967 Margherita pizza 0.0714 Roast chicken pizza 0.0672 Shrimp pizza 0.0377
+1862/18620004.jpg Donkey meat 0.3260 Marinated beef 0.1729 Sauce-ﬂavored beef tendon 0.1015 White cut lamb 0.0897 The brine cattle show 0.0480
+1863/18630003.jpg Roast eggplants 0.2478 Chicken wing pot 0.0992 Crab fried rice cake 0.0582 Braised hairtail 0.0565 Coca cola chicken wings 0.0507
+1864/18640000.jpg Fried shrimp 0.9407 Sea food noodles 0.0329 Scalded prawns 0.0131 Fried river prawns with leek 0.0048 Fried prawns 0.0034
+1865/18650002.jpg Chicken casserole 0.5470 Dry pot frog 0.1708 Roast chicken 0.0726 Three yellow chicken nuggets 0.0466 Chicken hot pot 0.0236
+1866/18660000.jpg Halogen rabbit head 0.9969 Stuffed gluten balls 0.0016 Stewed meatballs with brown sauce 0.0009 Spiced corned egg 0.0000 Meatballs 0.0000
+1867/18670000.jpg French lamb chops 0.7995 Grilled rack of lamb 0.1141 Boiled mutton 0.0345 Fried lamb chops 0.0081 Boiled lamb chops 0.0035
+1868/18680004.jpg Stewed goose 0.5425 Salt baked chicken 0.0678 Honey roasted whole chicken 0.0495 Hand-shredded chicken 0.0316 Barbecued pork crisp 0.0279
+1869/18690006.jpg Spicy shrimp 0.3860 Griddle shrimp 0.1947 Fried prawns 0.1215 Dried squid and shrimp 0.1099 Spicy shrimp pot 0.0605
+187/1870000.jpg Fried kidney ﬂower with pig liver 0.1146 Hotbed chives with pork 0.0408 Shredded pork skin 0.0294 Celery fried yuba 0.0258 Stir-fried shredded pork with celery 0.0213
+1870/18700003.jpg Matcha smoothie 0.5252 Green bean porridge 0.1354 Papaya cool water 0.0611 Millet mung bean porridge 0.0404 Mango milk 0.0188
+1871/18710000.jpg Garlic spinach 0.9450 Fried mater convolvulus 0.0434 Spinach in soup 0.0027 Garlic seasonal vegetables 0.0012 Scrambled eggs with Chinese chives 0.0011
+1872/18720000.jpg Appetizer duck blood 0.6796 Black stinky tofu 0.0782 Fried preserved eggs with pepper 0.0605 Preserved egg with chopped pepper 0.0553 Eggplant with hot pepper 0.0149
+1873/18730000.jpg Candied sweet potatoes 0.8719 Fried shrimp 0.0362 Sweet plum and sweet potato 0.0108 Fried tenderloin 0.0106 Salted egg yolk baked pumpkin 0.0077
+1874/18740011.jpg Fried beef with hot pepper 0.5793 Fried beef rice with bitter melon 0.1319 Steamed rice with mei cai meatloaf 0.0274 Curry beef rice 0.0172 Stir fried beef with mustard 0.0065
+1875/18750001.jpg Cooked duck with lemon 0.1780 Sauce bones 0.1373 Honey roasted whole chicken 0.0960 Smoked chicken skeleton 0.0458 Sauce big bone 0.0321
+1876/18760000.jpg Drunken ﬁsh 0.2877 Hand peeling bamboo shoots 0.0903 Black-bone chicken roll 0.0353 Steamed sturgeon 0.0229 Peru system sauce duck 0.0203
+1877/18770005.jpg Spicy chicken rice 0.2589 Kung pao chicken 0.1680 Spicy palm 0.1085 Pineapple sweet and sour pork 0.0590 Kung Pao chicken with rice 0.0548
+1878/18780002.jpg Mango roll sushi 0.5532 Caterpillar bread 0.0399 Egg wrapped sausage 0.0391 Push cake 0.0265 Cream puff sticks 0.0203
+1879/18790000.jpg Hot pot noodles 0.3950 Sour soup pork 0.1073 Abalone and ﬁn belly soup 0.0691 Braised hemp food 0.0530 Sliced pork soup 0.0449
+188/1880007.jpg Clam tofu soup 0.6082 Taro sago 0.1147 Stewed bean curd soup with crucian carp 0.0537 Clam and winter melon soup 0.0329 Coconut cake 0.0190
+1880/18800009.jpg Stone pot bullfrog 0.4671 Stone bowl chicken nuggets 0.1454 Stone pot tofu 0.0383 Eggplant claypot 0.0377 Black stinky tofu 0.0272
+1881/18810001.jpg Braised Tofu 0.9588 Quick-fried liver with distilled grains sauce 0.0076 Fried tofu 0.0058 Fried kidney 0.0040 Stir-fried pork liver 0.0035
+1882/18820003.jpg Home-style bean curd 0.1275 Dried tofu 0.1060 Stir-Fried pork with smoked bean curd 0.1034 Fried thousand page tofu 0.1033 Quick-fried liver with distilled grains sauce 0.0793
+1883/18830003.jpg Fresh meat soup dumplings 0.0718 Beef tendon noodles 0.0459 Hanamaki 0.0327 Fan shabu 0.0274 Steamed twisted roll with scallions 0.0247
+1884/18840008.jpg Salt and pepper prawns 0.8976 Fried shrimp in typhoon shelter 0.0247 Mixed mentai ﬁsh shreds 0.0079 Skewer shrimp 0.0071 Shredded rabbit meat 0.0062
+1885/18850003.jpg Ribs rice 0.0586 Matcha mousse cake 0.0362 Large rows of rice 0.0318 Slippery rice mushrooms chicken 0.0257 Mushu pork rice bowl 0.0227
+1886/18860003.jpg Taste snake 0.1350 Chicken soup 0.0789 Beef hotpot 0.0765 Potted cake 0.0482 Umeboshi vegetable roast meat 0.0309
+1887/18870003.jpg Grilled beef tongue 0.7073 Ham sausage 0.0338 Harbin sausage 0.0320 Purple sweet potato bun 0.0125 Luncheon meat 0.0083
+1888/18880002.jpg Smoked ﬁsh 0.8259 Peru system sauce duck 0.0193 Braised chicken with ginseng 0.0109 Black rice cake 0.0086 Black stinky tofu 0.0067
+1889/18890002.jpg Shredded squid 0.1577 Hand-shredded chicken 0.0348 Chili noodles 0.0343 Capelin 0.0281 Shredded rabbit meat 0.0194
+189/1890001.jpg Minced pork nigiri sushi 0.1490 Salad crispy chicken rice 0.1186 Whitebait scrambled eggs 0.1120 Tuna onigiri 0.0206 Floss sushi 0.0138
+1890/18900002.jpg Scones 0.3779 Egg pancake 0.0570 Chestnut shortbread 0.0421 Leek box 0.0292 Fried egg 0.0249
+1891/18910006.jpg Chicken casserole 0.9052 Braised chicken 0.0836 Fish-ﬂavored eggplant pot 0.0024 Three yellow chicken nuggets 0.0012 Three-cup chicken 0.0007
+1892/18920001.jpg Soup noodles 0.4650 Noodles with chicken leg soup 0.1280 Smoked ﬁsh noodle 0.0547 Peanut butter noodles 0.0460 Cylindrical bone meal 0.0435
+1893/18930001.jpg Grilled chiba tofu 0.4366 Fried tofu 0.2540 Scones 0.1224 Dried tofu 0.1065 Grilled tofu 0.0162
+1894/18940001.jpg Tofu skin sushi 0.4318 Dried tofu 0.0360 Golden pancake 0.0300 Honey concave cake 0.0290 Soy bean curd 0.0261
+1895/18950003.jpg Chinese chestnut 0.3491 Spiced marinated eggs 0.1995 Tea ﬂavored boiled eggs 0.1452 Marinated quail eggs 0.0917 Spiced corned egg 0.0866
+1896/18960000.jpg Spicy korean noodles 0.6095 Seafood paella 0.0504 Fried squid ring 0.0119 Lobster rice bowl 0.0110 Seafood pasta 0.0107
+1897/18970005.jpg Spinach with gluten 0.9272 Garlic spinach 0.0229 Stir-fried chives with bean curd sheets 0.0041 Spinach in soup 0.0022 Scrambled eggs with Chinese chives 0.0020
+1898/18980002.jpg Beef ribs 0.5409 French lamb chops 0.0135 Fruit steak 0.0130 Pan-Fried calf chop 0.0107 Steamed green spotted ﬁsh 0.0088
+1899/18990001.jpg Papaya cool water 0.8150 Chocolate donut 0.1272 Sesame paste 0.0216 Sour plum soup 0.0046 Black grass jelly 0.0040

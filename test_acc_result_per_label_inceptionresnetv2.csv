@@ -1,0 +1,2001 @@
+,Model,label,Top-1 test Acc,Top-5 test Acc
+0,inceptionresnetv2,Grilled beef tongue,0.5,0.7
+1,inceptionresnetv2,Flavored snail meat,0.7,0.8
+2,inceptionresnetv2,Stir-fried lettuce,0.6,0.9
+3,inceptionresnetv2,Crab stick nigiri sushi,0.6,0.8
+4,inceptionresnetv2,Fris¨ı¿œe mixed with almonds,0.6,0.8
+5,inceptionresnetv2,Fried lamb,0.2,0.9
+6,inceptionresnetv2,Baked steamed bun slices,0.6,0.7
+7,inceptionresnetv2,Pumpkin cream soup,0.7,1.0
+8,inceptionresnetv2,Fried tofu,0.3,0.7
+9,inceptionresnetv2,Fresh taro,0.2,0.8
+10,inceptionresnetv2,Grilled rack of lamb,0.3,0.6
+11,inceptionresnetv2,Tossed cellophane noodles,0.7,1.0
+12,inceptionresnetv2,Scalded tripe,0.6,1.0
+13,inceptionresnetv2,Cream puff sticks,0.9,0.9
+14,inceptionresnetv2,Steamed pumpkin with red dates,0.7,0.9
+15,inceptionresnetv2,Boiled Chinese kale,0.8,0.9
+16,inceptionresnetv2,Steamed ribs,0.4,0.8
+17,inceptionresnetv2,Sausage fried rice,0.2,0.6
+18,inceptionresnetv2,Creamy corn soup,0.9,1.0
+19,inceptionresnetv2,Creamy bacon pasta,0.3,0.8
+20,inceptionresnetv2,Rice wine dumplings,0.5,0.8
+21,inceptionresnetv2,Soba noodles,0.6,0.9
+22,inceptionresnetv2,Yam steamed with osmanthus honey,0.8,0.9
+23,inceptionresnetv2,Duck heart,0.6,0.9
+24,inceptionresnetv2,Rice topped with shredded potato,0.3,0.9
+25,inceptionresnetv2,Coconut jelly,0.9,1.0
+26,inceptionresnetv2,Tofu pudding topped with crab guts,0.8,0.9
+27,inceptionresnetv2,Fried shrimp cake,0.2,0.6
+28,inceptionresnetv2,Roasted oysters,0.6,1.0
+29,inceptionresnetv2,Fish ﬂavored shredded pork,0.9,0.9
+30,inceptionresnetv2,Beef cubes fried with black pepper,0.8,1.0
+31,inceptionresnetv2,Assorted boiled delicacies,0.3,0.8
+32,inceptionresnetv2,Twice cooked pork with bell pepper,0.1,0.5
+33,inceptionresnetv2,Salmon sushi,0.8,0.9
+34,inceptionresnetv2,Marinated noodles,0.4,0.7
+35,inceptionresnetv2,Spinach mixed with peanuts,0.7,0.9
+36,inceptionresnetv2,Fried edamame with pickled vegetables,0.9,0.9
+37,inceptionresnetv2,Garlic kelp shreds,0.4,0.8
+38,inceptionresnetv2,Steamed pumpkin,0.6,0.8
+39,inceptionresnetv2,Rice noodles fried with beef,0.5,0.8
+40,inceptionresnetv2,Bean curd stir-fried with chives,0.9,1.0
+41,inceptionresnetv2,Yakitori,0.4,0.8
+42,inceptionresnetv2,Chee cheong fun,0.1,0.7
+43,inceptionresnetv2,Fried noodle with shredded pork,0.0,0.5
+44,inceptionresnetv2,Fried ﬁsh and shrimp,0.4,0.7
+45,inceptionresnetv2,Glutinous rice,0.6,0.8
+46,inceptionresnetv2,Fried pork with yuba,0.4,0.6
+47,inceptionresnetv2,Braised pork on rice,0.5,0.8
+48,inceptionresnetv2,Bacon pasta,0.4,0.8
+49,inceptionresnetv2,Salt fried meat,0.6,0.8
+50,inceptionresnetv2,Xiao long bao,0.6,0.9
+51,inceptionresnetv2,Curry ﬁsh ball,0.7,1.0
+52,inceptionresnetv2,Cuttleﬁsh,0.6,0.7
+53,inceptionresnetv2,Fried prawns,0.1,0.4
+54,inceptionresnetv2,Broad beans with scallion oil,1.0,1.0
+55,inceptionresnetv2,Potato cake,0.3,0.7
+56,inceptionresnetv2,Kung pao chicken,0.5,0.7
+57,inceptionresnetv2,Onion rings,0.9,0.9
+58,inceptionresnetv2,Braised chicken nuggets,0.1,0.4
+59,inceptionresnetv2,Goose palm,0.3,1.0
+60,inceptionresnetv2,Steamed carp,0.4,0.7
+61,inceptionresnetv2,Meat dumplings,0.8,0.9
+62,inceptionresnetv2,Spicy grilled ﬁsh,0.5,1.0
+63,inceptionresnetv2,Hand peeling bamboo shoots,0.8,0.8
+64,inceptionresnetv2,Mango milk,0.5,0.9
+65,inceptionresnetv2,Steamed crab feet,0.4,0.9
+66,inceptionresnetv2,Barbecued pork noodles,0.8,1.0
+67,inceptionresnetv2,Sheep scorpion,0.6,0.9
+68,inceptionresnetv2,Hanamaki,0.4,1.0
+69,inceptionresnetv2,Preserved egg with hot pepper,0.4,0.8
+70,inceptionresnetv2,Roasted enoki mushroom,0.4,0.6
+71,inceptionresnetv2,Blueberry fried yogurt,0.5,0.8
+72,inceptionresnetv2,Bullfrog claypot,0.2,0.3
+73,inceptionresnetv2,Pork eggplant,0.4,0.7
+74,inceptionresnetv2,Fried noodles with shredded pork,0.1,0.5
+75,inceptionresnetv2,Cucumber dressing,0.7,0.7
+76,inceptionresnetv2,Dried tofu with hot pepper,0.7,1.0
+77,inceptionresnetv2,Salt and pepper chops,0.2,0.6
+78,inceptionresnetv2,Fried chicken legs,0.6,0.8
+79,inceptionresnetv2,Fried peanuts,0.0,1.0
+80,inceptionresnetv2,Green tea cake,0.9,0.9
+81,inceptionresnetv2,Griddle bullfrog,0.1,0.8
+82,inceptionresnetv2,Salt and pepper nine belly ﬁsh,0.6,0.9
+83,inceptionresnetv2,Cup cake,0.6,0.7
+84,inceptionresnetv2,Abalone and ﬁn belly soup,0.5,0.8
+85,inceptionresnetv2,Bean curd in sugar water,0.4,0.8
+86,inceptionresnetv2,Braised hemp food,0.2,0.5
+87,inceptionresnetv2,Duck intestines,0.6,0.8
+88,inceptionresnetv2,Shredded radish stewed shrimp,0.6,0.6
+89,inceptionresnetv2,Taro meat,0.5,0.8
+90,inceptionresnetv2,Lamb chops hand pilaf,0.5,0.8
+91,inceptionresnetv2,White rice,0.7,1.0
+92,inceptionresnetv2,Sesame catsup sauce,0.9,1.0
+93,inceptionresnetv2,Sauerkraut ﬁsh with green pepper,0.2,0.5
+94,inceptionresnetv2,Fried small spring rolls,0.7,0.8
+95,inceptionresnetv2,Clams steamed egg,0.4,0.9
+96,inceptionresnetv2,Spaghetti with tomato meat sauce,0.4,0.7
+97,inceptionresnetv2,Tofu stewed with cabbage,0.5,0.8
+98,inceptionresnetv2,Chicken wing tip,0.8,1.0
+99,inceptionresnetv2,Stir-fried fatty intestine with hot pepper,0.3,0.8
+100,inceptionresnetv2,Fried squid,0.3,0.5
+101,inceptionresnetv2,Eggplant with sauce,0.0,0.5
+102,inceptionresnetv2,Pork liver noodle,0.8,0.8
+103,inceptionresnetv2,Shrimp with ice powder,0.6,0.7
+104,inceptionresnetv2,Hot squid,0.2,0.7
+105,inceptionresnetv2,Meat ﬂoss egg pie,0.6,0.8
+106,inceptionresnetv2,Hot pot ﬁsh,0.3,0.6
+107,inceptionresnetv2,Prawn casserole,0.6,0.9
+108,inceptionresnetv2,Seafood tofu soup,0.6,0.8
+109,inceptionresnetv2,Garlic grilled ﬁsh,0.2,0.6
+110,inceptionresnetv2,Fish vermicelli,0.3,0.4
+111,inceptionresnetv2,California hand-rolled sushi,0.9,1.0
+112,inceptionresnetv2,Eight treasure congee,0.6,1.0
+113,inceptionresnetv2,Stir-fried clams with chili sauce,0.4,0.7
+114,inceptionresnetv2,Spicy ﬁsh,0.6,0.8
+115,inceptionresnetv2,Sesame beans,0.9,1.0
+116,inceptionresnetv2,Fried shrimp balls with cheese,0.6,0.8
+117,inceptionresnetv2,Spicy beef tendon,0.5,0.9
+118,inceptionresnetv2,Mango pancake,0.9,1.0
+119,inceptionresnetv2,Sauce spine,0.3,0.9
+120,inceptionresnetv2,Sweet potato porridge,0.6,1.0
+121,inceptionresnetv2,Dry pot frog,0.6,0.9
+122,inceptionresnetv2,Braised pork intestines,0.2,0.8
+123,inceptionresnetv2,Fried sweet potato,0.3,0.6
+124,inceptionresnetv2,Lamei and claypot rice,0.1,0.5
+125,inceptionresnetv2,Sauerkraut beef,0.2,0.5
+126,inceptionresnetv2,Green bean porridge,0.7,1.0
+127,inceptionresnetv2,Scallion chicken,0.3,0.4
+128,inceptionresnetv2,Fried rice of yangzhou style,0.2,0.8
+129,inceptionresnetv2,Green onion Chinese pancake,0.1,0.8
+130,inceptionresnetv2,Steamed bread slices,0.8,0.8
+131,inceptionresnetv2,Cucumber roll sushi,0.9,1.0
+132,inceptionresnetv2,Stir fry,0.5,0.9
+133,inceptionresnetv2,Tossed tripe,0.2,0.4
+134,inceptionresnetv2,Boiled chicken rice,0.1,0.6
+135,inceptionresnetv2,Cucumber and peanuts,0.7,0.7
+136,inceptionresnetv2,Lotus pond side dishes,1.0,1.0
+137,inceptionresnetv2,Spicy ramen,0.7,0.7
+138,inceptionresnetv2,Fried clams with ginger and spring onion,0.6,1.0
+139,inceptionresnetv2,Fruit salad,0.4,0.7
+140,inceptionresnetv2,Shrimp porridge,0.6,0.9
+141,inceptionresnetv2,Palace fried shrimp ball,0.6,0.9
+142,inceptionresnetv2,Spanish mackerel,0.1,0.3
+143,inceptionresnetv2,Radish sauce,0.6,0.9
+144,inceptionresnetv2,Spicy slice pig ear,0.6,0.9
+145,inceptionresnetv2,Curry chicken baked rice,0.4,0.8
+146,inceptionresnetv2,Curry beef rice,0.2,0.9
+147,inceptionresnetv2,Green pepper stir-fried dregs,0.6,0.9
+148,inceptionresnetv2,Belt noodle,1.0,1.0
+149,inceptionresnetv2,Durian melaleuca cake,0.2,0.4
+150,inceptionresnetv2,Garlic spinach,0.9,0.9
+151,inceptionresnetv2,Mahjong biscuits,0.2,0.4
+152,inceptionresnetv2,Beef noodles in sour soup,0.4,0.6
+153,inceptionresnetv2,Brown sugar buns,0.7,0.9
+154,inceptionresnetv2,Crucian carp,0.0,0.6
+155,inceptionresnetv2,Minced pork vermicelli,0.3,0.7
+156,inceptionresnetv2,Crispy mung bean cake,0.4,0.5
+157,inceptionresnetv2,Fried chicken wings tip,0.5,1.0
+158,inceptionresnetv2,Fried bacon with bamboo shoots,0.4,0.6
+159,inceptionresnetv2,Strawberry smoothie,0.6,1.0
+160,inceptionresnetv2,Earth pot chicken,0.6,0.7
+161,inceptionresnetv2,Boiled beef,0.3,0.6
+162,inceptionresnetv2,Tomato beef stew,0.4,0.6
+163,inceptionresnetv2,Fried dumplings,0.3,0.6
+164,inceptionresnetv2,Salted duck,0.3,0.5
+165,inceptionresnetv2,Krabby patty,0.3,1.0
+166,inceptionresnetv2,New orleans pair of wings,0.4,0.8
+167,inceptionresnetv2,Beef tenderloin,0.6,0.9
+168,inceptionresnetv2,Steel pipe chicken,0.6,1.0
+169,inceptionresnetv2,Grilled prawns,0.4,0.9
+170,inceptionresnetv2,Fruit mufﬁns,0.2,0.8
+171,inceptionresnetv2,Unagi sushi,0.9,1.0
+172,inceptionresnetv2,Mufﬁn,0.6,1.0
+173,inceptionresnetv2,Seafood pasta,0.6,0.9
+174,inceptionresnetv2,Braised lobster,0.0,0.9
+175,inceptionresnetv2,Mixed grain vermicelli,0.3,0.5
+176,inceptionresnetv2,Som tam,0.1,0.3
+177,inceptionresnetv2,Creamy wafﬂe,0.6,0.8
+178,inceptionresnetv2,Cheese bread,0.8,0.8
+179,inceptionresnetv2,Melaleuca,0.2,0.4
+180,inceptionresnetv2,Grilled duck intestine skewers,1.0,1.0
+181,inceptionresnetv2,Salmon fried rice,0.2,0.6
+182,inceptionresnetv2,Egg fried rice,0.8,1.0
+183,inceptionresnetv2,Tom yum kung,0.2,0.7
+184,inceptionresnetv2,Beef bibimbap,0.9,0.9
+185,inceptionresnetv2,Meringue,0.9,1.0
+186,inceptionresnetv2,Carrotcake,0.1,0.8
+187,inceptionresnetv2,Fried rice cake with swimming crab,0.8,1.0
+188,inceptionresnetv2,Roast goose rice,0.2,0.6
+189,inceptionresnetv2,Strawberry yoghurt,0.5,0.9
+190,inceptionresnetv2,Assorted sauce,0.5,0.8
+191,inceptionresnetv2,Stir-fried beef ﬁllet with tea mushroom,0.7,0.8
+192,inceptionresnetv2,Small yellow croaker,0.3,0.5
+193,inceptionresnetv2,Doraemon cake,0.9,1.0
+194,inceptionresnetv2,Fried noodles with soy sauce,0.7,1.0
+195,inceptionresnetv2,Roasted silkworm pupa skewers,0.9,1.0
+196,inceptionresnetv2,Three silk fried noodles,0.6,0.8
+197,inceptionresnetv2,Stir-fried cabbage,0.7,0.9
+198,inceptionresnetv2,Blueberry yam,0.7,0.8
+199,inceptionresnetv2,Boiled okra,0.9,1.0
+200,inceptionresnetv2,Egg yolk meat dumpling,0.6,0.8
+201,inceptionresnetv2,Taro pie,0.9,1.0
+202,inceptionresnetv2,Scrambled noodles with tomato and egg,0.1,0.5
+203,inceptionresnetv2,Longevity dishes,0.6,0.7
+204,inceptionresnetv2,Delicious shrimp fort,0.7,1.0
+205,inceptionresnetv2,Beef brisket with radish,0.3,0.6
+206,inceptionresnetv2,Pickled cabbage soup,0.2,0.2
+207,inceptionresnetv2,Crispy pigeon,0.1,0.9
+208,inceptionresnetv2,Chicken rice noodle,0.0,0.1
+209,inceptionresnetv2,Fried pork belly,0.4,0.9
+210,inceptionresnetv2,Fried lettuce,0.7,0.9
+211,inceptionresnetv2,Squirrel mandarin ﬁsh,0.7,0.8
+212,inceptionresnetv2,Mustard shreds,0.3,0.9
+213,inceptionresnetv2,Snowﬂake chicken ﬁllet,0.6,0.7
+214,inceptionresnetv2,Love chicken chop,0.1,0.3
+215,inceptionresnetv2,Naked cake,0.2,0.7
+216,inceptionresnetv2,Laoganma fried rice,0.5,0.8
+217,inceptionresnetv2,Pho,0.3,0.5
+218,inceptionresnetv2,Mapo tofu donburi,0.3,0.7
+219,inceptionresnetv2,Pork feet noodles,0.4,0.7
+220,inceptionresnetv2,Stone pot ﬁsh,0.7,0.8
+221,inceptionresnetv2,Ginger fried duck,0.4,0.8
+222,inceptionresnetv2,Roti prata,0.1,0.6
+223,inceptionresnetv2,Red bean barley congee,0.4,0.7
+224,inceptionresnetv2,Brownie,0.8,0.8
+225,inceptionresnetv2,Refreshing evergreen,0.6,0.9
+226,inceptionresnetv2,Cookies,0.8,1.0
+227,inceptionresnetv2,Poached pork slices,0.6,1.0
+228,inceptionresnetv2,Fragrant egg yolk roll sushi,0.3,0.6
+229,inceptionresnetv2,Braised pork trotters,0.3,0.8
+230,inceptionresnetv2,Sauce fried squid,0.4,0.8
+231,inceptionresnetv2,Dorayaki,0.6,0.8
+232,inceptionresnetv2,Authentic intestine,0.8,0.9
+233,inceptionresnetv2,White radish ribs simmering soup,0.1,0.4
+234,inceptionresnetv2,Curry shrimp,0.6,0.6
+235,inceptionresnetv2,Coconut bread,0.1,0.6
+236,inceptionresnetv2,Fried chicken gizzards,0.6,0.7
+237,inceptionresnetv2,Japanese pumpkin tart,1.0,1.0
+238,inceptionresnetv2,Pig’s head meat,0.2,0.6
+239,inceptionresnetv2,Mango roll sushi,0.6,0.9
+240,inceptionresnetv2,Lentil braised noodles,0.9,1.0
+241,inceptionresnetv2,Sheep roll,0.9,0.9
+242,inceptionresnetv2,Tamago nigiri sushi,0.9,1.0
+243,inceptionresnetv2,Freshly fried small crispy pork,0.3,0.8
+244,inceptionresnetv2,Scrambled eggs with green peppers,0.7,0.9
+245,inceptionresnetv2,Bacon bibimbap,0.5,0.9
+246,inceptionresnetv2,Fried rice noodles,0.4,0.6
+247,inceptionresnetv2,Scallion sea bass,0.1,0.3
+248,inceptionresnetv2,Grilled baby Chinese cabbage skewers,0.6,1.0
+249,inceptionresnetv2,Grilled chicken drumsticks,0.2,0.6
+250,inceptionresnetv2,Fried poached egg with laba beans,0.4,0.9
+251,inceptionresnetv2,Mochi bun,0.9,1.0
+252,inceptionresnetv2,Nanning rice noodle,0.2,0.4
+253,inceptionresnetv2,Coconut sago,0.9,1.0
+254,inceptionresnetv2,Roasted leeks,0.8,1.0
+255,inceptionresnetv2,Grilled string bean skewers,0.6,1.0
+256,inceptionresnetv2,Whitebait scrambled eggs,0.1,0.8
+257,inceptionresnetv2,Fish-ﬂavored eggplant pot,0.2,0.6
+258,inceptionresnetv2,Red date and yam congee,0.2,0.6
+259,inceptionresnetv2,Fried shrimp in typhoon shelter,0.2,0.4
+260,inceptionresnetv2,Fried potato chips,0.2,0.3
+261,inceptionresnetv2,Ham sausage,0.9,0.9
+262,inceptionresnetv2,Stewed meat,0.5,0.8
+263,inceptionresnetv2,Seaweed pork ﬂoss bread,0.9,0.9
+264,inceptionresnetv2,Pounded chicken feet,0.6,0.7
+265,inceptionresnetv2,Fresh meat soup dumplings,0.5,1.0
+266,inceptionresnetv2,Iron squid,0.5,0.9
+267,inceptionresnetv2,Egg and ham sandwich,0.5,0.7
+268,inceptionresnetv2,Dongpo’s braised pork,0.6,0.9
+269,inceptionresnetv2,Coarse grain porridge,0.0,0.6
+270,inceptionresnetv2,Braised tofu,0.5,0.8
+271,inceptionresnetv2,Rocky cheese,0.7,0.8
+272,inceptionresnetv2,Fried pulp,0.6,0.7
+273,inceptionresnetv2,Fruit jelly,0.3,0.8
+274,inceptionresnetv2,Raw cooking cabbage,0.1,0.6
+275,inceptionresnetv2,Liocarcinus,0.5,0.8
+276,inceptionresnetv2,Black-bone chicken roll,0.1,0.6
+277,inceptionresnetv2,Fried bun slices,0.3,0.8
+278,inceptionresnetv2,Taro sago,0.5,1.0
+279,inceptionresnetv2,Sizzling tofu,0.7,0.9
+280,inceptionresnetv2,Stewed chicken nuggets,0.3,0.5
+281,inceptionresnetv2,Beef noodles,0.5,0.6
+282,inceptionresnetv2,Poplar twig nectar,0.3,0.7
+283,inceptionresnetv2,Pickle chicken feet,0.7,0.8
+284,inceptionresnetv2,Rice wine and egg drop soup,0.4,0.7
+285,inceptionresnetv2,Red oil dumplings,0.5,0.9
+286,inceptionresnetv2,Sour beans,0.6,0.8
+287,inceptionresnetv2,Potato ﬂour casserole,0.7,0.8
+288,inceptionresnetv2,Shrimp,0.8,1.0
+289,inceptionresnetv2,Chicken chop,0.1,1.0
+290,inceptionresnetv2,Fried sea oysters,0.7,0.7
+291,inceptionresnetv2,Spicy pork,0.5,1.0
+292,inceptionresnetv2,Stir-fried beef with green pepper,0.6,1.0
+293,inceptionresnetv2,Tomato puree,0.5,0.9
+294,inceptionresnetv2,Fried tempura,0.7,0.7
+295,inceptionresnetv2,Green bean cake,0.4,0.9
+296,inceptionresnetv2,Salty burning white,0.3,0.8
+297,inceptionresnetv2,Three yellow chicken nuggets,0.3,0.8
+298,inceptionresnetv2,Garlic shrimp,0.7,0.8
+299,inceptionresnetv2,Fired pork in a scoop,0.8,0.8
+300,inceptionresnetv2,Bread crab,0.7,0.8
+301,inceptionresnetv2,Spicy sausage,0.6,1.0
+302,inceptionresnetv2,Pickled mustard,0.3,0.7
+303,inceptionresnetv2,Barbecued pork noodle,0.6,0.7
+304,inceptionresnetv2,Beer duck,0.1,0.7
+305,inceptionresnetv2,Fried yogurt with oreo cookies,0.6,0.8
+306,inceptionresnetv2,Chinese hamburger,0.6,0.7
+307,inceptionresnetv2,Princess lee roll sushi,0.5,0.5
+308,inceptionresnetv2,Sea salt milk cake,0.5,0.8
+309,inceptionresnetv2,Stir fried fungus with celery,0.2,0.9
+310,inceptionresnetv2,Double cake,0.3,0.8
+311,inceptionresnetv2,Taian Fish,0.3,0.7
+312,inceptionresnetv2,Boiled bullfrog,0.3,0.3
+313,inceptionresnetv2,Matcha mousse cake,0.6,0.9
+314,inceptionresnetv2,Steamed sturgeon,0.9,1.0
+315,inceptionresnetv2,Tuna sashimi,1.0,1.0
+316,inceptionresnetv2,Stewed chicken soup,0.5,0.8
+317,inceptionresnetv2,Shrimp fried rice,0.8,1.0
+318,inceptionresnetv2,Corn warship sushi,0.8,1.0
+319,inceptionresnetv2,Milk small party,0.7,0.8
+320,inceptionresnetv2,Shrimp and crab pot,0.5,0.9
+321,inceptionresnetv2,Chili noodles,0.8,1.0
+322,inceptionresnetv2,Chicken skewers,0.8,1.0
+323,inceptionresnetv2,Leek pie,0.4,0.8
+324,inceptionresnetv2,Snowﬂake cowboy bones,0.4,0.7
+325,inceptionresnetv2,Stir-fried pork with garlic shoots,0.3,0.9
+326,inceptionresnetv2,Pop cake,0.6,0.9
+327,inceptionresnetv2,Matcha ﬂavored daifuku,1.0,1.0
+328,inceptionresnetv2,Black pepper chicken nuggets,0.6,0.8
+329,inceptionresnetv2,Roasted chicken leg,0.1,0.4
+330,inceptionresnetv2,Potato powder,0.5,0.6
+331,inceptionresnetv2,Cart noodle,0.4,0.8
+332,inceptionresnetv2,cheesecake,0.4,0.7
+333,inceptionresnetv2,Fried snails,0.7,1.0
+334,inceptionresnetv2,Stir fry,0.2,0.5
+335,inceptionresnetv2,Duck feet,0.9,0.9
+336,inceptionresnetv2,Fried ﬂower beetle,0.2,0.7
+337,inceptionresnetv2,Balsamic peanuts,0.7,1.0
+338,inceptionresnetv2,Rice casserole,0.5,0.7
+339,inceptionresnetv2,Spicy chicken wing,0.2,0.6
+340,inceptionresnetv2,Strawberry double skin milk,1.0,1.0
+341,inceptionresnetv2,Roast duck cake,0.1,0.6
+342,inceptionresnetv2,Grilled tofu,0.8,0.9
+343,inceptionresnetv2,Matcha ice cream,0.4,0.6
+344,inceptionresnetv2,Preserved egg porridge,0.1,0.7
+345,inceptionresnetv2,Pork knuckle soup powder,0.1,0.8
+346,inceptionresnetv2,Black pepper steak rice,0.2,0.5
+347,inceptionresnetv2,Roast pork,0.5,0.6
+348,inceptionresnetv2,Cold crucian carp,0.9,0.9
+349,inceptionresnetv2,Braised bamboo shoots,0.9,1.0
+350,inceptionresnetv2,Sweet and sour pork,0.7,1.0
+351,inceptionresnetv2,Old bowl ﬁsh,0.2,0.5
+352,inceptionresnetv2,Tofu with preserved eggs,0.5,0.9
+353,inceptionresnetv2,Black pepper sausage,0.5,0.8
+354,inceptionresnetv2,Roast suckling pig,0.6,0.8
+355,inceptionresnetv2,Ciba ice powder,0.3,0.8
+356,inceptionresnetv2,Braised chicken and rice,0.2,0.9
+357,inceptionresnetv2,Sea Emperor fans clay pot,0.5,0.6
+358,inceptionresnetv2,Flamingo cake,1.0,1.0
+359,inceptionresnetv2,Orleans drumsticks,0.6,0.9
+360,inceptionresnetv2,Salt and pepper ribs,0.2,0.6
+361,inceptionresnetv2,Eel rice,0.4,0.7
+362,inceptionresnetv2,Pork skewers,0.2,0.9
+363,inceptionresnetv2,Cold jellyﬁsh,0.2,0.7
+364,inceptionresnetv2,Boiled cabbage heart,0.1,0.7
+365,inceptionresnetv2,Baked clams in tin foil,0.6,0.8
+366,inceptionresnetv2,Hand holding fan bone,0.3,0.7
+367,inceptionresnetv2,Casserole yam,0.6,0.9
+368,inceptionresnetv2,Bak kut teh,0.6,0.7
+369,inceptionresnetv2,Colorful face lift,0.5,1.0
+370,inceptionresnetv2,Red velvet cake,0.8,1.0
+371,inceptionresnetv2,Round taro with coconut milk,0.6,0.9
+372,inceptionresnetv2,Stone pot bullfrog,0.2,0.6
+373,inceptionresnetv2,Seafood steamed egg,0.5,0.6
+374,inceptionresnetv2,Stir-fried potato shreds with green pepper,0.3,0.9
+375,inceptionresnetv2,Yellow braised beef,0.0,0.2
+376,inceptionresnetv2,Longan and red date congee,0.4,0.7
+377,inceptionresnetv2,Stir fried diced noodles,0.4,0.8
+378,inceptionresnetv2,Ice cream wafﬂes,0.2,0.7
+379,inceptionresnetv2,Strawberry mille cake,0.4,0.5
+380,inceptionresnetv2,Cool coconut milk,0.7,0.7
+381,inceptionresnetv2,Corn salad,0.8,1.0
+382,inceptionresnetv2,Lava rock sausage,0.8,0.9
+383,inceptionresnetv2,Lettuce in oyster sauce,0.5,0.9
+384,inceptionresnetv2,Casserole ﬁsh head pot,0.1,0.2
+385,inceptionresnetv2,saozi noodles,0.5,0.7
+386,inceptionresnetv2,Fried pork rice,0.5,0.7
+387,inceptionresnetv2,Hot pepper twice cooked pork,0.1,0.9
+388,inceptionresnetv2,Spicy Ginger Chicken Feet,0.7,0.9
+389,inceptionresnetv2,Platycodon,0.5,1.0
+390,inceptionresnetv2,Flavored eggplant,0.4,0.6
+391,inceptionresnetv2,Tossed ﬁsh skin,0.4,0.5
+392,inceptionresnetv2,Beef vermicelli soup,0.1,0.2
+393,inceptionresnetv2,Ginger lotus root,0.4,1.0
+394,inceptionresnetv2,Pork congee,0.2,0.5
+395,inceptionresnetv2,Multi-ﬂavored ﬁsh skewers,0.2,0.8
+396,inceptionresnetv2,Fried noodles,0.8,0.9
+397,inceptionresnetv2,Shacha noodles,0.4,0.6
+398,inceptionresnetv2,Beef pan noodle,0.1,0.2
+399,inceptionresnetv2,Pork fried rice,0.1,0.4
+400,inceptionresnetv2,Homemade ﬁsh,0.1,0.6
+401,inceptionresnetv2,Lemon chicken feet,0.2,0.6
+402,inceptionresnetv2,Sparerib noodles,0.8,0.9
+403,inceptionresnetv2,Cheese stick,0.8,0.9
+404,inceptionresnetv2,Pork beans,0.5,0.9
+405,inceptionresnetv2,Soy sauce steamed pork ribs,0.5,1.0
+406,inceptionresnetv2,Milk oatmeal,0.2,0.7
+407,inceptionresnetv2,Rattan pepper ﬁsh ﬁllet,0.2,0.7
+408,inceptionresnetv2,Peanut butter noodles,0.0,1.0
+409,inceptionresnetv2,Spicy frog,0.1,0.3
+410,inceptionresnetv2,Cranberry¨ı¿œbiscuit,0.9,0.9
+411,inceptionresnetv2,Pot lamb chops,0.3,0.8
+412,inceptionresnetv2,Tomato egg noodle,0.2,0.4
+413,inceptionresnetv2,Boneless chicken feet,0.4,0.6
+414,inceptionresnetv2,Di San Xian,0.6,0.8
+415,inceptionresnetv2,Chocolate fruit cake,0.4,0.8
+416,inceptionresnetv2,Grandma dishes,0.5,1.0
+417,inceptionresnetv2,Yuxiang pork rice bowl,0.3,0.4
+418,inceptionresnetv2,Roast chicken,0.9,1.0
+419,inceptionresnetv2,Boneless chicken ﬁllet,0.2,0.5
+420,inceptionresnetv2,Bacon fried rice,0.3,0.6
+421,inceptionresnetv2,Urayaki eel,0.5,0.9
+422,inceptionresnetv2,Braised spare ribs noodles,0.1,0.8
+423,inceptionresnetv2,Mushroom stewed chicken noodle,0.3,0.8
+424,inceptionresnetv2,Pork sauerkraut bun,0.4,0.9
+425,inceptionresnetv2,Beijing sauce pork,0.9,1.0
+426,inceptionresnetv2,Capelin,0.6,0.7
+427,inceptionresnetv2,Garland chrysanthemum,0.9,0.9
+428,inceptionresnetv2,Green pepper preserved egg,0.5,0.9
+429,inceptionresnetv2,Fried noodles with ham,0.4,0.9
+430,inceptionresnetv2,Grilled whole ﬁsh,0.4,0.7
+431,inceptionresnetv2,Spicy cabbage bibimbap,0.3,1.0
+432,inceptionresnetv2,Grilled eggplant,0.8,1.0
+433,inceptionresnetv2,Sauerkraut pork noodle,0.0,0.4
+434,inceptionresnetv2,Black stinky tofu,0.8,0.9
+435,inceptionresnetv2,Soy milk,0.5,1.0
+436,inceptionresnetv2,Eggplant claypot,0.0,0.5
+437,inceptionresnetv2,Griddle pork Intestines,0.1,0.5
+438,inceptionresnetv2,Stir-fried ginger and green onion,0.2,0.7
+439,inceptionresnetv2,Three yellow chicken,0.2,1.0
+440,inceptionresnetv2,Cumin cartilage,0.5,0.8
+441,inceptionresnetv2,Burrito,0.3,0.3
+442,inceptionresnetv2,Cumin lamb,0.3,0.8
+443,inceptionresnetv2,Beef burger,0.3,0.9
+444,inceptionresnetv2,Sour soup with beef,0.5,0.9
+445,inceptionresnetv2,Scallop lean pork congee,0.5,0.8
+446,inceptionresnetv2,Hand cake,0.4,0.7
+447,inceptionresnetv2,Beef brisket noodle,0.3,0.7
+448,inceptionresnetv2,Potato beef,0.3,0.6
+449,inceptionresnetv2,Steamed crab,0.9,0.9
+450,inceptionresnetv2,French fries,0.8,0.9
+451,inceptionresnetv2,Popping milk cake,0.0,0.9
+452,inceptionresnetv2,Strange rice,0.1,0.3
+453,inceptionresnetv2,Dried squid and shrimp,0.1,0.5
+454,inceptionresnetv2,Stir-fried organic cauliﬂower,0.5,0.9
+455,inceptionresnetv2,Griddle potato chips,0.7,0.9
+456,inceptionresnetv2,Sliced toast with raisins,0.4,0.5
+457,inceptionresnetv2,Loin roast,0.2,0.5
+458,inceptionresnetv2,Five recipes of tender beef,0.8,0.9
+459,inceptionresnetv2,Roast duck rice,0.4,0.6
+460,inceptionresnetv2,Oil gluten,0.8,1.0
+461,inceptionresnetv2,Supreme pizza,0.5,0.7
+462,inceptionresnetv2,Egg seaweed soup,0.4,0.8
+463,inceptionresnetv2,Spicy chicken feet,0.4,0.9
+464,inceptionresnetv2,Fried crispy banana,0.8,1.0
+465,inceptionresnetv2,Stir-fried dried tofu with hot pepper,0.9,0.9
+466,inceptionresnetv2,Chilled lobster,0.6,1.0
+467,inceptionresnetv2,Fish pan cake,0.6,0.9
+468,inceptionresnetv2,Stewed goose in iron pan,0.3,0.7
+469,inceptionresnetv2,Fried pork with pleurotus eryngii,0.5,0.7
+470,inceptionresnetv2,Smoked duck,0.5,0.9
+471,inceptionresnetv2,Fried pork with fungus,0.3,0.6
+472,inceptionresnetv2,Grilled horse paciﬁer,0.4,0.9
+473,inceptionresnetv2,Tedious,0.2,0.3
+474,inceptionresnetv2,Tiger skin and chicken feet,0.4,1.0
+475,inceptionresnetv2,Ground sanxian rice bowl,0.3,0.6
+476,inceptionresnetv2,Yellow stinky tofu,0.2,1.0
+477,inceptionresnetv2,Duck neck,0.9,0.9
+478,inceptionresnetv2,Stone bowl chicken nuggets,0.4,0.7
+479,inceptionresnetv2,Mango shrimp salad,0.6,0.6
+480,inceptionresnetv2,Griddle chicken,0.1,0.7
+481,inceptionresnetv2,Snowﬂakes,0.7,1.0
+482,inceptionresnetv2,Fried jelly,0.5,0.6
+483,inceptionresnetv2,Scallion black fungus,0.1,0.8
+484,inceptionresnetv2,Spicy noodles,0.6,0.7
+485,inceptionresnetv2,Eggplant garlic juice,0.3,0.6
+486,inceptionresnetv2,Spicy spare ribs,0.0,0.5
+487,inceptionresnetv2,Gourd chicken,0.5,0.8
+488,inceptionresnetv2,Mango ice,0.7,0.9
+489,inceptionresnetv2,Grilled pork neck,0.3,0.7
+490,inceptionresnetv2,Flame steak,1.0,1.0
+491,inceptionresnetv2,Red bean curd,1.0,1.0
+492,inceptionresnetv2,Chicken neck,0.8,0.9
+493,inceptionresnetv2,Margherita pizza,0.4,0.8
+494,inceptionresnetv2,Casserole pork knuckle pot,0.8,1.0
+495,inceptionresnetv2,Tomato rice noodles,0.0,0.3
+496,inceptionresnetv2,Roasted peppers,0.6,0.9
+497,inceptionresnetv2,Scrambled eggs with ham,0.8,1.0
+498,inceptionresnetv2,Fried rice cake,0.0,0.5
+499,inceptionresnetv2,Stewed ﬁsh in iron pan,0.6,0.9
+500,inceptionresnetv2,Sweet shrimp sashimi,0.7,1.0
+501,inceptionresnetv2,Spicy yuba,0.6,0.8
+502,inceptionresnetv2,Custard bun,0.7,0.8
+503,inceptionresnetv2,Baked shrimp roll with cheese,0.6,0.7
+504,inceptionresnetv2,Beef pizza with black pepper,0.7,0.8
+505,inceptionresnetv2,Pepper chicken,0.3,0.6
+506,inceptionresnetv2,Sukiyaki goose,0.3,0.6
+507,inceptionresnetv2,Roast chicken wing tip,0.3,0.6
+508,inceptionresnetv2,Fried lotus root,0.6,1.0
+509,inceptionresnetv2,Caramel pudding,0.5,0.8
+510,inceptionresnetv2,Arctic bay,0.6,0.9
+511,inceptionresnetv2,Shrimp rolls,0.6,0.7
+512,inceptionresnetv2,Hot pot chicken giblets,0.9,1.0
+513,inceptionresnetv2,Fried lotus white with oil residue,0.8,0.9
+514,inceptionresnetv2,Homely stewed ﬁsh,0.6,0.7
+515,inceptionresnetv2,Eggplant salad,0.5,0.7
+516,inceptionresnetv2,Fried potato chips,0.2,0.7
+517,inceptionresnetv2,Macadamia,0.5,0.9
+518,inceptionresnetv2,Tremella lianzi geng,0.2,0.4
+519,inceptionresnetv2,Gravy radish,0.6,1.0
+520,inceptionresnetv2,Sweet heart pastry,0.5,0.9
+521,inceptionresnetv2,Glutinous rice lotus root,0.8,0.9
+522,inceptionresnetv2,Durian cheesecake,0.1,0.7
+523,inceptionresnetv2,Steamed crab claws,0.3,0.6
+524,inceptionresnetv2,Kimchi beef sushi,0.7,0.9
+525,inceptionresnetv2,Sweet and sour ﬁllet,0.6,0.9
+526,inceptionresnetv2,Braised pork ribs,0.7,1.0
+527,inceptionresnetv2,Ribeye steak,0.2,0.7
+528,inceptionresnetv2,Salted shrimp with pepper,0.2,0.7
+529,inceptionresnetv2,Fried instant noodles,0.3,0.6
+530,inceptionresnetv2,Fried rice noodles with chicken,0.4,0.5
+531,inceptionresnetv2,Cheese baked rice,0.6,0.8
+532,inceptionresnetv2,Roast chicken head,0.4,0.6
+533,inceptionresnetv2,Salad barbecue bibimbap,0.4,0.6
+534,inceptionresnetv2,Fried chicken chop,0.6,0.7
+535,inceptionresnetv2,Red bean double skin milk,0.6,0.8
+536,inceptionresnetv2,Marinated beef brisket in spiced sauce,0.4,0.9
+537,inceptionresnetv2,Spicy potato chips,0.4,0.6
+538,inceptionresnetv2,Fruit cup,0.5,1.0
+539,inceptionresnetv2,Meatballs,0.6,1.0
+540,inceptionresnetv2,Bowl chicken,0.6,0.7
+541,inceptionresnetv2,Marinated trotters,0.2,0.7
+542,inceptionresnetv2,Spicy lobster tail,0.0,0.9
+543,inceptionresnetv2,Sesame biscuits,0.3,0.8
+544,inceptionresnetv2,Fried bacon with dried radish,0.9,1.0
+545,inceptionresnetv2,Red wine sydney,0.9,0.9
+546,inceptionresnetv2,Mutton soup,0.4,0.6
+547,inceptionresnetv2,Crab pot,0.9,1.0
+548,inceptionresnetv2,Braised sausage,0.4,0.7
+549,inceptionresnetv2,Braised chili in oil,0.4,0.8
+550,inceptionresnetv2,Orleans chicken drumsticks,0.4,0.6
+551,inceptionresnetv2,Sea urchin sashimi,0.8,0.9
+552,inceptionresnetv2,Barrel ﬁsh,1.0,1.0
+553,inceptionresnetv2,White cut chicken,0.8,0.9
+554,inceptionresnetv2,Grilled tofu,0.7,0.8
+555,inceptionresnetv2,Songhua egg with ginger sauce,0.4,0.9
+556,inceptionresnetv2,Cold rice tofu,0.8,0.8
+557,inceptionresnetv2,Durian pancake,0.3,0.8
+558,inceptionresnetv2,Fire bun,0.3,0.8
+559,inceptionresnetv2,Roast pork knuckle,0.4,0.9
+560,inceptionresnetv2,Steamed shrimp with garlic vermicelli,0.3,0.8
+561,inceptionresnetv2,Tuna warship sushi,0.6,0.8
+562,inceptionresnetv2,Vegetable salad,0.4,0.6
+563,inceptionresnetv2,Choy sum sting peel,0.2,0.4
+564,inceptionresnetv2,Brushed cheese hot dog sticks,0.7,0.8
+565,inceptionresnetv2,Chocolate mousse cake,0.6,0.8
+566,inceptionresnetv2,Popcorn,0.8,1.0
+567,inceptionresnetv2,Minced pork hand-rolled sushi,0.5,0.9
+568,inceptionresnetv2,Grilled chicken feet skewers,0.7,0.9
+569,inceptionresnetv2,Beef and rice noodle soup,0.7,0.8
+570,inceptionresnetv2,Fruit steak,0.4,0.8
+571,inceptionresnetv2,Fried noodle with egg,0.9,1.0
+572,inceptionresnetv2,Crispy bone sausage,0.4,0.7
+573,inceptionresnetv2,Chicken with chestnut,0.0,0.8
+574,inceptionresnetv2,Scalded prawns,0.3,0.6
+575,inceptionresnetv2,Fruit box,0.5,0.7
+576,inceptionresnetv2,Hang Sanxian,0.5,0.7
+577,inceptionresnetv2,Cut noodles in casserole,0.5,0.9
+578,inceptionresnetv2,Burning noodles,0.4,0.7
+579,inceptionresnetv2,Pineapple pie,0.5,0.7
+580,inceptionresnetv2,Fried mushrooms,0.4,0.6
+581,inceptionresnetv2,Enoki mushroom mixed with cucumber,0.8,1.0
+582,inceptionresnetv2,Taro balls,0.1,0.9
+583,inceptionresnetv2,Sauerkraut rice noodles,0.0,0.2
+584,inceptionresnetv2,Cured fried rice,0.4,0.8
+585,inceptionresnetv2,Yam polenta,1.0,1.0
+586,inceptionresnetv2,Pickle,0.6,0.8
+587,inceptionresnetv2,Hot and sour chicken mixed,0.8,0.8
+588,inceptionresnetv2,Millet cake,0.4,0.9
+589,inceptionresnetv2,Yam pork ribs soup,0.3,0.5
+590,inceptionresnetv2,Fried biscuits,0.4,0.6
+591,inceptionresnetv2,Stir-fried shredded pork with garlic moss,0.7,0.9
+592,inceptionresnetv2,Fried chicken,0.6,0.6
+593,inceptionresnetv2,Casserole white tofu,0.3,0.4
+594,inceptionresnetv2,Milk ﬂavor bread slice,0.5,0.8
+595,inceptionresnetv2,Saury,0.7,0.9
+596,inceptionresnetv2,Black forest cake,0.3,0.9
+597,inceptionresnetv2,Pumpkin porridge,0.3,0.8
+598,inceptionresnetv2,Curry chicken rice,0.5,0.8
+599,inceptionresnetv2,Fried duck,0.5,0.7
+600,inceptionresnetv2,Griddle shredded chicken,0.5,0.7
+601,inceptionresnetv2,Steamed dumpling,0.7,0.7
+602,inceptionresnetv2,Smooth double skin milk,0.7,0.8
+603,inceptionresnetv2,Red shrimp,0.4,0.8
+604,inceptionresnetv2,Mushroom and vegetable porridge,0.3,0.5
+605,inceptionresnetv2,Moon cake,0.9,0.9
+606,inceptionresnetv2,Lettuce tip,0.9,1.0
+607,inceptionresnetv2,Spaghetti black pepper beef,0.8,1.0
+608,inceptionresnetv2,Johnnycake,0.7,0.9
+609,inceptionresnetv2,Braised chicken with bamboo sticks in coconut,0.7,0.9
+610,inceptionresnetv2,Borscht,0.9,1.0
+611,inceptionresnetv2,Shrimp salad,0.4,0.6
+612,inceptionresnetv2,Steamed bun fried bun,0.7,1.0
+613,inceptionresnetv2,Soy bean curd,0.8,0.9
+614,inceptionresnetv2,Mixed edamame,1.0,1.0
+615,inceptionresnetv2,Beef rice,0.2,0.4
+616,inceptionresnetv2,Griddle cooked tea tree mushrooms,0.7,0.8
+617,inceptionresnetv2,Roast pork skin,0.2,0.5
+618,inceptionresnetv2,Taste snake,0.4,0.9
+619,inceptionresnetv2,Kelp green bean paste,0.7,0.9
+620,inceptionresnetv2,Egg tart,1.0,1.0
+621,inceptionresnetv2,Abalone rice,0.5,0.7
+622,inceptionresnetv2,Chicken wing pot,0.0,0.3
+623,inceptionresnetv2,Pineapple seafood fried rice,0.0,0.1
+624,inceptionresnetv2,Beef claypot rice,0.1,0.2
+625,inceptionresnetv2,Beef and egg fried rice,0.3,0.8
+626,inceptionresnetv2,Whole wheat bread,0.7,0.8
+627,inceptionresnetv2,Steamed rice noodles,0.2,0.5
+628,inceptionresnetv2,Chicken roll,0.7,0.9
+629,inceptionresnetv2,T-bone steak,0.6,1.0
+630,inceptionresnetv2,Braised Japanese tofu,0.6,0.6
+631,inceptionresnetv2,Fried ice cream,0.6,0.8
+632,inceptionresnetv2,Sauerkraut beef noodle,0.2,0.3
+633,inceptionresnetv2,Sesame octopus warship sushi,0.8,0.9
+634,inceptionresnetv2,Grilled anhui,0.3,0.7
+635,inceptionresnetv2,Fried chicken chop,0.8,0.9
+636,inceptionresnetv2,Scones,0.5,0.5
+637,inceptionresnetv2,Crab siu mai,1.0,1.0
+638,inceptionresnetv2,Shin ramen,0.4,0.9
+639,inceptionresnetv2,Rice with tomato and eggs,0.4,0.7
+640,inceptionresnetv2,Fatty intestine,0.3,0.7
+641,inceptionresnetv2,Hand roll noodle,0.6,1.0
+642,inceptionresnetv2,Steamed ﬁsh,0.4,0.7
+643,inceptionresnetv2,Pork liver and lean meat porridge,0.3,0.5
+644,inceptionresnetv2,Harbin sausage,0.6,0.9
+645,inceptionresnetv2,Bitter vegetable soup,0.8,1.0
+646,inceptionresnetv2,Refreshing lotus root slices,0.7,0.9
+647,inceptionresnetv2,Shredded bag,1.0,1.0
+648,inceptionresnetv2,Fried yuba,0.5,1.0
+649,inceptionresnetv2,Stir-fried pork with corn,0.9,1.0
+650,inceptionresnetv2,Shrimp wanton noodles,0.2,0.7
+651,inceptionresnetv2,Pea noodles,0.7,0.8
+652,inceptionresnetv2,Flatbread,0.3,0.6
+653,inceptionresnetv2,Roasted cauliﬂower,0.7,0.9
+654,inceptionresnetv2,Red date and white fungus soup,0.3,0.7
+655,inceptionresnetv2,Scallion noodles,0.1,0.7
+656,inceptionresnetv2,Steamed abalone with garlic,0.9,0.9
+657,inceptionresnetv2,Fried shredded pancake,0.4,0.7
+658,inceptionresnetv2,Stir-fried vermicelli with cabbage,0.4,0.5
+659,inceptionresnetv2,Mango melaleuca box cake,0.4,1.0
+660,inceptionresnetv2,Cantonese sponge cake,0.3,0.7
+661,inceptionresnetv2,Seaweed rice,0.2,1.0
+662,inceptionresnetv2,Fried eggs with fungus,1.0,1.0
+663,inceptionresnetv2,Stir-fried shredded lettuce,1.0,1.0
+664,inceptionresnetv2,Fried crab with ginger and spring onion,0.1,0.9
+665,inceptionresnetv2,Chicken porridge,0.0,0.1
+666,inceptionresnetv2,Roasted peppers,0.9,1.0
+667,inceptionresnetv2,Beef noodle,0.3,0.6
+668,inceptionresnetv2,Griddle rabbit,0.3,0.7
+669,inceptionresnetv2,Hot pot noodles,0.5,0.8
+670,inceptionresnetv2,Bacon ham pizza,0.2,0.6
+671,inceptionresnetv2,Pine nut ﬁsh,0.6,0.7
+672,inceptionresnetv2,Kimchi ﬁsh,0.1,0.3
+673,inceptionresnetv2,Umeboshi vegetable roast meat,0.6,0.7
+674,inceptionresnetv2,Fried king pleurotus,0.1,0.5
+675,inceptionresnetv2,Vegetable pancake,0.5,0.9
+676,inceptionresnetv2,Glutinous rice,0.7,0.9
+677,inceptionresnetv2,Miso soup,0.7,0.9
+678,inceptionresnetv2,Curry omelet rice,0.9,0.9
+679,inceptionresnetv2,Matcha melaleuca cake,0.7,0.9
+680,inceptionresnetv2,Fried pork with chili,0.0,0.9
+681,inceptionresnetv2,Lotus root pork ribs soup,0.3,0.6
+682,inceptionresnetv2,Soy sauce fried rice,0.7,1.0
+683,inceptionresnetv2,Pumpkin soup,0.7,0.9
+684,inceptionresnetv2,Fan shabu,0.6,1.0
+685,inceptionresnetv2,Cooked duck with lemon,0.4,0.7
+686,inceptionresnetv2,Shrimp noodles,0.5,0.8
+687,inceptionresnetv2,Spicy crab,0.7,0.9
+688,inceptionresnetv2,Bitter gourd fried pork,0.4,0.8
+689,inceptionresnetv2,Fried hot and sour potato shreds,0.1,0.5
+690,inceptionresnetv2,Salt and pepper peanuts,0.8,1.0
+691,inceptionresnetv2,Saute spicy chicken,0.5,0.8
+692,inceptionresnetv2,Baked crab with egg yolk,0.9,1.0
+693,inceptionresnetv2,Celery fried yuba,0.6,0.8
+694,inceptionresnetv2,Beef offal,0.3,0.7
+695,inceptionresnetv2,Kanto cooking,0.6,0.7
+696,inceptionresnetv2,Nigiri sushi,0.4,1.0
+697,inceptionresnetv2,Fish with bean curd,0.7,0.8
+698,inceptionresnetv2,Sizzling frog,0.6,0.7
+699,inceptionresnetv2,Lilies fat and sleek cows,0.1,0.3
+700,inceptionresnetv2,Duck wings,0.5,0.8
+701,inceptionresnetv2,Pickled pepper baby food,0.8,0.9
+702,inceptionresnetv2,Pork with preserved vegetable rice,0.3,0.6
+703,inceptionresnetv2,Hakka tofu,0.6,0.8
+704,inceptionresnetv2,Saliva chicken,0.6,0.9
+705,inceptionresnetv2,Bamboo shoot pork,0.6,0.8
+706,inceptionresnetv2,Stir-fried vegetables with mushrooms,0.9,1.0
+707,inceptionresnetv2,Crab congee,0.8,0.9
+708,inceptionresnetv2,Baked spaghetti with cheese and meat sauce,0.7,0.9
+709,inceptionresnetv2,Haagen-Dazs ice cream,0.3,0.8
+710,inceptionresnetv2,Northeast chaos,0.2,0.4
+711,inceptionresnetv2,Sauce elbow,0.1,0.3
+712,inceptionresnetv2,Cheese baked shrimp,0.3,0.9
+713,inceptionresnetv2,Tiramisu cake,0.5,0.8
+714,inceptionresnetv2,Vetch,0.7,0.9
+715,inceptionresnetv2,Spaghetti with tomato sauce and bacon,0.3,0.6
+716,inceptionresnetv2,Egg beef porridge,0.4,0.6
+717,inceptionresnetv2,Biangbiang,0.8,0.9
+718,inceptionresnetv2,Pork rice noodles,0.4,0.5
+719,inceptionresnetv2,Pig skin jelly,0.4,0.7
+720,inceptionresnetv2,Crispy pork slices,0.3,0.7
+721,inceptionresnetv2,Beautiful frog ﬁsh head,0.8,1.0
+722,inceptionresnetv2,Seafood paella,0.4,0.6
+723,inceptionresnetv2,Cruller,0.4,0.6
+724,inceptionresnetv2,Soy sauce ﬁsh,0.6,0.7
+725,inceptionresnetv2,Casserole ﬁsh head,0.5,0.6
+726,inceptionresnetv2,Stir-fried shredded potatoes with celery,0.2,0.5
+727,inceptionresnetv2,Potato stew chicken nuggets,0.3,0.5
+728,inceptionresnetv2,Dregs biscuits,0.8,1.0
+729,inceptionresnetv2,Kimchi hot pot,0.5,0.7
+730,inceptionresnetv2,Fried dumpling,0.3,0.7
+731,inceptionresnetv2,Crispy pork rice,0.1,0.4
+732,inceptionresnetv2,Tribute dish,0.9,1.0
+733,inceptionresnetv2,Peanut,0.7,1.0
+734,inceptionresnetv2,Fried sausage,0.6,0.7
+735,inceptionresnetv2,Baked potato chips,0.7,0.8
+736,inceptionresnetv2,Hot and sour soup,0.2,0.4
+737,inceptionresnetv2,Glutinous rice,0.4,0.7
+738,inceptionresnetv2,Chicken soup rice noodles,0.0,0.1
+739,inceptionresnetv2,Fried spicy chicken wing root,0.3,0.8
+740,inceptionresnetv2,Dorayaki,0.1,0.7
+741,inceptionresnetv2,Scrambled eggs with tomatoes,0.4,0.7
+742,inceptionresnetv2,Nuomici,0.2,0.9
+743,inceptionresnetv2,Fried lesser croaker,0.0,0.3
+744,inceptionresnetv2,Shredded duck,0.2,0.4
+745,inceptionresnetv2,Roast duck,0.8,0.9
+746,inceptionresnetv2,Cream of mushroom soup,0.6,0.7
+747,inceptionresnetv2,Spicy ﬁsh ball,0.4,1.0
+748,inceptionresnetv2,Stir-fried pork with mustard,0.0,0.3
+749,inceptionresnetv2,Steamed venetian bag,0.8,0.8
+750,inceptionresnetv2,Double chicken hamburger,0.8,0.9
+751,inceptionresnetv2,Abalone,0.6,0.8
+752,inceptionresnetv2,Baked string beans,0.6,1.0
+753,inceptionresnetv2,Tuna pizza,0.0,0.8
+754,inceptionresnetv2,Roasted goose,0.4,0.7
+755,inceptionresnetv2,Sauted sauerkraut sausage,0.5,0.9
+756,inceptionresnetv2,White shellﬁsh,0.8,0.9
+757,inceptionresnetv2,Baked fairy grass with Taro,0.4,0.9
+758,inceptionresnetv2,Sauteed bean sprouts,0.2,0.7
+759,inceptionresnetv2,Chicken rack,0.0,0.2
+760,inceptionresnetv2,Stinky mandarin ﬁsh,0.1,0.7
+761,inceptionresnetv2,Cold pot string,0.7,1.0
+762,inceptionresnetv2,Cold papaya,0.7,0.9
+763,inceptionresnetv2,Delicious fern powder,0.9,1.0
+764,inceptionresnetv2,Lettuce fried meat,0.5,0.7
+765,inceptionresnetv2,Stewed clams with Papaya,0.7,0.9
+766,inceptionresnetv2,Roasted corn kebabs,1.0,1.0
+767,inceptionresnetv2,Bandit duck,0.3,0.5
+768,inceptionresnetv2,Baked corn with egg yolk,1.0,1.0
+769,inceptionresnetv2,Chicken heart string,0.5,0.9
+770,inceptionresnetv2,Phoenix tail prawns,0.3,0.6
+771,inceptionresnetv2,Pickled sweet garlic,0.8,0.9
+772,inceptionresnetv2,Fried chicken fork bone,0.9,1.0
+773,inceptionresnetv2,Chicken burger,0.6,0.8
+774,inceptionresnetv2,Fried pork chop,0.2,0.5
+775,inceptionresnetv2,Skin shrimp,0.5,0.8
+776,inceptionresnetv2,Fried pork with pepper,0.6,0.9
+777,inceptionresnetv2,Pork lungs in chili sauce,0.4,0.9
+778,inceptionresnetv2,Vermicelli soup,0.2,0.3
+779,inceptionresnetv2,Dried chiba bean curd,0.8,1.0
+780,inceptionresnetv2,Steam pot chicken,0.7,0.8
+781,inceptionresnetv2,Lean meat soup,0.2,0.6
+782,inceptionresnetv2,Stir fried vegetables,0.4,0.6
+783,inceptionresnetv2,Sauted beef with hot pepper,0.5,0.8
+784,inceptionresnetv2,Coconut cake,0.8,1.0
+785,inceptionresnetv2,Hot pot chicken,0.4,0.5
+786,inceptionresnetv2,Braised ﬁsh in plain pot,0.3,0.8
+787,inceptionresnetv2,Stir-fried chives with bean curd sheets,0.8,0.9
+788,inceptionresnetv2,Fried preserved eggs with pepper,0.9,0.9
+789,inceptionresnetv2,Cold mixed pig ear,0.2,0.5
+790,inceptionresnetv2,Semi cooked cheese,0.7,0.9
+791,inceptionresnetv2,Tomato and egg soup,0.4,0.8
+792,inceptionresnetv2,Stewed mutton,0.4,0.7
+793,inceptionresnetv2,Beef ribs with black pepper,0.6,0.9
+794,inceptionresnetv2,Noodles with beef,0.2,0.4
+795,inceptionresnetv2,Roast lamb leg,0.6,0.8
+796,inceptionresnetv2,Prawn tail,0.2,1.0
+797,inceptionresnetv2,Baked beans,0.6,1.0
+798,inceptionresnetv2,Stewed goose,0.4,0.8
+799,inceptionresnetv2,Boiled egg,0.6,0.9
+800,inceptionresnetv2,Radish strips,0.3,0.7
+801,inceptionresnetv2,Fish porridge,0.2,0.5
+802,inceptionresnetv2,River noodles in pig soup,0.4,0.5
+803,inceptionresnetv2,Chicken kebabs,0.5,0.8
+804,inceptionresnetv2,Angry birds cake,1.0,1.0
+805,inceptionresnetv2,Soybean,0.7,0.9
+806,inceptionresnetv2,Snail powder with beef brisket,0.2,0.5
+807,inceptionresnetv2,Egg cake,0.8,1.0
+808,inceptionresnetv2,Fried shrimps with cashew nuts,0.8,0.9
+809,inceptionresnetv2,Simi fruit ﬁshing,0.4,0.9
+810,inceptionresnetv2,Bean curd with stone plate,0.5,0.9
+811,inceptionresnetv2,Stewed chicken leg,0.2,0.5
+812,inceptionresnetv2,Stewed noodles with mutton,0.3,0.7
+813,inceptionresnetv2,Matcha yellow peach cake,0.9,1.0
+814,inceptionresnetv2,Mutton noodles,0.1,0.6
+815,inceptionresnetv2,Cylindrical bone meal,0.5,0.8
+816,inceptionresnetv2,Sliced pork and potato,0.3,0.6
+817,inceptionresnetv2,Seafood congee,0.0,0.8
+818,inceptionresnetv2,Ice porridge,0.9,1.0
+819,inceptionresnetv2,Toothpick meat,0.6,0.7
+820,inceptionresnetv2,Chicken feet pot,0.4,1.0
+821,inceptionresnetv2,Roll cold noodle,0.9,1.0
+822,inceptionresnetv2,Papaya and tremella soup,0.5,0.8
+823,inceptionresnetv2,Golden sweet potato stick,0.1,0.9
+824,inceptionresnetv2,Fruit pizza,0.4,0.9
+825,inceptionresnetv2,Pineapple fried rice,0.2,0.4
+826,inceptionresnetv2,Stewed pork feet with ginger,0.3,0.6
+827,inceptionresnetv2,Stir-fried celery with smoked bean curd,0.7,1.0
+828,inceptionresnetv2,Steamed scallop with minced garlic and vermicelli,0.6,0.8
+829,inceptionresnetv2,Dried tofu,0.6,0.8
+830,inceptionresnetv2,Cranberry cookies,0.9,1.0
+831,inceptionresnetv2,Boiled mutton,0.4,0.8
+832,inceptionresnetv2,Boiled crayﬁsh,0.9,1.0
+833,inceptionresnetv2,Salted white shrimp,0.5,0.7
+834,inceptionresnetv2,Marinated goose,0.3,0.8
+835,inceptionresnetv2,Sweet plum and sweet potato,0.7,0.9
+836,inceptionresnetv2,Water-chestnut pudding,0.7,0.8
+837,inceptionresnetv2,Preserved egg with chopped pepper,0.5,0.9
+838,inceptionresnetv2,Tofu pudding,0.8,0.9
+839,inceptionresnetv2,Deep-fried dough sticks,0.7,0.9
+840,inceptionresnetv2,Fried squid ring,0.6,0.9
+841,inceptionresnetv2,Grilled squid,0.6,0.7
+842,inceptionresnetv2,Takoyaki,0.4,0.7
+843,inceptionresnetv2,Popcorn chicken,0.2,0.6
+844,inceptionresnetv2,Roasted ﬁsh with soy sauce,0.6,0.9
+845,inceptionresnetv2,Steamed Wuchang Fish,0.3,0.8
+846,inceptionresnetv2,Cucumber preserved egg soup,1.0,1.0
+847,inceptionresnetv2,Kebabs with soy sauce,0.0,0.6
+848,inceptionresnetv2,Eggplant with hot pepper,0.8,0.9
+849,inceptionresnetv2,Fried bacon with lotus beans,0.4,0.9
+850,inceptionresnetv2,Steamed green spotted ﬁsh,0.2,0.6
+851,inceptionresnetv2,Steamed white guitar,0.1,0.8
+852,inceptionresnetv2,Yu-Shiang eggplant,0.3,0.6
+853,inceptionresnetv2,Eel roll sushi,0.9,1.0
+854,inceptionresnetv2,Mango sorbet,1.0,1.0
+855,inceptionresnetv2,Marinated beef,0.0,0.7
+856,inceptionresnetv2,Fish and mutton,0.3,0.5
+857,inceptionresnetv2,Scrambled egg with chopped chili pepper,0.5,0.8
+858,inceptionresnetv2,Blueberry sundae,1.0,1.0
+859,inceptionresnetv2,Mixed beans,0.8,1.0
+860,inceptionresnetv2,Fried rice with bacon,0.7,0.9
+861,inceptionresnetv2,Spicy wings,0.5,0.8
+862,inceptionresnetv2,Hot and sour lotus root,0.8,1.0
+863,inceptionresnetv2,Razor clam,0.9,1.0
+864,inceptionresnetv2,Roast dried pork,0.7,0.9
+865,inceptionresnetv2,Spicy carp,0.6,0.9
+866,inceptionresnetv2,Cumin beef,0.2,0.7
+867,inceptionresnetv2,Red dates and tremella soup,0.2,0.6
+868,inceptionresnetv2,Pineapple cake,0.7,1.0
+869,inceptionresnetv2,Strawberry ice cream,0.1,0.7
+870,inceptionresnetv2,Crab seed sushi,1.0,1.0
+871,inceptionresnetv2,Sea cucumber with millet,0.7,0.9
+872,inceptionresnetv2,Braised steak ﬁllet,0.0,0.8
+873,inceptionresnetv2,Braised chicken,0.1,0.7
+874,inceptionresnetv2,Fried meatballs,0.9,1.0
+875,inceptionresnetv2,Spicy palm,0.2,0.8
+876,inceptionresnetv2,Black sesame glutinous rice balls,1.0,1.0
+877,inceptionresnetv2,Grilled beef ribs,0.4,1.0
+878,inceptionresnetv2,Steamed yellow croaker,0.1,0.4
+879,inceptionresnetv2,Fried balls and radish,0.6,0.8
+880,inceptionresnetv2,Flammulina velutipes roll with streaky pork,0.3,0.7
+881,inceptionresnetv2,Grilled eggplant,0.7,1.0
+882,inceptionresnetv2,Baby cabbage with garlic,0.2,0.3
+883,inceptionresnetv2,Stir fried beef with mustard,0.6,1.0
+884,inceptionresnetv2,Watermelon sago,0.9,1.0
+885,inceptionresnetv2,Mango sausage,0.9,1.0
+886,inceptionresnetv2,Boiled ﬁsh with pickled cabbage and chili,0.3,0.6
+887,inceptionresnetv2,Spare ribs with garlic,0.7,0.8
+888,inceptionresnetv2,Stewed meat noodles,0.7,0.9
+889,inceptionresnetv2,Rice peel,0.4,0.6
+890,inceptionresnetv2,Plate reinforcement,0.2,0.9
+891,inceptionresnetv2,Steamed abalone with garlic and vermicelli,0.1,0.8
+892,inceptionresnetv2,Steamed sausage noodles with lean meat,0.5,0.9
+893,inceptionresnetv2,Grilled beef short rib,0.2,0.9
+894,inceptionresnetv2,Cold mixed peanuts,0.6,0.9
+895,inceptionresnetv2,Braised small yellow croaker,0.4,0.6
+896,inceptionresnetv2,Steamedf Fish head with diced hot red peppers,0.2,0.4
+897,inceptionresnetv2,Sugar fried chestnut,0.3,1.0
+898,inceptionresnetv2,Coconut pudding,0.9,1.0
+899,inceptionresnetv2,Caesar salad,0.3,0.4
+900,inceptionresnetv2,Sichuan dandan noodles,0.4,0.8
+901,inceptionresnetv2,Eggplant rice,0.2,0.5
+902,inceptionresnetv2,Overlord chicken strips,0.5,0.7
+903,inceptionresnetv2,Miso soup,0.4,0.8
+904,inceptionresnetv2,Fried rice with beef,0.2,0.5
+905,inceptionresnetv2,Golden pancake,0.5,0.8
+906,inceptionresnetv2,Kalimeris with smoked bean curd,1.0,1.0
+907,inceptionresnetv2,Chicken soup,0.7,0.9
+908,inceptionresnetv2,Pine bass,0.3,0.8
+909,inceptionresnetv2,Baked leek string,0.9,1.0
+910,inceptionresnetv2,Taro round Sago,1.0,1.0
+911,inceptionresnetv2,Cold bean sprouts,0.4,0.7
+912,inceptionresnetv2,White cake,0.7,0.9
+913,inceptionresnetv2,Braised chicken,0.6,0.8
+914,inceptionresnetv2,Fried milk,0.3,0.5
+915,inceptionresnetv2,Dried baby cabbage,0.5,0.8
+916,inceptionresnetv2,Fried mater convolvulus,0.3,1.0
+917,inceptionresnetv2,Fish and egg noodles,0.8,0.9
+918,inceptionresnetv2,Boiled peanuts,1.0,1.0
+919,inceptionresnetv2,Black pepper steak,0.4,0.6
+920,inceptionresnetv2,Spicy salted duck,0.4,0.7
+921,inceptionresnetv2,Shredded bean curd with cold sauce,0.4,0.7
+922,inceptionresnetv2,Amaebi,0.3,0.9
+923,inceptionresnetv2,Seafood noodle bumps,0.5,0.7
+924,inceptionresnetv2,Three delicacies in casserole,0.3,0.5
+925,inceptionresnetv2,Steamed chicken with rice in lotus leaf,0.3,0.7
+926,inceptionresnetv2,Braised sea cucumber with scallion,0.7,0.9
+927,inceptionresnetv2,Dry pot beef,0.3,0.6
+928,inceptionresnetv2,Boiled broccoli,0.3,0.9
+929,inceptionresnetv2,Mixed wonton,0.8,0.9
+930,inceptionresnetv2,Glutinous rice cake with brown sugar,0.7,0.7
+931,inceptionresnetv2,Squid body,0.1,0.8
+932,inceptionresnetv2,Vegetable pot,0.7,0.9
+933,inceptionresnetv2,Curry sirloin,0.8,0.9
+934,inceptionresnetv2,Meat ﬂoss cake,0.6,0.6
+935,inceptionresnetv2,Crispy corn cob,0.7,1.0
+936,inceptionresnetv2,Fried rice with sausage,0.3,0.5
+937,inceptionresnetv2,Baby cabbage in casserole,0.6,0.8
+938,inceptionresnetv2,Fried shrimp,0.4,0.6
+939,inceptionresnetv2,Mutton hot pot,0.2,0.7
+940,inceptionresnetv2,Tea ﬂavored boiled eggs,0.3,0.7
+941,inceptionresnetv2,Rice with vegetables,0.5,0.7
+942,inceptionresnetv2,Sausages with cheese,1.0,1.0
+943,inceptionresnetv2,Broccoli soup,0.7,0.9
+944,inceptionresnetv2,Roast tripe,0.0,0.3
+945,inceptionresnetv2,Minced beef congee,0.2,0.7
+946,inceptionresnetv2,Steamed mandarin ﬁsh,0.4,0.6
+947,inceptionresnetv2,Stewed beef offal,0.5,0.7
+948,inceptionresnetv2,Scalded prawns,0.6,0.8
+949,inceptionresnetv2,Ice cream egg puff,0.9,1.0
+950,inceptionresnetv2,Honey toast,0.7,0.9
+951,inceptionresnetv2,Rice with chicken leg,0.1,0.5
+952,inceptionresnetv2,The brine cattle show,0.0,0.6
+953,inceptionresnetv2,Bibimbap with pork belly,0.5,1.0
+954,inceptionresnetv2,Shredded meat,0.5,0.8
+955,inceptionresnetv2,Egg steamed meatloaf,0.7,0.9
+956,inceptionresnetv2,Steamed side ﬁsh,0.3,0.7
+957,inceptionresnetv2,Chinese salad,0.2,0.8
+958,inceptionresnetv2,Deep-fried cakes,0.6,0.7
+959,inceptionresnetv2,Roast chicken pizza,0.2,0.5
+960,inceptionresnetv2,Sauce-ﬂavored beef tendon,0.0,0.5
+961,inceptionresnetv2,Coca cola chicken wings,0.2,0.5
+962,inceptionresnetv2,Fried river prawns with leek,0.6,0.9
+963,inceptionresnetv2,Chicken hot pot,0.4,0.6
+964,inceptionresnetv2,Stewed meatballs with brown sauce,0.9,0.9
+965,inceptionresnetv2,Boiled lamb chops,0.2,0.4
+966,inceptionresnetv2,Salt baked chicken,0.3,1.0
+967,inceptionresnetv2,Spicy shrimp pot,0.4,0.9
+968,inceptionresnetv2,Hotbed chives with pork,0.4,0.5
+969,inceptionresnetv2,Papaya cool water,0.6,1.0
+970,inceptionresnetv2,Garlic seasonal vegetables,0.5,0.9
+971,inceptionresnetv2,Appetizer duck blood,0.9,1.0
+972,inceptionresnetv2,Salted egg yolk baked pumpkin,0.8,0.8
+973,inceptionresnetv2,Fried beef rice with bitter melon,0.7,0.9
+974,inceptionresnetv2,Sauce big bone,0.2,0.9
+975,inceptionresnetv2,Broiled river eel,0.4,0.7
+976,inceptionresnetv2,Kung Pao chicken with rice,0.3,0.9
+977,inceptionresnetv2,Caterpillar bread,0.7,0.9
+978,inceptionresnetv2,Sliced pork soup,0.3,0.7
+979,inceptionresnetv2,Clam tofu soup,0.6,0.8
+980,inceptionresnetv2,Stone pot tofu,0.7,0.7
+981,inceptionresnetv2,Stir-fried pork liver,0.4,0.4
+982,inceptionresnetv2,Stir-Fried pork with smoked bean curd,0.1,0.5
+983,inceptionresnetv2,Steamed twisted roll with scallions,0.8,0.9
+984,inceptionresnetv2,Mixed mentai ﬁsh shreds,0.9,1.0
+985,inceptionresnetv2,Slippery rice mushrooms chicken,0.6,1.0
+986,inceptionresnetv2,Beef hotpot,0.3,0.6
+987,inceptionresnetv2,Luncheon meat,0.6,0.9
+988,inceptionresnetv2,Peru system sauce duck,0.2,0.4
+989,inceptionresnetv2,Shredded rabbit meat,0.4,0.5
+990,inceptionresnetv2,Tuna onigiri,0.6,0.7
+991,inceptionresnetv2,Egg pancake,0.5,0.8
+992,inceptionresnetv2,Three-cup chicken,0.4,0.7
+993,inceptionresnetv2,Noodles with chicken leg soup,0.4,0.7
+994,inceptionresnetv2,Fried stone egg,0.5,0.7
+995,inceptionresnetv2,Honey concave cake,0.5,1.0
+996,inceptionresnetv2,Chocolate egg wafﬂes,0.8,0.9
+997,inceptionresnetv2,Lobster rice bowl,0.7,0.9
+998,inceptionresnetv2,Scrambled eggs with Chinese chives,0.8,1.0
+999,inceptionresnetv2,Pan-Fried calf chop,0.5,0.9
+1000,inceptionresnetv2,Black grass jelly,1.0,1.0
+1001,inceptionresnetv2,Tobiko warship sushi,1.0,1.0
+1002,inceptionresnetv2,Beef ribs,0.6,0.7
+1003,inceptionresnetv2,Green pepper shredded pork,0.8,1.0
+1004,inceptionresnetv2,Sweet and sour pork ribs,0.3,0.8
+1005,inceptionresnetv2,Original soup wonton,0.1,0.9
+1006,inceptionresnetv2,Salt grilled salmon head,0.8,1.0
+1007,inceptionresnetv2,Quicksand bun with egg custard,0.8,0.9
+1008,inceptionresnetv2,Stir-fried shredded pork with celery,0.2,0.4
+1009,inceptionresnetv2,Garlic chicken feet,0.0,0.4
+1010,inceptionresnetv2,Black pearl with smoothie,0.8,1.0
+1011,inceptionresnetv2,Roasted lamb loin,0.5,0.8
+1012,inceptionresnetv2,Donuts,0.9,0.9
+1013,inceptionresnetv2,Spicy cabbage sushi roll,0.1,0.8
+1014,inceptionresnetv2,Cold rice noodles,0.3,0.4
+1015,inceptionresnetv2,Black pepper chicken chop rice,0.1,0.4
+1016,inceptionresnetv2,Fried thousand page tofu,0.5,0.8
+1017,inceptionresnetv2,Corn cup,0.9,1.0
+1018,inceptionresnetv2,Sauce bones,0.7,1.0
+1019,inceptionresnetv2,Seafood udon,0.5,0.9
+1020,inceptionresnetv2,Baked cheesy seafood baked rice,0.1,0.9
+1021,inceptionresnetv2,Hot noodles with sesame paste,0.7,0.7
+1022,inceptionresnetv2,Sizzling beef,0.5,0.9
+1023,inceptionresnetv2,Corn pie,0.4,0.9
+1024,inceptionresnetv2,Pickled mustard with shredded soup,0.4,0.6
+1025,inceptionresnetv2,Fruit and vegetable salad,0.2,0.4
+1026,inceptionresnetv2,Chicken wingette skewers,0.6,0.6
+1027,inceptionresnetv2,Yuanbao shrimp,0.3,0.8
+1028,inceptionresnetv2,Sliced roast duck,0.5,0.6
+1029,inceptionresnetv2,Mao xuewang,0.6,0.8
+1030,inceptionresnetv2,Leek box,0.2,0.6
+1031,inceptionresnetv2,Beer ﬁsh,0.0,0.5
+1032,inceptionresnetv2,Griddle squid,0.7,0.9
+1033,inceptionresnetv2,Purple sweet potato bun,1.0,1.0
+1034,inceptionresnetv2,Twice-cooked pork with rice,0.1,0.5
+1035,inceptionresnetv2,Red oil dumplings,0.9,1.0
+1036,inceptionresnetv2,Beef noodles,0.2,0.4
+1037,inceptionresnetv2,Delicious daifuku,0.8,0.9
+1038,inceptionresnetv2,Fried crab with ginger and green onion,0.6,0.7
+1039,inceptionresnetv2,Flower cake,0.5,0.9
+1040,inceptionresnetv2,Oreo snow mei niang,0.8,0.9
+1041,inceptionresnetv2,Fried lotus root,0.8,1.0
+1042,inceptionresnetv2,Chocolate donut,0.9,1.0
+1043,inceptionresnetv2,Chocolate toast,0.9,1.0
+1044,inceptionresnetv2,Roll dough,0.6,0.8
+1045,inceptionresnetv2,Durian pulp ice cream,0.7,0.9
+1046,inceptionresnetv2,Fried shrimp,0.8,0.9
+1047,inceptionresnetv2,Fried ﬁsh,0.2,0.7
+1048,inceptionresnetv2,Casserole balls,0.4,0.7
+1049,inceptionresnetv2,Spinach egg drop soup,0.7,0.9
+1050,inceptionresnetv2,Beef soup,0.4,0.8
+1051,inceptionresnetv2,Spring pancake,0.3,0.5
+1052,inceptionresnetv2,Stir-fried rougamo,0.3,0.8
+1053,inceptionresnetv2,Spicy ribs and shrimp,0.2,0.7
+1054,inceptionresnetv2,Spicy cucumber strips,1.0,1.0
+1055,inceptionresnetv2,Shrimp wanton,0.9,0.9
+1056,inceptionresnetv2,Pickled cabbage noodles,0.6,0.6
+1057,inceptionresnetv2,Crispy radish skin,0.6,1.0
+1058,inceptionresnetv2,Golden mantou,1.0,1.0
+1059,inceptionresnetv2,Braised pork rice,0.3,0.7
+1060,inceptionresnetv2,Sugar mixed tomatoes,0.5,0.7
+1061,inceptionresnetv2,Shrimp pizza,0.2,0.7
+1062,inceptionresnetv2,Yang chun noodles,0.6,0.8
+1063,inceptionresnetv2,Stir-fried bitter gourd,0.6,0.7
+1064,inceptionresnetv2,Spicy fried clams,0.6,0.9
+1065,inceptionresnetv2,Soft tofu soup,0.7,0.9
+1066,inceptionresnetv2,Marinated chicken gizzards,0.1,0.6
+1067,inceptionresnetv2,Fried winter melon,0.7,0.9
+1068,inceptionresnetv2,Fried tofu,0.4,0.9
+1069,inceptionresnetv2,Cold noodles,0.8,1.0
+1070,inceptionresnetv2,Fried egg,0.6,0.8
+1071,inceptionresnetv2,Braised duck head,0.9,0.9
+1072,inceptionresnetv2,Stir-fried chicken with pickled peppers,0.3,0.7
+1073,inceptionresnetv2,Cold rice cake,0.8,0.9
+1074,inceptionresnetv2,Shrimp tail,0.9,0.9
+1075,inceptionresnetv2,Shredded lettuce salad,0.1,0.5
+1076,inceptionresnetv2,Steamed chicken,0.3,0.6
+1077,inceptionresnetv2,Tonkatsu,0.6,0.8
+1078,inceptionresnetv2,Sam chicken soup,0.5,0.7
+1079,inceptionresnetv2,Salted chicken,0.2,0.4
+1080,inceptionresnetv2,Tomato sirloin,0.4,0.8
+1081,inceptionresnetv2,Griddle cooked lettuce bacon,0.2,0.5
+1082,inceptionresnetv2,Cold fungus,0.5,0.9
+1083,inceptionresnetv2,Sizzling garlic shrimp,0.5,0.9
+1084,inceptionresnetv2,Pork ears with chilli oil dressing,0.1,0.4
+1085,inceptionresnetv2,Braised pork with potatoes,0.1,0.6
+1086,inceptionresnetv2,Stir-fried pig ears,0.2,0.7
+1087,inceptionresnetv2,Chilli oil liangpi,0.2,0.6
+1088,inceptionresnetv2,Corn and vegetable porridge,0.8,1.0
+1089,inceptionresnetv2,Spicy hot pot,0.2,0.3
+1090,inceptionresnetv2,Baked pig brain with tin foil,0.6,0.9
+1091,inceptionresnetv2,Lamb pot,0.1,0.5
+1092,inceptionresnetv2,Crab and cheese soft pretzel,0.9,0.9
+1093,inceptionresnetv2,Toasted bread,0.7,0.9
+1094,inceptionresnetv2,Sea bream sashimi,0.6,0.9
+1095,inceptionresnetv2,Lotus root slices,0.5,0.8
+1096,inceptionresnetv2,Pork ﬂoss seaweed roll,0.1,0.9
+1097,inceptionresnetv2,Bean curd beef,0.3,0.7
+1098,inceptionresnetv2,Sixi roasted bran,0.8,1.0
+1099,inceptionresnetv2,Griddle duck head,1.0,1.0
+1100,inceptionresnetv2,Tofu soup rice cake,0.6,0.9
+1101,inceptionresnetv2,Sour and spicy ﬁsh meal with grain,0.3,0.9
+1102,inceptionresnetv2,Mushroom pot,0.3,0.6
+1103,inceptionresnetv2,Orlean roasted wing,0.2,0.8
+1104,inceptionresnetv2,Three products of sashimi,0.5,0.8
+1105,inceptionresnetv2,Durian cake,0.4,0.8
+1106,inceptionresnetv2,White cut lamb,0.5,0.8
+1107,inceptionresnetv2,Trash ﬁsh,0.4,0.5
+1108,inceptionresnetv2,Vanilla ice cream,0.4,0.8
+1109,inceptionresnetv2,Mushu pork rice bowl,0.1,0.6
+1110,inceptionresnetv2,Fried pork with beans,0.4,0.8
+1111,inceptionresnetv2,Sauerkraut meat,0.5,0.8
+1112,inceptionresnetv2,Napoleon cake,0.4,0.7
+1113,inceptionresnetv2,Meringue puffs,0.3,0.8
+1114,inceptionresnetv2,Enoki mushroom,0.2,0.4
+1115,inceptionresnetv2,Chicken breast salad,0.4,0.5
+1116,inceptionresnetv2,Lotus root box,0.6,0.8
+1117,inceptionresnetv2,Simmered dry noodles,0.0,0.2
+1118,inceptionresnetv2,Pigeon soup,0.4,0.7
+1119,inceptionresnetv2,Duck belly,1.0,1.0
+1120,inceptionresnetv2,Beef jerky,0.7,0.9
+1121,inceptionresnetv2,Chestnut cream soup,0.8,1.0
+1122,inceptionresnetv2,Plum kidney bean,0.9,1.0
+1123,inceptionresnetv2,Red bean sago,0.4,0.8
+1124,inceptionresnetv2,Lemon sauerkraut ﬁsh,0.3,0.8
+1125,inceptionresnetv2,Fried pork with sauerkraut,0.3,0.6
+1126,inceptionresnetv2,Sauce chili,0.6,0.8
+1127,inceptionresnetv2,Squid crisp,0.5,0.8
+1128,inceptionresnetv2,Spicy korean noodles,0.6,0.9
+1129,inceptionresnetv2,Steamed rice with mei cai meatloaf,0.2,0.6
+1130,inceptionresnetv2,King crab,0.8,0.9
+1131,inceptionresnetv2,Beef noodle soup,0.8,1.0
+1132,inceptionresnetv2,Fried frog,0.3,0.6
+1133,inceptionresnetv2,Mustard duck feet,0.6,0.9
+1134,inceptionresnetv2,Fried squid,0.5,0.7
+1135,inceptionresnetv2,Cucumber with pork ears,0.3,0.5
+1136,inceptionresnetv2,Potato salad,0.1,0.5
+1137,inceptionresnetv2,Oily noodles,0.8,0.8
+1138,inceptionresnetv2,Red oil yuba,0.4,1.0
+1139,inceptionresnetv2,Soup noodles,0.1,0.9
+1140,inceptionresnetv2,Braised lamb,0.2,0.6
+1141,inceptionresnetv2,Fried noodles,1.0,1.0
+1142,inceptionresnetv2,Grilled salmon sushi,0.5,0.8
+1143,inceptionresnetv2,Lotus seed pork belly soup,0.5,0.7
+1144,inceptionresnetv2,Pickled fresh,0.7,0.7
+1145,inceptionresnetv2,Pepper rabbit,0.9,1.0
+1146,inceptionresnetv2,Beef tendon noodles,0.7,1.0
+1147,inceptionresnetv2,Onion mixed fungus,0.2,0.9
+1148,inceptionresnetv2,Arctic bay sashimi,0.8,0.9
+1149,inceptionresnetv2,Braised sheep’s hoof,0.4,0.7
+1150,inceptionresnetv2,Cucumber dip,0.9,1.0
+1151,inceptionresnetv2,Chicken rice,0.5,0.6
+1152,inceptionresnetv2,Sweet potato balls with taro,0.4,0.9
+1153,inceptionresnetv2,Egg pancakes,0.2,0.7
+1154,inceptionresnetv2,Braised pork with chestnut,0.6,1.0
+1155,inceptionresnetv2,Stewed foie gras,0.5,1.0
+1156,inceptionresnetv2,Pickled ﬁsh rice noodles,0.0,0.1
+1157,inceptionresnetv2,Pork head meat mixed with cucumber,0.6,0.8
+1158,inceptionresnetv2,Crepe,0.2,0.5
+1159,inceptionresnetv2,Black rice porridge,0.1,0.6
+1160,inceptionresnetv2,Griddle ribs,0.1,0.7
+1161,inceptionresnetv2,Sauce beef,0.2,0.7
+1162,inceptionresnetv2,Salt and pepper shrimp,0.1,0.4
+1163,inceptionresnetv2,Stewed chicken soup with cordyceps ﬂower,0.2,0.3
+1164,inceptionresnetv2,Sour soup pork,0.4,0.7
+1165,inceptionresnetv2,Braised pigeon,0.6,0.9
+1166,inceptionresnetv2,Sausage pizza,0.3,0.5
+1167,inceptionresnetv2,Candied sweet potatoes,0.6,0.9
+1168,inceptionresnetv2,Shrimp sushi,1.0,1.0
+1169,inceptionresnetv2,Crispy chicken bibimbap,0.1,0.5
+1170,inceptionresnetv2,Fried noodles with seafood,0.8,0.9
+1171,inceptionresnetv2,Griddle of pleurotus eryngii,0.7,1.0
+1172,inceptionresnetv2,Fried beans,0.1,0.8
+1173,inceptionresnetv2,The ﬁve-star chicken nuggets,0.6,1.0
+1174,inceptionresnetv2,Broth bottom,0.8,1.0
+1175,inceptionresnetv2,Pilaf,0.5,0.8
+1176,inceptionresnetv2,Griddle beef with skin,0.7,1.0
+1177,inceptionresnetv2,Cold dried eggs,0.7,0.8
+1178,inceptionresnetv2,Celery and peanuts,0.4,1.0
+1179,inceptionresnetv2,Sauerkraut chicken,0.3,0.4
+1180,inceptionresnetv2,Golden cake,0.8,0.8
+1181,inceptionresnetv2,Pickled cucumber,0.5,0.8
+1182,inceptionresnetv2,Potted cake,0.8,1.0
+1183,inceptionresnetv2,Rice burger,0.7,1.0
+1184,inceptionresnetv2,Mango fried yogurt,0.9,0.9
+1185,inceptionresnetv2,Sawdust cup,0.6,0.8
+1186,inceptionresnetv2,Fresh pot rabbit,0.7,0.9
+1187,inceptionresnetv2,Mango sticky rice cake,0.7,1.0
+1188,inceptionresnetv2,Honey roasted whole chicken,0.9,0.9
+1189,inceptionresnetv2,Shredded cake,0.2,0.4
+1190,inceptionresnetv2,Tenderloin skewers,0.1,0.8
+1191,inceptionresnetv2,Bean sprouts in soup,0.5,0.8
+1192,inceptionresnetv2,Salmon salad,0.4,0.7
+1193,inceptionresnetv2,Dry roasted large yellow croaker,0.3,0.4
+1194,inceptionresnetv2,Fish skin dumplings,0.6,0.7
+1195,inceptionresnetv2,Signature chicken feet,0.4,0.9
+1196,inceptionresnetv2,Pimple face,0.2,0.7
+1197,inceptionresnetv2,Fried lamb chops,0.2,0.2
+1198,inceptionresnetv2,Stir-fried squid whiskers,0.7,0.8
+1199,inceptionresnetv2,Fried ﬁve spice roll,0.7,0.7
+1200,inceptionresnetv2,Crock soup,0.6,0.9
+1201,inceptionresnetv2,Tofu bubble,0.7,0.8
+1202,inceptionresnetv2,Steamed ﬁsh head with double pepper,0.7,0.8
+1203,inceptionresnetv2,Dried radish omelette,0.2,0.8
+1204,inceptionresnetv2,Shredded potato burrito,0.2,0.7
+1205,inceptionresnetv2,Scrambled eggs with green onion,0.3,0.7
+1206,inceptionresnetv2,Mixed beef,0.1,0.6
+1207,inceptionresnetv2,Garlic bread,0.5,0.7
+1208,inceptionresnetv2,Sauteed pork with green beans,0.4,0.7
+1209,inceptionresnetv2,Braised vermicelli with chicken and mushroom,0.5,0.8
+1210,inceptionresnetv2,Oreo ice cream,0.9,0.9
+1211,inceptionresnetv2,Braised ham sausage,0.5,0.9
+1212,inceptionresnetv2,Stir-fried pork with green peppers,0.2,1.0
+1213,inceptionresnetv2,Mung bean soup,0.2,0.5
+1214,inceptionresnetv2,Sauerkraut vermicelli soup,0.4,0.9
+1215,inceptionresnetv2,Organic ﬁsh,0.0,0.4
+1216,inceptionresnetv2,Shredded squid,0.5,0.9
+1217,inceptionresnetv2,Spicy fried escargot,1.0,1.0
+1218,inceptionresnetv2,Honey chicken feet,0.4,0.8
+1219,inceptionresnetv2,Cucumber mixed with garlic paste,0.8,1.0
+1220,inceptionresnetv2,Watermelon smoothie,0.4,0.9
+1221,inceptionresnetv2,Scallops and shrimp congee,0.1,0.6
+1222,inceptionresnetv2,Multigrain bun,0.9,0.9
+1223,inceptionresnetv2,Cold preserved egg,0.5,0.9
+1224,inceptionresnetv2,Spicy chicken,0.1,0.4
+1225,inceptionresnetv2,Good harvest of coarse grains,0.8,1.0
+1226,inceptionresnetv2,Stir-fried lettuce with dace in black bean sauce,0.9,0.9
+1227,inceptionresnetv2,Pickled cabbage powder,0.6,0.7
+1228,inceptionresnetv2,Stone egg skewers,0.3,0.9
+1229,inceptionresnetv2,Sauteed beef ﬁllet with hot green pepper,0.9,0.9
+1230,inceptionresnetv2,Chocolate brown cake,0.1,0.8
+1231,inceptionresnetv2,Cucumber fritters,0.7,0.9
+1232,inceptionresnetv2,Steamed pork ribs,0.5,0.8
+1233,inceptionresnetv2,Sea star,0.5,0.9
+1234,inceptionresnetv2,Fried dried tofu,0.1,0.6
+1235,inceptionresnetv2,Crab fried rice cake,0.6,0.9
+1236,inceptionresnetv2,Fried sweet potato balls,0.5,1.0
+1237,inceptionresnetv2,Guiling paste,0.8,0.9
+1238,inceptionresnetv2,Green vegetable tofu soup,0.8,1.0
+1239,inceptionresnetv2,Mapo tofu,1.0,1.0
+1240,inceptionresnetv2,Grilled fatty intestine skewers,0.4,0.6
+1241,inceptionresnetv2,Pan-fried pork bun,0.9,0.9
+1242,inceptionresnetv2,Braised turtle,0.8,0.9
+1243,inceptionresnetv2,Cilantro tofu soup,0.5,0.9
+1244,inceptionresnetv2,Fried rice with sauerkraut and egg,0.3,1.0
+1245,inceptionresnetv2,Mustard pork noodles,0.3,0.5
+1246,inceptionresnetv2,Chicken casserole,0.0,0.7
+1247,inceptionresnetv2,Polenta,0.8,1.0
+1248,inceptionresnetv2,Pork noodles,0.3,0.6
+1249,inceptionresnetv2,Spicy squid,0.1,0.5
+1250,inceptionresnetv2,Ketchup surface,0.6,1.0
+1251,inceptionresnetv2,Grilled cod,0.2,0.3
+1252,inceptionresnetv2,Ice cream cone,0.7,0.7
+1253,inceptionresnetv2,Large rows of rice,0.6,0.6
+1254,inceptionresnetv2,Chestnut shortbread,0.6,0.8
+1255,inceptionresnetv2,Marinated goose wings,0.7,0.9
+1256,inceptionresnetv2,Vegetarian abalone,0.9,1.0
+1257,inceptionresnetv2,Pan-fried three stuffed treasures,1.0,1.0
+1258,inceptionresnetv2,Ice cream ball,0.6,0.8
+1259,inceptionresnetv2,Fried ham with cucumber,0.9,0.9
+1260,inceptionresnetv2,Piggy paige cake,0.8,0.9
+1261,inceptionresnetv2,Chicken sandwich,0.1,0.5
+1262,inceptionresnetv2,Mango black jelly,1.0,1.0
+1263,inceptionresnetv2,Roast chicken,0.1,0.6
+1264,inceptionresnetv2,Walnut buns,0.9,1.0
+1265,inceptionresnetv2,Braised tofu in abalone sauce,0.4,0.8
+1266,inceptionresnetv2,The oil meat,0.7,0.8
+1267,inceptionresnetv2,Cheese ribs,0.3,0.9
+1268,inceptionresnetv2,Firewood chicken,0.7,0.9
+1269,inceptionresnetv2,Fried dumplings,0.6,0.9
+1270,inceptionresnetv2,Sushi of ﬂoss,0.6,0.9
+1271,inceptionresnetv2,Yongzhou blood duck,0.9,1.0
+1272,inceptionresnetv2,Braised beef brisket en casserole,0.3,0.5
+1273,inceptionresnetv2,Preserved rice,0.1,0.4
+1274,inceptionresnetv2,Guokui,0.4,0.7
+1275,inceptionresnetv2,Fried rice cake with chinese cabbage,0.0,0.7
+1276,inceptionresnetv2,Stewed bean curd soup with crucian carp,0.6,0.8
+1277,inceptionresnetv2,Smoothies,0.3,0.6
+1278,inceptionresnetv2,Elbow,0.2,0.6
+1279,inceptionresnetv2,Golden cod,0.2,0.5
+1280,inceptionresnetv2,Cheese baked scallops,0.3,0.6
+1281,inceptionresnetv2,Sauerkraut bass,0.2,0.2
+1282,inceptionresnetv2,Bean buns,0.3,0.7
+1283,inceptionresnetv2,Durian pizza,0.2,1.0
+1284,inceptionresnetv2,Boiled dried shreds,0.7,0.8
+1285,inceptionresnetv2,Steamed chicken feet with black bean sauce,0.5,1.0
+1286,inceptionresnetv2,Blueberry mousse,0.8,0.8
+1287,inceptionresnetv2,Fried rice noodles with eggs,0.2,0.7
+1288,inceptionresnetv2,Rice with duck legs,0.1,0.3
+1289,inceptionresnetv2,Tofu with shallots,0.9,0.9
+1290,inceptionresnetv2,Waxiang chicken,0.5,0.9
+1291,inceptionresnetv2,Tomahaw,0.6,0.9
+1292,inceptionresnetv2,Bacon sandwich,0.7,0.7
+1293,inceptionresnetv2,Braised eggplant with bean curd,0.7,0.8
+1294,inceptionresnetv2,Donkey burger,0.9,0.9
+1295,inceptionresnetv2,Braised ﬁsh with soy sauce,0.4,0.5
+1296,inceptionresnetv2,Rice covered with black pepper steak,0.3,0.6
+1297,inceptionresnetv2,Italian noodle with meat sauce,0.5,0.9
+1298,inceptionresnetv2,Rice with teriyaki drumstick,0.0,0.5
+1299,inceptionresnetv2,Duck blood and bean-starchy vermicelli soup,0.5,0.7
+1300,inceptionresnetv2,Sauteed lettuce,0.3,0.8
+1301,inceptionresnetv2,Corn with pine nuts,0.8,1.0
+1302,inceptionresnetv2,Ice powder,0.4,0.7
+1303,inceptionresnetv2,Egg wrapped sausage,0.8,0.9
+1304,inceptionresnetv2,Rainbow cake,0.9,1.0
+1305,inceptionresnetv2,Blueberry smoothie,0.6,1.0
+1306,inceptionresnetv2,Lava cake,0.9,1.0
+1307,inceptionresnetv2,Stir fried vermicelli,0.4,0.7
+1308,inceptionresnetv2,Fried shrimp,0.5,0.7
+1309,inceptionresnetv2,Fried squid ﬂower,0.3,0.9
+1310,inceptionresnetv2,Stewed croaker in brown sauce,0.1,0.8
+1311,inceptionresnetv2,Quick-fried liver with distilled grains sauce,0.3,0.7
+1312,inceptionresnetv2,Secret jujube,0.9,1.0
+1313,inceptionresnetv2,Pita bread so awked in beef soup,0.0,0.5
+1314,inceptionresnetv2,Vinegar turnip,0.7,0.8
+1315,inceptionresnetv2,Wonton,0.7,0.9
+1316,inceptionresnetv2,Beef soup,0.4,0.6
+1317,inceptionresnetv2,Muxu pork,0.2,0.7
+1318,inceptionresnetv2,Seaweed sushi,0.5,0.9
+1319,inceptionresnetv2,Steamed turbot,0.6,0.8
+1320,inceptionresnetv2,Larimichthys,0.3,0.5
+1321,inceptionresnetv2,Fried chicken,0.1,0.9
+1322,inceptionresnetv2,Salted pork in jelly crystal trotter,0.5,0.5
+1323,inceptionresnetv2,Pork with preserved vegetable,0.2,0.7
+1324,inceptionresnetv2,Flower cake,0.6,0.9
+1325,inceptionresnetv2,Barbecued pork noodle rolls,0.7,0.8
+1326,inceptionresnetv2,Potato chips on sizzling iron plate,0.6,0.8
+1327,inceptionresnetv2,Fried bean sprouts with leek,0.4,0.9
+1328,inceptionresnetv2,Sesame octopus,0.5,1.0
+1329,inceptionresnetv2,Fried razor clam,0.5,0.8
+1330,inceptionresnetv2,Cheese pizza,0.7,1.0
+1331,inceptionresnetv2,Pork with garlic sauce,0.4,0.7
+1332,inceptionresnetv2,Scalded beef,0.9,0.9
+1333,inceptionresnetv2,Sugar oil cake,0.8,0.9
+1334,inceptionresnetv2,Noodles with pork chop,0.7,0.8
+1335,inceptionresnetv2,Fried hairtail,0.0,0.1
+1336,inceptionresnetv2,Braised pork with vermicelli,0.4,0.6
+1337,inceptionresnetv2,Marinated quail eggs,0.8,1.0
+1338,inceptionresnetv2,Chinese chestnut,0.4,0.9
+1339,inceptionresnetv2,Spicy beef soup,0.4,0.5
+1340,inceptionresnetv2,Boiled egg,0.5,0.7
+1341,inceptionresnetv2,Noodles soup,0.6,1.0
+1342,inceptionresnetv2,Braised pork,0.8,1.0
+1343,inceptionresnetv2,Rice with curry chicken chop,0.6,0.8
+1344,inceptionresnetv2,Balsam pear scrambled eggs,0.9,1.0
+1345,inceptionresnetv2,Roast chicken wings,0.5,0.8
+1346,inceptionresnetv2,Yogurt purple rice,0.6,0.7
+1347,inceptionresnetv2,Pork rice,0.3,0.7
+1348,inceptionresnetv2,Fried bacon with lettuce,0.3,0.6
+1349,inceptionresnetv2,Fried eggs with pepper,0.3,0.9
+1350,inceptionresnetv2,Pork stomach,0.3,0.5
+1351,inceptionresnetv2,Australian skewers,0.4,0.5
+1352,inceptionresnetv2,Steamed rice with barbecued pork,0.4,0.6
+1353,inceptionresnetv2,Bread soaked in ﬁsh head soup,0.3,0.8
+1354,inceptionresnetv2,Shredded pork skin,0.6,0.8
+1355,inceptionresnetv2,Soy sauce chicken,0.4,0.8
+1356,inceptionresnetv2,Tea ﬂavored shrimp,0.9,0.9
+1357,inceptionresnetv2,Home-style bean curd,0.3,0.6
+1358,inceptionresnetv2,Pita bread so awked in lamp soup,0.1,0.2
+1359,inceptionresnetv2,Scramble egg,0.6,1.0
+1360,inceptionresnetv2,Stewed chicken with mushroom,0.3,0.8
+1361,inceptionresnetv2,Grilled chicken breast,0.2,0.4
+1362,inceptionresnetv2,Oyster sauce beef,0.7,0.8
+1363,inceptionresnetv2,Stewed spareribs with potatoes,0.0,0.3
+1364,inceptionresnetv2,Marinated beef tripe,0.9,0.9
+1365,inceptionresnetv2,Sesame paste,0.7,1.0
+1366,inceptionresnetv2,Coconut rice,0.7,0.8
+1367,inceptionresnetv2,Mother’s hoof soup,0.5,0.7
+1368,inceptionresnetv2,Double chicken drumsticks,0.5,1.0
+1369,inceptionresnetv2,Roasted fresh catﬁsh,0.2,0.7
+1370,inceptionresnetv2,Fried pork with dried meat,0.3,0.8
+1371,inceptionresnetv2,Coconut chicken,0.3,0.3
+1372,inceptionresnetv2,Steamed luffa with minced garlic,0.9,1.0
+1373,inceptionresnetv2,Spareribs with taro,0.5,0.9
+1374,inceptionresnetv2,Fried soybeans with luffa,1.0,1.0
+1375,inceptionresnetv2,Cod ﬁsh steak,0.2,0.4
+1376,inceptionresnetv2,Rice bag,0.7,0.8
+1377,inceptionresnetv2,Pickle soup,0.5,0.7
+1378,inceptionresnetv2,Braised pork with braised pork,0.4,0.7
+1379,inceptionresnetv2,Fried crab with curry,0.3,0.7
+1380,inceptionresnetv2,Fried shrimp,0.4,0.8
+1381,inceptionresnetv2,Salt and pepper duck chin,0.6,0.7
+1382,inceptionresnetv2,Tofu pot,0.1,0.4
+1383,inceptionresnetv2,Fried noodles with beef,0.5,1.0
+1384,inceptionresnetv2,Baked prawns with salt,0.5,0.9
+1385,inceptionresnetv2,Spicy hot pot,0.6,0.8
+1386,inceptionresnetv2,Pork chop soup with radish,0.2,0.6
+1387,inceptionresnetv2,Powder soup,0.1,0.4
+1388,inceptionresnetv2,Spicy ﬁsh,0.0,0.7
+1389,inceptionresnetv2,Whitebait soup,0.5,0.7
+1390,inceptionresnetv2,Fried cantonese sausage,0.6,0.9
+1391,inceptionresnetv2,Mixed agaric with coriander,0.6,0.8
+1392,inceptionresnetv2,Bamboo rice,0.7,0.9
+1393,inceptionresnetv2,Fried noodles with beef,0.3,0.6
+1394,inceptionresnetv2,Braised eggplant with meat,0.7,0.9
+1395,inceptionresnetv2,Sugar pie,0.0,0.6
+1396,inceptionresnetv2,Steamed bun with vegetables,0.4,0.8
+1397,inceptionresnetv2,Crystal chicken,0.3,1.0
+1398,inceptionresnetv2,Buddha jumps over the wall,0.5,0.6
+1399,inceptionresnetv2,Spareribs with brown sauce,0.2,0.7
+1400,inceptionresnetv2,Silky chicken roll,0.6,0.8
+1401,inceptionresnetv2,Roasted eggplant with garlic,0.7,0.9
+1402,inceptionresnetv2,Fried rice with eel,0.4,0.6
+1403,inceptionresnetv2,Grilled cold noodles,0.7,0.8
+1404,inceptionresnetv2,Cabbage tofu soup,0.9,1.0
+1405,inceptionresnetv2,Northeast big lift,0.5,0.7
+1406,inceptionresnetv2,Grilled chiba tofu,0.1,0.9
+1407,inceptionresnetv2,Fried konjac balls,0.9,1.0
+1408,inceptionresnetv2,Spike potatoes,0.4,0.8
+1409,inceptionresnetv2,Hot and sour chicken feet,0.0,0.2
+1410,inceptionresnetv2,Stir fried lily with celery,0.8,0.9
+1411,inceptionresnetv2,Mango cake,0.8,1.0
+1412,inceptionresnetv2,Shrimp skewers,0.7,0.8
+1413,inceptionresnetv2,Japanese tofu with tin foil,0.7,0.8
+1414,inceptionresnetv2,Corn pudding crispy,0.2,1.0
+1415,inceptionresnetv2,Cold taro powder,0.9,0.9
+1416,inceptionresnetv2,Three fresh rice noodles,0.0,0.1
+1417,inceptionresnetv2,Rice cake,0.3,0.8
+1418,inceptionresnetv2,Sauce cake,0.3,0.7
+1419,inceptionresnetv2,Duck soup,0.3,0.5
+1420,inceptionresnetv2,Duomang small meatballs,1.0,1.0
+1421,inceptionresnetv2,Fish ball soup,0.7,0.9
+1422,inceptionresnetv2,Flour cake,0.2,0.7
+1423,inceptionresnetv2,Wonton noodles,0.4,0.8
+1424,inceptionresnetv2,Walnut shortbread,0.7,0.9
+1425,inceptionresnetv2,Corn pumpkin porridge,0.9,1.0
+1426,inceptionresnetv2,Shrimp and crab porridge,0.5,0.8
+1427,inceptionresnetv2,Hot and sour cabbage,0.6,0.8
+1428,inceptionresnetv2,Brown sugar ice powder,0.3,0.6
+1429,inceptionresnetv2,Egg rice roll,0.9,0.9
+1430,inceptionresnetv2,Smoked sauce meat platter,0.4,0.8
+1431,inceptionresnetv2,Pepper chicken,0.4,0.8
+1432,inceptionresnetv2,Scrambled eggs with loofah,0.6,0.9
+1433,inceptionresnetv2,Stir fried pork and bone with chili,0.4,0.6
+1434,inceptionresnetv2,Fried kidney ﬂower with pig liver,0.8,0.9
+1435,inceptionresnetv2,Corn grilled ribs,0.6,0.7
+1436,inceptionresnetv2,Roasted yellow throat,0.2,0.7
+1437,inceptionresnetv2,Barbecued pork,0.5,0.7
+1438,inceptionresnetv2,Seaweed soup,0.4,0.8
+1439,inceptionresnetv2,Steamed pork,0.7,0.9
+1440,inceptionresnetv2,Pineapple sweet and sour pork,0.2,0.8
+1441,inceptionresnetv2,Egg wafﬂes,0.8,0.9
+1442,inceptionresnetv2,Camphor tea duck,0.2,0.5
+1443,inceptionresnetv2,Sausage rice,0.4,0.8
+1444,inceptionresnetv2,Mongolian roasted whole lamb,0.9,1.0
+1445,inceptionresnetv2,Stir-fried pork with capers,0.9,1.0
+1446,inceptionresnetv2,Vinegar cabbage,0.4,0.8
+1447,inceptionresnetv2,Kelp salad,0.8,0.9
+1448,inceptionresnetv2,Twice cooked beef,0.4,0.7
+1449,inceptionresnetv2,Fried loofah,0.9,1.0
+1450,inceptionresnetv2,Fried liangpi,0.4,0.7
+1451,inceptionresnetv2,Fried bean curd,0.9,0.9
+1452,inceptionresnetv2,Sweet corn pie,0.9,1.0
+1453,inceptionresnetv2,Beef rice roll,0.3,0.9
+1454,inceptionresnetv2,Sausage,0.4,1.0
+1455,inceptionresnetv2,Chicken bibimbap,0.6,0.9
+1456,inceptionresnetv2,Beef offal pot,0.6,0.7
+1457,inceptionresnetv2,Crab roe salad,0.6,0.9
+1458,inceptionresnetv2,Fillet steak,0.1,0.6
+1459,inceptionresnetv2,Banana pancake,0.7,1.0
+1460,inceptionresnetv2,Plum dried vegetable meat bun,0.4,0.9
+1461,inceptionresnetv2,Smoked chicken skeleton,0.2,0.9
+1462,inceptionresnetv2,Eight treasure rice,0.7,0.9
+1463,inceptionresnetv2,Fish pot,0.3,0.7
+1464,inceptionresnetv2,Yam pork ribs congee,0.2,0.3
+1465,inceptionresnetv2,Arctic shellﬁsh sushi,0.9,0.9
+1466,inceptionresnetv2,Liwan boat porridge specialty,0.3,0.4
+1467,inceptionresnetv2,Salami pizza,0.8,1.0
+1468,inceptionresnetv2,Fried eggplant,0.4,0.5
+1469,inceptionresnetv2,Lotus leaf rice,0.3,0.6
+1470,inceptionresnetv2,Salted ﬁsh and eggplant claypot,0.0,0.4
+1471,inceptionresnetv2,Mutton string,0.9,1.0
+1472,inceptionresnetv2,Fried beef with bitter melon,0.9,1.0
+1473,inceptionresnetv2,Stir-fried cauliﬂower,0.7,1.0
+1474,inceptionresnetv2,Beef hot and sour noodle,0.0,0.5
+1475,inceptionresnetv2,Cold bitter chrysanthemum,0.6,1.0
+1476,inceptionresnetv2,Yellow throat,0.2,0.8
+1477,inceptionresnetv2,Fried chicken with hot peppers,0.7,1.0
+1478,inceptionresnetv2,Tiger cake,0.6,0.8
+1479,inceptionresnetv2,Four red porridge,0.2,0.6
+1480,inceptionresnetv2,Steamed egg dumplings,0.6,0.8
+1481,inceptionresnetv2,Shredded cucumber,0.5,0.8
+1482,inceptionresnetv2,Spicy noodles,0.3,0.6
+1483,inceptionresnetv2,Grandma’s scrambled eggs,0.4,0.8
+1484,inceptionresnetv2,Stir-fried chicken with rice pepper,0.2,1.0
+1485,inceptionresnetv2,Smoked hairtail,0.3,0.6
+1486,inceptionresnetv2,Sesame soy sauce lettuce,0.7,0.9
+1487,inceptionresnetv2,Braised beef,0.6,0.8
+1488,inceptionresnetv2,Haggis soup,0.1,0.5
+1489,inceptionresnetv2,Braised pork ribs,0.9,1.0
+1490,inceptionresnetv2,Boiled ﬁsh,0.4,0.6
+1491,inceptionresnetv2,Cake box,0.3,0.7
+1492,inceptionresnetv2,Taro chicken,0.1,0.5
+1493,inceptionresnetv2,Tiger green peppers,0.9,1.0
+1494,inceptionresnetv2,Spicy fried sea screw,0.7,0.9
+1495,inceptionresnetv2,Called naan package meat,0.5,0.6
+1496,inceptionresnetv2,Dried marinated orchid,0.6,1.0
+1497,inceptionresnetv2,Sauteed bacon with peas,0.5,0.9
+1498,inceptionresnetv2,Chicken skin skewers,0.4,0.5
+1499,inceptionresnetv2,Baked scallops,0.5,0.7
+1500,inceptionresnetv2,Scrambled eggs with chives,0.6,0.8
+1501,inceptionresnetv2,Grilled chicken feet,0.7,0.9
+1502,inceptionresnetv2,Wooden barrel rice,0.5,0.7
+1503,inceptionresnetv2,Noisette three kinds of meat,0.3,0.9
+1504,inceptionresnetv2,Tofu rice noodles,0.9,0.9
+1505,inceptionresnetv2,Chicken rack,0.7,1.0
+1506,inceptionresnetv2,Cold gluten,0.3,0.7
+1507,inceptionresnetv2,Carbon baking bullfrog,0.5,0.8
+1508,inceptionresnetv2,Spicy bullfrog,0.5,0.7
+1509,inceptionresnetv2,Boiled edamame,0.7,1.0
+1510,inceptionresnetv2,Yam spring rolls,0.5,0.7
+1511,inceptionresnetv2,Fragrant fried sierra,0.0,0.3
+1512,inceptionresnetv2,Roast eggplants,0.3,0.5
+1513,inceptionresnetv2,Hot rice,0.1,0.4
+1514,inceptionresnetv2,Shredded cold papaya,0.7,0.9
+1515,inceptionresnetv2,Golden fried chicken feet,0.8,1.0
+1516,inceptionresnetv2,Winter melon pork ribs soup,0.4,0.8
+1517,inceptionresnetv2,Salted pleurotus eryngii,0.0,0.6
+1518,inceptionresnetv2,Grilled rice cake,0.2,0.3
+1519,inceptionresnetv2,Eggplant rice with ﬁsh aroma,0.2,0.6
+1520,inceptionresnetv2,Panda chocolate sundae,0.6,0.9
+1521,inceptionresnetv2,Steamed noodles,0.5,0.8
+1522,inceptionresnetv2,Millet mung bean porridge,0.6,1.0
+1523,inceptionresnetv2,Kidney beans,0.8,1.0
+1524,inceptionresnetv2,Purple potato porridge,1.0,1.0
+1525,inceptionresnetv2,Duck liver,0.2,0.5
+1526,inceptionresnetv2,Steamed pork ribs with glutinous rice,1.0,1.0
+1527,inceptionresnetv2,Longjing shrimp,0.4,0.5
+1528,inceptionresnetv2,Cauliﬂower,0.3,0.7
+1529,inceptionresnetv2,Pipa duck,0.0,0.5
+1530,inceptionresnetv2,Braised beef noodles,0.0,0.5
+1531,inceptionresnetv2,Chicken feet in vinegar,0.3,0.9
+1532,inceptionresnetv2,Tempura,0.5,1.0
+1533,inceptionresnetv2,Shar pei mousse cake,0.9,1.0
+1534,inceptionresnetv2,Straw hat cake,0.9,1.0
+1535,inceptionresnetv2,Crispy rice potatoes,0.3,0.7
+1536,inceptionresnetv2,Steamed spare ribs with taro,0.9,0.9
+1537,inceptionresnetv2,Goat tripe,0.3,0.8
+1538,inceptionresnetv2,Red bean porridge,0.3,0.9
+1539,inceptionresnetv2,Egg noodles,0.6,1.0
+1540,inceptionresnetv2,Braised pork roll,0.1,0.6
+1541,inceptionresnetv2,Mango mousse cake,0.7,0.9
+1542,inceptionresnetv2,Three shreds fried rice noodles,0.1,0.8
+1543,inceptionresnetv2,Spiced boiled ﬁre,0.3,0.4
+1544,inceptionresnetv2,Fried rice with bacon and egg,0.2,0.4
+1545,inceptionresnetv2,Meicai bamboo shoots,0.3,0.7
+1546,inceptionresnetv2,Griddle yellowbone ﬁsh,0.3,0.3
+1547,inceptionresnetv2,Candied date zongzi,0.8,0.9
+1548,inceptionresnetv2,Celery,0.7,1.0
+1549,inceptionresnetv2,Mushroom chicken claypot rice,0.3,0.6
+1550,inceptionresnetv2,Steamed pumpkin with lily,0.8,1.0
+1551,inceptionresnetv2,Tomato beef noodle,0.3,0.4
+1552,inceptionresnetv2,Champion and porridge,0.3,0.7
+1553,inceptionresnetv2,Crystal shrimp,0.4,0.5
+1554,inceptionresnetv2,Spicy shrimp,0.6,0.7
+1555,inceptionresnetv2,Egg yolk crisp,0.9,1.0
+1556,inceptionresnetv2,Bang bang chicken,0.5,0.8
+1557,inceptionresnetv2,Cold pork cold head,0.4,0.6
+1558,inceptionresnetv2,Guoqiao tofu,0.8,1.0
+1559,inceptionresnetv2,Beggar’s chicken,0.2,0.8
+1560,inceptionresnetv2,Fried beef with hot pepper,0.4,0.7
+1561,inceptionresnetv2,Vegetable and lean pork porridge,0.3,0.5
+1562,inceptionresnetv2,Boiled white meat,0.1,0.4
+1563,inceptionresnetv2,Adzuki bean fermented rice,0.4,0.6
+1564,inceptionresnetv2,Braised eggplant,0.2,0.5
+1565,inceptionresnetv2,Mushroom with garlic paste,0.2,0.2
+1566,inceptionresnetv2,Fat rice roll,0.2,0.3
+1567,inceptionresnetv2,Blueberry mashed potatoes,0.7,0.9
+1568,inceptionresnetv2,Braised duck gizzards,0.3,0.5
+1569,inceptionresnetv2,Spinach with gluten,0.7,0.8
+1570,inceptionresnetv2,Soup baby dishes,0.5,0.6
+1571,inceptionresnetv2,Salmon ﬂank sinew,0.7,0.8
+1572,inceptionresnetv2,Seafood pancake,0.6,0.6
+1573,inceptionresnetv2,Fried rice cake,0.7,1.0
+1574,inceptionresnetv2,Braised chicken with ginseng,0.6,0.9
+1575,inceptionresnetv2,Millet porridge,0.5,1.0
+1576,inceptionresnetv2,Silver carp,0.3,0.6
+1577,inceptionresnetv2,Fried carrot cake,0.7,0.8
+1578,inceptionresnetv2,Dried bamboo shoots and duck pot,0.6,0.7
+1579,inceptionresnetv2,Wasabi octopus,0.4,0.8
+1580,inceptionresnetv2,Garlic broccoli,0.8,1.0
+1581,inceptionresnetv2,Pumpkin pie,0.6,0.8
+1582,inceptionresnetv2,Potato wedges,0.9,1.0
+1583,inceptionresnetv2,Donkey meat soup,0.3,0.5
+1584,inceptionresnetv2,Miba,0.7,1.0
+1585,inceptionresnetv2,Duck intestine fried rice,0.2,0.6
+1586,inceptionresnetv2,Roasted bean skewers,0.6,1.0
+1587,inceptionresnetv2,Tuna salad,0.1,0.2
+1588,inceptionresnetv2,Sliced noodles,0.5,0.8
+1589,inceptionresnetv2,Smoked ﬁsh noodle,0.4,0.7
+1590,inceptionresnetv2,Cheese baked sweet potatoes,0.4,0.9
+1591,inceptionresnetv2,Pineapple buns,0.6,0.7
+1592,inceptionresnetv2,Ramen fried rice cake,0.3,0.7
+1593,inceptionresnetv2,Three fresh powder,0.0,0.3
+1594,inceptionresnetv2,Crispy sausage,1.0,1.0
+1595,inceptionresnetv2,Quicksand bag,0.8,0.8
+1596,inceptionresnetv2,Cranberry toast slices,0.3,0.7
+1597,inceptionresnetv2,Ballast congee,0.7,1.0
+1598,inceptionresnetv2,Baked bun,0.6,0.9
+1599,inceptionresnetv2,Drunk crab claws,0.2,0.6
+1600,inceptionresnetv2,Honey chicken wings,0.1,0.6
+1601,inceptionresnetv2,Fried twist,1.0,1.0
+1602,inceptionresnetv2,Braised ﬁsh head,0.4,0.5
+1603,inceptionresnetv2,Mango milk ice,0.4,1.0
+1604,inceptionresnetv2,Lychee meat,0.3,0.6
+1605,inceptionresnetv2,Pork feet rice,0.4,0.7
+1606,inceptionresnetv2,Banana pizza,0.1,0.5
+1607,inceptionresnetv2,Fried tofu,0.6,0.9
+1608,inceptionresnetv2,Roasted pork with dried beans,0.5,0.8
+1609,inceptionresnetv2,Fried vermicelli,0.6,1.0
+1610,inceptionresnetv2,Mango sago,0.8,1.0
+1611,inceptionresnetv2,Garlic clove skewers,0.5,0.7
+1612,inceptionresnetv2,Dumplings,0.4,0.8
+1613,inceptionresnetv2,Pig vegetable,0.2,0.3
+1614,inceptionresnetv2,Duck leg,0.4,0.7
+1615,inceptionresnetv2,Roll egg,0.3,0.8
+1616,inceptionresnetv2,Three fresh ice powder,0.3,0.5
+1617,inceptionresnetv2,Yellow clam,0.5,0.9
+1618,inceptionresnetv2,Crispy potato grid,0.8,0.9
+1619,inceptionresnetv2,Horseradish fungus,1.0,1.0
+1620,inceptionresnetv2,Fried bacon with bamboo shoots,0.1,0.5
+1621,inceptionresnetv2,Stir-fried green peppers,0.4,0.9
+1622,inceptionresnetv2,Braised pork,0.6,0.8
+1623,inceptionresnetv2,Tomato pasta,0.2,0.8
+1624,inceptionresnetv2,Marinated bullwhip,0.4,0.6
+1625,inceptionresnetv2,Tripe soup powder,0.4,0.5
+1626,inceptionresnetv2,Spicy cucumber,0.9,0.9
+1627,inceptionresnetv2,Kimchi cake,0.7,0.8
+1628,inceptionresnetv2,Fat intestine noodle,0.8,0.9
+1629,inceptionresnetv2,Duck clavicle,0.6,0.7
+1630,inceptionresnetv2,Cauliﬂower fried pork,0.8,0.8
+1631,inceptionresnetv2,Fried tenderloin,0.3,0.7
+1632,inceptionresnetv2,Steamed sea bass,0.1,0.3
+1633,inceptionresnetv2,Salty bone soup,0.5,0.7
+1634,inceptionresnetv2,Dried carob,0.8,1.0
+1635,inceptionresnetv2,Chestnut roast chicken,0.6,1.0
+1636,inceptionresnetv2,Roasted dried tofu rolls,0.4,0.8
+1637,inceptionresnetv2,Tiger egg,0.4,0.9
+1638,inceptionresnetv2,Hand-shredded chicken,0.4,0.6
+1639,inceptionresnetv2,Egg pudding,0.8,1.0
+1640,inceptionresnetv2,Flower love sushi,0.8,1.0
+1641,inceptionresnetv2,Roast duck noodle sauce,0.0,0.8
+1642,inceptionresnetv2,Sauteed beef with wild pepper,0.4,0.8
+1643,inceptionresnetv2,Sesame sauce liangpi,0.1,0.4
+1644,inceptionresnetv2,Bacteria soup,0.5,0.6
+1645,inceptionresnetv2,Toffee cake,0.8,1.0
+1646,inceptionresnetv2,Grilled pork bone skewers,0.3,0.5
+1647,inceptionresnetv2,Pork noodles with pickled vegetables,0.1,0.3
+1648,inceptionresnetv2,Delicious crispy rice,0.8,1.0
+1649,inceptionresnetv2,Egg yolk pork ﬂoss seaweed rice,0.8,0.9
+1650,inceptionresnetv2,Shrimp shaomai,0.8,1.0
+1651,inceptionresnetv2,Fried chicken,0.4,0.9
+1652,inceptionresnetv2,Corn grated with cheese,0.9,1.0
+1653,inceptionresnetv2,Sour plum soup,0.9,1.0
+1654,inceptionresnetv2,Hand catch seafood,0.7,0.9
+1655,inceptionresnetv2,Small noodles,0.6,0.9
+1656,inceptionresnetv2,Crab yellow tofu,0.8,1.0
+1657,inceptionresnetv2,Fried wanton,0.5,0.6
+1658,inceptionresnetv2,Mushrooms and cabbage,0.9,1.0
+1659,inceptionresnetv2,Mushroom chicken congee,0.3,0.6
+1660,inceptionresnetv2,Sour soup dumplings,0.3,0.6
+1661,inceptionresnetv2,Braised konjac,0.5,0.8
+1662,inceptionresnetv2,Hot pot ice cream,0.9,1.0
+1663,inceptionresnetv2,Mango salmon roll sushi,0.8,1.0
+1664,inceptionresnetv2,Egg yolk lobster,0.5,1.0
+1665,inceptionresnetv2,Plum dried vegetable biscuits,0.6,0.9
+1666,inceptionresnetv2,Yogurt,0.8,1.0
+1667,inceptionresnetv2,Hibiscus crab stick,0.1,0.6
+1668,inceptionresnetv2,Barbecue ribs,0.2,0.9
+1669,inceptionresnetv2,Curry pork chop rice,0.4,0.9
+1670,inceptionresnetv2,Crispy bamboo shoots in chicken sauce,0.2,0.7
+1671,inceptionresnetv2,Fried rice with ham,0.2,0.7
+1672,inceptionresnetv2,Braised pork,0.1,0.7
+1673,inceptionresnetv2,Fried cucumber with basil,0.8,0.9
+1674,inceptionresnetv2,Tiger vegetables,0.7,0.8
+1675,inceptionresnetv2,Tofu skin sushi,0.7,0.9
+1676,inceptionresnetv2,Chinese yam lean meat porridge,0.0,0.2
+1677,inceptionresnetv2,French lamb chops,0.2,0.7
+1678,inceptionresnetv2,Garden chicken,0.0,0.5
+1679,inceptionresnetv2,Strawberry sundae,0.9,1.0
+1680,inceptionresnetv2,Tea tree mushroom ribs soup,0.2,0.5
+1681,inceptionresnetv2,Fried kidney,0.9,1.0
+1682,inceptionresnetv2,Pork ﬂoss,0.4,0.8
+1683,inceptionresnetv2,Jade burned,0.5,0.7
+1684,inceptionresnetv2,Pickled pepper ﬁsh skin,0.2,0.8
+1685,inceptionresnetv2,Cold chicken feet,0.4,0.6
+1686,inceptionresnetv2,Coriander with beef,0.6,0.7
+1687,inceptionresnetv2,Fried fungus with yam,0.4,0.9
+1688,inceptionresnetv2,Taste shrimp,0.1,0.8
+1689,inceptionresnetv2,Fruit ﬁshing,0.6,0.9
+1690,inceptionresnetv2,Pineapple rice,0.4,0.8
+1691,inceptionresnetv2,Fried cuttleﬁsh ball,0.4,0.9
+1692,inceptionresnetv2,White porridge,0.2,1.0
+1693,inceptionresnetv2,Cucumber mixed jellyﬁsh,0.7,0.7
+1694,inceptionresnetv2,Baked enoki mushrooms in tin foil,0.5,0.9
+1695,inceptionresnetv2,Salt and pepper lobster,0.3,1.0
+1696,inceptionresnetv2,Frozen tofu,0.3,0.5
+1697,inceptionresnetv2,Seafood pimple soup,0.4,0.9
+1698,inceptionresnetv2,Mixed sauce hot and sour noodles,0.9,1.0
+1699,inceptionresnetv2,Honey yellow peach,0.6,0.9
+1700,inceptionresnetv2,Rose ice powder,0.2,0.8
+1701,inceptionresnetv2,Tin foil potatoes,0.7,0.9
+1702,inceptionresnetv2,Roasted shiitake mushrooms,0.3,0.7
+1703,inceptionresnetv2,Spicy shrimp,0.8,1.0
+1704,inceptionresnetv2,Diving ﬁsh,0.4,0.8
+1705,inceptionresnetv2,Sugar fried hawthorn,0.9,1.0
+1706,inceptionresnetv2,Mushroom crispy bamboo shoots,0.1,0.3
+1707,inceptionresnetv2,Family portrait sushi,0.6,0.8
+1708,inceptionresnetv2,Durian cheese pizza,0.1,1.0
+1709,inceptionresnetv2,Whose mariko,0.4,1.0
+1710,inceptionresnetv2,Soft-boiled egg,0.6,0.9
+1711,inceptionresnetv2,Pan-fried long lee ﬁsh,0.4,0.5
+1712,inceptionresnetv2,Stir-fried pork with rice white,0.3,0.5
+1713,inceptionresnetv2,Grilled ﬁsh on paper,0.2,0.8
+1714,inceptionresnetv2,Curry rice,0.4,0.8
+1715,inceptionresnetv2,Hot and sour tripe soup,0.7,0.9
+1716,inceptionresnetv2,Butyl ﬁve ren sauce,0.6,0.9
+1717,inceptionresnetv2,Mango layer cake,0.5,0.9
+1718,inceptionresnetv2,Egg ham fried rice,0.3,0.9
+1719,inceptionresnetv2,Peony shrimp sashimi,0.7,0.9
+1720,inceptionresnetv2,Radish beef,0.4,0.6
+1721,inceptionresnetv2,Dry fans,0.6,0.9
+1722,inceptionresnetv2,White cut saltwater duck,0.6,0.8
+1723,inceptionresnetv2,Black pepper pork chop rice,0.2,0.3
+1724,inceptionresnetv2,Matcha smoothie,0.8,0.9
+1725,inceptionresnetv2,Sour radish duck soup,0.3,0.9
+1726,inceptionresnetv2,Pork with pickled vegetables,0.3,0.4
+1727,inceptionresnetv2,Grilled mackerel,0.4,0.8
+1728,inceptionresnetv2,Swiss roll cake,0.7,0.7
+1729,inceptionresnetv2,Strawberry milk pudding,0.4,0.9
+1730,inceptionresnetv2,Cold kelp root,1.0,1.0
+1731,inceptionresnetv2,Sea oyster,0.6,0.7
+1732,inceptionresnetv2,Grilled ﬁsh with sauerkraut,0.4,0.6
+1733,inceptionresnetv2,Mutton freeing,0.3,0.7
+1734,inceptionresnetv2,Ribs rice,0.4,0.7
+1735,inceptionresnetv2,Spicy duck jane,0.4,1.0
+1736,inceptionresnetv2,Argentine red shrimp,0.7,1.0
+1737,inceptionresnetv2,Tofu soup,0.2,0.7
+1738,inceptionresnetv2,One shrimp for two,0.5,0.9
+1739,inceptionresnetv2,Wild vegetable dumpling,0.6,0.8
+1740,inceptionresnetv2,Kelp rib soup,0.4,0.7
+1741,inceptionresnetv2,Fried pork chops,0.3,0.7
+1742,inceptionresnetv2,Halogen duck tongue,0.8,0.9
+1743,inceptionresnetv2,Lame claypot rice,0.6,0.7
+1744,inceptionresnetv2,Floss sushi,0.6,0.9
+1745,inceptionresnetv2,Braised noodles with ribs,0.5,0.8
+1746,inceptionresnetv2,Stir fried fungus with cabbage,0.7,0.8
+1747,inceptionresnetv2,Durian cake,0.6,0.7
+1748,inceptionresnetv2,Seaweed warship sushi,0.9,1.0
+1749,inceptionresnetv2,Avocado salad,0.4,0.9
+1750,inceptionresnetv2,Pure sausage,0.3,0.8
+1751,inceptionresnetv2,Stir-fried fat intestine,0.4,0.8
+1752,inceptionresnetv2,Purple rice porridge,0.5,0.9
+1753,inceptionresnetv2,Brine geese,0.1,0.6
+1754,inceptionresnetv2,Foil ﬂower beetle powder,0.7,0.9
+1755,inceptionresnetv2,Scrambled eggs with sauce,0.7,0.9
+1756,inceptionresnetv2,Spicy shrimp,0.4,0.7
+1757,inceptionresnetv2,Cornmeal buns,0.7,1.0
+1758,inceptionresnetv2,Rice porridge,0.3,1.0
+1759,inceptionresnetv2,Stir-fried long beans,0.6,0.9
+1760,inceptionresnetv2,Pan-seared foie gras,0.7,0.7
+1761,inceptionresnetv2,Steamed buns,0.7,0.9
+1762,inceptionresnetv2,Black rice cake,0.8,1.0
+1763,inceptionresnetv2,Fried eggplant box,0.7,0.9
+1764,inceptionresnetv2,Chinese seaweed salad,0.8,1.0
+1765,inceptionresnetv2,Roasted garlic naan,0.3,0.7
+1766,inceptionresnetv2,Zongzi,0.7,1.0
+1767,inceptionresnetv2,Choy sum with garlic sauce,0.1,1.0
+1768,inceptionresnetv2,Halogen rabbit head,0.7,1.0
+1769,inceptionresnetv2,Green pepper shredded pork rice bowl,0.4,0.9
+1770,inceptionresnetv2,Spiced rabbit head,0.7,0.9
+1771,inceptionresnetv2,Snow white juice with mango and black sticky rice,1.0,1.0
+1772,inceptionresnetv2,Preserved egg and lean meat porridge,0.3,0.7
+1773,inceptionresnetv2,Braised old goose,0.6,0.7
+1774,inceptionresnetv2,Sesame sauce noodles,0.1,0.6
+1775,inceptionresnetv2,Orleans roasted whole leg,0.7,1.0
+1776,inceptionresnetv2,Nougat,0.8,0.9
+1777,inceptionresnetv2,The ring oil eel,0.6,0.9
+1778,inceptionresnetv2,Tomato and egg ﬂour pimple soup,0.8,0.9
+1779,inceptionresnetv2,Steamed chicken in lotus leaves,0.3,0.9
+1780,inceptionresnetv2,Oily baby cabbage,0.5,0.6
+1781,inceptionresnetv2,Chicken chop rice,0.0,0.4
+1782,inceptionresnetv2,Fried cheese chicken chop,0.1,0.9
+1783,inceptionresnetv2,Braised pork ribs,0.6,0.6
+1784,inceptionresnetv2,Griddle ribs and shrimp,0.2,0.7
+1785,inceptionresnetv2,Spinach in soup,0.8,0.9
+1786,inceptionresnetv2,Fried chicken with mushroom,0.5,0.5
+1787,inceptionresnetv2,Old duck soup with tea tree mushrooms,0.3,0.5
+1788,inceptionresnetv2,Mushroom rape,0.3,0.9
+1789,inceptionresnetv2,Hot and sour fern root powder,1.0,1.0
+1790,inceptionresnetv2,Spicy cabbage fried rice,0.6,0.7
+1791,inceptionresnetv2,Stuffed gluten balls,0.5,0.7
+1792,inceptionresnetv2,Sweet corn on the cob,1.0,1.0
+1793,inceptionresnetv2,Spare ribs pot,0.3,1.0
+1794,inceptionresnetv2,Finding nemo pizza,0.4,0.8
+1795,inceptionresnetv2,Shao powder,0.5,0.9
+1796,inceptionresnetv2,Griddle shrimp,0.1,0.8
+1797,inceptionresnetv2,Minced pork nigiri sushi,0.8,0.9
+1798,inceptionresnetv2,Cooked tripe of sheep or swine,0.4,0.6
+1799,inceptionresnetv2,Preserved egg with cucumber,0.6,0.7
+1800,inceptionresnetv2,Durian black glutinous rice,0.4,0.8
+1801,inceptionresnetv2,Pineapple fritters shrimp,0.6,0.8
+1802,inceptionresnetv2,Yam and vegetable porridge,0.6,0.7
+1803,inceptionresnetv2,Meatball soup,0.4,0.8
+1804,inceptionresnetv2,Pork belly chicken,0.6,0.8
+1805,inceptionresnetv2,Pan-fried chicken chop,0.4,0.4
+1806,inceptionresnetv2,Salt and pepper pork,0.6,0.8
+1807,inceptionresnetv2,Clam and winter melon soup,0.7,1.0
+1808,inceptionresnetv2,Chocolate poppy cake,0.5,0.7
+1809,inceptionresnetv2,Fruit cream cake,0.9,1.0
+1810,inceptionresnetv2,Spicy fried rice cake,0.8,0.9
+1811,inceptionresnetv2,Rose cake,0.5,0.7
+1812,inceptionresnetv2,Spicy shao pointed,0.5,1.0
+1813,inceptionresnetv2,California roll sushi,0.7,0.9
+1814,inceptionresnetv2,Hemp group,0.7,0.7
+1815,inceptionresnetv2,Tonkotsu ramen,0.0,0.4
+1816,inceptionresnetv2,Barbecued pork crisp,0.8,0.9
+1817,inceptionresnetv2,Beef noodle soup,0.3,0.3
+1818,inceptionresnetv2,Pancake,0.7,1.0
+1819,inceptionresnetv2,Mutton vermicelli,0.7,1.0
+1820,inceptionresnetv2,New orleans pizza,0.3,0.7
+1821,inceptionresnetv2,Chicken bone skewers,0.1,0.6
+1822,inceptionresnetv2,Eel congee,0.9,0.9
+1823,inceptionresnetv2,Scallion lamb,0.5,1.0
+1824,inceptionresnetv2,Stew,0.2,0.8
+1825,inceptionresnetv2,Diced carrot,0.5,0.7
+1826,inceptionresnetv2,Fried cake,1.0,1.0
+1827,inceptionresnetv2,Crystal shrimp dumpling,0.6,0.7
+1828,inceptionresnetv2,Fried sliced pork with mushrooms,0.4,0.6
+1829,inceptionresnetv2,Geoduck sashimi,0.3,0.7
+1830,inceptionresnetv2,Red oil belly silk,0.2,0.3
+1831,inceptionresnetv2,Eggplant claypot,0.3,0.9
+1832,inceptionresnetv2,Spicy grilled meat mixed with rice,0.4,0.5
+1833,inceptionresnetv2,Old vinegar sting,0.4,0.6
+1834,inceptionresnetv2,Bazhen tofu,0.3,0.7
+1835,inceptionresnetv2,The spicy cold eating rabbit meat,0.8,0.9
+1836,inceptionresnetv2,Fried yellow beef,0.3,0.7
+1837,inceptionresnetv2,Oxtail soup,0.8,0.9
+1838,inceptionresnetv2,Steamed egg,0.4,0.9
+1839,inceptionresnetv2,Spicy bullfrog,0.2,0.4
+1840,inceptionresnetv2,Toon seedlings mixed with tofu shreds,0.5,0.9
+1841,inceptionresnetv2,White snow black glutinous rice,1.0,1.0
+1842,inceptionresnetv2,Stir-fried pork belly with chili,0.4,0.8
+1843,inceptionresnetv2,Brown sugar hair cake,0.9,0.9
+1844,inceptionresnetv2,Fried taro roll,0.2,0.7
+1845,inceptionresnetv2,Donkey meat,0.6,0.8
+1846,inceptionresnetv2,Red bean ice,0.9,1.0
+1847,inceptionresnetv2,Sansho black fungus,0.7,1.0
+1848,inceptionresnetv2,Fried pork with beans,0.2,0.5
+1849,inceptionresnetv2,Pan-fried ﬁsh,0.3,0.5
+1850,inceptionresnetv2,Fresh pepper ﬁsh,0.6,0.8
+1851,inceptionresnetv2,Scrambled eggs with onions,0.8,0.9
+1852,inceptionresnetv2,Scrambled eggs with cucumber,0.5,0.8
+1853,inceptionresnetv2,Bean curd stick,0.3,0.9
+1854,inceptionresnetv2,Dip in pickles,0.5,0.9
+1855,inceptionresnetv2,Macaron,0.9,0.9
+1856,inceptionresnetv2,Fried egg roll,0.3,0.8
+1857,inceptionresnetv2,Chicken noodles,0.5,0.8
+1858,inceptionresnetv2,Braised ﬁsh pot,0.7,0.8
+1859,inceptionresnetv2,Chopped pepper and taro,0.9,1.0
+1860,inceptionresnetv2,Push cake,0.9,1.0
+1861,inceptionresnetv2,Spicy chicken rice,0.4,0.6
+1862,inceptionresnetv2,Fennel fried dough sticks,0.7,0.9
+1863,inceptionresnetv2,Lemon ﬁsh,0.5,0.8
+1864,inceptionresnetv2,Sizzling shrimp,0.6,0.6
+1865,inceptionresnetv2,Green beans in garlic sauce,0.6,1.0
+1866,inceptionresnetv2,Honey cake,0.7,0.9
+1867,inceptionresnetv2,Gourd head bread in the soup,0.4,0.5
+1868,inceptionresnetv2,Grilled chicken skewers,0.3,0.8
+1869,inceptionresnetv2,Dried intestines,0.3,0.4
+1870,inceptionresnetv2,Spiced marinated eggs,0.4,1.0
+1871,inceptionresnetv2,Dried vegetable with fried egg,0.0,0.4
+1872,inceptionresnetv2,Steamed egg with shrimp,0.2,0.7
+1873,inceptionresnetv2,Crispy rice cake,0.8,0.8
+1874,inceptionresnetv2,Thick honey toast,0.5,0.8
+1875,inceptionresnetv2,Salt baked chicken feet,0.5,0.8
+1876,inceptionresnetv2,Tin foil baby cabbage,0.6,0.9
+1877,inceptionresnetv2,Cheese bacon pizza,0.0,0.2
+1878,inceptionresnetv2,Fish head tofu soup,0.5,0.7
+1879,inceptionresnetv2,Black rice and red bean porridge,0.0,0.6
+1880,inceptionresnetv2,Grilled small yellow croaker,0.3,0.7
+1881,inceptionresnetv2,Scrambled eggs with local vegetables,0.8,1.0
+1882,inceptionresnetv2,Fried chili,0.5,0.6
+1883,inceptionresnetv2,Fish with tomato,0.0,0.2
+1884,inceptionresnetv2,Stir-fried bacon with garlic moss,0.7,0.9
+1885,inceptionresnetv2,Drunken ﬁsh,0.7,0.8
+1886,inceptionresnetv2,Spiced corned egg,0.9,1.0
+1887,inceptionresnetv2,Fried tofu,0.0,0.8
+1888,inceptionresnetv2,Tapioca pudding,0.7,1.0
+1889,inceptionresnetv2,Grilled ribs,0.1,0.6
+1890,inceptionresnetv2,Fried spring rolls with three pieces of silk,0.8,1.0
+1891,inceptionresnetv2,Sweet and spicy fried chicken,0.5,0.8
+1892,inceptionresnetv2,Puffs,0.9,1.0
+1893,inceptionresnetv2,Fried vermicelli with bean sprouts,0.1,0.6
+1894,inceptionresnetv2,Saut¨ı¿œed ﬁsh in chili sauce,0.6,0.8
+1895,inceptionresnetv2,Saut¨ı¿œed bullfrog in chili sauce,0.0,0.5
+1896,inceptionresnetv2,Cold noodles with sesame sauce,0.4,1.0
+1897,inceptionresnetv2,Sea food noodles,0.3,0.5
+1898,inceptionresnetv2,Spicy chicken,0.7,0.9
+1899,inceptionresnetv2,Braised Tofu,0.1,0.7
+1900,inceptionresnetv2,Tuna and seaweed rolled rice,0.5,1.0
+1901,inceptionresnetv2,Braised beef brisket on rice,0.5,0.8
+1902,inceptionresnetv2,Haggis noodle soup,0.2,0.6
+1903,inceptionresnetv2,Chicken salad noodles,0.4,0.6
+1904,inceptionresnetv2,Salted egg yolk with crispy crust,0.8,0.9
+1905,inceptionresnetv2,Fried ﬁsh cake,0.2,0.7
+1906,inceptionresnetv2,Red bean pie,0.9,1.0
+1907,inceptionresnetv2,Cumin chicken ﬁllet,0.4,0.5
+1908,inceptionresnetv2,Durian pizza,0.3,1.0
+1909,inceptionresnetv2,Fried noodles with beef,0.5,0.8
+1910,inceptionresnetv2,Pork chop bun,0.8,0.8
+1911,inceptionresnetv2,Big bone soup,0.5,0.7
+1912,inceptionresnetv2,Smoked ﬁsh,0.4,0.5
+1913,inceptionresnetv2,Chocolate covered croissant,0.6,0.8
+1914,inceptionresnetv2,Roasted garlic,0.9,1.0
+1915,inceptionresnetv2,Custard piglet bun,1.0,1.0
+1916,inceptionresnetv2,Fried milk melon with garlic slices,1.0,1.0
+1917,inceptionresnetv2,Scrambled eggs with shrimp,0.6,0.9
+1918,inceptionresnetv2,Grilled vegetarian chicken skewers,0.7,1.0
+1919,inceptionresnetv2,Potato ﬂour with seafood,0.1,0.7
+1920,inceptionresnetv2,Shrimp dumpling king,0.5,0.7
+1921,inceptionresnetv2,Cow ribs,0.4,0.6
+1922,inceptionresnetv2,Griddle cabbage,0.7,0.9
+1923,inceptionresnetv2,Fried rice noodles with eggs,0.1,0.7
+1924,inceptionresnetv2,Double beef fort,0.3,0.7
+1925,inceptionresnetv2,Seafood noodles,0.2,0.6
+1926,inceptionresnetv2,Fried udon,0.4,0.5
+1927,inceptionresnetv2,Duck foot pot with snail,0.7,1.0
+1928,inceptionresnetv2,Delicious jelly,1.0,1.0
+1929,inceptionresnetv2,Fried chicken with edamame,1.0,1.0
+1930,inceptionresnetv2,Mashed potatoes with cheese,0.9,1.0
+1931,inceptionresnetv2,Sauce burst screws,0.9,1.0
+1932,inceptionresnetv2,Crab Dumplings in Soup,0.6,1.0
+1933,inceptionresnetv2,Pearl balls,0.7,1.0
+1934,inceptionresnetv2,Corn ribs soup,0.7,0.8
+1935,inceptionresnetv2,Oreo sawdust cup,0.6,0.8
+1936,inceptionresnetv2,Cucumber with beef,0.7,0.8
+1937,inceptionresnetv2,Spicy beef noodle,0.2,0.4
+1938,inceptionresnetv2,Sashimi platter,0.5,0.9
+1939,inceptionresnetv2,Braised winter melon,0.6,0.8
+1940,inceptionresnetv2,Teriyaki chicken chop rice,0.1,0.2
+1941,inceptionresnetv2,Roast chicken butt,0.3,0.7
+1942,inceptionresnetv2,Peanut edamame,0.7,1.0
+1943,inceptionresnetv2,Foie gras sushi,0.7,0.8
+1944,inceptionresnetv2,Whirlwind potato tower,0.9,0.9
+1945,inceptionresnetv2,Rib skewers,0.5,0.9
+1946,inceptionresnetv2,Angel cake,0.8,0.9
+1947,inceptionresnetv2,Fruit spell,0.9,1.0
+1948,inceptionresnetv2,Boiled quail eggs,0.8,0.9
+1949,inceptionresnetv2,Steamed chicken feet with sauce,0.4,0.8
+1950,inceptionresnetv2,Chocolate sundae,0.9,1.0
+1951,inceptionresnetv2,Old kitchen cabbage,0.1,0.3
+1952,inceptionresnetv2,Spicy rice noodles,0.3,0.5
+1953,inceptionresnetv2,Steamed Fish Head with sauce,0.1,0.4
+1954,inceptionresnetv2,Fried sheep miscellaneous,0.5,0.8
+1955,inceptionresnetv2,Chestnut,0.6,1.0
+1956,inceptionresnetv2,Fried shao mai,0.4,0.7
+1957,inceptionresnetv2,Salt and pepper prawns,0.1,0.5
+1958,inceptionresnetv2,Burning smell platter,0.5,0.6
+1959,inceptionresnetv2,Milk and peach gum,0.6,0.7
+1960,inceptionresnetv2,Skewer shrimp,0.0,1.0
+1961,inceptionresnetv2,Foil grilled ﬁsh,0.7,0.9
+1962,inceptionresnetv2,Chopped green onion Fried eggs,0.6,1.0
+1963,inceptionresnetv2,Ramen with beef,0.6,0.9
+1964,inceptionresnetv2,Braised hairtail,0.5,0.7
+1965,inceptionresnetv2,Mix powder,0.2,0.3
+1966,inceptionresnetv2,River snail,0.7,0.9
+1967,inceptionresnetv2,Shredded potatoes with salad,0.3,0.5
+1968,inceptionresnetv2,Chicken pot,0.3,0.8
+1969,inceptionresnetv2,Chicken wing rice,0.3,0.8
+1970,inceptionresnetv2,Geoduck sashimi,0.8,0.9
+1971,inceptionresnetv2,Chocolate,0.8,0.9
+1972,inceptionresnetv2,Croissant,0.1,0.4
+1973,inceptionresnetv2,Spiced beef,0.4,0.8
+1974,inceptionresnetv2,Cheese pizza,0.7,1.0
+1975,inceptionresnetv2,Braised lamb,0.5,0.7
+1976,inceptionresnetv2,Fried yam,0.8,0.8
+1977,inceptionresnetv2,Steamed multiple preserved hams,0.3,0.4
+1978,inceptionresnetv2,Glutinous rice balls with peanuts and sesame seed,0.4,0.4
+1979,inceptionresnetv2,Mussels screw,0.5,0.9
+1980,inceptionresnetv2,Salted duck egg,0.7,0.7
+1981,inceptionresnetv2,Black sesame quicksand bun,0.9,0.9
+1982,inceptionresnetv2,Glutinous rice cake,0.6,0.8
+1983,inceptionresnetv2,Salad crispy chicken rice,0.9,0.9
+1984,inceptionresnetv2,Rattan pepper chicken,0.4,0.6
+1985,inceptionresnetv2,Braised chicken in casserole,0.1,0.5
+1986,inceptionresnetv2,Garlic crayﬁsh,0.7,0.8
+1987,inceptionresnetv2,Sakura roll,0.9,1.0
+1988,inceptionresnetv2,Fried octopus,0.1,0.6
+1989,inceptionresnetv2,Fried potato chips with spicy cabbage,0.3,0.6
+1990,inceptionresnetv2,Cheese back ribs,0.6,1.0
+1991,inceptionresnetv2,Sauerkraut fried rice,0.1,0.3
+1992,inceptionresnetv2,Griddle duck,0.3,0.5
+1993,inceptionresnetv2,Fried pork slices,0.2,0.4
+1994,inceptionresnetv2,Red date cake,0.9,1.0
+1995,inceptionresnetv2,Cold cut foie gras,0.8,1.0
+1996,inceptionresnetv2,Red bean taro balls,0.5,0.8
+1997,inceptionresnetv2,Fried intestines,0.4,0.8
+1998,inceptionresnetv2,Stir-fried pork belly with spicy cabbage,0.2,0.6
+1999,inceptionresnetv2,Instant noodles,0.8,1.0

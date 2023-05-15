@@ -5,5 +5,7 @@
 *.pth
 food/
 images/
-images2
+images2/
 Pretrained_model/
+images_test_1000/
+images_test_20000/

@@ -1,0 +1,2001 @@
+,Model,label,Top-1 test Acc,Top-5 test Acc
+0,resnet50,Grilled beef tongue,0.6,0.9
+1,resnet50,Flavored snail meat,1.0,1.0
+2,resnet50,Stir-fried lettuce,0.8,1.0
+3,resnet50,Crab stick nigiri sushi,0.5,0.9
+4,resnet50,Fris¨ı¿œe mixed with almonds,1.0,1.0
+5,resnet50,Fried lamb,0.2,0.7
+6,resnet50,Baked steamed bun slices,0.8,0.9
+7,resnet50,Pumpkin cream soup,0.7,1.0
+8,resnet50,Fried tofu,0.3,0.6
+9,resnet50,Fresh taro,0.3,0.6
+10,resnet50,Grilled rack of lamb,0.3,0.6
+11,resnet50,Tossed cellophane noodles,1.0,1.0
+12,resnet50,Scalded tripe,0.9,1.0
+13,resnet50,Cream puff sticks,0.9,1.0
+14,resnet50,Steamed pumpkin with red dates,0.9,0.9
+15,resnet50,Boiled Chinese kale,0.4,1.0
+16,resnet50,Steamed ribs,0.2,0.9
+17,resnet50,Sausage fried rice,0.0,0.6
+18,resnet50,Creamy corn soup,0.7,1.0
+19,resnet50,Creamy bacon pasta,1.0,1.0
+20,resnet50,Rice wine dumplings,0.8,1.0
+21,resnet50,Soba noodles,0.9,1.0
+22,resnet50,Yam steamed with osmanthus honey,0.8,0.9
+23,resnet50,Duck heart,0.9,1.0
+24,resnet50,Rice topped with shredded potato,0.7,1.0
+25,resnet50,Coconut jelly,1.0,1.0
+26,resnet50,Tofu pudding topped with crab guts,0.7,0.9
+27,resnet50,Fried shrimp cake,0.8,0.9
+28,resnet50,Roasted oysters,1.0,1.0
+29,resnet50,Fish ﬂavored shredded pork,0.7,0.7
+30,resnet50,Beef cubes fried with black pepper,0.9,1.0
+31,resnet50,Assorted boiled delicacies,0.8,0.9
+32,resnet50,Twice cooked pork with bell pepper,0.0,0.7
+33,resnet50,Salmon sushi,0.8,1.0
+34,resnet50,Marinated noodles,0.5,0.6
+35,resnet50,Spinach mixed with peanuts,0.6,0.9
+36,resnet50,Fried edamame with pickled vegetables,1.0,1.0
+37,resnet50,Garlic kelp shreds,0.8,1.0
+38,resnet50,Steamed pumpkin,0.5,0.9
+39,resnet50,Rice noodles fried with beef,0.8,1.0
+40,resnet50,Bean curd stir-fried with chives,0.8,1.0
+41,resnet50,Yakitori,0.5,0.9
+42,resnet50,Chee cheong fun,0.7,1.0
+43,resnet50,Fried noodle with shredded pork,0.5,0.8
+44,resnet50,Fried ﬁsh and shrimp,0.8,0.8
+45,resnet50,Glutinous rice,0.7,0.9
+46,resnet50,Fried pork with yuba,0.8,0.8
+47,resnet50,Braised pork on rice,0.6,0.7
+48,resnet50,Bacon pasta,0.5,0.9
+49,resnet50,Salt fried meat,0.7,1.0
+50,resnet50,Xiao long bao,0.3,0.9
+51,resnet50,Curry ﬁsh ball,0.6,0.8
+52,resnet50,Cuttleﬁsh,1.0,1.0
+53,resnet50,Fried prawns,0.3,0.5
+54,resnet50,Broad beans with scallion oil,0.9,1.0
+55,resnet50,Potato cake,0.3,0.7
+56,resnet50,Kung pao chicken,0.4,0.8
+57,resnet50,Onion rings,0.9,1.0
+58,resnet50,Braised chicken nuggets,0.3,0.7
+59,resnet50,Goose palm,0.4,0.8
+60,resnet50,Steamed carp,0.6,0.9
+61,resnet50,Meat dumplings,0.8,0.9
+62,resnet50,Spicy grilled ﬁsh,0.8,1.0
+63,resnet50,Hand peeling bamboo shoots,0.8,1.0
+64,resnet50,Mango milk,0.7,1.0
+65,resnet50,Steamed crab feet,0.8,0.9
+66,resnet50,Barbecued pork noodles,0.8,0.9
+67,resnet50,Sheep scorpion,0.8,0.9
+68,resnet50,Hanamaki,0.7,1.0
+69,resnet50,Preserved egg with hot pepper,0.3,0.8
+70,resnet50,Roasted enoki mushroom,0.9,1.0
+71,resnet50,Blueberry fried yogurt,0.6,1.0
+72,resnet50,Bullfrog claypot,0.6,0.9
+73,resnet50,Pork eggplant,0.2,0.7
+74,resnet50,Fried noodles with shredded pork,0.3,0.8
+75,resnet50,Cucumber dressing,0.8,1.0
+76,resnet50,Dried tofu with hot pepper,0.8,1.0
+77,resnet50,Salt and pepper chops,0.3,0.7
+78,resnet50,Fried chicken legs,0.7,0.9
+79,resnet50,Fried peanuts,0.2,1.0
+80,resnet50,Green tea cake,1.0,1.0
+81,resnet50,Griddle bullfrog,0.0,0.8
+82,resnet50,Salt and pepper nine belly ﬁsh,0.9,1.0
+83,resnet50,Cup cake,0.5,0.8
+84,resnet50,Abalone and ﬁn belly soup,0.8,1.0
+85,resnet50,Bean curd in sugar water,0.7,0.9
+86,resnet50,Braised hemp food,0.6,1.0
+87,resnet50,Duck intestines,0.8,0.8
+88,resnet50,Shredded radish stewed shrimp,0.7,1.0
+89,resnet50,Taro meat,0.6,0.7
+90,resnet50,Lamb chops hand pilaf,0.7,1.0
+91,resnet50,White rice,0.8,1.0
+92,resnet50,Sesame catsup sauce,0.4,1.0
+93,resnet50,Sauerkraut ﬁsh with green pepper,0.0,0.5
+94,resnet50,Fried small spring rolls,0.9,1.0
+95,resnet50,Clams steamed egg,0.7,1.0
+96,resnet50,Spaghetti with tomato meat sauce,0.4,0.7
+97,resnet50,Tofu stewed with cabbage,0.7,1.0
+98,resnet50,Chicken wing tip,1.0,1.0
+99,resnet50,Stir-fried fatty intestine with hot pepper,0.4,1.0
+100,resnet50,Fried squid,0.8,1.0
+101,resnet50,Eggplant with sauce,0.1,0.7
+102,resnet50,Pork liver noodle,0.8,1.0
+103,resnet50,Shrimp with ice powder,0.8,0.9
+104,resnet50,Hot squid,0.4,0.9
+105,resnet50,Meat ﬂoss egg pie,0.8,0.9
+106,resnet50,Hot pot ﬁsh,0.1,0.4
+107,resnet50,Prawn casserole,0.5,0.8
+108,resnet50,Seafood tofu soup,0.4,0.9
+109,resnet50,Garlic grilled ﬁsh,0.6,0.8
+110,resnet50,Fish vermicelli,0.4,0.9
+111,resnet50,California hand-rolled sushi,0.8,1.0
+112,resnet50,Eight treasure congee,0.9,1.0
+113,resnet50,Stir-fried clams with chili sauce,0.7,0.8
+114,resnet50,Spicy ﬁsh,0.6,0.7
+115,resnet50,Sesame beans,0.9,1.0
+116,resnet50,Fried shrimp balls with cheese,0.6,0.8
+117,resnet50,Spicy beef tendon,0.6,1.0
+118,resnet50,Mango pancake,0.6,0.9
+119,resnet50,Sauce spine,0.5,0.9
+120,resnet50,Sweet potato porridge,0.5,0.9
+121,resnet50,Dry pot frog,0.9,1.0
+122,resnet50,Braised pork intestines,0.5,1.0
+123,resnet50,Fried sweet potato,0.4,0.7
+124,resnet50,Lamei and claypot rice,0.4,0.6
+125,resnet50,Sauerkraut beef,0.4,0.7
+126,resnet50,Green bean porridge,0.9,1.0
+127,resnet50,Scallion chicken,0.4,0.6
+128,resnet50,Fried rice of yangzhou style,0.2,0.8
+129,resnet50,Green onion Chinese pancake,0.6,1.0
+130,resnet50,Steamed bread slices,0.9,1.0
+131,resnet50,Cucumber roll sushi,1.0,1.0
+132,resnet50,Stir fry,0.9,0.9
+133,resnet50,Tossed tripe,0.4,0.6
+134,resnet50,Boiled chicken rice,0.9,1.0
+135,resnet50,Cucumber and peanuts,0.9,1.0
+136,resnet50,Lotus pond side dishes,1.0,1.0
+137,resnet50,Spicy ramen,0.7,0.8
+138,resnet50,Fried clams with ginger and spring onion,0.9,1.0
+139,resnet50,Fruit salad,0.3,0.6
+140,resnet50,Shrimp porridge,0.7,0.9
+141,resnet50,Palace fried shrimp ball,1.0,1.0
+142,resnet50,Spanish mackerel,0.3,0.5
+143,resnet50,Radish sauce,0.8,1.0
+144,resnet50,Spicy slice pig ear,0.6,0.9
+145,resnet50,Curry chicken baked rice,0.7,0.9
+146,resnet50,Curry beef rice,0.6,1.0
+147,resnet50,Green pepper stir-fried dregs,0.9,0.9
+148,resnet50,Belt noodle,0.7,1.0
+149,resnet50,Durian melaleuca cake,0.6,0.9
+150,resnet50,Garlic spinach,0.7,1.0
+151,resnet50,Mahjong biscuits,0.4,0.9
+152,resnet50,Beef noodles in sour soup,0.5,0.9
+153,resnet50,Brown sugar buns,1.0,1.0
+154,resnet50,Crucian carp,0.5,0.9
+155,resnet50,Minced pork vermicelli,0.8,0.9
+156,resnet50,Crispy mung bean cake,0.6,0.9
+157,resnet50,Fried chicken wings tip,0.5,0.9
+158,resnet50,Fried bacon with bamboo shoots,0.5,0.9
+159,resnet50,Strawberry smoothie,0.6,0.8
+160,resnet50,Earth pot chicken,0.8,0.9
+161,resnet50,Boiled beef,0.4,0.4
+162,resnet50,Tomato beef stew,0.7,0.8
+163,resnet50,Fried dumplings,0.5,0.9
+164,resnet50,Salted duck,0.8,1.0
+165,resnet50,Krabby patty,0.6,1.0
+166,resnet50,New orleans pair of wings,0.2,0.8
+167,resnet50,Beef tenderloin,0.7,1.0
+168,resnet50,Steel pipe chicken,0.8,1.0
+169,resnet50,Grilled prawns,0.7,0.9
+170,resnet50,Fruit mufﬁns,0.5,1.0
+171,resnet50,Unagi sushi,0.8,1.0
+172,resnet50,Mufﬁn,0.1,1.0
+173,resnet50,Seafood pasta,0.5,0.8
+174,resnet50,Braised lobster,0.2,0.9
+175,resnet50,Mixed grain vermicelli,0.3,0.7
+176,resnet50,Som tam,0.9,1.0
+177,resnet50,Creamy wafﬂe,0.8,0.9
+178,resnet50,Cheese bread,0.9,1.0
+179,resnet50,Melaleuca,0.4,0.9
+180,resnet50,Grilled duck intestine skewers,1.0,1.0
+181,resnet50,Salmon fried rice,0.4,0.9
+182,resnet50,Egg fried rice,0.8,1.0
+183,resnet50,Tom yum kung,0.4,0.5
+184,resnet50,Beef bibimbap,0.8,0.9
+185,resnet50,Meringue,1.0,1.0
+186,resnet50,Carrotcake,0.1,1.0
+187,resnet50,Fried rice cake with swimming crab,1.0,1.0
+188,resnet50,Roast goose rice,0.7,0.9
+189,resnet50,Strawberry yoghurt,0.8,0.9
+190,resnet50,Assorted sauce,0.8,0.9
+191,resnet50,Stir-fried beef ﬁllet with tea mushroom,0.7,0.8
+192,resnet50,Small yellow croaker,0.6,0.9
+193,resnet50,Doraemon cake,1.0,1.0
+194,resnet50,Fried noodles with soy sauce,0.7,1.0
+195,resnet50,Roasted silkworm pupa skewers,0.8,0.9
+196,resnet50,Three silk fried noodles,0.7,0.9
+197,resnet50,Stir-fried cabbage,0.5,0.9
+198,resnet50,Blueberry yam,0.5,1.0
+199,resnet50,Boiled okra,1.0,1.0
+200,resnet50,Egg yolk meat dumpling,0.1,0.8
+201,resnet50,Taro pie,0.9,1.0
+202,resnet50,Scrambled noodles with tomato and egg,0.2,0.8
+203,resnet50,Longevity dishes,0.9,1.0
+204,resnet50,Delicious shrimp fort,1.0,1.0
+205,resnet50,Beef brisket with radish,0.3,0.8
+206,resnet50,Pickled cabbage soup,0.5,0.5
+207,resnet50,Crispy pigeon,0.5,0.9
+208,resnet50,Chicken rice noodle,0.0,0.2
+209,resnet50,Fried pork belly,0.5,0.7
+210,resnet50,Fried lettuce,0.6,1.0
+211,resnet50,Squirrel mandarin ﬁsh,0.8,1.0
+212,resnet50,Mustard shreds,0.7,1.0
+213,resnet50,Snowﬂake chicken ﬁllet,0.6,0.8
+214,resnet50,Love chicken chop,0.6,0.9
+215,resnet50,Naked cake,0.5,0.9
+216,resnet50,Laoganma fried rice,0.6,0.8
+217,resnet50,Pho,0.6,0.9
+218,resnet50,Mapo tofu donburi,0.6,1.0
+219,resnet50,Pork feet noodles,0.3,0.6
+220,resnet50,Stone pot ﬁsh,0.8,0.9
+221,resnet50,Ginger fried duck,0.7,0.8
+222,resnet50,Roti prata,0.7,1.0
+223,resnet50,Red bean barley congee,0.2,0.8
+224,resnet50,Brownie,0.9,1.0
+225,resnet50,Refreshing evergreen,1.0,1.0
+226,resnet50,Cookies,0.9,1.0
+227,resnet50,Poached pork slices,0.7,0.9
+228,resnet50,Fragrant egg yolk roll sushi,0.8,1.0
+229,resnet50,Braised pork trotters,0.7,0.8
+230,resnet50,Sauce fried squid,0.4,0.7
+231,resnet50,Dorayaki,0.6,0.9
+232,resnet50,Authentic intestine,1.0,1.0
+233,resnet50,White radish ribs simmering soup,0.5,1.0
+234,resnet50,Curry shrimp,0.6,0.7
+235,resnet50,Coconut bread,0.6,0.8
+236,resnet50,Fried chicken gizzards,0.5,0.7
+237,resnet50,Japanese pumpkin tart,0.8,1.0
+238,resnet50,Pig’s head meat,0.2,0.8
+239,resnet50,Mango roll sushi,0.7,0.9
+240,resnet50,Lentil braised noodles,0.9,1.0
+241,resnet50,Sheep roll,1.0,1.0
+242,resnet50,Tamago nigiri sushi,0.9,1.0
+243,resnet50,Freshly fried small crispy pork,0.3,0.6
+244,resnet50,Scrambled eggs with green peppers,0.6,0.9
+245,resnet50,Bacon bibimbap,0.6,0.9
+246,resnet50,Fried rice noodles,0.5,0.9
+247,resnet50,Scallion sea bass,0.0,0.7
+248,resnet50,Grilled baby Chinese cabbage skewers,1.0,1.0
+249,resnet50,Grilled chicken drumsticks,0.2,0.8
+250,resnet50,Fried poached egg with laba beans,0.6,0.9
+251,resnet50,Mochi bun,0.8,1.0
+252,resnet50,Nanning rice noodle,0.6,0.7
+253,resnet50,Coconut sago,0.9,1.0
+254,resnet50,Roasted leeks,0.9,1.0
+255,resnet50,Grilled string bean skewers,0.6,1.0
+256,resnet50,Whitebait scrambled eggs,0.4,0.9
+257,resnet50,Fish-ﬂavored eggplant pot,0.7,1.0
+258,resnet50,Red date and yam congee,0.5,0.8
+259,resnet50,Fried shrimp in typhoon shelter,0.4,0.6
+260,resnet50,Fried potato chips,0.4,0.8
+261,resnet50,Ham sausage,1.0,1.0
+262,resnet50,Stewed meat,0.6,1.0
+263,resnet50,Seaweed pork ﬂoss bread,0.7,0.9
+264,resnet50,Pounded chicken feet,1.0,1.0
+265,resnet50,Fresh meat soup dumplings,0.9,1.0
+266,resnet50,Iron squid,0.6,0.8
+267,resnet50,Egg and ham sandwich,0.8,1.0
+268,resnet50,Dongpo’s braised pork,0.4,0.8
+269,resnet50,Coarse grain porridge,0.2,0.7
+270,resnet50,Braised tofu,0.6,0.9
+271,resnet50,Rocky cheese,1.0,1.0
+272,resnet50,Fried pulp,0.7,1.0
+273,resnet50,Fruit jelly,0.5,0.8
+274,resnet50,Raw cooking cabbage,0.6,0.9
+275,resnet50,Liocarcinus,0.7,0.9
+276,resnet50,Black-bone chicken roll,1.0,1.0
+277,resnet50,Fried bun slices,0.2,0.7
+278,resnet50,Taro sago,0.6,1.0
+279,resnet50,Sizzling tofu,0.8,0.9
+280,resnet50,Stewed chicken nuggets,0.3,0.6
+281,resnet50,Beef noodles,0.3,0.6
+282,resnet50,Poplar twig nectar,0.4,0.8
+283,resnet50,Pickle chicken feet,0.8,0.9
+284,resnet50,Rice wine and egg drop soup,0.9,0.9
+285,resnet50,Red oil dumplings,0.8,1.0
+286,resnet50,Sour beans,1.0,1.0
+287,resnet50,Potato ﬂour casserole,0.7,0.8
+288,resnet50,Shrimp,1.0,1.0
+289,resnet50,Chicken chop,0.1,0.8
+290,resnet50,Fried sea oysters,0.9,1.0
+291,resnet50,Spicy pork,0.4,0.8
+292,resnet50,Stir-fried beef with green pepper,0.5,1.0
+293,resnet50,Tomato puree,0.7,1.0
+294,resnet50,Fried tempura,0.6,0.8
+295,resnet50,Green bean cake,0.6,0.9
+296,resnet50,Salty burning white,0.1,0.8
+297,resnet50,Three yellow chicken nuggets,0.6,1.0
+298,resnet50,Garlic shrimp,0.9,1.0
+299,resnet50,Fired pork in a scoop,0.5,1.0
+300,resnet50,Bread crab,0.8,0.9
+301,resnet50,Spicy sausage,0.3,1.0
+302,resnet50,Pickled mustard,0.9,1.0
+303,resnet50,Barbecued pork noodle,0.6,0.8
+304,resnet50,Beer duck,0.2,0.7
+305,resnet50,Fried yogurt with oreo cookies,0.8,1.0
+306,resnet50,Chinese hamburger,1.0,1.0
+307,resnet50,Princess lee roll sushi,0.8,0.8
+308,resnet50,Sea salt milk cake,0.9,0.9
+309,resnet50,Stir fried fungus with celery,0.9,1.0
+310,resnet50,Double cake,0.3,0.8
+311,resnet50,Taian Fish,0.5,0.9
+312,resnet50,Boiled bullfrog,0.8,0.9
+313,resnet50,Matcha mousse cake,0.6,0.9
+314,resnet50,Steamed sturgeon,0.7,1.0
+315,resnet50,Tuna sashimi,1.0,1.0
+316,resnet50,Stewed chicken soup,0.5,0.7
+317,resnet50,Shrimp fried rice,0.5,1.0
+318,resnet50,Corn warship sushi,0.8,1.0
+319,resnet50,Milk small party,0.9,1.0
+320,resnet50,Shrimp and crab pot,0.6,0.9
+321,resnet50,Chili noodles,0.9,1.0
+322,resnet50,Chicken skewers,0.9,1.0
+323,resnet50,Leek pie,0.8,0.9
+324,resnet50,Snowﬂake cowboy bones,0.9,0.9
+325,resnet50,Stir-fried pork with garlic shoots,0.6,0.9
+326,resnet50,Pop cake,0.8,0.9
+327,resnet50,Matcha ﬂavored daifuku,1.0,1.0
+328,resnet50,Black pepper chicken nuggets,0.7,0.9
+329,resnet50,Roasted chicken leg,0.1,0.5
+330,resnet50,Potato powder,0.9,1.0
+331,resnet50,Cart noodle,0.3,1.0
+332,resnet50,cheesecake,0.5,0.9
+333,resnet50,Fried snails,0.8,1.0
+334,resnet50,Stir fry,0.6,0.7
+335,resnet50,Duck feet,0.9,0.9
+336,resnet50,Fried ﬂower beetle,0.3,1.0
+337,resnet50,Balsamic peanuts,0.5,0.9
+338,resnet50,Rice casserole,0.5,0.8
+339,resnet50,Spicy chicken wing,0.7,1.0
+340,resnet50,Strawberry double skin milk,1.0,1.0
+341,resnet50,Roast duck cake,0.5,1.0
+342,resnet50,Grilled tofu,0.8,1.0
+343,resnet50,Matcha ice cream,0.6,1.0
+344,resnet50,Preserved egg porridge,0.2,0.6
+345,resnet50,Pork knuckle soup powder,0.6,1.0
+346,resnet50,Black pepper steak rice,0.6,0.8
+347,resnet50,Roast pork,0.7,0.9
+348,resnet50,Cold crucian carp,0.7,1.0
+349,resnet50,Braised bamboo shoots,0.9,0.9
+350,resnet50,Sweet and sour pork,0.7,0.9
+351,resnet50,Old bowl ﬁsh,0.4,0.6
+352,resnet50,Tofu with preserved eggs,0.9,1.0
+353,resnet50,Black pepper sausage,0.9,1.0
+354,resnet50,Roast suckling pig,0.7,0.9
+355,resnet50,Ciba ice powder,0.5,0.7
+356,resnet50,Braised chicken and rice,0.3,0.9
+357,resnet50,Sea Emperor fans clay pot,0.9,1.0
+358,resnet50,Flamingo cake,0.7,1.0
+359,resnet50,Orleans drumsticks,0.5,0.7
+360,resnet50,Salt and pepper ribs,0.5,0.7
+361,resnet50,Eel rice,0.6,0.6
+362,resnet50,Pork skewers,0.4,0.9
+363,resnet50,Cold jellyﬁsh,0.6,0.9
+364,resnet50,Boiled cabbage heart,0.9,0.9
+365,resnet50,Baked clams in tin foil,0.8,1.0
+366,resnet50,Hand holding fan bone,0.7,0.8
+367,resnet50,Casserole yam,0.7,1.0
+368,resnet50,Bak kut teh,0.6,0.9
+369,resnet50,Colorful face lift,0.5,1.0
+370,resnet50,Red velvet cake,0.9,1.0
+371,resnet50,Round taro with coconut milk,0.9,1.0
+372,resnet50,Stone pot bullfrog,0.7,0.8
+373,resnet50,Seafood steamed egg,0.4,0.8
+374,resnet50,Stir-fried potato shreds with green pepper,0.5,1.0
+375,resnet50,Yellow braised beef,0.3,0.4
+376,resnet50,Longan and red date congee,0.4,0.7
+377,resnet50,Stir fried diced noodles,0.5,0.7
+378,resnet50,Ice cream wafﬂes,0.4,0.8
+379,resnet50,Strawberry mille cake,0.7,1.0
+380,resnet50,Cool coconut milk,0.8,0.8
+381,resnet50,Corn salad,0.9,0.9
+382,resnet50,Lava rock sausage,0.9,0.9
+383,resnet50,Lettuce in oyster sauce,0.6,1.0
+384,resnet50,Casserole ﬁsh head pot,0.3,0.7
+385,resnet50,saozi noodles,0.5,0.6
+386,resnet50,Fried pork rice,0.5,0.8
+387,resnet50,Hot pepper twice cooked pork,0.2,0.9
+388,resnet50,Spicy Ginger Chicken Feet,0.8,1.0
+389,resnet50,Platycodon,0.8,1.0
+390,resnet50,Flavored eggplant,0.2,0.6
+391,resnet50,Tossed ﬁsh skin,0.8,0.9
+392,resnet50,Beef vermicelli soup,0.3,0.7
+393,resnet50,Ginger lotus root,0.9,1.0
+394,resnet50,Pork congee,0.5,0.8
+395,resnet50,Multi-ﬂavored ﬁsh skewers,0.6,0.9
+396,resnet50,Fried noodles,0.4,0.7
+397,resnet50,Shacha noodles,0.5,0.8
+398,resnet50,Beef pan noodle,0.4,0.7
+399,resnet50,Pork fried rice,0.1,0.5
+400,resnet50,Homemade ﬁsh,0.2,0.3
+401,resnet50,Lemon chicken feet,0.3,0.7
+402,resnet50,Sparerib noodles,0.3,0.7
+403,resnet50,Cheese stick,0.7,0.8
+404,resnet50,Pork beans,0.7,0.9
+405,resnet50,Soy sauce steamed pork ribs,0.5,1.0
+406,resnet50,Milk oatmeal,0.5,0.8
+407,resnet50,Rattan pepper ﬁsh ﬁllet,0.4,0.9
+408,resnet50,Peanut butter noodles,0.3,0.8
+409,resnet50,Spicy frog,0.3,0.7
+410,resnet50,Cranberry¨ı¿œbiscuit,1.0,1.0
+411,resnet50,Pot lamb chops,0.6,1.0
+412,resnet50,Tomato egg noodle,0.3,0.6
+413,resnet50,Boneless chicken feet,1.0,1.0
+414,resnet50,Di San Xian,0.7,1.0
+415,resnet50,Chocolate fruit cake,0.1,0.5
+416,resnet50,Grandma dishes,0.7,1.0
+417,resnet50,Yuxiang pork rice bowl,0.2,0.5
+418,resnet50,Roast chicken,0.6,0.8
+419,resnet50,Boneless chicken ﬁllet,0.7,1.0
+420,resnet50,Bacon fried rice,0.1,0.4
+421,resnet50,Urayaki eel,0.7,0.9
+422,resnet50,Braised spare ribs noodles,0.2,0.6
+423,resnet50,Mushroom stewed chicken noodle,0.7,1.0
+424,resnet50,Pork sauerkraut bun,0.6,0.8
+425,resnet50,Beijing sauce pork,0.8,0.9
+426,resnet50,Capelin,0.6,0.9
+427,resnet50,Garland chrysanthemum,0.7,0.9
+428,resnet50,Green pepper preserved egg,0.8,1.0
+429,resnet50,Fried noodles with ham,0.7,0.8
+430,resnet50,Grilled whole ﬁsh,0.5,0.8
+431,resnet50,Spicy cabbage bibimbap,0.2,0.7
+432,resnet50,Grilled eggplant,0.9,0.9
+433,resnet50,Sauerkraut pork noodle,0.0,0.6
+434,resnet50,Black stinky tofu,0.9,1.0
+435,resnet50,Soy milk,0.6,1.0
+436,resnet50,Eggplant claypot,0.3,0.6
+437,resnet50,Griddle pork Intestines,0.2,0.6
+438,resnet50,Stir-fried ginger and green onion,0.2,0.9
+439,resnet50,Three yellow chicken,0.1,0.9
+440,resnet50,Cumin cartilage,0.7,0.9
+441,resnet50,Burrito,0.4,0.6
+442,resnet50,Cumin lamb,0.6,0.8
+443,resnet50,Beef burger,0.8,0.9
+444,resnet50,Sour soup with beef,0.6,0.9
+445,resnet50,Scallop lean pork congee,0.5,0.8
+446,resnet50,Hand cake,0.9,1.0
+447,resnet50,Beef brisket noodle,0.4,0.6
+448,resnet50,Potato beef,0.5,0.7
+449,resnet50,Steamed crab,0.8,1.0
+450,resnet50,French fries,0.9,0.9
+451,resnet50,Popping milk cake,0.0,0.8
+452,resnet50,Strange rice,0.5,0.8
+453,resnet50,Dried squid and shrimp,0.3,0.7
+454,resnet50,Stir-fried organic cauliﬂower,0.2,1.0
+455,resnet50,Griddle potato chips,0.8,1.0
+456,resnet50,Sliced toast with raisins,0.6,0.9
+457,resnet50,Loin roast,0.4,0.9
+458,resnet50,Five recipes of tender beef,1.0,1.0
+459,resnet50,Roast duck rice,0.3,0.8
+460,resnet50,Oil gluten,1.0,1.0
+461,resnet50,Supreme pizza,0.8,1.0
+462,resnet50,Egg seaweed soup,0.8,1.0
+463,resnet50,Spicy chicken feet,0.5,0.9
+464,resnet50,Fried crispy banana,0.7,0.9
+465,resnet50,Stir-fried dried tofu with hot pepper,1.0,1.0
+466,resnet50,Chilled lobster,1.0,1.0
+467,resnet50,Fish pan cake,0.9,1.0
+468,resnet50,Stewed goose in iron pan,0.5,0.8
+469,resnet50,Fried pork with pleurotus eryngii,0.6,0.7
+470,resnet50,Smoked duck,0.8,0.9
+471,resnet50,Fried pork with fungus,0.9,1.0
+472,resnet50,Grilled horse paciﬁer,0.8,1.0
+473,resnet50,Tedious,0.0,0.3
+474,resnet50,Tiger skin and chicken feet,0.2,0.6
+475,resnet50,Ground sanxian rice bowl,0.6,1.0
+476,resnet50,Yellow stinky tofu,0.5,0.9
+477,resnet50,Duck neck,0.9,0.9
+478,resnet50,Stone bowl chicken nuggets,0.5,0.7
+479,resnet50,Mango shrimp salad,0.8,1.0
+480,resnet50,Griddle chicken,0.1,0.3
+481,resnet50,Snowﬂakes,0.9,1.0
+482,resnet50,Fried jelly,0.8,0.8
+483,resnet50,Scallion black fungus,0.5,0.6
+484,resnet50,Spicy noodles,0.4,0.8
+485,resnet50,Eggplant garlic juice,0.9,0.9
+486,resnet50,Spicy spare ribs,0.2,0.5
+487,resnet50,Gourd chicken,0.7,1.0
+488,resnet50,Mango ice,0.9,1.0
+489,resnet50,Grilled pork neck,0.5,0.7
+490,resnet50,Flame steak,1.0,1.0
+491,resnet50,Red bean curd,0.9,1.0
+492,resnet50,Chicken neck,0.8,0.8
+493,resnet50,Margherita pizza,0.6,0.7
+494,resnet50,Casserole pork knuckle pot,0.6,0.9
+495,resnet50,Tomato rice noodles,0.2,0.6
+496,resnet50,Roasted peppers,0.7,1.0
+497,resnet50,Scrambled eggs with ham,1.0,1.0
+498,resnet50,Fried rice cake,0.4,0.6
+499,resnet50,Stewed ﬁsh in iron pan,0.5,0.6
+500,resnet50,Sweet shrimp sashimi,1.0,1.0
+501,resnet50,Spicy yuba,0.8,1.0
+502,resnet50,Custard bun,0.8,1.0
+503,resnet50,Baked shrimp roll with cheese,0.7,0.9
+504,resnet50,Beef pizza with black pepper,0.5,0.8
+505,resnet50,Pepper chicken,0.7,0.7
+506,resnet50,Sukiyaki goose,0.8,1.0
+507,resnet50,Roast chicken wing tip,0.7,1.0
+508,resnet50,Fried lotus root,0.5,0.9
+509,resnet50,Caramel pudding,0.5,0.9
+510,resnet50,Arctic bay,0.8,1.0
+511,resnet50,Shrimp rolls,0.6,1.0
+512,resnet50,Hot pot chicken giblets,0.3,0.8
+513,resnet50,Fried lotus white with oil residue,0.7,1.0
+514,resnet50,Homely stewed ﬁsh,0.2,0.7
+515,resnet50,Eggplant salad,0.4,0.9
+516,resnet50,Fried potato chips,0.7,1.0
+517,resnet50,Macadamia,0.2,0.6
+518,resnet50,Tremella lianzi geng,0.5,0.7
+519,resnet50,Gravy radish,0.9,0.9
+520,resnet50,Sweet heart pastry,0.6,1.0
+521,resnet50,Glutinous rice lotus root,0.9,1.0
+522,resnet50,Durian cheesecake,0.5,1.0
+523,resnet50,Steamed crab claws,0.5,0.9
+524,resnet50,Kimchi beef sushi,0.6,0.9
+525,resnet50,Sweet and sour ﬁllet,0.4,1.0
+526,resnet50,Braised pork ribs,0.9,1.0
+527,resnet50,Ribeye steak,0.5,0.9
+528,resnet50,Salted shrimp with pepper,0.6,0.9
+529,resnet50,Fried instant noodles,0.3,0.6
+530,resnet50,Fried rice noodles with chicken,0.3,0.5
+531,resnet50,Cheese baked rice,0.5,0.8
+532,resnet50,Roast chicken head,0.6,0.9
+533,resnet50,Salad barbecue bibimbap,0.2,0.8
+534,resnet50,Fried chicken chop,0.6,0.7
+535,resnet50,Red bean double skin milk,0.7,0.9
+536,resnet50,Marinated beef brisket in spiced sauce,0.4,0.9
+537,resnet50,Spicy potato chips,0.4,0.7
+538,resnet50,Fruit cup,0.9,1.0
+539,resnet50,Meatballs,0.8,1.0
+540,resnet50,Bowl chicken,0.8,0.9
+541,resnet50,Marinated trotters,0.6,1.0
+542,resnet50,Spicy lobster tail,0.2,1.0
+543,resnet50,Sesame biscuits,0.6,0.9
+544,resnet50,Fried bacon with dried radish,0.6,0.8
+545,resnet50,Red wine sydney,1.0,1.0
+546,resnet50,Mutton soup,0.8,1.0
+547,resnet50,Crab pot,0.7,1.0
+548,resnet50,Braised sausage,0.7,0.9
+549,resnet50,Braised chili in oil,0.5,1.0
+550,resnet50,Orleans chicken drumsticks,0.5,0.7
+551,resnet50,Sea urchin sashimi,0.9,1.0
+552,resnet50,Barrel ﬁsh,0.9,1.0
+553,resnet50,White cut chicken,0.6,1.0
+554,resnet50,Grilled tofu,0.8,0.9
+555,resnet50,Songhua egg with ginger sauce,0.6,0.9
+556,resnet50,Cold rice tofu,0.9,1.0
+557,resnet50,Durian pancake,0.7,0.9
+558,resnet50,Fire bun,0.6,0.8
+559,resnet50,Roast pork knuckle,0.8,0.9
+560,resnet50,Steamed shrimp with garlic vermicelli,0.8,1.0
+561,resnet50,Tuna warship sushi,1.0,1.0
+562,resnet50,Vegetable salad,0.8,0.9
+563,resnet50,Choy sum sting peel,0.7,0.8
+564,resnet50,Brushed cheese hot dog sticks,0.9,1.0
+565,resnet50,Chocolate mousse cake,0.3,0.8
+566,resnet50,Popcorn,0.8,0.9
+567,resnet50,Minced pork hand-rolled sushi,0.9,1.0
+568,resnet50,Grilled chicken feet skewers,0.6,0.9
+569,resnet50,Beef and rice noodle soup,0.4,0.8
+570,resnet50,Fruit steak,0.7,0.9
+571,resnet50,Fried noodle with egg,0.9,1.0
+572,resnet50,Crispy bone sausage,0.5,0.9
+573,resnet50,Chicken with chestnut,0.3,0.7
+574,resnet50,Scalded prawns,0.6,0.9
+575,resnet50,Fruit box,0.5,0.8
+576,resnet50,Hang Sanxian,0.9,1.0
+577,resnet50,Cut noodles in casserole,0.6,0.7
+578,resnet50,Burning noodles,0.5,0.9
+579,resnet50,Pineapple pie,0.8,1.0
+580,resnet50,Fried mushrooms,0.7,0.9
+581,resnet50,Enoki mushroom mixed with cucumber,1.0,1.0
+582,resnet50,Taro balls,0.2,0.9
+583,resnet50,Sauerkraut rice noodles,0.1,0.4
+584,resnet50,Cured fried rice,0.0,0.6
+585,resnet50,Yam polenta,0.6,1.0
+586,resnet50,Pickle,1.0,1.0
+587,resnet50,Hot and sour chicken mixed,0.7,0.8
+588,resnet50,Millet cake,0.7,1.0
+589,resnet50,Yam pork ribs soup,0.0,0.7
+590,resnet50,Fried biscuits,0.2,0.9
+591,resnet50,Stir-fried shredded pork with garlic moss,0.8,1.0
+592,resnet50,Fried chicken,0.5,1.0
+593,resnet50,Casserole white tofu,0.3,0.6
+594,resnet50,Milk ﬂavor bread slice,0.8,0.8
+595,resnet50,Saury,0.8,1.0
+596,resnet50,Black forest cake,0.6,0.9
+597,resnet50,Pumpkin porridge,0.6,0.8
+598,resnet50,Curry chicken rice,0.7,1.0
+599,resnet50,Fried duck,0.4,0.8
+600,resnet50,Griddle shredded chicken,0.3,0.7
+601,resnet50,Steamed dumpling,0.8,0.9
+602,resnet50,Smooth double skin milk,0.6,0.9
+603,resnet50,Red shrimp,0.9,1.0
+604,resnet50,Mushroom and vegetable porridge,0.4,0.9
+605,resnet50,Moon cake,0.9,1.0
+606,resnet50,Lettuce tip,1.0,1.0
+607,resnet50,Spaghetti black pepper beef,0.8,0.9
+608,resnet50,Johnnycake,0.7,0.8
+609,resnet50,Braised chicken with bamboo sticks in coconut,1.0,1.0
+610,resnet50,Borscht,0.7,0.9
+611,resnet50,Shrimp salad,0.5,0.9
+612,resnet50,Steamed bun fried bun,0.8,1.0
+613,resnet50,Soy bean curd,0.9,0.9
+614,resnet50,Mixed edamame,0.9,1.0
+615,resnet50,Beef rice,0.1,0.6
+616,resnet50,Griddle cooked tea tree mushrooms,0.7,1.0
+617,resnet50,Roast pork skin,0.8,0.9
+618,resnet50,Taste snake,0.8,0.9
+619,resnet50,Kelp green bean paste,0.7,1.0
+620,resnet50,Egg tart,1.0,1.0
+621,resnet50,Abalone rice,0.6,0.8
+622,resnet50,Chicken wing pot,0.5,0.7
+623,resnet50,Pineapple seafood fried rice,0.3,0.9
+624,resnet50,Beef claypot rice,0.6,0.7
+625,resnet50,Beef and egg fried rice,0.7,0.9
+626,resnet50,Whole wheat bread,0.6,0.7
+627,resnet50,Steamed rice noodles,0.7,0.8
+628,resnet50,Chicken roll,0.7,0.8
+629,resnet50,T-bone steak,0.7,1.0
+630,resnet50,Braised Japanese tofu,0.5,0.9
+631,resnet50,Fried ice cream,0.7,1.0
+632,resnet50,Sauerkraut beef noodle,0.4,0.6
+633,resnet50,Sesame octopus warship sushi,1.0,1.0
+634,resnet50,Grilled anhui,0.3,0.6
+635,resnet50,Fried chicken chop,0.9,1.0
+636,resnet50,Scones,0.8,0.9
+637,resnet50,Crab siu mai,0.9,1.0
+638,resnet50,Shin ramen,0.5,0.9
+639,resnet50,Rice with tomato and eggs,0.8,1.0
+640,resnet50,Fatty intestine,0.5,0.7
+641,resnet50,Hand roll noodle,0.6,1.0
+642,resnet50,Steamed ﬁsh,0.7,1.0
+643,resnet50,Pork liver and lean meat porridge,0.3,0.3
+644,resnet50,Harbin sausage,0.6,1.0
+645,resnet50,Bitter vegetable soup,1.0,1.0
+646,resnet50,Refreshing lotus root slices,0.8,1.0
+647,resnet50,Shredded bag,0.9,0.9
+648,resnet50,Fried yuba,0.8,1.0
+649,resnet50,Stir-fried pork with corn,0.9,1.0
+650,resnet50,Shrimp wanton noodles,0.9,1.0
+651,resnet50,Pea noodles,0.8,0.9
+652,resnet50,Flatbread,0.3,0.6
+653,resnet50,Roasted cauliﬂower,1.0,1.0
+654,resnet50,Red date and white fungus soup,0.3,0.6
+655,resnet50,Scallion noodles,0.1,0.8
+656,resnet50,Steamed abalone with garlic,0.6,0.9
+657,resnet50,Fried shredded pancake,0.8,0.9
+658,resnet50,Stir-fried vermicelli with cabbage,0.9,1.0
+659,resnet50,Mango melaleuca box cake,0.7,0.9
+660,resnet50,Cantonese sponge cake,0.6,0.9
+661,resnet50,Seaweed rice,0.2,0.7
+662,resnet50,Fried eggs with fungus,0.8,0.9
+663,resnet50,Stir-fried shredded lettuce,1.0,1.0
+664,resnet50,Fried crab with ginger and spring onion,0.6,0.9
+665,resnet50,Chicken porridge,0.1,0.5
+666,resnet50,Roasted peppers,0.8,1.0
+667,resnet50,Beef noodle,0.5,0.9
+668,resnet50,Griddle rabbit,0.6,0.9
+669,resnet50,Hot pot noodles,0.7,1.0
+670,resnet50,Bacon ham pizza,0.5,0.9
+671,resnet50,Pine nut ﬁsh,0.5,0.9
+672,resnet50,Kimchi ﬁsh,0.5,0.7
+673,resnet50,Umeboshi vegetable roast meat,0.7,0.7
+674,resnet50,Fried king pleurotus,0.3,0.9
+675,resnet50,Vegetable pancake,0.8,1.0
+676,resnet50,Glutinous rice,0.8,1.0
+677,resnet50,Miso soup,0.7,1.0
+678,resnet50,Curry omelet rice,0.6,1.0
+679,resnet50,Matcha melaleuca cake,0.8,1.0
+680,resnet50,Fried pork with chili,0.5,0.9
+681,resnet50,Lotus root pork ribs soup,0.1,0.4
+682,resnet50,Soy sauce fried rice,0.9,1.0
+683,resnet50,Pumpkin soup,0.6,1.0
+684,resnet50,Fan shabu,0.8,1.0
+685,resnet50,Cooked duck with lemon,0.5,0.7
+686,resnet50,Shrimp noodles,0.7,1.0
+687,resnet50,Spicy crab,0.1,0.5
+688,resnet50,Bitter gourd fried pork,0.8,1.0
+689,resnet50,Fried hot and sour potato shreds,0.9,0.9
+690,resnet50,Salt and pepper peanuts,0.4,1.0
+691,resnet50,Saute spicy chicken,0.4,0.7
+692,resnet50,Baked crab with egg yolk,0.9,1.0
+693,resnet50,Celery fried yuba,0.9,1.0
+694,resnet50,Beef offal,0.3,0.8
+695,resnet50,Kanto cooking,0.5,0.8
+696,resnet50,Nigiri sushi,0.4,1.0
+697,resnet50,Fish with bean curd,0.6,0.8
+698,resnet50,Sizzling frog,0.7,0.9
+699,resnet50,Lilies fat and sleek cows,0.3,0.5
+700,resnet50,Duck wings,0.6,0.8
+701,resnet50,Pickled pepper baby food,0.9,0.9
+702,resnet50,Pork with preserved vegetable rice,0.5,0.9
+703,resnet50,Hakka tofu,0.9,0.9
+704,resnet50,Saliva chicken,0.7,0.8
+705,resnet50,Bamboo shoot pork,0.8,0.9
+706,resnet50,Stir-fried vegetables with mushrooms,1.0,1.0
+707,resnet50,Crab congee,0.9,1.0
+708,resnet50,Baked spaghetti with cheese and meat sauce,0.8,1.0
+709,resnet50,Haagen-Dazs ice cream,0.9,1.0
+710,resnet50,Northeast chaos,0.4,0.7
+711,resnet50,Sauce elbow,0.3,0.8
+712,resnet50,Cheese baked shrimp,0.4,0.9
+713,resnet50,Tiramisu cake,0.7,0.9
+714,resnet50,Vetch,0.9,1.0
+715,resnet50,Spaghetti with tomato sauce and bacon,0.2,0.6
+716,resnet50,Egg beef porridge,0.2,0.7
+717,resnet50,Biangbiang,1.0,1.0
+718,resnet50,Pork rice noodles,0.5,0.7
+719,resnet50,Pig skin jelly,0.6,1.0
+720,resnet50,Crispy pork slices,0.7,0.9
+721,resnet50,Beautiful frog ﬁsh head,0.4,1.0
+722,resnet50,Seafood paella,0.6,0.9
+723,resnet50,Cruller,0.6,0.9
+724,resnet50,Soy sauce ﬁsh,0.9,1.0
+725,resnet50,Casserole ﬁsh head,0.9,0.9
+726,resnet50,Stir-fried shredded potatoes with celery,0.7,1.0
+727,resnet50,Potato stew chicken nuggets,0.6,0.9
+728,resnet50,Dregs biscuits,0.9,1.0
+729,resnet50,Kimchi hot pot,0.5,0.9
+730,resnet50,Fried dumpling,0.7,1.0
+731,resnet50,Crispy pork rice,0.2,0.9
+732,resnet50,Tribute dish,1.0,1.0
+733,resnet50,Peanut,0.6,1.0
+734,resnet50,Fried sausage,0.8,0.8
+735,resnet50,Baked potato chips,0.6,0.9
+736,resnet50,Hot and sour soup,0.7,0.8
+737,resnet50,Glutinous rice,0.7,0.9
+738,resnet50,Chicken soup rice noodles,0.2,0.5
+739,resnet50,Fried spicy chicken wing root,0.7,1.0
+740,resnet50,Dorayaki,0.2,0.6
+741,resnet50,Scrambled eggs with tomatoes,0.8,1.0
+742,resnet50,Nuomici,0.3,0.9
+743,resnet50,Fried lesser croaker,0.6,0.7
+744,resnet50,Shredded duck,0.2,0.5
+745,resnet50,Roast duck,0.6,0.9
+746,resnet50,Cream of mushroom soup,0.8,1.0
+747,resnet50,Spicy ﬁsh ball,0.6,1.0
+748,resnet50,Stir-fried pork with mustard,0.7,0.8
+749,resnet50,Steamed venetian bag,1.0,1.0
+750,resnet50,Double chicken hamburger,0.8,1.0
+751,resnet50,Abalone,0.8,1.0
+752,resnet50,Baked string beans,1.0,1.0
+753,resnet50,Tuna pizza,0.6,0.9
+754,resnet50,Roasted goose,0.5,0.8
+755,resnet50,Sauted sauerkraut sausage,0.8,1.0
+756,resnet50,White shellﬁsh,1.0,1.0
+757,resnet50,Baked fairy grass with Taro,0.3,0.8
+758,resnet50,Sauteed bean sprouts,0.6,1.0
+759,resnet50,Chicken rack,0.2,0.5
+760,resnet50,Stinky mandarin ﬁsh,0.4,0.8
+761,resnet50,Cold pot string,0.6,1.0
+762,resnet50,Cold papaya,1.0,1.0
+763,resnet50,Delicious fern powder,0.9,0.9
+764,resnet50,Lettuce fried meat,0.8,1.0
+765,resnet50,Stewed clams with Papaya,0.8,0.8
+766,resnet50,Roasted corn kebabs,0.8,1.0
+767,resnet50,Bandit duck,0.1,0.4
+768,resnet50,Baked corn with egg yolk,0.9,1.0
+769,resnet50,Chicken heart string,0.4,0.6
+770,resnet50,Phoenix tail prawns,0.4,1.0
+771,resnet50,Pickled sweet garlic,0.8,0.9
+772,resnet50,Fried chicken fork bone,0.9,1.0
+773,resnet50,Chicken burger,0.8,1.0
+774,resnet50,Fried pork chop,0.4,0.7
+775,resnet50,Skin shrimp,0.9,1.0
+776,resnet50,Fried pork with pepper,0.6,0.9
+777,resnet50,Pork lungs in chili sauce,0.6,0.8
+778,resnet50,Vermicelli soup,0.2,0.9
+779,resnet50,Dried chiba bean curd,0.7,0.8
+780,resnet50,Steam pot chicken,0.8,1.0
+781,resnet50,Lean meat soup,0.5,0.7
+782,resnet50,Stir fried vegetables,0.2,1.0
+783,resnet50,Sauted beef with hot pepper,0.4,0.9
+784,resnet50,Coconut cake,0.7,0.9
+785,resnet50,Hot pot chicken,0.4,0.8
+786,resnet50,Braised ﬁsh in plain pot,0.8,1.0
+787,resnet50,Stir-fried chives with bean curd sheets,0.9,1.0
+788,resnet50,Fried preserved eggs with pepper,0.8,0.9
+789,resnet50,Cold mixed pig ear,0.6,1.0
+790,resnet50,Semi cooked cheese,0.7,0.9
+791,resnet50,Tomato and egg soup,0.9,1.0
+792,resnet50,Stewed mutton,0.5,0.8
+793,resnet50,Beef ribs with black pepper,0.1,0.7
+794,resnet50,Noodles with beef,0.3,0.7
+795,resnet50,Roast lamb leg,0.8,0.9
+796,resnet50,Prawn tail,0.8,0.9
+797,resnet50,Baked beans,0.4,1.0
+798,resnet50,Stewed goose,0.6,0.9
+799,resnet50,Boiled egg,1.0,1.0
+800,resnet50,Radish strips,0.2,0.9
+801,resnet50,Fish porridge,0.7,0.9
+802,resnet50,River noodles in pig soup,0.7,1.0
+803,resnet50,Chicken kebabs,0.5,0.8
+804,resnet50,Angry birds cake,0.9,1.0
+805,resnet50,Soybean,0.6,1.0
+806,resnet50,Snail powder with beef brisket,0.2,0.4
+807,resnet50,Egg cake,0.6,0.9
+808,resnet50,Fried shrimps with cashew nuts,1.0,1.0
+809,resnet50,Simi fruit ﬁshing,0.6,0.8
+810,resnet50,Bean curd with stone plate,0.7,1.0
+811,resnet50,Stewed chicken leg,0.5,0.8
+812,resnet50,Stewed noodles with mutton,0.8,0.8
+813,resnet50,Matcha yellow peach cake,1.0,1.0
+814,resnet50,Mutton noodles,0.2,0.7
+815,resnet50,Cylindrical bone meal,1.0,1.0
+816,resnet50,Sliced pork and potato,0.7,0.9
+817,resnet50,Seafood congee,0.0,0.5
+818,resnet50,Ice porridge,0.9,1.0
+819,resnet50,Toothpick meat,0.6,0.9
+820,resnet50,Chicken feet pot,0.7,1.0
+821,resnet50,Roll cold noodle,0.9,1.0
+822,resnet50,Papaya and tremella soup,0.8,1.0
+823,resnet50,Golden sweet potato stick,0.3,0.8
+824,resnet50,Fruit pizza,0.8,1.0
+825,resnet50,Pineapple fried rice,0.6,0.8
+826,resnet50,Stewed pork feet with ginger,0.7,1.0
+827,resnet50,Stir-fried celery with smoked bean curd,0.7,0.9
+828,resnet50,Steamed scallop with minced garlic and vermicelli,1.0,1.0
+829,resnet50,Dried tofu,1.0,1.0
+830,resnet50,Cranberry cookies,0.9,1.0
+831,resnet50,Boiled mutton,0.8,0.8
+832,resnet50,Boiled crayﬁsh,1.0,1.0
+833,resnet50,Salted white shrimp,1.0,1.0
+834,resnet50,Marinated goose,0.3,0.7
+835,resnet50,Sweet plum and sweet potato,0.9,1.0
+836,resnet50,Water-chestnut pudding,0.8,0.8
+837,resnet50,Preserved egg with chopped pepper,0.7,1.0
+838,resnet50,Tofu pudding,0.8,0.9
+839,resnet50,Deep-fried dough sticks,0.9,1.0
+840,resnet50,Fried squid ring,0.5,0.7
+841,resnet50,Grilled squid,0.6,0.8
+842,resnet50,Takoyaki,0.8,0.9
+843,resnet50,Popcorn chicken,0.6,0.9
+844,resnet50,Roasted ﬁsh with soy sauce,0.3,0.6
+845,resnet50,Steamed Wuchang Fish,0.4,0.9
+846,resnet50,Cucumber preserved egg soup,1.0,1.0
+847,resnet50,Kebabs with soy sauce,0.3,0.6
+848,resnet50,Eggplant with hot pepper,0.8,1.0
+849,resnet50,Fried bacon with lotus beans,0.7,1.0
+850,resnet50,Steamed green spotted ﬁsh,0.4,0.8
+851,resnet50,Steamed white guitar,0.0,0.9
+852,resnet50,Yu-Shiang eggplant,0.3,0.7
+853,resnet50,Eel roll sushi,0.8,1.0
+854,resnet50,Mango sorbet,0.8,1.0
+855,resnet50,Marinated beef,0.3,0.8
+856,resnet50,Fish and mutton,0.4,0.7
+857,resnet50,Scrambled egg with chopped chili pepper,0.8,1.0
+858,resnet50,Blueberry sundae,1.0,1.0
+859,resnet50,Mixed beans,0.2,0.8
+860,resnet50,Fried rice with bacon,0.8,0.9
+861,resnet50,Spicy wings,0.9,0.9
+862,resnet50,Hot and sour lotus root,0.9,0.9
+863,resnet50,Razor clam,1.0,1.0
+864,resnet50,Roast dried pork,0.8,0.8
+865,resnet50,Spicy carp,0.7,0.9
+866,resnet50,Cumin beef,0.5,0.7
+867,resnet50,Red dates and tremella soup,0.3,0.8
+868,resnet50,Pineapple cake,1.0,1.0
+869,resnet50,Strawberry ice cream,0.4,0.8
+870,resnet50,Crab seed sushi,1.0,1.0
+871,resnet50,Sea cucumber with millet,0.9,1.0
+872,resnet50,Braised steak ﬁllet,0.0,0.7
+873,resnet50,Braised chicken,0.1,0.6
+874,resnet50,Fried meatballs,1.0,1.0
+875,resnet50,Spicy palm,0.3,0.7
+876,resnet50,Black sesame glutinous rice balls,0.6,0.8
+877,resnet50,Grilled beef ribs,0.8,1.0
+878,resnet50,Steamed yellow croaker,0.8,1.0
+879,resnet50,Fried balls and radish,0.6,0.9
+880,resnet50,Flammulina velutipes roll with streaky pork,0.8,0.8
+881,resnet50,Grilled eggplant,0.8,0.9
+882,resnet50,Baby cabbage with garlic,0.6,0.8
+883,resnet50,Stir fried beef with mustard,0.9,1.0
+884,resnet50,Watermelon sago,0.8,0.9
+885,resnet50,Mango sausage,0.9,1.0
+886,resnet50,Boiled ﬁsh with pickled cabbage and chili,0.5,0.7
+887,resnet50,Spare ribs with garlic,0.3,0.7
+888,resnet50,Stewed meat noodles,0.3,0.6
+889,resnet50,Rice peel,0.7,0.9
+890,resnet50,Plate reinforcement,0.2,0.7
+891,resnet50,Steamed abalone with garlic and vermicelli,0.5,1.0
+892,resnet50,Steamed sausage noodles with lean meat,0.9,1.0
+893,resnet50,Grilled beef short rib,0.2,0.9
+894,resnet50,Cold mixed peanuts,0.7,1.0
+895,resnet50,Braised small yellow croaker,0.9,1.0
+896,resnet50,Steamedf Fish head with diced hot red peppers,0.6,1.0
+897,resnet50,Sugar fried chestnut,0.5,1.0
+898,resnet50,Coconut pudding,1.0,1.0
+899,resnet50,Caesar salad,0.3,0.8
+900,resnet50,Sichuan dandan noodles,0.7,0.9
+901,resnet50,Eggplant rice,0.4,0.8
+902,resnet50,Overlord chicken strips,0.2,0.9
+903,resnet50,Miso soup,0.7,1.0
+904,resnet50,Fried rice with beef,0.4,0.7
+905,resnet50,Golden pancake,0.9,0.9
+906,resnet50,Kalimeris with smoked bean curd,0.9,1.0
+907,resnet50,Chicken soup,0.5,1.0
+908,resnet50,Pine bass,0.8,1.0
+909,resnet50,Baked leek string,1.0,1.0
+910,resnet50,Taro round Sago,0.9,0.9
+911,resnet50,Cold bean sprouts,0.7,0.9
+912,resnet50,White cake,0.7,1.0
+913,resnet50,Braised chicken,0.9,1.0
+914,resnet50,Fried milk,0.7,0.9
+915,resnet50,Dried baby cabbage,1.0,1.0
+916,resnet50,Fried mater convolvulus,0.5,1.0
+917,resnet50,Fish and egg noodles,0.9,1.0
+918,resnet50,Boiled peanuts,1.0,1.0
+919,resnet50,Black pepper steak,0.3,0.8
+920,resnet50,Spicy salted duck,0.6,1.0
+921,resnet50,Shredded bean curd with cold sauce,0.6,1.0
+922,resnet50,Amaebi,0.5,0.9
+923,resnet50,Seafood noodle bumps,0.8,1.0
+924,resnet50,Three delicacies in casserole,0.2,0.5
+925,resnet50,Steamed chicken with rice in lotus leaf,1.0,1.0
+926,resnet50,Braised sea cucumber with scallion,0.8,1.0
+927,resnet50,Dry pot beef,0.1,0.5
+928,resnet50,Boiled broccoli,0.7,1.0
+929,resnet50,Mixed wonton,0.9,0.9
+930,resnet50,Glutinous rice cake with brown sugar,0.8,0.9
+931,resnet50,Squid body,0.1,0.9
+932,resnet50,Vegetable pot,0.9,1.0
+933,resnet50,Curry sirloin,1.0,1.0
+934,resnet50,Meat ﬂoss cake,0.7,1.0
+935,resnet50,Crispy corn cob,0.9,1.0
+936,resnet50,Fried rice with sausage,0.1,0.5
+937,resnet50,Baby cabbage in casserole,0.8,0.8
+938,resnet50,Fried shrimp,0.5,0.8
+939,resnet50,Mutton hot pot,0.1,0.6
+940,resnet50,Tea ﬂavored boiled eggs,0.6,0.8
+941,resnet50,Rice with vegetables,0.7,0.9
+942,resnet50,Sausages with cheese,0.9,1.0
+943,resnet50,Broccoli soup,1.0,1.0
+944,resnet50,Roast tripe,0.7,0.8
+945,resnet50,Minced beef congee,0.4,0.8
+946,resnet50,Steamed mandarin ﬁsh,0.6,0.9
+947,resnet50,Stewed beef offal,0.4,0.9
+948,resnet50,Scalded prawns,0.8,0.9
+949,resnet50,Ice cream egg puff,0.9,1.0
+950,resnet50,Honey toast,0.7,0.9
+951,resnet50,Rice with chicken leg,0.3,0.7
+952,resnet50,The brine cattle show,0.1,0.8
+953,resnet50,Bibimbap with pork belly,0.7,1.0
+954,resnet50,Shredded meat,0.9,1.0
+955,resnet50,Egg steamed meatloaf,0.7,0.9
+956,resnet50,Steamed side ﬁsh,0.6,0.8
+957,resnet50,Chinese salad,0.6,1.0
+958,resnet50,Deep-fried cakes,0.9,1.0
+959,resnet50,Roast chicken pizza,0.2,0.6
+960,resnet50,Sauce-ﬂavored beef tendon,0.1,0.7
+961,resnet50,Coca cola chicken wings,0.3,0.8
+962,resnet50,Fried river prawns with leek,0.9,1.0
+963,resnet50,Chicken hot pot,0.5,0.7
+964,resnet50,Stewed meatballs with brown sauce,0.6,0.9
+965,resnet50,Boiled lamb chops,0.1,0.5
+966,resnet50,Salt baked chicken,0.5,1.0
+967,resnet50,Spicy shrimp pot,0.6,1.0
+968,resnet50,Hotbed chives with pork,0.7,1.0
+969,resnet50,Papaya cool water,0.6,0.9
+970,resnet50,Garlic seasonal vegetables,0.4,1.0
+971,resnet50,Appetizer duck blood,0.7,1.0
+972,resnet50,Salted egg yolk baked pumpkin,0.6,0.9
+973,resnet50,Fried beef rice with bitter melon,0.8,1.0
+974,resnet50,Sauce big bone,0.3,0.7
+975,resnet50,Broiled river eel,0.5,0.7
+976,resnet50,Kung Pao chicken with rice,0.5,0.8
+977,resnet50,Caterpillar bread,0.9,0.9
+978,resnet50,Sliced pork soup,0.7,0.9
+979,resnet50,Clam tofu soup,0.5,1.0
+980,resnet50,Stone pot tofu,0.6,0.8
+981,resnet50,Stir-fried pork liver,0.6,0.8
+982,resnet50,Stir-Fried pork with smoked bean curd,0.3,0.8
+983,resnet50,Steamed twisted roll with scallions,0.7,0.9
+984,resnet50,Mixed mentai ﬁsh shreds,1.0,1.0
+985,resnet50,Slippery rice mushrooms chicken,0.6,1.0
+986,resnet50,Beef hotpot,0.2,0.7
+987,resnet50,Luncheon meat,1.0,1.0
+988,resnet50,Peru system sauce duck,0.8,1.0
+989,resnet50,Shredded rabbit meat,0.8,0.9
+990,resnet50,Tuna onigiri,0.6,0.9
+991,resnet50,Egg pancake,0.7,0.9
+992,resnet50,Three-cup chicken,0.8,0.9
+993,resnet50,Noodles with chicken leg soup,0.7,0.8
+994,resnet50,Fried stone egg,0.6,0.8
+995,resnet50,Honey concave cake,0.7,0.9
+996,resnet50,Chocolate egg wafﬂes,0.4,0.9
+997,resnet50,Lobster rice bowl,0.7,0.9
+998,resnet50,Scrambled eggs with Chinese chives,0.9,0.9
+999,resnet50,Pan-Fried calf chop,1.0,1.0
+1000,resnet50,Black grass jelly,1.0,1.0
+1001,resnet50,Tobiko warship sushi,0.9,1.0
+1002,resnet50,Beef ribs,0.5,0.8
+1003,resnet50,Green pepper shredded pork,0.5,0.9
+1004,resnet50,Sweet and sour pork ribs,0.6,0.7
+1005,resnet50,Original soup wonton,0.1,0.8
+1006,resnet50,Salt grilled salmon head,0.9,1.0
+1007,resnet50,Quicksand bun with egg custard,0.9,1.0
+1008,resnet50,Stir-fried shredded pork with celery,0.9,0.9
+1009,resnet50,Garlic chicken feet,0.1,0.6
+1010,resnet50,Black pearl with smoothie,0.8,1.0
+1011,resnet50,Roasted lamb loin,0.9,1.0
+1012,resnet50,Donuts,0.7,1.0
+1013,resnet50,Spicy cabbage sushi roll,0.3,0.7
+1014,resnet50,Cold rice noodles,0.6,0.9
+1015,resnet50,Black pepper chicken chop rice,0.0,0.3
+1016,resnet50,Fried thousand page tofu,0.6,0.8
+1017,resnet50,Corn cup,1.0,1.0
+1018,resnet50,Sauce bones,0.4,0.8
+1019,resnet50,Seafood udon,0.6,0.7
+1020,resnet50,Baked cheesy seafood baked rice,0.1,0.6
+1021,resnet50,Hot noodles with sesame paste,0.6,0.9
+1022,resnet50,Sizzling beef,0.6,0.7
+1023,resnet50,Corn pie,0.7,1.0
+1024,resnet50,Pickled mustard with shredded soup,0.6,1.0
+1025,resnet50,Fruit and vegetable salad,0.2,0.9
+1026,resnet50,Chicken wingette skewers,0.8,1.0
+1027,resnet50,Yuanbao shrimp,0.7,0.9
+1028,resnet50,Sliced roast duck,0.4,0.7
+1029,resnet50,Mao xuewang,0.6,0.8
+1030,resnet50,Leek box,0.4,0.9
+1031,resnet50,Beer ﬁsh,0.8,0.8
+1032,resnet50,Griddle squid,0.7,0.9
+1033,resnet50,Purple sweet potato bun,0.9,1.0
+1034,resnet50,Twice-cooked pork with rice,0.4,1.0
+1035,resnet50,Red oil dumplings,0.6,0.9
+1036,resnet50,Beef noodles,0.2,0.5
+1037,resnet50,Delicious daifuku,0.6,1.0
+1038,resnet50,Fried crab with ginger and green onion,0.6,0.8
+1039,resnet50,Flower cake,0.7,0.9
+1040,resnet50,Oreo snow mei niang,0.9,0.9
+1041,resnet50,Fried lotus root,0.9,1.0
+1042,resnet50,Chocolate donut,0.9,1.0
+1043,resnet50,Chocolate toast,1.0,1.0
+1044,resnet50,Roll dough,0.7,0.9
+1045,resnet50,Durian pulp ice cream,0.6,1.0
+1046,resnet50,Fried shrimp,1.0,1.0
+1047,resnet50,Fried ﬁsh,0.5,0.9
+1048,resnet50,Casserole balls,0.7,0.7
+1049,resnet50,Spinach egg drop soup,0.9,1.0
+1050,resnet50,Beef soup,1.0,1.0
+1051,resnet50,Spring pancake,0.5,0.8
+1052,resnet50,Stir-fried rougamo,0.3,0.8
+1053,resnet50,Spicy ribs and shrimp,0.3,0.8
+1054,resnet50,Spicy cucumber strips,1.0,1.0
+1055,resnet50,Shrimp wanton,0.7,0.9
+1056,resnet50,Pickled cabbage noodles,0.3,0.4
+1057,resnet50,Crispy radish skin,0.7,0.9
+1058,resnet50,Golden mantou,0.9,0.9
+1059,resnet50,Braised pork rice,0.5,0.8
+1060,resnet50,Sugar mixed tomatoes,0.8,1.0
+1061,resnet50,Shrimp pizza,0.5,0.9
+1062,resnet50,Yang chun noodles,0.7,1.0
+1063,resnet50,Stir-fried bitter gourd,0.9,1.0
+1064,resnet50,Spicy fried clams,0.9,1.0
+1065,resnet50,Soft tofu soup,0.7,0.9
+1066,resnet50,Marinated chicken gizzards,0.1,0.7
+1067,resnet50,Fried winter melon,0.8,0.9
+1068,resnet50,Fried tofu,0.5,0.8
+1069,resnet50,Cold noodles,0.7,0.8
+1070,resnet50,Fried egg,0.9,1.0
+1071,resnet50,Braised duck head,0.8,1.0
+1072,resnet50,Stir-fried chicken with pickled peppers,0.6,0.7
+1073,resnet50,Cold rice cake,0.9,1.0
+1074,resnet50,Shrimp tail,0.4,1.0
+1075,resnet50,Shredded lettuce salad,0.3,1.0
+1076,resnet50,Steamed chicken,0.4,0.7
+1077,resnet50,Tonkatsu,0.9,0.9
+1078,resnet50,Sam chicken soup,0.6,0.8
+1079,resnet50,Salted chicken,0.8,1.0
+1080,resnet50,Tomato sirloin,0.6,1.0
+1081,resnet50,Griddle cooked lettuce bacon,0.6,1.0
+1082,resnet50,Cold fungus,0.6,0.9
+1083,resnet50,Sizzling garlic shrimp,1.0,1.0
+1084,resnet50,Pork ears with chilli oil dressing,0.3,0.7
+1085,resnet50,Braised pork with potatoes,0.4,0.7
+1086,resnet50,Stir-fried pig ears,0.5,0.9
+1087,resnet50,Chilli oil liangpi,0.2,0.7
+1088,resnet50,Corn and vegetable porridge,0.9,0.9
+1089,resnet50,Spicy hot pot,0.5,0.6
+1090,resnet50,Baked pig brain with tin foil,0.4,0.9
+1091,resnet50,Lamb pot,0.4,0.8
+1092,resnet50,Crab and cheese soft pretzel,0.8,0.9
+1093,resnet50,Toasted bread,0.6,0.9
+1094,resnet50,Sea bream sashimi,0.9,1.0
+1095,resnet50,Lotus root slices,0.5,1.0
+1096,resnet50,Pork ﬂoss seaweed roll,0.3,1.0
+1097,resnet50,Bean curd beef,0.5,0.6
+1098,resnet50,Sixi roasted bran,0.9,1.0
+1099,resnet50,Griddle duck head,0.9,0.9
+1100,resnet50,Tofu soup rice cake,1.0,1.0
+1101,resnet50,Sour and spicy ﬁsh meal with grain,0.9,1.0
+1102,resnet50,Mushroom pot,0.3,0.6
+1103,resnet50,Orlean roasted wing,0.7,1.0
+1104,resnet50,Three products of sashimi,0.9,1.0
+1105,resnet50,Durian cake,0.6,0.8
+1106,resnet50,White cut lamb,0.8,1.0
+1107,resnet50,Trash ﬁsh,0.7,1.0
+1108,resnet50,Vanilla ice cream,0.3,0.8
+1109,resnet50,Mushu pork rice bowl,0.8,1.0
+1110,resnet50,Fried pork with beans,0.5,0.8
+1111,resnet50,Sauerkraut meat,0.8,1.0
+1112,resnet50,Napoleon cake,0.5,0.8
+1113,resnet50,Meringue puffs,0.5,0.8
+1114,resnet50,Enoki mushroom,0.6,0.7
+1115,resnet50,Chicken breast salad,0.5,1.0
+1116,resnet50,Lotus root box,0.4,0.7
+1117,resnet50,Simmered dry noodles,0.1,0.4
+1118,resnet50,Pigeon soup,0.6,0.9
+1119,resnet50,Duck belly,1.0,1.0
+1120,resnet50,Beef jerky,0.9,0.9
+1121,resnet50,Chestnut cream soup,0.8,1.0
+1122,resnet50,Plum kidney bean,0.6,0.9
+1123,resnet50,Red bean sago,0.4,0.8
+1124,resnet50,Lemon sauerkraut ﬁsh,0.5,1.0
+1125,resnet50,Fried pork with sauerkraut,0.3,0.9
+1126,resnet50,Sauce chili,0.6,0.7
+1127,resnet50,Squid crisp,0.9,0.9
+1128,resnet50,Spicy korean noodles,0.7,0.9
+1129,resnet50,Steamed rice with mei cai meatloaf,0.8,1.0
+1130,resnet50,King crab,1.0,1.0
+1131,resnet50,Beef noodle soup,0.3,0.7
+1132,resnet50,Fried frog,0.8,0.8
+1133,resnet50,Mustard duck feet,0.8,1.0
+1134,resnet50,Fried squid,0.5,0.9
+1135,resnet50,Cucumber with pork ears,0.9,1.0
+1136,resnet50,Potato salad,0.3,0.6
+1137,resnet50,Oily noodles,0.9,1.0
+1138,resnet50,Red oil yuba,0.6,1.0
+1139,resnet50,Soup noodles,0.7,0.8
+1140,resnet50,Braised lamb,0.6,1.0
+1141,resnet50,Fried noodles,0.9,0.9
+1142,resnet50,Grilled salmon sushi,0.6,0.7
+1143,resnet50,Lotus seed pork belly soup,0.7,0.9
+1144,resnet50,Pickled fresh,0.7,0.8
+1145,resnet50,Pepper rabbit,0.7,0.9
+1146,resnet50,Beef tendon noodles,0.7,1.0
+1147,resnet50,Onion mixed fungus,0.7,1.0
+1148,resnet50,Arctic bay sashimi,0.5,1.0
+1149,resnet50,Braised sheep’s hoof,0.7,1.0
+1150,resnet50,Cucumber dip,1.0,1.0
+1151,resnet50,Chicken rice,0.1,0.2
+1152,resnet50,Sweet potato balls with taro,0.4,0.9
+1153,resnet50,Egg pancakes,0.2,0.5
+1154,resnet50,Braised pork with chestnut,0.7,0.8
+1155,resnet50,Stewed foie gras,0.7,1.0
+1156,resnet50,Pickled ﬁsh rice noodles,0.0,0.4
+1157,resnet50,Pork head meat mixed with cucumber,0.9,1.0
+1158,resnet50,Crepe,0.6,0.8
+1159,resnet50,Black rice porridge,0.5,0.9
+1160,resnet50,Griddle ribs,0.4,0.7
+1161,resnet50,Sauce beef,0.6,0.8
+1162,resnet50,Salt and pepper shrimp,0.3,0.6
+1163,resnet50,Stewed chicken soup with cordyceps ﬂower,0.6,0.9
+1164,resnet50,Sour soup pork,0.4,0.8
+1165,resnet50,Braised pigeon,0.2,0.6
+1166,resnet50,Sausage pizza,0.3,0.7
+1167,resnet50,Candied sweet potatoes,1.0,1.0
+1168,resnet50,Shrimp sushi,0.9,1.0
+1169,resnet50,Crispy chicken bibimbap,0.5,0.6
+1170,resnet50,Fried noodles with seafood,0.3,0.7
+1171,resnet50,Griddle of pleurotus eryngii,0.6,0.7
+1172,resnet50,Fried beans,0.1,0.9
+1173,resnet50,The ﬁve-star chicken nuggets,0.4,1.0
+1174,resnet50,Broth bottom,0.8,0.9
+1175,resnet50,Pilaf,0.7,0.9
+1176,resnet50,Griddle beef with skin,0.7,0.9
+1177,resnet50,Cold dried eggs,0.7,0.8
+1178,resnet50,Celery and peanuts,0.6,1.0
+1179,resnet50,Sauerkraut chicken,0.4,0.5
+1180,resnet50,Golden cake,0.9,1.0
+1181,resnet50,Pickled cucumber,0.7,0.9
+1182,resnet50,Potted cake,0.9,1.0
+1183,resnet50,Rice burger,0.8,1.0
+1184,resnet50,Mango fried yogurt,1.0,1.0
+1185,resnet50,Sawdust cup,1.0,1.0
+1186,resnet50,Fresh pot rabbit,0.7,0.9
+1187,resnet50,Mango sticky rice cake,1.0,1.0
+1188,resnet50,Honey roasted whole chicken,0.8,1.0
+1189,resnet50,Shredded cake,0.7,0.9
+1190,resnet50,Tenderloin skewers,0.3,0.8
+1191,resnet50,Bean sprouts in soup,0.7,0.9
+1192,resnet50,Salmon salad,0.5,0.7
+1193,resnet50,Dry roasted large yellow croaker,0.5,0.8
+1194,resnet50,Fish skin dumplings,1.0,1.0
+1195,resnet50,Signature chicken feet,0.8,0.9
+1196,resnet50,Pimple face,0.4,0.8
+1197,resnet50,Fried lamb chops,0.1,0.7
+1198,resnet50,Stir-fried squid whiskers,1.0,1.0
+1199,resnet50,Fried ﬁve spice roll,0.8,0.8
+1200,resnet50,Crock soup,0.8,0.8
+1201,resnet50,Tofu bubble,0.8,1.0
+1202,resnet50,Steamed ﬁsh head with double pepper,0.9,1.0
+1203,resnet50,Dried radish omelette,0.3,1.0
+1204,resnet50,Shredded potato burrito,0.7,0.8
+1205,resnet50,Scrambled eggs with green onion,0.9,1.0
+1206,resnet50,Mixed beef,0.3,0.7
+1207,resnet50,Garlic bread,0.9,1.0
+1208,resnet50,Sauteed pork with green beans,0.5,0.7
+1209,resnet50,Braised vermicelli with chicken and mushroom,0.5,0.8
+1210,resnet50,Oreo ice cream,0.9,1.0
+1211,resnet50,Braised ham sausage,0.6,1.0
+1212,resnet50,Stir-fried pork with green peppers,0.6,0.8
+1213,resnet50,Mung bean soup,0.6,0.9
+1214,resnet50,Sauerkraut vermicelli soup,0.9,0.9
+1215,resnet50,Organic ﬁsh,0.1,0.6
+1216,resnet50,Shredded squid,0.9,1.0
+1217,resnet50,Spicy fried escargot,0.5,0.9
+1218,resnet50,Honey chicken feet,0.5,0.8
+1219,resnet50,Cucumber mixed with garlic paste,0.8,1.0
+1220,resnet50,Watermelon smoothie,0.7,0.8
+1221,resnet50,Scallops and shrimp congee,0.1,0.5
+1222,resnet50,Multigrain bun,0.9,0.9
+1223,resnet50,Cold preserved egg,0.7,1.0
+1224,resnet50,Spicy chicken,0.2,0.4
+1225,resnet50,Good harvest of coarse grains,1.0,1.0
+1226,resnet50,Stir-fried lettuce with dace in black bean sauce,1.0,1.0
+1227,resnet50,Pickled cabbage powder,0.9,0.9
+1228,resnet50,Stone egg skewers,0.8,1.0
+1229,resnet50,Sauteed beef ﬁllet with hot green pepper,0.8,0.9
+1230,resnet50,Chocolate brown cake,0.3,0.9
+1231,resnet50,Cucumber fritters,1.0,1.0
+1232,resnet50,Steamed pork ribs,0.6,0.9
+1233,resnet50,Sea star,0.5,0.8
+1234,resnet50,Fried dried tofu,0.3,0.8
+1235,resnet50,Crab fried rice cake,0.6,0.9
+1236,resnet50,Fried sweet potato balls,0.6,1.0
+1237,resnet50,Guiling paste,0.7,0.9
+1238,resnet50,Green vegetable tofu soup,0.9,1.0
+1239,resnet50,Mapo tofu,1.0,1.0
+1240,resnet50,Grilled fatty intestine skewers,0.7,1.0
+1241,resnet50,Pan-fried pork bun,0.9,1.0
+1242,resnet50,Braised turtle,0.9,1.0
+1243,resnet50,Cilantro tofu soup,0.8,1.0
+1244,resnet50,Fried rice with sauerkraut and egg,0.3,0.9
+1245,resnet50,Mustard pork noodles,0.5,1.0
+1246,resnet50,Chicken casserole,0.1,0.8
+1247,resnet50,Polenta,1.0,1.0
+1248,resnet50,Pork noodles,0.5,0.7
+1249,resnet50,Spicy squid,0.1,0.5
+1250,resnet50,Ketchup surface,0.6,1.0
+1251,resnet50,Grilled cod,0.4,0.7
+1252,resnet50,Ice cream cone,0.8,1.0
+1253,resnet50,Large rows of rice,0.7,0.7
+1254,resnet50,Chestnut shortbread,0.5,0.9
+1255,resnet50,Marinated goose wings,0.8,1.0
+1256,resnet50,Vegetarian abalone,0.6,0.9
+1257,resnet50,Pan-fried three stuffed treasures,1.0,1.0
+1258,resnet50,Ice cream ball,0.7,0.8
+1259,resnet50,Fried ham with cucumber,1.0,1.0
+1260,resnet50,Piggy paige cake,1.0,1.0
+1261,resnet50,Chicken sandwich,0.9,1.0
+1262,resnet50,Mango black jelly,0.9,1.0
+1263,resnet50,Roast chicken,0.3,0.5
+1264,resnet50,Walnut buns,1.0,1.0
+1265,resnet50,Braised tofu in abalone sauce,0.9,1.0
+1266,resnet50,The oil meat,0.7,0.8
+1267,resnet50,Cheese ribs,0.9,1.0
+1268,resnet50,Firewood chicken,0.7,1.0
+1269,resnet50,Fried dumplings,0.5,0.9
+1270,resnet50,Sushi of ﬂoss,0.9,1.0
+1271,resnet50,Yongzhou blood duck,0.7,1.0
+1272,resnet50,Braised beef brisket en casserole,0.0,0.5
+1273,resnet50,Preserved rice,0.5,0.8
+1274,resnet50,Guokui,0.6,1.0
+1275,resnet50,Fried rice cake with chinese cabbage,0.4,0.9
+1276,resnet50,Stewed bean curd soup with crucian carp,0.9,1.0
+1277,resnet50,Smoothies,0.3,0.7
+1278,resnet50,Elbow,0.3,0.8
+1279,resnet50,Golden cod,0.3,0.9
+1280,resnet50,Cheese baked scallops,0.5,0.9
+1281,resnet50,Sauerkraut bass,0.2,0.7
+1282,resnet50,Bean buns,0.5,0.8
+1283,resnet50,Durian pizza,0.2,0.9
+1284,resnet50,Boiled dried shreds,0.7,0.9
+1285,resnet50,Steamed chicken feet with black bean sauce,0.6,0.9
+1286,resnet50,Blueberry mousse,0.9,1.0
+1287,resnet50,Fried rice noodles with eggs,0.3,0.9
+1288,resnet50,Rice with duck legs,0.7,1.0
+1289,resnet50,Tofu with shallots,0.6,0.9
+1290,resnet50,Waxiang chicken,0.4,0.9
+1291,resnet50,Tomahaw,0.8,1.0
+1292,resnet50,Bacon sandwich,0.7,0.9
+1293,resnet50,Braised eggplant with bean curd,0.9,1.0
+1294,resnet50,Donkey burger,1.0,1.0
+1295,resnet50,Braised ﬁsh with soy sauce,0.4,0.8
+1296,resnet50,Rice covered with black pepper steak,0.3,0.4
+1297,resnet50,Italian noodle with meat sauce,0.7,0.9
+1298,resnet50,Rice with teriyaki drumstick,0.4,0.4
+1299,resnet50,Duck blood and bean-starchy vermicelli soup,0.7,0.8
+1300,resnet50,Sauteed lettuce,0.8,0.9
+1301,resnet50,Corn with pine nuts,0.9,0.9
+1302,resnet50,Ice powder,0.9,1.0
+1303,resnet50,Egg wrapped sausage,0.9,0.9
+1304,resnet50,Rainbow cake,0.9,1.0
+1305,resnet50,Blueberry smoothie,0.9,1.0
+1306,resnet50,Lava cake,0.8,1.0
+1307,resnet50,Stir fried vermicelli,0.6,0.8
+1308,resnet50,Fried shrimp,0.6,0.8
+1309,resnet50,Fried squid ﬂower,0.8,0.9
+1310,resnet50,Stewed croaker in brown sauce,0.7,0.9
+1311,resnet50,Quick-fried liver with distilled grains sauce,0.8,1.0
+1312,resnet50,Secret jujube,1.0,1.0
+1313,resnet50,Pita bread so awked in beef soup,0.2,1.0
+1314,resnet50,Vinegar turnip,0.7,1.0
+1315,resnet50,Wonton,1.0,1.0
+1316,resnet50,Beef soup,0.8,1.0
+1317,resnet50,Muxu pork,0.5,0.9
+1318,resnet50,Seaweed sushi,0.8,1.0
+1319,resnet50,Steamed turbot,0.9,1.0
+1320,resnet50,Larimichthys,0.4,0.6
+1321,resnet50,Fried chicken,0.3,0.7
+1322,resnet50,Salted pork in jelly crystal trotter,0.8,1.0
+1323,resnet50,Pork with preserved vegetable,0.3,0.6
+1324,resnet50,Flower cake,1.0,1.0
+1325,resnet50,Barbecued pork noodle rolls,0.7,0.9
+1326,resnet50,Potato chips on sizzling iron plate,0.6,0.9
+1327,resnet50,Fried bean sprouts with leek,0.9,1.0
+1328,resnet50,Sesame octopus,0.9,0.9
+1329,resnet50,Fried razor clam,0.8,1.0
+1330,resnet50,Cheese pizza,0.7,1.0
+1331,resnet50,Pork with garlic sauce,0.9,0.9
+1332,resnet50,Scalded beef,0.8,0.9
+1333,resnet50,Sugar oil cake,0.5,1.0
+1334,resnet50,Noodles with pork chop,0.8,1.0
+1335,resnet50,Fried hairtail,0.7,1.0
+1336,resnet50,Braised pork with vermicelli,0.6,0.7
+1337,resnet50,Marinated quail eggs,0.6,0.9
+1338,resnet50,Chinese chestnut,0.8,1.0
+1339,resnet50,Spicy beef soup,0.8,0.8
+1340,resnet50,Boiled egg,0.3,0.8
+1341,resnet50,Noodles soup,0.9,1.0
+1342,resnet50,Braised pork,0.7,0.8
+1343,resnet50,Rice with curry chicken chop,0.8,1.0
+1344,resnet50,Balsam pear scrambled eggs,1.0,1.0
+1345,resnet50,Roast chicken wings,0.7,1.0
+1346,resnet50,Yogurt purple rice,0.7,1.0
+1347,resnet50,Pork rice,0.6,0.8
+1348,resnet50,Fried bacon with lettuce,0.7,1.0
+1349,resnet50,Fried eggs with pepper,0.6,1.0
+1350,resnet50,Pork stomach,0.3,0.7
+1351,resnet50,Australian skewers,0.5,0.5
+1352,resnet50,Steamed rice with barbecued pork,0.6,1.0
+1353,resnet50,Bread soaked in ﬁsh head soup,0.3,0.8
+1354,resnet50,Shredded pork skin,0.8,0.9
+1355,resnet50,Soy sauce chicken,0.6,0.8
+1356,resnet50,Tea ﬂavored shrimp,0.9,1.0
+1357,resnet50,Home-style bean curd,0.3,0.7
+1358,resnet50,Pita bread so awked in lamp soup,0.4,0.5
+1359,resnet50,Scramble egg,0.8,1.0
+1360,resnet50,Stewed chicken with mushroom,0.5,1.0
+1361,resnet50,Grilled chicken breast,0.3,0.7
+1362,resnet50,Oyster sauce beef,0.4,0.8
+1363,resnet50,Stewed spareribs with potatoes,0.3,0.7
+1364,resnet50,Marinated beef tripe,0.9,0.9
+1365,resnet50,Sesame paste,1.0,1.0
+1366,resnet50,Coconut rice,0.9,1.0
+1367,resnet50,Mother’s hoof soup,0.3,0.7
+1368,resnet50,Double chicken drumsticks,0.6,0.9
+1369,resnet50,Roasted fresh catﬁsh,0.5,0.9
+1370,resnet50,Fried pork with dried meat,0.5,0.8
+1371,resnet50,Coconut chicken,0.6,0.6
+1372,resnet50,Steamed luffa with minced garlic,1.0,1.0
+1373,resnet50,Spareribs with taro,0.5,0.9
+1374,resnet50,Fried soybeans with luffa,1.0,1.0
+1375,resnet50,Cod ﬁsh steak,0.4,0.8
+1376,resnet50,Rice bag,1.0,1.0
+1377,resnet50,Pickle soup,0.7,0.9
+1378,resnet50,Braised pork with braised pork,0.5,1.0
+1379,resnet50,Fried crab with curry,0.7,0.9
+1380,resnet50,Fried shrimp,0.9,0.9
+1381,resnet50,Salt and pepper duck chin,0.7,0.9
+1382,resnet50,Tofu pot,0.3,0.6
+1383,resnet50,Fried noodles with beef,0.8,1.0
+1384,resnet50,Baked prawns with salt,0.8,0.9
+1385,resnet50,Spicy hot pot,0.5,0.9
+1386,resnet50,Pork chop soup with radish,0.9,1.0
+1387,resnet50,Powder soup,0.4,0.7
+1388,resnet50,Spicy ﬁsh,0.4,0.8
+1389,resnet50,Whitebait soup,0.8,0.9
+1390,resnet50,Fried cantonese sausage,0.8,0.9
+1391,resnet50,Mixed agaric with coriander,0.9,1.0
+1392,resnet50,Bamboo rice,1.0,1.0
+1393,resnet50,Fried noodles with beef,0.3,0.7
+1394,resnet50,Braised eggplant with meat,0.9,1.0
+1395,resnet50,Sugar pie,0.3,0.8
+1396,resnet50,Steamed bun with vegetables,0.8,1.0
+1397,resnet50,Crystal chicken,0.4,0.9
+1398,resnet50,Buddha jumps over the wall,0.6,1.0
+1399,resnet50,Spareribs with brown sauce,0.7,0.9
+1400,resnet50,Silky chicken roll,0.3,1.0
+1401,resnet50,Roasted eggplant with garlic,0.8,0.9
+1402,resnet50,Fried rice with eel,0.4,0.7
+1403,resnet50,Grilled cold noodles,1.0,1.0
+1404,resnet50,Cabbage tofu soup,0.7,1.0
+1405,resnet50,Northeast big lift,0.4,0.7
+1406,resnet50,Grilled chiba tofu,0.4,0.9
+1407,resnet50,Fried konjac balls,0.9,1.0
+1408,resnet50,Spike potatoes,0.7,0.9
+1409,resnet50,Hot and sour chicken feet,0.2,0.6
+1410,resnet50,Stir fried lily with celery,0.9,1.0
+1411,resnet50,Mango cake,0.8,0.9
+1412,resnet50,Shrimp skewers,1.0,1.0
+1413,resnet50,Japanese tofu with tin foil,0.6,1.0
+1414,resnet50,Corn pudding crispy,0.6,1.0
+1415,resnet50,Cold taro powder,0.8,0.9
+1416,resnet50,Three fresh rice noodles,0.2,0.6
+1417,resnet50,Rice cake,0.9,1.0
+1418,resnet50,Sauce cake,0.7,0.9
+1419,resnet50,Duck soup,0.2,1.0
+1420,resnet50,Duomang small meatballs,1.0,1.0
+1421,resnet50,Fish ball soup,0.5,0.8
+1422,resnet50,Flour cake,0.5,0.9
+1423,resnet50,Wonton noodles,0.4,1.0
+1424,resnet50,Walnut shortbread,1.0,1.0
+1425,resnet50,Corn pumpkin porridge,0.7,1.0
+1426,resnet50,Shrimp and crab porridge,0.4,0.9
+1427,resnet50,Hot and sour cabbage,1.0,1.0
+1428,resnet50,Brown sugar ice powder,0.2,0.7
+1429,resnet50,Egg rice roll,0.6,0.8
+1430,resnet50,Smoked sauce meat platter,0.3,0.6
+1431,resnet50,Pepper chicken,0.3,0.6
+1432,resnet50,Scrambled eggs with loofah,1.0,1.0
+1433,resnet50,Stir fried pork and bone with chili,0.7,0.8
+1434,resnet50,Fried kidney ﬂower with pig liver,0.9,1.0
+1435,resnet50,Corn grilled ribs,0.9,1.0
+1436,resnet50,Roasted yellow throat,0.4,0.9
+1437,resnet50,Barbecued pork,0.6,0.8
+1438,resnet50,Seaweed soup,0.7,0.9
+1439,resnet50,Steamed pork,0.7,1.0
+1440,resnet50,Pineapple sweet and sour pork,0.4,1.0
+1441,resnet50,Egg wafﬂes,0.8,1.0
+1442,resnet50,Camphor tea duck,0.3,0.6
+1443,resnet50,Sausage rice,0.7,0.9
+1444,resnet50,Mongolian roasted whole lamb,1.0,1.0
+1445,resnet50,Stir-fried pork with capers,0.5,1.0
+1446,resnet50,Vinegar cabbage,0.7,0.9
+1447,resnet50,Kelp salad,0.6,1.0
+1448,resnet50,Twice cooked beef,0.6,0.6
+1449,resnet50,Fried loofah,0.9,0.9
+1450,resnet50,Fried liangpi,0.6,0.8
+1451,resnet50,Fried bean curd,0.9,1.0
+1452,resnet50,Sweet corn pie,0.6,0.9
+1453,resnet50,Beef rice roll,0.4,0.9
+1454,resnet50,Sausage,0.7,1.0
+1455,resnet50,Chicken bibimbap,0.4,0.9
+1456,resnet50,Beef offal pot,0.8,0.9
+1457,resnet50,Crab roe salad,0.8,0.9
+1458,resnet50,Fillet steak,0.3,0.6
+1459,resnet50,Banana pancake,1.0,1.0
+1460,resnet50,Plum dried vegetable meat bun,0.8,1.0
+1461,resnet50,Smoked chicken skeleton,0.8,1.0
+1462,resnet50,Eight treasure rice,0.5,0.6
+1463,resnet50,Fish pot,0.2,0.8
+1464,resnet50,Yam pork ribs congee,0.2,0.6
+1465,resnet50,Arctic shellﬁsh sushi,0.9,1.0
+1466,resnet50,Liwan boat porridge specialty,0.3,0.8
+1467,resnet50,Salami pizza,0.8,0.9
+1468,resnet50,Fried eggplant,0.4,0.9
+1469,resnet50,Lotus leaf rice,0.7,0.8
+1470,resnet50,Salted ﬁsh and eggplant claypot,0.0,0.8
+1471,resnet50,Mutton string,0.8,1.0
+1472,resnet50,Fried beef with bitter melon,0.6,1.0
+1473,resnet50,Stir-fried cauliﬂower,0.8,1.0
+1474,resnet50,Beef hot and sour noodle,0.5,0.7
+1475,resnet50,Cold bitter chrysanthemum,0.9,1.0
+1476,resnet50,Yellow throat,0.9,1.0
+1477,resnet50,Fried chicken with hot peppers,0.6,0.8
+1478,resnet50,Tiger cake,0.5,1.0
+1479,resnet50,Four red porridge,0.2,0.9
+1480,resnet50,Steamed egg dumplings,0.9,0.9
+1481,resnet50,Shredded cucumber,0.5,0.9
+1482,resnet50,Spicy noodles,0.6,0.9
+1483,resnet50,Grandma’s scrambled eggs,0.4,0.8
+1484,resnet50,Stir-fried chicken with rice pepper,0.3,0.9
+1485,resnet50,Smoked hairtail,0.3,0.9
+1486,resnet50,Sesame soy sauce lettuce,1.0,1.0
+1487,resnet50,Braised beef,0.9,1.0
+1488,resnet50,Haggis soup,0.2,0.4
+1489,resnet50,Braised pork ribs,0.9,1.0
+1490,resnet50,Boiled ﬁsh,0.0,0.3
+1491,resnet50,Cake box,0.7,1.0
+1492,resnet50,Taro chicken,0.7,0.8
+1493,resnet50,Tiger green peppers,0.8,1.0
+1494,resnet50,Spicy fried sea screw,0.9,1.0
+1495,resnet50,Called naan package meat,0.8,0.8
+1496,resnet50,Dried marinated orchid,0.9,1.0
+1497,resnet50,Sauteed bacon with peas,0.7,1.0
+1498,resnet50,Chicken skin skewers,0.5,0.8
+1499,resnet50,Baked scallops,0.6,0.9
+1500,resnet50,Scrambled eggs with chives,0.7,1.0
+1501,resnet50,Grilled chicken feet,0.9,1.0
+1502,resnet50,Wooden barrel rice,0.6,1.0
+1503,resnet50,Noisette three kinds of meat,0.7,0.8
+1504,resnet50,Tofu rice noodles,1.0,1.0
+1505,resnet50,Chicken rack,0.4,0.8
+1506,resnet50,Cold gluten,0.6,0.9
+1507,resnet50,Carbon baking bullfrog,0.7,0.8
+1508,resnet50,Spicy bullfrog,0.4,0.8
+1509,resnet50,Boiled edamame,0.9,1.0
+1510,resnet50,Yam spring rolls,0.8,0.9
+1511,resnet50,Fragrant fried sierra,0.3,0.7
+1512,resnet50,Roast eggplants,0.3,0.6
+1513,resnet50,Hot rice,0.5,0.8
+1514,resnet50,Shredded cold papaya,1.0,1.0
+1515,resnet50,Golden fried chicken feet,0.9,1.0
+1516,resnet50,Winter melon pork ribs soup,0.4,0.7
+1517,resnet50,Salted pleurotus eryngii,0.4,1.0
+1518,resnet50,Grilled rice cake,0.5,0.6
+1519,resnet50,Eggplant rice with ﬁsh aroma,0.8,0.8
+1520,resnet50,Panda chocolate sundae,0.4,0.9
+1521,resnet50,Steamed noodles,0.6,0.8
+1522,resnet50,Millet mung bean porridge,0.7,1.0
+1523,resnet50,Kidney beans,0.5,0.7
+1524,resnet50,Purple potato porridge,0.9,0.9
+1525,resnet50,Duck liver,0.4,0.9
+1526,resnet50,Steamed pork ribs with glutinous rice,0.9,1.0
+1527,resnet50,Longjing shrimp,0.7,0.9
+1528,resnet50,Cauliﬂower,0.7,0.9
+1529,resnet50,Pipa duck,0.3,0.7
+1530,resnet50,Braised beef noodles,0.3,0.5
+1531,resnet50,Chicken feet in vinegar,0.7,0.9
+1532,resnet50,Tempura,0.9,0.9
+1533,resnet50,Shar pei mousse cake,1.0,1.0
+1534,resnet50,Straw hat cake,0.9,1.0
+1535,resnet50,Crispy rice potatoes,0.4,0.8
+1536,resnet50,Steamed spare ribs with taro,0.6,0.9
+1537,resnet50,Goat tripe,0.9,1.0
+1538,resnet50,Red bean porridge,0.3,0.8
+1539,resnet50,Egg noodles,0.4,1.0
+1540,resnet50,Braised pork roll,0.5,0.9
+1541,resnet50,Mango mousse cake,0.9,1.0
+1542,resnet50,Three shreds fried rice noodles,0.2,0.9
+1543,resnet50,Spiced boiled ﬁre,0.2,0.6
+1544,resnet50,Fried rice with bacon and egg,0.1,0.3
+1545,resnet50,Meicai bamboo shoots,0.8,1.0
+1546,resnet50,Griddle yellowbone ﬁsh,0.4,0.7
+1547,resnet50,Candied date zongzi,0.8,1.0
+1548,resnet50,Celery,0.8,0.9
+1549,resnet50,Mushroom chicken claypot rice,0.4,0.8
+1550,resnet50,Steamed pumpkin with lily,0.8,0.9
+1551,resnet50,Tomato beef noodle,0.4,0.6
+1552,resnet50,Champion and porridge,0.7,1.0
+1553,resnet50,Crystal shrimp,0.6,1.0
+1554,resnet50,Spicy shrimp,0.4,0.6
+1555,resnet50,Egg yolk crisp,0.9,0.9
+1556,resnet50,Bang bang chicken,0.8,1.0
+1557,resnet50,Cold pork cold head,0.5,1.0
+1558,resnet50,Guoqiao tofu,0.8,1.0
+1559,resnet50,Beggar’s chicken,0.5,0.8
+1560,resnet50,Fried beef with hot pepper,0.7,0.7
+1561,resnet50,Vegetable and lean pork porridge,0.3,0.7
+1562,resnet50,Boiled white meat,0.7,0.9
+1563,resnet50,Adzuki bean fermented rice,0.7,1.0
+1564,resnet50,Braised eggplant,0.4,0.9
+1565,resnet50,Mushroom with garlic paste,0.5,0.7
+1566,resnet50,Fat rice roll,0.3,0.5
+1567,resnet50,Blueberry mashed potatoes,0.6,0.7
+1568,resnet50,Braised duck gizzards,0.2,0.6
+1569,resnet50,Spinach with gluten,0.7,1.0
+1570,resnet50,Soup baby dishes,0.7,0.8
+1571,resnet50,Salmon ﬂank sinew,1.0,1.0
+1572,resnet50,Seafood pancake,0.6,0.9
+1573,resnet50,Fried rice cake,0.7,0.9
+1574,resnet50,Braised chicken with ginseng,0.8,1.0
+1575,resnet50,Millet porridge,0.6,1.0
+1576,resnet50,Silver carp,0.6,0.8
+1577,resnet50,Fried carrot cake,1.0,1.0
+1578,resnet50,Dried bamboo shoots and duck pot,0.7,0.9
+1579,resnet50,Wasabi octopus,0.8,0.9
+1580,resnet50,Garlic broccoli,0.9,1.0
+1581,resnet50,Pumpkin pie,0.3,0.8
+1582,resnet50,Potato wedges,0.9,1.0
+1583,resnet50,Donkey meat soup,0.4,0.7
+1584,resnet50,Miba,0.5,0.8
+1585,resnet50,Duck intestine fried rice,0.8,0.9
+1586,resnet50,Roasted bean skewers,0.4,1.0
+1587,resnet50,Tuna salad,0.6,0.7
+1588,resnet50,Sliced noodles,0.8,1.0
+1589,resnet50,Smoked ﬁsh noodle,0.9,0.9
+1590,resnet50,Cheese baked sweet potatoes,0.5,0.8
+1591,resnet50,Pineapple buns,0.7,0.9
+1592,resnet50,Ramen fried rice cake,0.8,0.9
+1593,resnet50,Three fresh powder,0.0,0.3
+1594,resnet50,Crispy sausage,1.0,1.0
+1595,resnet50,Quicksand bag,0.8,1.0
+1596,resnet50,Cranberry toast slices,0.5,1.0
+1597,resnet50,Ballast congee,0.4,0.7
+1598,resnet50,Baked bun,0.7,0.9
+1599,resnet50,Drunk crab claws,0.4,0.9
+1600,resnet50,Honey chicken wings,0.2,0.5
+1601,resnet50,Fried twist,1.0,1.0
+1602,resnet50,Braised ﬁsh head,0.7,0.8
+1603,resnet50,Mango milk ice,0.6,1.0
+1604,resnet50,Lychee meat,0.4,0.8
+1605,resnet50,Pork feet rice,0.7,0.9
+1606,resnet50,Banana pizza,0.4,0.8
+1607,resnet50,Fried tofu,0.7,0.9
+1608,resnet50,Roasted pork with dried beans,0.8,0.9
+1609,resnet50,Fried vermicelli,0.8,1.0
+1610,resnet50,Mango sago,0.2,0.8
+1611,resnet50,Garlic clove skewers,0.6,0.8
+1612,resnet50,Dumplings,0.9,1.0
+1613,resnet50,Pig vegetable,0.3,0.7
+1614,resnet50,Duck leg,0.9,0.9
+1615,resnet50,Roll egg,0.5,1.0
+1616,resnet50,Three fresh ice powder,0.5,0.8
+1617,resnet50,Yellow clam,0.5,1.0
+1618,resnet50,Crispy potato grid,0.7,1.0
+1619,resnet50,Horseradish fungus,0.6,1.0
+1620,resnet50,Fried bacon with bamboo shoots,0.5,0.7
+1621,resnet50,Stir-fried green peppers,0.7,1.0
+1622,resnet50,Braised pork,0.6,0.9
+1623,resnet50,Tomato pasta,0.6,0.9
+1624,resnet50,Marinated bullwhip,0.5,0.8
+1625,resnet50,Tripe soup powder,0.5,0.8
+1626,resnet50,Spicy cucumber,0.8,1.0
+1627,resnet50,Kimchi cake,0.9,1.0
+1628,resnet50,Fat intestine noodle,0.6,0.9
+1629,resnet50,Duck clavicle,0.8,0.9
+1630,resnet50,Cauliﬂower fried pork,1.0,1.0
+1631,resnet50,Fried tenderloin,0.4,0.9
+1632,resnet50,Steamed sea bass,0.3,0.6
+1633,resnet50,Salty bone soup,0.5,0.9
+1634,resnet50,Dried carob,1.0,1.0
+1635,resnet50,Chestnut roast chicken,0.5,0.7
+1636,resnet50,Roasted dried tofu rolls,0.9,1.0
+1637,resnet50,Tiger egg,0.6,0.9
+1638,resnet50,Hand-shredded chicken,0.7,0.8
+1639,resnet50,Egg pudding,0.9,1.0
+1640,resnet50,Flower love sushi,0.8,1.0
+1641,resnet50,Roast duck noodle sauce,0.4,0.9
+1642,resnet50,Sauteed beef with wild pepper,0.6,0.9
+1643,resnet50,Sesame sauce liangpi,0.3,0.6
+1644,resnet50,Bacteria soup,0.6,0.8
+1645,resnet50,Toffee cake,0.9,1.0
+1646,resnet50,Grilled pork bone skewers,0.6,0.9
+1647,resnet50,Pork noodles with pickled vegetables,0.3,0.6
+1648,resnet50,Delicious crispy rice,1.0,1.0
+1649,resnet50,Egg yolk pork ﬂoss seaweed rice,0.3,1.0
+1650,resnet50,Shrimp shaomai,0.9,1.0
+1651,resnet50,Fried chicken,0.2,0.5
+1652,resnet50,Corn grated with cheese,0.5,1.0
+1653,resnet50,Sour plum soup,0.7,1.0
+1654,resnet50,Hand catch seafood,0.6,1.0
+1655,resnet50,Small noodles,0.6,0.8
+1656,resnet50,Crab yellow tofu,0.8,0.9
+1657,resnet50,Fried wanton,0.9,0.9
+1658,resnet50,Mushrooms and cabbage,0.9,1.0
+1659,resnet50,Mushroom chicken congee,0.2,0.7
+1660,resnet50,Sour soup dumplings,0.5,0.7
+1661,resnet50,Braised konjac,0.4,0.9
+1662,resnet50,Hot pot ice cream,1.0,1.0
+1663,resnet50,Mango salmon roll sushi,0.8,1.0
+1664,resnet50,Egg yolk lobster,0.6,0.9
+1665,resnet50,Plum dried vegetable biscuits,0.8,1.0
+1666,resnet50,Yogurt,1.0,1.0
+1667,resnet50,Hibiscus crab stick,0.3,0.8
+1668,resnet50,Barbecue ribs,0.4,0.7
+1669,resnet50,Curry pork chop rice,0.5,0.8
+1670,resnet50,Crispy bamboo shoots in chicken sauce,0.5,0.7
+1671,resnet50,Fried rice with ham,0.1,0.8
+1672,resnet50,Braised pork,0.3,0.9
+1673,resnet50,Fried cucumber with basil,1.0,1.0
+1674,resnet50,Tiger vegetables,0.7,0.9
+1675,resnet50,Tofu skin sushi,0.8,1.0
+1676,resnet50,Chinese yam lean meat porridge,0.3,0.6
+1677,resnet50,French lamb chops,0.2,0.6
+1678,resnet50,Garden chicken,0.0,0.3
+1679,resnet50,Strawberry sundae,0.8,1.0
+1680,resnet50,Tea tree mushroom ribs soup,0.5,0.9
+1681,resnet50,Fried kidney,1.0,1.0
+1682,resnet50,Pork ﬂoss,0.8,1.0
+1683,resnet50,Jade burned,0.6,0.8
+1684,resnet50,Pickled pepper ﬁsh skin,0.3,1.0
+1685,resnet50,Cold chicken feet,0.4,0.7
+1686,resnet50,Coriander with beef,0.8,0.8
+1687,resnet50,Fried fungus with yam,1.0,1.0
+1688,resnet50,Taste shrimp,0.2,0.9
+1689,resnet50,Fruit ﬁshing,0.9,0.9
+1690,resnet50,Pineapple rice,0.9,1.0
+1691,resnet50,Fried cuttleﬁsh ball,0.8,1.0
+1692,resnet50,White porridge,0.1,1.0
+1693,resnet50,Cucumber mixed jellyﬁsh,0.9,1.0
+1694,resnet50,Baked enoki mushrooms in tin foil,0.7,1.0
+1695,resnet50,Salt and pepper lobster,0.4,0.8
+1696,resnet50,Frozen tofu,0.6,0.8
+1697,resnet50,Seafood pimple soup,0.9,1.0
+1698,resnet50,Mixed sauce hot and sour noodles,0.8,0.8
+1699,resnet50,Honey yellow peach,0.8,0.9
+1700,resnet50,Rose ice powder,0.1,0.9
+1701,resnet50,Tin foil potatoes,0.9,1.0
+1702,resnet50,Roasted shiitake mushrooms,0.3,0.8
+1703,resnet50,Spicy shrimp,0.7,0.9
+1704,resnet50,Diving ﬁsh,0.5,0.9
+1705,resnet50,Sugar fried hawthorn,1.0,1.0
+1706,resnet50,Mushroom crispy bamboo shoots,0.8,0.9
+1707,resnet50,Family portrait sushi,0.8,0.9
+1708,resnet50,Durian cheese pizza,0.3,1.0
+1709,resnet50,Whose mariko,0.4,0.9
+1710,resnet50,Soft-boiled egg,0.6,0.9
+1711,resnet50,Pan-fried long lee ﬁsh,0.4,0.7
+1712,resnet50,Stir-fried pork with rice white,0.8,0.9
+1713,resnet50,Grilled ﬁsh on paper,0.5,0.8
+1714,resnet50,Curry rice,0.3,0.9
+1715,resnet50,Hot and sour tripe soup,0.9,0.9
+1716,resnet50,Butyl ﬁve ren sauce,1.0,1.0
+1717,resnet50,Mango layer cake,0.6,1.0
+1718,resnet50,Egg ham fried rice,0.2,0.9
+1719,resnet50,Peony shrimp sashimi,0.9,1.0
+1720,resnet50,Radish beef,0.6,1.0
+1721,resnet50,Dry fans,0.7,0.9
+1722,resnet50,White cut saltwater duck,0.7,0.9
+1723,resnet50,Black pepper pork chop rice,0.5,0.8
+1724,resnet50,Matcha smoothie,0.9,1.0
+1725,resnet50,Sour radish duck soup,0.1,0.8
+1726,resnet50,Pork with pickled vegetables,0.7,0.9
+1727,resnet50,Grilled mackerel,0.6,0.9
+1728,resnet50,Swiss roll cake,0.5,0.7
+1729,resnet50,Strawberry milk pudding,0.8,1.0
+1730,resnet50,Cold kelp root,1.0,1.0
+1731,resnet50,Sea oyster,1.0,1.0
+1732,resnet50,Grilled ﬁsh with sauerkraut,1.0,1.0
+1733,resnet50,Mutton freeing,0.6,0.8
+1734,resnet50,Ribs rice,0.5,1.0
+1735,resnet50,Spicy duck jane,0.5,1.0
+1736,resnet50,Argentine red shrimp,0.8,1.0
+1737,resnet50,Tofu soup,0.5,0.8
+1738,resnet50,One shrimp for two,0.8,0.9
+1739,resnet50,Wild vegetable dumpling,0.5,0.8
+1740,resnet50,Kelp rib soup,0.4,0.8
+1741,resnet50,Fried pork chops,0.8,1.0
+1742,resnet50,Halogen duck tongue,0.9,1.0
+1743,resnet50,Lame claypot rice,0.4,1.0
+1744,resnet50,Floss sushi,0.7,1.0
+1745,resnet50,Braised noodles with ribs,0.7,0.9
+1746,resnet50,Stir fried fungus with cabbage,0.9,0.9
+1747,resnet50,Durian cake,0.5,0.6
+1748,resnet50,Seaweed warship sushi,1.0,1.0
+1749,resnet50,Avocado salad,0.3,0.9
+1750,resnet50,Pure sausage,0.9,0.9
+1751,resnet50,Stir-fried fat intestine,0.6,0.9
+1752,resnet50,Purple rice porridge,0.3,0.7
+1753,resnet50,Brine geese,0.4,0.8
+1754,resnet50,Foil ﬂower beetle powder,1.0,1.0
+1755,resnet50,Scrambled eggs with sauce,0.8,1.0
+1756,resnet50,Spicy shrimp,0.6,0.9
+1757,resnet50,Cornmeal buns,1.0,1.0
+1758,resnet50,Rice porridge,0.8,1.0
+1759,resnet50,Stir-fried long beans,0.7,0.9
+1760,resnet50,Pan-seared foie gras,0.6,0.6
+1761,resnet50,Steamed buns,0.9,0.9
+1762,resnet50,Black rice cake,0.9,1.0
+1763,resnet50,Fried eggplant box,0.8,1.0
+1764,resnet50,Chinese seaweed salad,1.0,1.0
+1765,resnet50,Roasted garlic naan,0.4,0.8
+1766,resnet50,Zongzi,1.0,1.0
+1767,resnet50,Choy sum with garlic sauce,0.8,1.0
+1768,resnet50,Halogen rabbit head,0.6,0.9
+1769,resnet50,Green pepper shredded pork rice bowl,0.3,0.9
+1770,resnet50,Spiced rabbit head,1.0,1.0
+1771,resnet50,Snow white juice with mango and black sticky rice,0.8,0.9
+1772,resnet50,Preserved egg and lean meat porridge,0.6,0.9
+1773,resnet50,Braised old goose,0.4,0.6
+1774,resnet50,Sesame sauce noodles,0.2,0.5
+1775,resnet50,Orleans roasted whole leg,0.9,1.0
+1776,resnet50,Nougat,1.0,1.0
+1777,resnet50,The ring oil eel,0.5,0.8
+1778,resnet50,Tomato and egg ﬂour pimple soup,0.8,0.9
+1779,resnet50,Steamed chicken in lotus leaves,0.8,0.9
+1780,resnet50,Oily baby cabbage,0.5,0.8
+1781,resnet50,Chicken chop rice,0.4,0.6
+1782,resnet50,Fried cheese chicken chop,0.4,0.9
+1783,resnet50,Braised pork ribs,0.6,0.8
+1784,resnet50,Griddle ribs and shrimp,0.2,0.5
+1785,resnet50,Spinach in soup,1.0,1.0
+1786,resnet50,Fried chicken with mushroom,0.6,0.8
+1787,resnet50,Old duck soup with tea tree mushrooms,0.2,0.4
+1788,resnet50,Mushroom rape,0.6,1.0
+1789,resnet50,Hot and sour fern root powder,1.0,1.0
+1790,resnet50,Spicy cabbage fried rice,0.8,0.8
+1791,resnet50,Stuffed gluten balls,0.7,0.8
+1792,resnet50,Sweet corn on the cob,1.0,1.0
+1793,resnet50,Spare ribs pot,0.4,0.8
+1794,resnet50,Finding nemo pizza,0.2,0.8
+1795,resnet50,Shao powder,0.4,0.8
+1796,resnet50,Griddle shrimp,0.2,0.6
+1797,resnet50,Minced pork nigiri sushi,0.9,1.0
+1798,resnet50,Cooked tripe of sheep or swine,0.5,0.7
+1799,resnet50,Preserved egg with cucumber,0.6,0.9
+1800,resnet50,Durian black glutinous rice,0.8,1.0
+1801,resnet50,Pineapple fritters shrimp,0.6,0.9
+1802,resnet50,Yam and vegetable porridge,0.7,0.9
+1803,resnet50,Meatball soup,0.2,0.6
+1804,resnet50,Pork belly chicken,0.6,1.0
+1805,resnet50,Pan-fried chicken chop,0.5,0.7
+1806,resnet50,Salt and pepper pork,0.9,1.0
+1807,resnet50,Clam and winter melon soup,0.9,1.0
+1808,resnet50,Chocolate poppy cake,0.5,0.8
+1809,resnet50,Fruit cream cake,0.7,0.8
+1810,resnet50,Spicy fried rice cake,0.9,1.0
+1811,resnet50,Rose cake,0.8,0.8
+1812,resnet50,Spicy shao pointed,0.6,0.9
+1813,resnet50,California roll sushi,0.6,1.0
+1814,resnet50,Hemp group,0.8,0.8
+1815,resnet50,Tonkotsu ramen,0.2,0.3
+1816,resnet50,Barbecued pork crisp,0.9,0.9
+1817,resnet50,Beef noodle soup,0.4,0.6
+1818,resnet50,Pancake,0.9,1.0
+1819,resnet50,Mutton vermicelli,0.7,1.0
+1820,resnet50,New orleans pizza,0.6,0.9
+1821,resnet50,Chicken bone skewers,0.6,0.8
+1822,resnet50,Eel congee,0.9,1.0
+1823,resnet50,Scallion lamb,0.8,0.9
+1824,resnet50,Stew,0.4,0.9
+1825,resnet50,Diced carrot,0.7,1.0
+1826,resnet50,Fried cake,1.0,1.0
+1827,resnet50,Crystal shrimp dumpling,0.5,0.8
+1828,resnet50,Fried sliced pork with mushrooms,0.7,0.8
+1829,resnet50,Geoduck sashimi,1.0,1.0
+1830,resnet50,Red oil belly silk,0.7,1.0
+1831,resnet50,Eggplant claypot,0.6,1.0
+1832,resnet50,Spicy grilled meat mixed with rice,0.3,0.5
+1833,resnet50,Old vinegar sting,0.1,0.8
+1834,resnet50,Bazhen tofu,0.4,0.9
+1835,resnet50,The spicy cold eating rabbit meat,0.9,0.9
+1836,resnet50,Fried yellow beef,0.7,0.9
+1837,resnet50,Oxtail soup,0.6,0.8
+1838,resnet50,Steamed egg,0.9,1.0
+1839,resnet50,Spicy bullfrog,0.1,0.6
+1840,resnet50,Toon seedlings mixed with tofu shreds,1.0,1.0
+1841,resnet50,White snow black glutinous rice,0.6,0.9
+1842,resnet50,Stir-fried pork belly with chili,0.3,0.7
+1843,resnet50,Brown sugar hair cake,0.7,0.9
+1844,resnet50,Fried taro roll,0.7,0.9
+1845,resnet50,Donkey meat,0.7,0.8
+1846,resnet50,Red bean ice,0.8,1.0
+1847,resnet50,Sansho black fungus,0.3,1.0
+1848,resnet50,Fried pork with beans,0.4,0.6
+1849,resnet50,Pan-fried ﬁsh,0.7,1.0
+1850,resnet50,Fresh pepper ﬁsh,0.4,0.9
+1851,resnet50,Scrambled eggs with onions,0.9,0.9
+1852,resnet50,Scrambled eggs with cucumber,0.9,1.0
+1853,resnet50,Bean curd stick,0.9,1.0
+1854,resnet50,Dip in pickles,0.6,0.9
+1855,resnet50,Macaron,0.8,1.0
+1856,resnet50,Fried egg roll,0.4,0.6
+1857,resnet50,Chicken noodles,0.8,0.9
+1858,resnet50,Braised ﬁsh pot,1.0,1.0
+1859,resnet50,Chopped pepper and taro,1.0,1.0
+1860,resnet50,Push cake,0.8,1.0
+1861,resnet50,Spicy chicken rice,0.1,0.6
+1862,resnet50,Fennel fried dough sticks,0.9,0.9
+1863,resnet50,Lemon ﬁsh,0.6,1.0
+1864,resnet50,Sizzling shrimp,0.5,0.8
+1865,resnet50,Green beans in garlic sauce,0.7,1.0
+1866,resnet50,Honey cake,0.5,0.8
+1867,resnet50,Gourd head bread in the soup,0.9,0.9
+1868,resnet50,Grilled chicken skewers,0.2,0.9
+1869,resnet50,Dried intestines,0.5,0.8
+1870,resnet50,Spiced marinated eggs,0.3,0.8
+1871,resnet50,Dried vegetable with fried egg,0.4,0.7
+1872,resnet50,Steamed egg with shrimp,0.7,0.8
+1873,resnet50,Crispy rice cake,0.7,0.8
+1874,resnet50,Thick honey toast,0.7,0.9
+1875,resnet50,Salt baked chicken feet,0.7,0.8
+1876,resnet50,Tin foil baby cabbage,0.9,1.0
+1877,resnet50,Cheese bacon pizza,0.3,0.8
+1878,resnet50,Fish head tofu soup,0.8,1.0
+1879,resnet50,Black rice and red bean porridge,0.2,0.8
+1880,resnet50,Grilled small yellow croaker,0.7,1.0
+1881,resnet50,Scrambled eggs with local vegetables,0.9,1.0
+1882,resnet50,Fried chili,0.8,0.9
+1883,resnet50,Fish with tomato,0.4,0.8
+1884,resnet50,Stir-fried bacon with garlic moss,0.7,0.9
+1885,resnet50,Drunken ﬁsh,1.0,1.0
+1886,resnet50,Spiced corned egg,0.8,1.0
+1887,resnet50,Fried tofu,0.1,0.4
+1888,resnet50,Tapioca pudding,0.8,1.0
+1889,resnet50,Grilled ribs,0.8,1.0
+1890,resnet50,Fried spring rolls with three pieces of silk,0.9,1.0
+1891,resnet50,Sweet and spicy fried chicken,0.6,0.9
+1892,resnet50,Puffs,0.9,1.0
+1893,resnet50,Fried vermicelli with bean sprouts,0.6,0.8
+1894,resnet50,Saut¨ı¿œed ﬁsh in chili sauce,0.2,0.5
+1895,resnet50,Saut¨ı¿œed bullfrog in chili sauce,0.0,0.2
+1896,resnet50,Cold noodles with sesame sauce,0.6,0.6
+1897,resnet50,Sea food noodles,0.4,0.6
+1898,resnet50,Spicy chicken,0.4,0.5
+1899,resnet50,Braised Tofu,0.3,0.9
+1900,resnet50,Tuna and seaweed rolled rice,0.2,1.0
+1901,resnet50,Braised beef brisket on rice,0.7,0.9
+1902,resnet50,Haggis noodle soup,0.4,0.6
+1903,resnet50,Chicken salad noodles,0.3,1.0
+1904,resnet50,Salted egg yolk with crispy crust,0.7,0.9
+1905,resnet50,Fried ﬁsh cake,0.5,0.6
+1906,resnet50,Red bean pie,0.9,1.0
+1907,resnet50,Cumin chicken ﬁllet,0.4,0.8
+1908,resnet50,Durian pizza,0.8,1.0
+1909,resnet50,Fried noodles with beef,0.9,1.0
+1910,resnet50,Pork chop bun,0.8,0.9
+1911,resnet50,Big bone soup,0.7,0.9
+1912,resnet50,Smoked ﬁsh,0.7,0.8
+1913,resnet50,Chocolate covered croissant,0.8,0.9
+1914,resnet50,Roasted garlic,1.0,1.0
+1915,resnet50,Custard piglet bun,0.8,1.0
+1916,resnet50,Fried milk melon with garlic slices,1.0,1.0
+1917,resnet50,Scrambled eggs with shrimp,1.0,1.0
+1918,resnet50,Grilled vegetarian chicken skewers,0.9,1.0
+1919,resnet50,Potato ﬂour with seafood,0.5,0.9
+1920,resnet50,Shrimp dumpling king,1.0,1.0
+1921,resnet50,Cow ribs,0.5,0.7
+1922,resnet50,Griddle cabbage,1.0,1.0
+1923,resnet50,Fried rice noodles with eggs,0.5,1.0
+1924,resnet50,Double beef fort,0.6,1.0
+1925,resnet50,Seafood noodles,0.2,0.6
+1926,resnet50,Fried udon,0.4,0.6
+1927,resnet50,Duck foot pot with snail,0.8,0.9
+1928,resnet50,Delicious jelly,1.0,1.0
+1929,resnet50,Fried chicken with edamame,1.0,1.0
+1930,resnet50,Mashed potatoes with cheese,0.8,1.0
+1931,resnet50,Sauce burst screws,0.9,1.0
+1932,resnet50,Crab Dumplings in Soup,1.0,1.0
+1933,resnet50,Pearl balls,0.9,1.0
+1934,resnet50,Corn ribs soup,0.7,1.0
+1935,resnet50,Oreo sawdust cup,0.8,1.0
+1936,resnet50,Cucumber with beef,1.0,1.0
+1937,resnet50,Spicy beef noodle,0.1,0.5
+1938,resnet50,Sashimi platter,0.4,1.0
+1939,resnet50,Braised winter melon,0.7,0.9
+1940,resnet50,Teriyaki chicken chop rice,0.2,0.2
+1941,resnet50,Roast chicken butt,0.7,0.8
+1942,resnet50,Peanut edamame,0.9,1.0
+1943,resnet50,Foie gras sushi,0.7,0.8
+1944,resnet50,Whirlwind potato tower,0.8,0.9
+1945,resnet50,Rib skewers,0.7,1.0
+1946,resnet50,Angel cake,0.8,0.9
+1947,resnet50,Fruit spell,0.9,1.0
+1948,resnet50,Boiled quail eggs,0.7,1.0
+1949,resnet50,Steamed chicken feet with sauce,0.2,1.0
+1950,resnet50,Chocolate sundae,1.0,1.0
+1951,resnet50,Old kitchen cabbage,0.3,0.8
+1952,resnet50,Spicy rice noodles,0.5,0.8
+1953,resnet50,Steamed Fish Head with sauce,0.8,1.0
+1954,resnet50,Fried sheep miscellaneous,0.5,1.0
+1955,resnet50,Chestnut,0.5,0.9
+1956,resnet50,Fried shao mai,0.4,0.9
+1957,resnet50,Salt and pepper prawns,0.8,0.9
+1958,resnet50,Burning smell platter,0.4,0.6
+1959,resnet50,Milk and peach gum,1.0,1.0
+1960,resnet50,Skewer shrimp,0.3,1.0
+1961,resnet50,Foil grilled ﬁsh,0.7,0.9
+1962,resnet50,Chopped green onion Fried eggs,0.3,0.9
+1963,resnet50,Ramen with beef,0.5,0.9
+1964,resnet50,Braised hairtail,0.9,0.9
+1965,resnet50,Mix powder,0.2,0.5
+1966,resnet50,River snail,1.0,1.0
+1967,resnet50,Shredded potatoes with salad,0.8,0.9
+1968,resnet50,Chicken pot,0.4,0.5
+1969,resnet50,Chicken wing rice,0.4,0.9
+1970,resnet50,Geoduck sashimi,1.0,1.0
+1971,resnet50,Chocolate,1.0,1.0
+1972,resnet50,Croissant,0.7,0.7
+1973,resnet50,Spiced beef,0.3,1.0
+1974,resnet50,Cheese pizza,0.6,0.9
+1975,resnet50,Braised lamb,0.4,0.7
+1976,resnet50,Fried yam,0.6,0.9
+1977,resnet50,Steamed multiple preserved hams,0.3,0.4
+1978,resnet50,Glutinous rice balls with peanuts and sesame seed,0.8,0.9
+1979,resnet50,Mussels screw,0.7,0.9
+1980,resnet50,Salted duck egg,0.8,1.0
+1981,resnet50,Black sesame quicksand bun,0.8,1.0
+1982,resnet50,Glutinous rice cake,0.8,0.9
+1983,resnet50,Salad crispy chicken rice,0.9,1.0
+1984,resnet50,Rattan pepper chicken,0.7,0.9
+1985,resnet50,Braised chicken in casserole,0.2,0.3
+1986,resnet50,Garlic crayﬁsh,0.8,0.9
+1987,resnet50,Sakura roll,0.9,1.0
+1988,resnet50,Fried octopus,0.3,0.8
+1989,resnet50,Fried potato chips with spicy cabbage,0.9,1.0
+1990,resnet50,Cheese back ribs,0.4,0.9
+1991,resnet50,Sauerkraut fried rice,0.5,0.6
+1992,resnet50,Griddle duck,0.3,0.8
+1993,resnet50,Fried pork slices,0.6,0.9
+1994,resnet50,Red date cake,1.0,1.0
+1995,resnet50,Cold cut foie gras,0.4,0.9
+1996,resnet50,Red bean taro balls,0.4,0.7
+1997,resnet50,Fried intestines,0.6,0.8
+1998,resnet50,Stir-fried pork belly with spicy cabbage,0.5,0.7
+1999,resnet50,Instant noodles,0.9,1.0

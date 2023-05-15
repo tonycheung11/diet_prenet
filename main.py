@@ -21,9 +21,9 @@ def parse_option():
     parser.add_argument('--batchsize', default=2, type=int, help="batch size for single GPU")
     parser.add_argument('--dataset', type=str, default='food2k', help='food2k, food101, food500')
     parser.add_argument('--model_name', type=str, default='resnet50', help='resnet101, resnet152, senet154,densenet161')
-    parser.add_argument('--image_path', type=str, default="./images/", help='path to dataset')
+    parser.add_argument('--image_path', type=str, default="./food/", help='path to dataset')
     parser.add_argument("--train_path", type=str, default="./meta_data/train_full.txt", help='path to training list')
-    parser.add_argument("--test_path", type=str, default="./meta_data/test_full.txt",
+    parser.add_argument("--test_path", type=str, default="./meta_data/test_full_f.txt",
                         help='path to testing list')
     parser.add_argument('--weight_path', default="./Pretrained_model/food2k_resnet50_0.0001.pth", help='path to the pretrained model')
     parser.add_argument('--use_checkpoint', action='store_true', default=False,
