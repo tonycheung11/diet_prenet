@@ -41,7 +41,7 @@ def parse_option():
     parser.add_argument('--weight_path', default="./Pretrained_model/food2k_resnet50_0.0001.pth", help='path to the pretrained model')
     parser.add_argument("--label_name_file", type=str, default="./Supplementary-tables.csv", help='file which indicates the label-name pair')
     parser.add_argument("--show_result", action='store_true', default=True, help='whether show the classification result')
-    parser.add_argument("--test_per_label", action='store_true', default=True,
+    parser.add_argument("--test_per_label", action='store_true', default=False,
                         help="Testing model.")    
     args, unparsed = parser.parse_known_args()
     return args
